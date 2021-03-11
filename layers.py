@@ -30,9 +30,13 @@ class LinearAttention(nn.Module):
         self.tanh = nn.Tanh()
         self.softmax = nn.Softmax(dim=2)
 
-    def forward(self, input):
+    def forward(self, input, mask=None):
         intermediate = self.tanh(self.linear_1(input))
-        attention_weights = self.softmax(self.linear_2(intermediate))
+        pre_attention = self.linear_2(intermediate)
+        if mask:
+            zero_vec = -9e15*torch.ones_like(pre_attention)
+            pre_attention = torch.where(mask > 0, pre_attention, zero_vec)
+        attention_weights = self.softmax(pre_attention)
         attention_weights = attention_weights.permute(0, 2, 1)
         output_features = torch.bmm(attention_weights, input)
 
@@ -126,7 +130,7 @@ class MANSF(nn.Module):
     #       where K is the number of tweets for the given stock on the day under consideration
     # neighorhoods is a list of adjacency lists, where each stock is indexed with the same
     #       indices they have in p and m
-    def forward(self, p, m, neighborhoods):
+    def forward(self, p, m, m_mask, neighborhoods):
         ## price encoding
         h_p, _ = self.gru_p(p)
         q = self.attn_p(h_p)
@@ -136,7 +140,7 @@ class MANSF(nn.Module):
         r = r.to(device)
         for t in range(self.T):
             h_m, _ = self.gru_m(m[t])
-            r_t = self.attn_m(h_m)
+            r_t = self.attn_m(h_m, m_mask[t])
             r = torch.cat((r, r_t), 1)
 
         ## smi encoding (aggregate)
