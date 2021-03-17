@@ -138,7 +138,7 @@ class StockDataset(Dataset):
         for t in range(6):
             for i in range(self.n_stocks):
                 for k in range(self.max_tweets):
-                    if k <= tweet_counts[i][t]:
+                    if k < tweet_counts[i][t]:
                         m_mask[t][i][k][0] = 1
 
         price_output = price_data[usable_stocks,:,:]

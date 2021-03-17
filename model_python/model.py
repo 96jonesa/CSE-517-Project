@@ -35,10 +35,11 @@ class MANSF(nn.Module):
         self.final_linear = nn.Linear(U * gat_2_inter_size, 1, bias=True)
 
     # p is price data tensor of shape (num_stocks, T, 3), for the day under consideration
-    # m is smi data list of tensors of shape (num_stocks, K, use_embed_size) of length T,
-    #       where K is the number of tweets for the given stock on the day under consideration
-    # neighorhoods is a list of adjacency lists, where each stock is indexed with the same
-    #       indices they have in p and m
+    # m is smi data tensor of shape (num_stocks, T, max_tweets, use_embed_size)
+    # m_mask is a mask tensor of shape (T, num_stocks, max_tweets, 1), which is used to
+    #       mask out the elements of the smi data tensor that correspond to non-existent tweets
+    # neighorhoods is an adjacency tensor for the relations graph, where each stock is
+    #       indexed with the same indices they have in p and m
     def forward(self, p, m, m_mask, neighborhoods):
         ## price encoding
         h_p, _ = self.gru_p(p)
