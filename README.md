@@ -2,7 +2,7 @@
 
 **TODO**
 
-- Dependencies
+- Dependencies (added a requirements.txt in model_python)
 - Data download instruction
 - Preprocessing code + command
 - Training code + command
