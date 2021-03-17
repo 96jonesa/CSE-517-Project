@@ -20,7 +20,15 @@
 
 ### Running the code
 
+1. Navigate to the python directory by running `cd model_python`
 
+2. Install all dependencies by running `pip install -r requirements.txt`
+
+3. Download and preprocess the data by running `python main.py --preprocess_in ../wikidata_raw --preprocess_out <your processed data folder>`
+
+4. Train and save an instance of MAN-SF by running `python main.py --train <your processed data folder> --model <folder to save model in >`
+
+5. Evaluate the saved MAN-SF model by running `python main.py --train <your processed data folder> --model <path to the saved model>`
 
 ### TODO
 
