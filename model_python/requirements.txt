@@ -1,0 +1,10 @@
+torch
+tensorflow
+tensorflow_hub
+matplotlib
+numpy
+pandas
+seaborn
+pandas
+pandas_market_calendars
+tqdm
