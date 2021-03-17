@@ -3,6 +3,7 @@ import pickle
 import argparse
 from data_processing import prep_dataset, build_second_order_wikidata_graphs
 from stockdataset import StockDataset
+from model import MANSF
 
 STOCKNET_REPO_NAME = 'stocknet-dataset-master'
 PROCESSED_STOCKNET_DATA_FOLDER = 'processed_stocknet_data'
@@ -40,7 +41,7 @@ def main():
                     help='FILEPATH is filepath for exporting processed data as well as downloading the StockNet data')
     group2.add_argument('--model', '-m', metavar='FILEPATH', type=str,
                         help='FILEPATH is filepath to export model (for training) or filepath to load model (for evaluation)')
-    
+
     args = parser.parse_args()
 
     # Validate arguments
@@ -50,7 +51,6 @@ def main():
     if args.train or args.evaluate:
         if not args.model:
             parser.error('--train or --evaluation requires an additional argument --model')
-
     if args.preprocess_in:
         preprocess(args.preprocess_in, args.preprocess_out)
     elif args.train:
@@ -118,8 +118,42 @@ def train(model_filepath, data_filepath):
     train_dataset = StockDataset(train_company_to_price_df, train_company_to_tweets, train_date_universe, train_n_days, train_n_stocks, train_max_tweets)
     val_dataset = StockDataset(val_company_to_price_df, val_company_to_tweets, val_date_universe, val_n_days, val_n_stocks, val_max_tweets)
 
-    # TODO: need to create training method
-    # man_sf_model = train_model(train_dataset, val_dataset)
+    # create dataloaders
+    train_dataloader = DataLoader(train_dataset, batch_size=1,
+                            shuffle=True, num_workers=0)
+
+    val_dataloader = DataLoader(val_dataset, batch_size=1,
+                            shuffle=False, num_workers=0)
+
+    # specify hyperparameter values
+    T = 6
+    GRU_HIDDEN_SIZE = 64
+    ATTN_INTER_SIZE = 32
+    USE_EMBED_SIZE = 512
+    BLEND_SIZE = 32
+    GAT_1_INTER_SIZE = 32
+    GAT_2_INTER_SIZE = 32
+    LEAKYRELU_SLOPE = 0.01
+    ELU_ALPHA = 1.0
+    U = 8
+    LEARNING_RATE = 5e-4
+    NUM_EPOCHS = 25
+
+    man_sf_model = MANSF(T=T,
+                         gru_hidden_size=GRU_HIDDEN_SIZE,
+                         attn_inter_size=ATTN_INTER_SIZE,
+                         use_embed_size=USE_EMBED_SIZE,
+                         blend_size=BLEND_SIZE,
+                         gat_1_inter_size=GAT_1_INTER_SIZE,
+                         gat_2_inter_size=GAT_2_INTER_SIZE,
+                         leakyrelu_slope=LEAKYRELU_SLOPE,
+                         elu_alpha=ELU_ALPHA,
+                         U=U)
+
+    train_acc_list, val_acc_list = train_model(man_sf_model, train_dataloader, val_dataloader, NUM_EPOCHS)
+
+    # Output StockNet to file
+    torch.save(man_sf_model, model_filepath)
 
 def evaluate(model_filepath, data_filepath):
     print(f'Running evaluation on {data_filepath} with model {model_filepath}')
@@ -130,11 +164,16 @@ def evaluate(model_filepath, data_filepath):
         test_company_to_price_df, test_company_to_tweets, test_date_universe, test_n_days, test_n_stocks, test_max_tweets = test
     test_dataset = StockDataset(test_company_to_price_df, test_company_to_tweets, test_date_universe, test_n_days, test_n_stocks, test_max_tweets)
 
-    with open(model_filepath, 'rb') as model:
-        man_sf_model = pickle.load(model)
+    test_dataloader = DataLoader(test_dataset, batch_size=1,
+                            shuffle=False, num_workers=0)
 
-    # TODO: need to create eval method
-    # evaluate(model, test_dataset)
+    man_sf_model = torch.load(model_filepath)
+
+    man_sf_model.eval()
+
+    test_acc = evaluate_model(man_sf_model, test_dataloader)
+
+    print('test accuracy:', test_acc)
 
 if __name__ == '__main__':
     main()
