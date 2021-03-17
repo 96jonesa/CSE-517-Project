@@ -114,20 +114,27 @@ def train(model_filepath, data_filepath):
         val = pickle.load(obj)
         val_company_to_price_df, val_company_to_tweets, val_date_universe, val_n_days, val_n_stocks, val_max_tweets = val
 
-    with open(os.path.join(data_output_filepath, 'test.pkl'), 'rb') as obj:
-        test = pickle.load(obj)
-        test_company_to_price_df, test_company_to_tweets, test_date_universe, test_n_days, test_n_stocks, test_max_tweets = test
-
     # Create StockDataset instances
     train_dataset = StockDataset(train_company_to_price_df, train_company_to_tweets, train_date_universe, train_n_days, train_n_stocks, train_max_tweets)
     val_dataset = StockDataset(val_company_to_price_df, val_company_to_tweets, val_date_universe, val_n_days, val_n_stocks, val_max_tweets)
-    test_dataset = StockDataset(test_company_to_price_df, test_company_to_tweets, test_date_universe, test_n_days, test_n_stocks, test_max_tweets)
 
     # TODO: need to create training method
-    # man_sf_model = train_model(train_dataset, val_dataset, test_dataset)
+    # man_sf_model = train_model(train_dataset, val_dataset)
 
 def evaluate(model_filepath, data_filepath):
-    print(f'unimplemented evaluation stub with filepath {data_filepath} and model path {model_filepath}')
+    print(f'Running evaluation on {data_filepath} with model {model_filepath}')
+    data_output_filepath = os.path.join(data_filepath, PROCESSED_STOCKNET_DATA_FOLDER)
+
+    with open(os.path.join(data_output_filepath, 'test.pkl'), 'rb') as obj:
+        test = pickle.load(obj)
+        test_company_to_price_df, test_company_to_tweets, test_date_universe, test_n_days, test_n_stocks, test_max_tweets = test
+    test_dataset = StockDataset(test_company_to_price_df, test_company_to_tweets, test_date_universe, test_n_days, test_n_stocks, test_max_tweets)
+
+    with open(model_filepath, 'rb') as model:
+        man_sf_model = pickle.load(model)
+
+    # TODO: need to create eval method
+    # evaluate(model, test_dataset)
 
 if __name__ == '__main__':
     main()
