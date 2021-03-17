@@ -125,3 +125,97 @@ def prep_dataset(dataset_filepath, start_date, end_date):
     company_to_index = {c:i for i,c in enumerate(sorted(list(company_to_tweets.keys())))}
 
     return company_to_price_df, company_to_tweets, date_universe, n_days, n_stocks, max_tweets
+
+def build_second_order_wikidata_graphs(wikidata_filepath):
+
+    # Building first-order relationships
+    graph = {}
+    for name in name_to_num.keys():
+        graph[name] = []
+    graph['SPLP'] = []
+
+    for filename in os.listdir(f'{wikidata_filepath}/wikidata_entries/'):
+        with open(f'{wikidata_filepath}/wikidata_entries/' + filename) as file:
+            if filename == '.DS_Store': continue
+                
+            orig_entity = filename.split('_')[0]
+            # print('\nSearching entity', orig_entity)
+            
+            for e_id in entities:
+                file.seek(0, 0)
+                if str(e_id) in file.read():
+                    # print(f'{orig_entity} contains entity {num_to_name[e_id]}')
+                    graph[orig_entity].append(num_to_name[e_id])
+
+    # Make graph non-directional
+    for co1 in graph.keys():
+        co2s = graph[co1]
+        for co2 in co2s:
+            if co1 not in graph[co2]:
+                graph[co2].append(co1)
+
+    # Build graph mapping companies to all their related entities
+    entity_regex = re.compile(".+Q[0-9].+")
+
+    company_to_entities = {}
+    for name in name_to_num.keys():
+        company_to_entities[name] = []
+    company_to_entities['SPLP'] = []
+
+    for filename in os.listdir('./wikidata_entries/'):
+        with open('./wikidata_entries/' + filename) as file:
+            if filename == '.DS_Store': continue
+                
+            orig_entity = filename.split('_')[0]
+            # print('\nSearching entity', orig_entity, name_to_num[orig_entity])
+            
+            for line in file:
+                if entity_regex.match(line):
+                    try:
+                        q_index = line.index('Q')
+                        s_index = line[q_index:].index(' ') + q_index
+                        related_entity = line[q_index + 1:s_index]
+                        
+                        if '-' not in related_entity:
+                            # print('>', related_entity)
+                            if related_entity not in company_to_entities[orig_entity]:
+                                company_to_entities[orig_entity].append(related_entity)
+                    except ValueError:
+                        print('substring err')
+
+    # Build second-order relations
+    graph_2 = {}
+    for name in name_to_num.keys():
+        graph_2[name] = set()
+    graph_2['SPLP'] = set()
+
+    def common_member(a, b): 
+        a_set = set(a) 
+        b_set = set(b) 
+        if len(a_set.intersection(b_set)) > 0: 
+            return(True)  
+        return(False)  
+
+    for company in company_to_entities.keys():
+        for other_company in company_to_entities.keys():
+            if common_member(company_to_entities[company], company_to_entities[other_company]):
+                graph_2[company].add(other_company)
+
+    # Make graph non-directional
+    for co1 in graph_2.keys():
+        co2s = graph_2[co1]
+        for co2 in co2s:
+            if co1 not in graph_2[co2]:
+                graph[co2].add(co1)
+
+    # First and second order graphs combined
+    graph_1_2 = {}
+    for name in name_to_num.keys():
+        graph_1_2[name] = set()
+    graph_1_2['SPLP'] = set()
+
+    for company in graph_1_2.keys():
+        graph_1_2[company].update(graph[company])
+        graph_1_2[company].update(graph_2[company])
+
+    return graph_1_2
