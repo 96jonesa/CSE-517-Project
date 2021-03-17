@@ -1,0 +1,431 @@
+wd:Q489921 a wikibase:Item ;
+	rdfs:label "万事达卡"@zh-hans ;
+	skos:prefLabel "万事达卡"@zh-hans ;
+	schema:name "万事达卡"@zh-hans ;
+	rdfs:label "萬事達卡"@zh-hant ;
+	skos:prefLabel "萬事達卡"@zh-hant ;
+	schema:name "萬事達卡"@zh-hant ;
+	rdfs:label "萬事達卡"@zh-hk ;
+	skos:prefLabel "萬事達卡"@zh-hk ;
+	schema:name "萬事達卡"@zh-hk ;
+	rdfs:label "MasterCard"@pl ;
+	skos:prefLabel "MasterCard"@pl ;
+	schema:name "MasterCard"@pl ;
+	rdfs:label "마스타카드"@ko ;
+	skos:prefLabel "마스타카드"@ko ;
+	schema:name "마스타카드"@ko ;
+	rdfs:label "MasterCard"@fr ;
+	skos:prefLabel "MasterCard"@fr ;
+	schema:name "MasterCard"@fr ;
+	rdfs:label "MasterCard"@uz ;
+	skos:prefLabel "MasterCard"@uz ;
+	schema:name "MasterCard"@uz ;
+	rdfs:label "MasterCard"@es ;
+	skos:prefLabel "MasterCard"@es ;
+	schema:name "MasterCard"@es ;
+	rdfs:label "மாஸ்டர்கார்டு"@ta ;
+	skos:prefLabel "மாஸ்டர்கார்டு"@ta ;
+	schema:name "மாஸ்டர்கார்டு"@ta ;
+	rdfs:label "MasterCard"@it ;
+	skos:prefLabel "MasterCard"@it ;
+	schema:name "MasterCard"@it ;
+	rdfs:label "MasterCard"@de ;
+	skos:prefLabel "MasterCard"@de ;
+	schema:name "MasterCard"@de ;
+	rdfs:label "MasterCard"@id ;
+	skos:prefLabel "MasterCard"@id ;
+	schema:name "MasterCard"@id ;
+	rdfs:label "マスターカード"@ja ;
+	skos:prefLabel "マスターカード"@ja ;
+	schema:name "マスターカード"@ja ;
+	rdfs:label "MasterCard"@vi ;
+	skos:prefLabel "MasterCard"@vi ;
+	schema:name "MasterCard"@vi ;
+	rdfs:label "MasterCard"@nl ;
+	skos:prefLabel "MasterCard"@nl ;
+	schema:name "MasterCard"@nl ;
+	rdfs:label "Mastercard"@sv ;
+	skos:prefLabel "Mastercard"@sv ;
+	schema:name "Mastercard"@sv ;
+	rdfs:label "ماستركارد"@ar ;
+	skos:prefLabel "ماستركارد"@ar ;
+	schema:name "ماستركارد"@ar ;
+	rdfs:label "मास्टर कार्ड"@hi ;
+	skos:prefLabel "मास्टर कार्ड"@hi ;
+	schema:name "मास्टर कार्ड"@hi ;
+	rdfs:label "MasterCard"@pt ;
+	skos:prefLabel "MasterCard"@pt ;
+	schema:name "MasterCard"@pt ;
+	rdfs:label "MasterCard"@ru ;
+	skos:prefLabel "MasterCard"@ru ;
+	schema:name "MasterCard"@ru ;
+	rdfs:label "Masterkard"@sr-el ;
+	skos:prefLabel "Masterkard"@sr-el ;
+	schema:name "Masterkard"@sr-el ;
+	rdfs:label "Мастеркард"@sr-ec ;
+	skos:prefLabel "Мастеркард"@sr-ec ;
+	schema:name "Мастеркард"@sr-ec ;
+	rdfs:label "MasterCard"@en ;
+	skos:prefLabel "MasterCard"@en ;
+	schema:name "MasterCard"@en ;
+	rdfs:label "MasterCard"@tr ;
+	skos:prefLabel "MasterCard"@tr ;
+	schema:name "MasterCard"@tr ;
+	rdfs:label "MasterCard"@ca ;
+	skos:prefLabel "MasterCard"@ca ;
+	schema:name "MasterCard"@ca ;
+	rdfs:label "MasterCard"@fi ;
+	skos:prefLabel "MasterCard"@fi ;
+	schema:name "MasterCard"@fi ;
+	rdfs:label "MasterCard"@uk ;
+	skos:prefLabel "MasterCard"@uk ;
+	schema:name "MasterCard"@uk ;
+	rdfs:label "MasterCard"@sah ;
+	skos:prefLabel "MasterCard"@sah ;
+	schema:name "MasterCard"@sah ;
+	rdfs:label "MasterCard"@cs ;
+	skos:prefLabel "MasterCard"@cs ;
+	schema:name "MasterCard"@cs ;
+	rdfs:label "مسترکارت"@fa ;
+	skos:prefLabel "مسترکارت"@fa ;
+	schema:name "مسترکارت"@fa ;
+	rdfs:label "MasterCard"@lt ;
+	skos:prefLabel "MasterCard"@lt ;
+	schema:name "MasterCard"@lt ;
+	rdfs:label "MasterCard"@da ;
+	skos:prefLabel "MasterCard"@da ;
+	schema:name "MasterCard"@da ;
+	rdfs:label "Мастеркард"@sr ;
+	skos:prefLabel "Мастеркард"@sr ;
+	schema:name "Мастеркард"@sr ;
+	rdfs:label "万事达卡"@zh ;
+	skos:prefLabel "万事达卡"@zh ;
+	schema:name "万事达卡"@zh ;
+	rdfs:label "MasterCard"@nb ;
+	skos:prefLabel "MasterCard"@nb ;
+	schema:name "MasterCard"@nb ;
+	rdfs:label "MasterCard"@nds ;
+	skos:prefLabel "MasterCard"@nds ;
+	schema:name "MasterCard"@nds ;
+	rdfs:label "Mastercard"@eo ;
+	skos:prefLabel "Mastercard"@eo ;
+	schema:name "Mastercard"@eo ;
+	rdfs:label "MasterCard"@ms ;
+	skos:prefLabel "MasterCard"@ms ;
+	schema:name "MasterCard"@ms ;
+	rdfs:label "മാസ്റ്റർകാർഡ്‌"@ml ;
+	skos:prefLabel "മാസ്റ്റർകാർഡ്‌"@ml ;
+	schema:name "മാസ്റ്റർകാർഡ്‌"@ml ;
+	rdfs:label "MasterCard"@ro ;
+	skos:prefLabel "MasterCard"@ro ;
+	schema:name "MasterCard"@ro ;
+	rdfs:label "MasterCard"@cv ;
+	skos:prefLabel "MasterCard"@cv ;
+	schema:name "MasterCard"@cv ;
+	rdfs:label "מסטרקארד"@he ;
+	skos:prefLabel "מסטרקארד"@he ;
+	schema:name "מסטרקארד"@he ;
+	schema:description "American multinational financial services corporation"@en ;
+	skos:altLabel "萬事達"@zh,
+		"Mastercard"@zh,
+		"萬事達卡"@zh,
+		"Master Card"@pl,
+		"Maestro"@pl,
+		"마스터 카드"@ko,
+		"마스터카드"@ko,
+		"PayPass"@fr,
+		"Carte maître"@fr,
+		"TapezPartez"@fr,
+		"МастерCард"@uz,
+		"MasterMoney"@es,
+		"MasterCard Worldwide"@es,
+		"Master Card"@es,
+		"Master Charge"@es,
+		"MasterCard International"@es,
+		"மாஸ்டர்கார்ட்"@ta,
+		"Stellacard"@it,
+		"Master Card"@it,
+		"Maestro"@it,
+		"Mastercard paypass"@de,
+		"MasterCard"@ja,
+		"MasterCard Worldwide"@nl,
+		"ماستر كارد"@ar,
+		"Master card"@pt,
+		"MasterCard Worldwide"@ru,
+		"Мастеркард"@ru,
+		"Mastercard International"@ru,
+		"Master Card"@ru,
+		"MasterCard Worldwide"@cs,
+		"MasterMoney"@cs,
+		"PayPass"@cs,
+		"Maestro International"@cs,
+		"Master Card"@cs,
+		"Master Charge"@cs,
+		"مستر کارت"@fa,
+		"MasterCard Worldwide"@da,
+		"MasterCard Incorporated"@en,
+		"MasterCard Worldwide"@en ;
+	wdt:P946 "US57636Q1040" ;
+	wdt:P373 "MasterCard" ;
+	wdt:P856 <https://www.mastercard.com/> ;
+	wdt:P646 "/m/021b7r" ;
+	wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/2012-Mastercard-Logo-DS.png> ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P452 wd:Q837171 ;
+	wdt:P1128 "+8200"^^xsd:decimal ;
+	wdt:P31 wd:Q891723 ;
+	wdt:P159 wd:Q6784928 ;
+	wdt:P910 wd:Q8124328 ;
+	p:P946 wds:Q489921-b798f45d-4956-1d6f-19b9-164e1cba7eb2 .
+
+wds:Q489921-b798f45d-4956-1d6f-19b9-164e1cba7eb2 a wikibase:Statement ;
+	ps:P946 "US57636Q1040" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:1435df8f0ba97542e24fd8f60ca9bf8e2d0b49ba .
+
+wd:Q489921 p:P373 wds:q489921-2FFCE701-FAFB-42BA-A55E-41223D510C31 .
+
+wds:q489921-2FFCE701-FAFB-42BA-A55E-41223D510C31 a wikibase:Statement ;
+	ps:P373 "MasterCard" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q489921 p:P856 wds:Q489921-D3487CD3-D0AF-4D66-B319-435DA7605AEB .
+
+wds:Q489921-D3487CD3-D0AF-4D66-B319-435DA7605AEB a wikibase:Statement ;
+	ps:P856 <https://www.mastercard.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q489921 p:P646 wds:Q489921-BA6448B4-4008-447F-98D2-34BEF6D7DA58 .
+
+wds:Q489921-BA6448B4-4008-447F-98D2-34BEF6D7DA58 a wikibase:Statement ;
+	ps:P646 "/m/021b7r" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q489921 p:P18 wds:Q489921-381B6500-E7E8-4932-BA68-2527C75863D3 .
+
+wds:Q489921-381B6500-E7E8-4932-BA68-2527C75863D3 a wikibase:Statement ;
+	ps:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/2012-Mastercard-Logo-DS.png> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:223f43a7229297bd67ffab922174f80c722fff1a .
+
+wd:Q489921 p:P414 wds:Q489921-51fd4c40-4bb1-bede-1849-a7e10a06a515 .
+
+wds:Q489921-51fd4c40-4bb1-bede-1849-a7e10a06a515 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "MA" .
+
+wd:Q489921 p:P452 wds:Q489921-bd3c6435-4dfd-d4c8-5631-7ae52bcd95f1 .
+
+wds:Q489921-bd3c6435-4dfd-d4c8-5631-7ae52bcd95f1 a wikibase:Statement ;
+	ps:P452 wd:Q837171 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q489921 p:P1128 wds:Q489921-aee36243-4012-14cc-759e-68aaef357343 .
+
+wds:Q489921-aee36243-4012-14cc-759e-68aaef357343 a wikibase:Statement ;
+	ps:P1128 "+8200"^^xsd:decimal ;
+	psv:P1128 wdv:46155670cd3b46e3977361e1c17edfd5 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P585 "2013-12-31T00:00:00Z"^^xsd:dateTime ;
+	pqv:P585 wdv:b39a424172b92d34931e5de1b42e235b ;
+	prov:wasDerivedFrom wdref:46b13c031dba6a02640062e79f12d66778569272 .
+
+wd:Q489921 p:P31 wds:Q489921-c9f8715e-43ee-f9ca-bd15-bd9ac212bbaf .
+
+wds:Q489921-c9f8715e-43ee-f9ca-bd15-bd9ac212bbaf a wikibase:Statement ;
+	ps:P31 wd:Q891723 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q489921 p:P159 wds:Q489921-27cfa06f-49e2-31e3-081c-e4857ba76afe .
+
+wds:Q489921-27cfa06f-49e2-31e3-081c-e4857ba76afe a wikibase:Statement ;
+	ps:P159 wd:Q6784928 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q489921 p:P910 wds:Q489921-2AF15944-9950-45BC-99E5-C7E57D307A33 .
+
+wds:Q489921-2AF15944-9950-45BC-99E5-C7E57D307A33 a wikibase:Statement ;
+	ps:P910 wd:Q8124328 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:d6e3ab4045fb3f3feea77895bc6b27e663fc878a .
+
+<https://en.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "en" .
+
+<https://de.wikipedia.org/wiki/Mastercard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "de" .
+
+<https://fr.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "fr" .
+
+<https://es.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "es" .
+
+<https://ru.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "ru" .
+
+<https://it.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "it" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "ja" .
+
+<https://nl.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "nl" .
+
+<https://pl.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "pl" .
+
+<https://pt.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "pt" .
+
+<https://zh.wikipedia.org/wiki/%E4%B8%87%E4%BA%8B%E8%BE%BE%E5%8D%A1> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "zh" .
+
+<https://sv.wikipedia.org/wiki/Mastercard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "sv" .
+
+<https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AA%D8%B1%DA%A9%D8%A7%D8%B1%D8%AA> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "fa" .
+
+<https://tr.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "tr" .
+
+<https://fi.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "fi" .
+
+<https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%B3%D8%AA%D8%B1%D9%83%D8%A7%D8%B1%D8%AF> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "ar" .
+
+<https://vi.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "vi" .
+
+<https://no.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "no" .
+
+<https://uk.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "uk" .
+
+<https://ko.wikipedia.org/wiki/%EB%A7%88%EC%8A%A4%ED%83%80%EC%B9%B4%EB%93%9C> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "ko" .
+
+<https://ca.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "ca" .
+
+<https://cs.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "cs" .
+
+<https://sr.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BA%D0%B0%D1%80%D0%B4> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "sr" .
+
+<https://ro.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "ro" .
+
+<https://id.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "id" .
+
+<https://da.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "da" .
+
+<https://cv.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "cv" .
+
+<https://eo.wikipedia.org/wiki/Mastercard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "eo" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B0%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "hi" .
+
+<https://lt.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "lt" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%AE%E0%B4%BE%E0%B4%B8%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%BC%E0%B4%95%E0%B4%BE%E0%B5%BC%E0%B4%A1%E0%B5%8D%E2%80%8C> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "ml" .
+
+<https://ms.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "ms" .
+
+<https://sah.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "sah" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%BE%E0%AE%B8%E0%AF%8D%E0%AE%9F%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%9F%E0%AF%81> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "ta" .
+
+<https://uz.wikipedia.org/wiki/MasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "uz" .
+
+<https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%98%D7%A8%D7%A7%D7%90%D7%A8%D7%93> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "he" .
+
+<https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3AMasterCard> a schema:Article ;
+	schema:about wd:Q489921 ;
+	schema:inLanguage "ru" .
+
+wdv:46155670cd3b46e3977361e1c17edfd5 a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+8200"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+8200"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+8200"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdref:1435df8f0ba97542e24fd8f60ca9bf8e2d0b49ba a wikibase:Reference ;
+	pr:P854 <http://www.advfn.com/exchanges/NYSE/MA/stock-price> .
+
+wdref:46b13c031dba6a02640062e79f12d66778569272 a wikibase:Reference ;
+	pr:P854 <https://www.nyse.com/quote/XNYS:MA/company> .
+
+wdata:Q489923 schema:version "143714109"^^xsd:integer ;
+	schema:dateModified "2014-07-11T07:21:25Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q489923 .
+

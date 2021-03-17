@@ -1,0 +1,94 @@
+wd:Q1159256 a wikibase:Item ;
+	rdfs:label "Danaher Corporation"@de ;
+	skos:prefLabel "Danaher Corporation"@de ;
+	schema:name "Danaher Corporation"@de ;
+	rdfs:label "Danaher Corporation"@en ;
+	skos:prefLabel "Danaher Corporation"@en ;
+	schema:name "Danaher Corporation"@en ;
+	rdfs:label "Danaher"@it ;
+	skos:prefLabel "Danaher"@it ;
+	schema:name "Danaher"@it ;
+	rdfs:label "Danaher Corporation"@nl ;
+	skos:prefLabel "Danaher Corporation"@nl ;
+	schema:name "Danaher Corporation"@nl ;
+	rdfs:label "Danaher Corporation"@pt ;
+	skos:prefLabel "Danaher Corporation"@pt ;
+	schema:name "Danaher Corporation"@pt ;
+	rdfs:label "Danaher"@fr ;
+	skos:prefLabel "Danaher"@fr ;
+	schema:name "Danaher"@fr ;
+	rdfs:label "Danaher"@id ;
+	skos:prefLabel "Danaher"@id ;
+	schema:name "Danaher"@id ;
+	schema:description "American global active company"@en ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P646 "/m/074wl0" ;
+	wdt:P17 wd:Q30 ;
+	wdt:P159 wd:Q61 ;
+	p:P414 wds:q1159256-23F95C9B-9CB7-49F7-BD78-597471E4C02E .
+
+wds:q1159256-23F95C9B-9CB7-49F7-BD78-597471E4C02E a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1159256 p:P31 wds:q1159256-3E5D944C-9E9C-4F59-A32B-DDEEB93EFAB6 .
+
+wds:q1159256-3E5D944C-9E9C-4F59-A32B-DDEEB93EFAB6 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q1159256 p:P646 wds:Q1159256-70C65AAC-2719-4744-B4D1-F7B31C31177E .
+
+wds:Q1159256-70C65AAC-2719-4744-B4D1-F7B31C31177E a wikibase:Statement ;
+	ps:P646 "/m/074wl0" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q1159256 p:P17 wds:Q1159256-0B363F9E-3E1C-437E-8D4A-3DEFF79FFD2D .
+
+wds:Q1159256-0B363F9E-3E1C-437E-8D4A-3DEFF79FFD2D a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1159256 p:P159 wds:Q1159256-5DC0C7AB-7247-4F97-9B5A-82E9013B50B5 .
+
+wds:Q1159256-5DC0C7AB-7247-4F97-9B5A-82E9013B50B5 a wikibase:Statement ;
+	ps:P159 wd:Q61 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://en.wikipedia.org/wiki/Danaher%20Corporation> a schema:Article ;
+	schema:about wd:Q1159256 ;
+	schema:inLanguage "en" .
+
+<https://de.wikipedia.org/wiki/Danaher%20Corporation> a schema:Article ;
+	schema:about wd:Q1159256 ;
+	schema:inLanguage "de" .
+
+<https://it.wikipedia.org/wiki/Danaher> a schema:Article ;
+	schema:about wd:Q1159256 ;
+	schema:inLanguage "it" .
+
+<https://pt.wikipedia.org/wiki/Danaher%20Corporation> a schema:Article ;
+	schema:about wd:Q1159256 ;
+	schema:inLanguage "pt" .
+
+<https://fr.wikipedia.org/wiki/Danaher> a schema:Article ;
+	schema:about wd:Q1159256 ;
+	schema:inLanguage "fr" .
+
+<https://id.wikipedia.org/wiki/Danaher> a schema:Article ;
+	schema:about wd:Q1159256 ;
+	schema:inLanguage "id" .
+
+wdata:Q1159259 schema:version "225157394"^^xsd:integer ;
+	schema:dateModified "2015-06-29T18:36:03Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q1159259 .
+

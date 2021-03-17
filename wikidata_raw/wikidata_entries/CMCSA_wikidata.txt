@@ -1,0 +1,260 @@
+wd:Q1113804 a wikibase:Item ;
+	rdfs:label "Comcast"@fr ;
+	skos:prefLabel "Comcast"@fr ;
+	schema:name "Comcast"@fr ;
+	rdfs:label "Comcast"@en ;
+	skos:prefLabel "Comcast"@en ;
+	schema:name "Comcast"@en ;
+	rdfs:label "Comcast Corporation"@nl ;
+	skos:prefLabel "Comcast Corporation"@nl ;
+	schema:name "Comcast Corporation"@nl ;
+	rdfs:label "Comcast"@ro ;
+	skos:prefLabel "Comcast"@ro ;
+	schema:name "Comcast"@ro ;
+	rdfs:label "Comcast"@pt ;
+	skos:prefLabel "Comcast"@pt ;
+	schema:name "Comcast"@pt ;
+	rdfs:label "Comcast"@de ;
+	skos:prefLabel "Comcast"@de ;
+	schema:name "Comcast"@de ;
+	rdfs:label "컴캐스트"@ko ;
+	skos:prefLabel "컴캐스트"@ko ;
+	schema:name "컴캐스트"@ko ;
+	rdfs:label "Comcast"@pl ;
+	skos:prefLabel "Comcast"@pl ;
+	schema:name "Comcast"@pl ;
+	rdfs:label "Comcast"@fi ;
+	skos:prefLabel "Comcast"@fi ;
+	schema:name "Comcast"@fi ;
+	rdfs:label "康卡斯特"@zh ;
+	skos:prefLabel "康卡斯特"@zh ;
+	schema:name "康卡斯特"@zh ;
+	rdfs:label "Comcast"@gl ;
+	skos:prefLabel "Comcast"@gl ;
+	schema:name "Comcast"@gl ;
+	rdfs:label "コムキャスト"@ja ;
+	skos:prefLabel "コムキャスト"@ja ;
+	schema:name "コムキャスト"@ja ;
+	rdfs:label "Comcast"@es ;
+	skos:prefLabel "Comcast"@es ;
+	schema:name "Comcast"@es ;
+	rdfs:label "کامکست"@fa ;
+	skos:prefLabel "کامکست"@fa ;
+	schema:name "کامکست"@fa ;
+	rdfs:label "康卡斯特"@zh-hant ;
+	skos:prefLabel "康卡斯特"@zh-hant ;
+	schema:name "康卡斯特"@zh-hant ;
+	rdfs:label "Comcast"@sh ;
+	skos:prefLabel "Comcast"@sh ;
+	schema:name "Comcast"@sh ;
+	rdfs:label "Comcast"@it ;
+	skos:prefLabel "Comcast"@it ;
+	schema:name "Comcast"@it ;
+	rdfs:label "کۆم کاست"@ckb ;
+	skos:prefLabel "کۆم کاست"@ckb ;
+	schema:name "کۆم کاست"@ckb ;
+	rdfs:label "Comcast"@he ;
+	skos:prefLabel "Comcast"@he ;
+	schema:name "Comcast"@he ;
+	rdfs:label "Comcast"@id ;
+	skos:prefLabel "Comcast"@id ;
+	schema:name "Comcast"@id ;
+	schema:description "חברת כבלים ותקשורת בארה\"ב"@he,
+		"American mass media company"@en ;
+	skos:altLabel "Comcast Corporation"@fr,
+		"Comcast"@nl,
+		"ComCast"@pt,
+		"Comcast Corporation"@de,
+		"Xfinity"@de,
+		"Comcast Spectacor"@de,
+		"Comcast"@zh,
+		"Comcast"@ja,
+		"Comcast Corporation"@es,
+		"Comcast Corporation"@en,
+		"Comcast Holdings"@en ;
+	wdt:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Comcast%20logo%202006.svg> ;
+	wdt:P159 wd:Q1345 ;
+	wdt:P373 "Comcast" ;
+	wdt:P31 wd:Q891723 ;
+	wdt:P414 wd:Q82059 ;
+	wdt:P646 "/m/01s73z" ;
+	wdt:P155 wd:Q304509,
+		wd:Q4654507,
+		wd:Q4682079 ;
+	wdt:P17 wd:Q30 ;
+	wdt:P856 <http://corporate.comcast.com> ;
+	wdt:P910 wd:Q8391475 ;
+	p:P154 wds:q1113804-6F062AA5-DA7F-4A9F-AD5A-15F950186125 .
+
+wds:q1113804-6F062AA5-DA7F-4A9F-AD5A-15F950186125 a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Comcast%20logo%202006.svg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1113804 p:P159 wds:q1113804-3FF02DF8-5A46-43B4-A7D6-36C55B7717F9 .
+
+wds:q1113804-3FF02DF8-5A46-43B4-A7D6-36C55B7717F9 a wikibase:Statement ;
+	ps:P159 wd:Q1345 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1113804 p:P373 wds:q1113804-9564167D-39FC-461D-8622-DBED4A7F5340 .
+
+wds:q1113804-9564167D-39FC-461D-8622-DBED4A7F5340 a wikibase:Statement ;
+	ps:P373 "Comcast" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q1113804 p:P31 wds:Q1113804-2f148493-40dd-e6ea-6884-766643cad68d .
+
+wds:Q1113804-2f148493-40dd-e6ea-6884-766643cad68d a wikibase:Statement ;
+	ps:P31 wd:Q891723 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1113804 p:P414 wds:Q1113804-FEB5E7D3-644C-4A1B-A4A1-BEC7D95D5AE5 .
+
+wds:Q1113804-FEB5E7D3-644C-4A1B-A4A1-BEC7D95D5AE5 a wikibase:Statement ;
+	ps:P414 wd:Q82059 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q1113804 p:P646 wds:Q1113804-B2B73EC2-00FC-47A0-B30A-21845472D009 .
+
+wds:Q1113804-B2B73EC2-00FC-47A0-B30A-21845472D009 a wikibase:Statement ;
+	ps:P646 "/m/01s73z" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q1113804 p:P155 wds:Q1113804-9E0F4C4A-1F9C-4CB0-B5A1-D9B3B737A548 .
+
+wds:Q1113804-9E0F4C4A-1F9C-4CB0-B5A1-D9B3B737A548 a wikibase:Statement ;
+	ps:P155 wd:Q304509 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1113804 p:P155 wds:Q1113804-610E1E31-B242-46D7-9E15-68125679708D .
+
+wds:Q1113804-610E1E31-B242-46D7-9E15-68125679708D a wikibase:Statement ;
+	ps:P155 wd:Q4654507 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1113804 p:P155 wds:Q1113804-E1DA84E6-C927-4721-A8DE-CA7E57456737 .
+
+wds:Q1113804-E1DA84E6-C927-4721-A8DE-CA7E57456737 a wikibase:Statement ;
+	ps:P155 wd:Q4682079 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1113804 p:P17 wds:Q1113804-4AAB2D46-F8F4-43FB-A9C5-ECF0AF497659 .
+
+wds:Q1113804-4AAB2D46-F8F4-43FB-A9C5-ECF0AF497659 a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1113804 p:P856 wds:Q1113804-22F3519E-BC9A-449C-B52F-6E3578338C9B .
+
+wds:Q1113804-22F3519E-BC9A-449C-B52F-6E3578338C9B a wikibase:Statement ;
+	ps:P856 <http://corporate.comcast.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q1113804 p:P910 wds:Q1113804-5D19193B-1552-4709-A83A-201D5C3B6364 .
+
+wds:Q1113804-5D19193B-1552-4709-A83A-201D5C3B6364 a wikibase:Statement ;
+	ps:P910 wd:Q8391475 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+<https://en.wikipedia.org/wiki/Comcast> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "en" .
+
+<https://de.wikipedia.org/wiki/Comcast> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "de" .
+
+<https://fr.wikipedia.org/wiki/Comcast> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "fr" .
+
+<https://es.wikipedia.org/wiki/Comcast> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "es" .
+
+<https://it.wikipedia.org/wiki/Comcast> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "it" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%A0%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "ja" .
+
+<https://nl.wikipedia.org/wiki/Comcast%20Corporation> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "nl" .
+
+<https://pl.wikipedia.org/wiki/Comcast> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "pl" .
+
+<https://pt.wikipedia.org/wiki/Comcast> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "pt" .
+
+<https://zh.wikipedia.org/wiki/%E5%BA%B7%E5%8D%A1%E6%96%AF%E7%89%B9> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "zh" .
+
+<https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D9%85%DA%A9%D8%B3%D8%AA> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "fa" .
+
+<https://he.wikipedia.org/wiki/Comcast> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "he" .
+
+<https://fi.wikipedia.org/wiki/Comcast> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "fi" .
+
+<https://ko.wikipedia.org/wiki/%EC%BB%B4%EC%BA%90%EC%8A%A4%ED%8A%B8> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "ko" .
+
+<https://ro.wikipedia.org/wiki/Comcast> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "ro" .
+
+<https://id.wikipedia.org/wiki/Comcast> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "id" .
+
+<https://simple.wikipedia.org/wiki/Comcast> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "simple" .
+
+<https://ckb.wikipedia.org/wiki/%DA%A9%DB%86%D9%85%20%DA%A9%D8%A7%D8%B3%D8%AA> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "ckb" .
+
+<https://gl.wikipedia.org/wiki/Comcast> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "gl" .
+
+<https://sh.wikipedia.org/wiki/Comcast> a schema:Article ;
+	schema:about wd:Q1113804 ;
+	schema:inLanguage "sh" .
+
+wdata:Q1113807 schema:version "210161032"^^xsd:integer ;
+	schema:dateModified "2015-04-11T17:58:21Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q1113807 .
+

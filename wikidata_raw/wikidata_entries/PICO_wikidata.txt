@@ -1,0 +1,21 @@
+wd:Q7215569 a wikibase:Item ;
+	rdfs:label "筆克遠東"@zh ;
+	skos:prefLabel "筆克遠東"@zh ;
+	schema:name "筆克遠東"@zh ;
+	rdfs:label "筆克遠東"@yue ;
+	skos:prefLabel "筆克遠東"@yue ;
+	schema:name "筆克遠東"@yue .
+
+<https://zh.wikipedia.org/wiki/%E7%AD%86%E5%85%8B%E9%81%A0%E6%9D%B1> a schema:Article ;
+	schema:about wd:Q7215569 ;
+	schema:inLanguage "zh" .
+
+<https://zh-yue.wikipedia.org/wiki/%E7%AD%86%E5%85%8B%E9%81%A0%E6%9D%B1> a schema:Article ;
+	schema:about wd:Q7215569 ;
+	schema:inLanguage "zh-yue" .
+
+wdata:Q7215574 schema:version "234422503"^^xsd:integer ;
+	schema:dateModified "2015-07-20T13:42:54Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q7215574 .
+

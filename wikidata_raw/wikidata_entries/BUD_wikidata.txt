@@ -1,0 +1,280 @@
+wd:Q128738 a wikibase:Item ;
+	rdfs:label "Anheuser-Busch InBev"@lb ;
+	skos:prefLabel "Anheuser-Busch InBev"@lb ;
+	schema:name "Anheuser-Busch InBev"@lb ;
+	rdfs:label "AB InBev"@pt ;
+	skos:prefLabel "AB InBev"@pt ;
+	schema:name "AB InBev"@pt ;
+	rdfs:label "安海斯-布希英博集团"@zh-hans ;
+	skos:prefLabel "安海斯-布希英博集团"@zh-hans ;
+	schema:name "安海斯-布希英博集团"@zh-hans ;
+	rdfs:label "安海斯-布希英博集團"@zh-hant ;
+	skos:prefLabel "安海斯-布希英博集團"@zh-hant ;
+	schema:name "安海斯-布希英博集團"@zh-hant ;
+	rdfs:label "安海斯-布殊英博集團"@zh-hk ;
+	skos:prefLabel "安海斯-布殊英博集團"@zh-hk ;
+	schema:name "安海斯-布殊英博集團"@zh-hk ;
+	rdfs:label "安海斯-布什英博集团"@zh-cn ;
+	skos:prefLabel "安海斯-布什英博集团"@zh-cn ;
+	schema:name "安海斯-布什英博集团"@zh-cn ;
+	rdfs:label "安海斯-布希英博集团"@zh-sg ;
+	skos:prefLabel "安海斯-布希英博集团"@zh-sg ;
+	schema:name "安海斯-布希英博集团"@zh-sg ;
+	rdfs:label "安海斯-布希英博集團"@zh-tw ;
+	skos:prefLabel "安海斯-布希英博集團"@zh-tw ;
+	schema:name "安海斯-布希英博集團"@zh-tw ;
+	rdfs:label "Anheuser-Busch InBev"@fr ;
+	skos:prefLabel "Anheuser-Busch InBev"@fr ;
+	schema:name "Anheuser-Busch InBev"@fr ;
+	rdfs:label "Anheuser-Busch InBev"@ru ;
+	skos:prefLabel "Anheuser-Busch InBev"@ru ;
+	schema:name "Anheuser-Busch InBev"@ru ;
+	rdfs:label "Anheuser-Busch InBev"@es ;
+	skos:prefLabel "Anheuser-Busch InBev"@es ;
+	schema:name "Anheuser-Busch InBev"@es ;
+	rdfs:label "Anheuser-Busch InBev"@en ;
+	skos:prefLabel "Anheuser-Busch InBev"@en ;
+	schema:name "Anheuser-Busch InBev"@en ;
+	rdfs:label "AnHeuser-Busch InBev"@fi ;
+	skos:prefLabel "AnHeuser-Busch InBev"@fi ;
+	schema:name "AnHeuser-Busch InBev"@fi ;
+	rdfs:label "Anheuser-Busch InBev"@uk ;
+	skos:prefLabel "Anheuser-Busch InBev"@uk ;
+	schema:name "Anheuser-Busch InBev"@uk ;
+	rdfs:label "Anheuser-Busch InBev"@it ;
+	skos:prefLabel "Anheuser-Busch InBev"@it ;
+	schema:name "Anheuser-Busch InBev"@it ;
+	rdfs:label "Anheuser-Busch InBev"@de ;
+	skos:prefLabel "Anheuser-Busch InBev"@de ;
+	schema:name "Anheuser-Busch InBev"@de ;
+	rdfs:label "アンハイザー・ブッシュ・インベブ"@ja ;
+	skos:prefLabel "アンハイザー・ブッシュ・インベブ"@ja ;
+	schema:name "アンハイザー・ブッシュ・インベブ"@ja ;
+	rdfs:label "ИнБев"@bg ;
+	skos:prefLabel "ИнБев"@bg ;
+	schema:name "ИнБев"@bg ;
+	rdfs:label "Anheuser-Busch InBev"@el ;
+	skos:prefLabel "Anheuser-Busch InBev"@el ;
+	schema:name "Anheuser-Busch InBev"@el ;
+	rdfs:label "Anheuser-Busch InBev"@lmo ;
+	skos:prefLabel "Anheuser-Busch InBev"@lmo ;
+	schema:name "Anheuser-Busch InBev"@lmo ;
+	rdfs:label "Anheuser-Busch InBev"@sv ;
+	skos:prefLabel "Anheuser-Busch InBev"@sv ;
+	schema:name "Anheuser-Busch InBev"@sv ;
+	rdfs:label "Anheuser-Busch InBev"@nl ;
+	skos:prefLabel "Anheuser-Busch InBev"@nl ;
+	schema:name "Anheuser-Busch InBev"@nl ;
+	rdfs:label "Anheuser-Busch InBev"@da ;
+	skos:prefLabel "Anheuser-Busch InBev"@da ;
+	schema:name "Anheuser-Busch InBev"@da ;
+	rdfs:label "آنهویزر-بوش انبیو"@fa ;
+	skos:prefLabel "آنهویزر-بوش انبیو"@fa ;
+	schema:name "آنهویزر-بوش انبیو"@fa ;
+	rdfs:label "安海斯-布希英博集團"@zh ;
+	skos:prefLabel "安海斯-布希英博集團"@zh ;
+	schema:name "安海斯-布希英博集團"@zh ;
+	rdfs:label "Anheuser-Busch InBev"@de-ch ;
+	skos:prefLabel "Anheuser-Busch InBev"@de-ch ;
+	schema:name "Anheuser-Busch InBev"@de-ch ;
+	rdfs:label "Anheuser-Busch InBev"@en-ca ;
+	skos:prefLabel "Anheuser-Busch InBev"@en-ca ;
+	schema:name "Anheuser-Busch InBev"@en-ca ;
+	rdfs:label "Anheuser-Busch InBev"@en-gb ;
+	skos:prefLabel "Anheuser-Busch InBev"@en-gb ;
+	schema:name "Anheuser-Busch InBev"@en-gb ;
+	rdfs:label "Anheuser-Busch InBev"@nb ;
+	skos:prefLabel "Anheuser-Busch InBev"@nb ;
+	schema:name "Anheuser-Busch InBev"@nb ;
+	rdfs:label "AB InBev"@pt-br ;
+	skos:prefLabel "AB InBev"@pt-br ;
+	schema:name "AB InBev"@pt-br ;
+	rdfs:label "앤하이저부시 인베브"@ko ;
+	skos:prefLabel "앤하이저부시 인베브"@ko ;
+	schema:name "앤하이저부시 인베브"@ko ;
+	rdfs:label "AB InBev"@he ;
+	skos:prefLabel "AB InBev"@he ;
+	schema:name "AB InBev"@he ;
+	schema:description "Belgian-Brazilian multinational beverage and brewing company"@en ;
+	skos:altLabel "InBev"@lb,
+		"InBev"@pt,
+		"Anheuser-Busch InBev"@pt,
+		"InBev"@zh,
+		"安海斯-布希英博"@zh,
+		"英博集团"@zh,
+		"英博集團"@zh,
+		"AB InBev"@fr,
+		"AB InBev"@ru,
+		"Anheuser Busch InBev"@es,
+		"InBev"@fi,
+		"AmBev"@fi,
+		"Anheuser-Busch"@uk,
+		"ABInBev"@de,
+		"ABインベブ"@ja,
+		"InBev"@bg,
+		"Амбев"@bg,
+		"Anheuser-Busch InBev"@bg,
+		"Анхойзер-Буш ИнБев"@bg,
+		"Интербрю"@bg,
+		"InBev"@lmo,
+		"InBev"@sv,
+		"InterBrew"@sv,
+		"Brouwerij Inbev"@nl,
+		"AB InBev"@nl,
+		"InBev"@nl,
+		"InterbrewAmbev"@nl,
+		"Anheuser-Busch Companies"@da ;
+	wdt:P373 "Anheuser–Busch InBev" ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P31 wd:Q1436139 ;
+	wdt:P17 wd:Q31 ;
+	wdt:P910 wd:Q8253264 ;
+	wdt:P169 wd:Q2199420 ;
+	wdt:P452 wd:Q869095 ;
+	p:P373 wds:q128738-4012AA16-826E-4CD8-8126-19EEF04C2496 .
+
+wds:q128738-4012AA16-826E-4CD8-8126-19EEF04C2496 a wikibase:Statement ;
+	ps:P373 "Anheuser–Busch InBev" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q128738 p:P414 wds:q128738-5DD84DD9-B1B3-42E8-B8F2-16FD09CF7D03 .
+
+wds:q128738-5DD84DD9-B1B3-42E8-B8F2-16FD09CF7D03 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "BUD" .
+
+wd:Q128738 p:P31 wds:Q128738-122fab0c-4cc2-d83e-16ce-5c021b220dec .
+
+wds:Q128738-122fab0c-4cc2-d83e-16ce-5c021b220dec a wikibase:Statement ;
+	ps:P31 wd:Q1436139 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q128738 p:P17 wds:Q128738-52E8A18E-08A4-47A2-836C-C3EF06E20D65 .
+
+wds:Q128738-52E8A18E-08A4-47A2-836C-C3EF06E20D65 a wikibase:Statement ;
+	ps:P17 wd:Q31 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q128738 p:P910 wds:Q128738-B67D31DB-3BC7-4DCB-9352-C68C3DBD8B88 .
+
+wds:Q128738-B67D31DB-3BC7-4DCB-9352-C68C3DBD8B88 a wikibase:Statement ;
+	ps:P910 wd:Q8253264 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q128738 p:P169 wds:Q128738-5f115457-4baf-d8c4-992d-35d185e6f177 .
+
+wds:Q128738-5f115457-4baf-d8c4-992d-35d185e6f177 a wikibase:Statement ;
+	ps:P169 wd:Q2199420 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q128738 p:P452 wds:Q128738-21a6e1b9-49cb-d22b-3b99-ab9028455ad9 .
+
+wds:Q128738-21a6e1b9-49cb-d22b-3b99-ab9028455ad9 a wikibase:Statement ;
+	ps:P452 wd:Q869095 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://lb.wikipedia.org/wiki/Anheuser-Busch%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "lb" .
+
+<https://pt.wikipedia.org/wiki/AB%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "pt" .
+
+<https://zh.wikipedia.org/wiki/%E5%AE%89%E6%B5%B7%E6%96%AF-%E5%B8%83%E5%B8%8C%E8%8B%B1%E5%8D%9A%E9%9B%86%E5%9C%98> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "zh" .
+
+<https://fr.wikipedia.org/wiki/Anheuser-Busch%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "fr" .
+
+<https://ru.wikipedia.org/wiki/Anheuser-Busch%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "ru" .
+
+<https://es.wikipedia.org/wiki/Anheuser-Busch%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "es" .
+
+<https://en.wikipedia.org/wiki/Anheuser-Busch%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "en" .
+
+<https://fi.wikipedia.org/wiki/AnHeuser-Busch%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "fi" .
+
+<https://uk.wikipedia.org/wiki/Anheuser-Busch%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "uk" .
+
+<https://it.wikipedia.org/wiki/Anheuser-Busch%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "it" .
+
+<https://de.wikipedia.org/wiki/Anheuser-Busch%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%8F%E3%82%A4%E3%82%B6%E3%83%BC%E3%83%BB%E3%83%96%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%99%E3%83%96> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "ja" .
+
+<https://bg.wikipedia.org/wiki/%D0%98%D0%BD%D0%91%D0%B5%D0%B2> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "bg" .
+
+<https://el.wikipedia.org/wiki/Anheuser-Busch%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "el" .
+
+<https://lmo.wikipedia.org/wiki/Anheuser-Busch%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "lmo" .
+
+<https://sv.wikipedia.org/wiki/Anheuser-Busch%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "sv" .
+
+<https://nl.wikipedia.org/wiki/Anheuser-Busch%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "nl" .
+
+<https://da.wikipedia.org/wiki/Anheuser-Busch%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "da" .
+
+<https://simple.wikipedia.org/wiki/Anheuser-Busch%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "simple" .
+
+<https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D9%87%D8%A7%DB%8C%D8%B2%D8%B1-%D8%A8%D9%88%D8%B4%20%D8%A7%DB%8C%D9%86%D8%A8%DB%8C%D9%81> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "fa" .
+
+<https://no.wikipedia.org/wiki/Anheuser-Busch%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "no" .
+
+<https://ko.wikipedia.org/wiki/%EC%95%A4%ED%95%98%EC%9D%B4%EC%A0%80%EB%B6%80%EC%8B%9C%20%EC%9D%B8%EB%B2%A0%EB%B8%8C> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "ko" .
+
+<https://he.wikipedia.org/wiki/AB%20InBev> a schema:Article ;
+	schema:about wd:Q128738 ;
+	schema:inLanguage "he" .
+
+wdata:Q128740 schema:version "158942481"^^xsd:integer ;
+	schema:dateModified "2014-09-21T13:20:29Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q128740 .
+

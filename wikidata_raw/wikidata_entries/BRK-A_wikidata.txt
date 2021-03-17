@@ -1,0 +1,452 @@
+wd:Q217583 a wikibase:Item ;
+	rdfs:label "伯克希尔·哈撒韦"@zh-hans ;
+	skos:prefLabel "伯克希尔·哈撒韦"@zh-hans ;
+	schema:name "伯克希尔·哈撒韦"@zh-hans ;
+	rdfs:label "波克夏·哈薩威"@zh-hant ;
+	skos:prefLabel "波克夏·哈薩威"@zh-hant ;
+	schema:name "波克夏·哈薩威"@zh-hant ;
+	rdfs:label "巴郡·哈薩威"@zh-hk ;
+	skos:prefLabel "巴郡·哈薩威"@zh-hk ;
+	schema:name "巴郡·哈薩威"@zh-hk ;
+	rdfs:label "伯克希尔·哈撒韦"@zh-cn ;
+	skos:prefLabel "伯克希尔·哈撒韦"@zh-cn ;
+	schema:name "伯克希尔·哈撒韦"@zh-cn ;
+	rdfs:label "伯克希尔·哈撒韦"@zh-sg ;
+	skos:prefLabel "伯克希尔·哈撒韦"@zh-sg ;
+	schema:name "伯克希尔·哈撒韦"@zh-sg ;
+	rdfs:label "波克夏·哈薩威"@zh-tw ;
+	skos:prefLabel "波克夏·哈薩威"@zh-tw ;
+	schema:name "波克夏·哈薩威"@zh-tw ;
+	rdfs:label "Berkshire Hathaway"@pl ;
+	skos:prefLabel "Berkshire Hathaway"@pl ;
+	schema:name "Berkshire Hathaway"@pl ;
+	rdfs:label "Berkshire Hathaway"@fr ;
+	skos:prefLabel "Berkshire Hathaway"@fr ;
+	schema:name "Berkshire Hathaway"@fr ;
+	rdfs:label "버크셔 해서웨이"@ko ;
+	skos:prefLabel "버크셔 해서웨이"@ko ;
+	schema:name "버크셔 해서웨이"@ko ;
+	rdfs:label "ברקשייר האת'אוויי"@he ;
+	skos:prefLabel "ברקשייר האת'אוויי"@he ;
+	schema:name "ברקשייר האת'אוויי"@he ;
+	rdfs:label "Berkshire Hathaway"@es ;
+	skos:prefLabel "Berkshire Hathaway"@es ;
+	schema:name "Berkshire Hathaway"@es ;
+	rdfs:label "பெர்க்சயர் ஹாதவே"@ta ;
+	skos:prefLabel "பெர்க்சயர் ஹாதவே"@ta ;
+	schema:name "பெர்க்சயர் ஹாதவே"@ta ;
+	rdfs:label "Berkshire Hathaway"@lv ;
+	skos:prefLabel "Berkshire Hathaway"@lv ;
+	schema:name "Berkshire Hathaway"@lv ;
+	rdfs:label "Berkshire Hathaway"@it ;
+	skos:prefLabel "Berkshire Hathaway"@it ;
+	schema:name "Berkshire Hathaway"@it ;
+	rdfs:label "Berkshire Hathaway"@et ;
+	skos:prefLabel "Berkshire Hathaway"@et ;
+	schema:name "Berkshire Hathaway"@et ;
+	rdfs:label "Berkshire Hathaway"@id ;
+	skos:prefLabel "Berkshire Hathaway"@id ;
+	schema:name "Berkshire Hathaway"@id ;
+	rdfs:label "Berkshire Hathaway"@de ;
+	skos:prefLabel "Berkshire Hathaway"@de ;
+	schema:name "Berkshire Hathaway"@de ;
+	rdfs:label "バークシャー・ハサウェイ"@ja ;
+	skos:prefLabel "バークシャー・ハサウェイ"@ja ;
+	schema:name "バークシャー・ハサウェイ"@ja ;
+	rdfs:label "Berkshire Hathaway"@en ;
+	skos:prefLabel "Berkshire Hathaway"@en ;
+	schema:name "Berkshire Hathaway"@en ;
+	rdfs:label "بيركشير هاثاواي"@ar ;
+	skos:prefLabel "بيركشير هاثاواي"@ar ;
+	schema:name "بيركشير هاثاواي"@ar ;
+	rdfs:label "Berkshire Hathaway"@sv ;
+	skos:prefLabel "Berkshire Hathaway"@sv ;
+	schema:name "Berkshire Hathaway"@sv ;
+	rdfs:label "Berkshire Hathaway"@nl ;
+	skos:prefLabel "Berkshire Hathaway"@nl ;
+	schema:name "Berkshire Hathaway"@nl ;
+	rdfs:label "बर्कशायर हाथवे"@hi ;
+	skos:prefLabel "बर्कशायर हाथवे"@hi ;
+	schema:name "बर्कशायर हाथवे"@hi ;
+	rdfs:label "Berkshire Hathaway"@pt ;
+	skos:prefLabel "Berkshire Hathaway"@pt ;
+	schema:name "Berkshire Hathaway"@pt ;
+	rdfs:label "Berkshire Hathaway"@ru ;
+	skos:prefLabel "Berkshire Hathaway"@ru ;
+	schema:name "Berkshire Hathaway"@ru ;
+	rdfs:label "ಬರ್ಕ್‌ಷೈರ್‌ ಹಾಥ್‌ವೇ"@kn ;
+	skos:prefLabel "ಬರ್ಕ್‌ಷೈರ್‌ ಹಾಥ್‌ವೇ"@kn ;
+	schema:name "ಬರ್ಕ್‌ಷೈರ್‌ ಹಾಥ್‌ವೇ"@kn ;
+	rdfs:label "Berkshire Hathaway"@tr ;
+	skos:prefLabel "Berkshire Hathaway"@tr ;
+	schema:name "Berkshire Hathaway"@tr ;
+	rdfs:label "Berkshire Hathaway"@ro ;
+	skos:prefLabel "Berkshire Hathaway"@ro ;
+	schema:name "Berkshire Hathaway"@ro ;
+	rdfs:label "Berkshire Hathaway"@fi ;
+	skos:prefLabel "Berkshire Hathaway"@fi ;
+	schema:name "Berkshire Hathaway"@fi ;
+	rdfs:label "Berkshire Hathaway"@uk ;
+	skos:prefLabel "Berkshire Hathaway"@uk ;
+	schema:name "Berkshire Hathaway"@uk ;
+	rdfs:label "Berkshire Hathaway"@cy ;
+	skos:prefLabel "Berkshire Hathaway"@cy ;
+	schema:name "Berkshire Hathaway"@cy ;
+	rdfs:label "Berkshire Hathaway"@cs ;
+	skos:prefLabel "Berkshire Hathaway"@cs ;
+	schema:name "Berkshire Hathaway"@cs ;
+	rdfs:label "Бъркшър Хатауей"@bg ;
+	skos:prefLabel "Бъркшър Хатауей"@bg ;
+	schema:name "Бъркшър Хатауей"@bg ;
+	rdfs:label "برکشایر هاتاوی"@fa ;
+	skos:prefLabel "برکشایر هاتاوی"@fa ;
+	schema:name "برکشایر هاتاوی"@fa ;
+	rdfs:label "Berkshire Hathaway"@lt ;
+	skos:prefLabel "Berkshire Hathaway"@lt ;
+	schema:name "Berkshire Hathaway"@lt ;
+	rdfs:label "Berkshire Hathaway"@da ;
+	skos:prefLabel "Berkshire Hathaway"@da ;
+	schema:name "Berkshire Hathaway"@da ;
+	rdfs:label "波克夏·哈薩威公司"@zh ;
+	skos:prefLabel "波克夏·哈薩威公司"@zh ;
+	schema:name "波克夏·哈薩威公司"@zh ;
+	rdfs:label "Баркшир Хатавеј"@mk ;
+	skos:prefLabel "Баркшир Хатавеј"@mk ;
+	schema:name "Баркшир Хатавеј"@mk ;
+	rdfs:label "Berkshire Hathaway"@de-ch ;
+	skos:prefLabel "Berkshire Hathaway"@de-ch ;
+	schema:name "Berkshire Hathaway"@de-ch ;
+	rdfs:label "Berkshire Hathaway"@en-ca ;
+	skos:prefLabel "Berkshire Hathaway"@en-ca ;
+	schema:name "Berkshire Hathaway"@en-ca ;
+	rdfs:label "Berkshire Hathaway"@en-gb ;
+	skos:prefLabel "Berkshire Hathaway"@en-gb ;
+	schema:name "Berkshire Hathaway"@en-gb ;
+	rdfs:label "Berkshire Hathaway"@nb ;
+	skos:prefLabel "Berkshire Hathaway"@nb ;
+	schema:name "Berkshire Hathaway"@nb ;
+	rdfs:label "Berkshire Hathaway"@pt-br ;
+	skos:prefLabel "Berkshire Hathaway"@pt-br ;
+	schema:name "Berkshire Hathaway"@pt-br ;
+	rdfs:label "বার্কশায়ার হ্যাথাওয়ে"@bn ;
+	skos:prefLabel "বার্কশায়ার হ্যাথাওয়ে"@bn ;
+	schema:name "বার্কশায়ার হ্যাথাওয়ে"@bn ;
+	rdfs:label "Беркшир хатавеј"@sr ;
+	skos:prefLabel "Беркшир хатавеј"@sr ;
+	schema:name "Беркшир хатавеј"@sr ;
+	schema:description "American multinational conglomerate holding company"@en,
+		"entreprise  américaine"@fr ;
+	skos:altLabel "伯克希尔·哈撒韦公司"@zh,
+		"伯克希尔·哈撒韦"@zh,
+		"波克夏·哈薩威"@zh,
+		"波克夏哈薩威公司"@zh,
+		"波克夏"@zh,
+		"巴郡公司"@zh,
+		"伯克希尔哈撒韦"@zh,
+		"波克夏哈薩威"@zh,
+		"Brka"@pl,
+		"버크셔 헤서웨이"@ko,
+		"버크셔 헤더웨이"@ko,
+		"버크샤이어 헤서웨이"@ko,
+		"ברקשייר האת'וויי"@he,
+		"ברקשייר האת'אויי"@he,
+		"பெர்க்‌ஷயர் ஹாதவே"@ta,
+		"バークシャーハザウェイ"@ja,
+		"バークシャー・ハザウェイ"@ja,
+		"バークシャーハザウェー"@ja,
+		"バークシャーハサウェー"@ja,
+		"バークシャーハサウェイ"@ja,
+		"バークシャー・ハサウェー"@ja,
+		"バークシャー・ハザウェー"@ja,
+		"بيركشاير هاثاواي"@ar,
+		"Berkshire Hathaway"@ar,
+		"Valley Falls Company"@nl,
+		"Berkshire Cotton Manufacturing Company"@nl,
+		"Беркшир Хатэвэй"@ru,
+		"Berkshire Hathaway Inc"@ru,
+		"Беркшир Газавей"@uk,
+		"Беркшир Хазавей"@uk,
+		"Berkshire Hathaway Inc"@uk,
+		"Беркшир Хатъуей"@bg ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P112 wd:Q3350645 ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P361 wd:Q242345 ;
+	wdt:P159 wd:Q6405739 ;
+	wdt:P17 wd:Q30 ;
+	wdt:P169 wd:Q47213 ;
+	wdt:P910 wd:Q8297922 ;
+	wdt:P856 <http://www.berkshirehathaway.com/> ;
+	wdt:P646 "/m/01tmng" ;
+	wdt:P127 wd:Q47213 ;
+	wdt:P571 "1955-01-01T00:00:00Z"^^xsd:dateTime ;
+	wdt:P1128 "+316000"^^xsd:decimal ;
+	p:P31 wds:q217583-20913835-54FE-4D06-9807-BFB3CF115BD8 .
+
+wds:q217583-20913835-54FE-4D06-9807-BFB3CF115BD8 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q217583 p:P112 wds:q217583-B3B750DA-5A69-45C5-9774-0FD8B6C14AB5 .
+
+wds:q217583-B3B750DA-5A69-45C5-9774-0FD8B6C14AB5 a wikibase:Statement ;
+	ps:P112 wd:Q3350645 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q217583 p:P414 wds:q217583-EEDCE36C-C790-4112-A372-29D3FE0AD4F9 .
+
+wds:q217583-EEDCE36C-C790-4112-A372-29D3FE0AD4F9 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "BRKA",
+		"BRKB" .
+
+wd:Q217583 p:P361 wds:q217583-37db734d-4a53-4575-4757-2634354c7422 .
+
+wds:q217583-37db734d-4a53-4575-4757-2634354c7422 a wikibase:Statement ;
+	ps:P361 wd:Q242345 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q217583 p:P159 wds:q217583-703e9dd2-4980-6187-9d19-81ea072dfe0f .
+
+wds:q217583-703e9dd2-4980-6187-9d19-81ea072dfe0f a wikibase:Statement ;
+	ps:P159 wd:Q6405739 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(41.257361111111 -95.965388888889)"^^geo:wktLiteral ;
+	pqv:P625 wdv:ef420bbe57592f8d527b0c5a1ec1bc52 .
+
+wd:Q217583 p:P17 wds:q217583-ea64dd32-4a08-c61e-ac71-1daf57cadc4a .
+
+wds:q217583-ea64dd32-4a08-c61e-ac71-1daf57cadc4a a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q217583 p:P169 wds:q217583-923cd055-46f1-6d50-c7d6-1757e94e3d39 .
+
+wds:q217583-923cd055-46f1-6d50-c7d6-1757e94e3d39 a wikibase:Statement ;
+	ps:P169 wd:Q47213 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q217583 p:P910 wds:Q217583-00C0F9C8-90ED-4EFC-AD2A-520A3534634E .
+
+wds:Q217583-00C0F9C8-90ED-4EFC-AD2A-520A3534634E a wikibase:Statement ;
+	ps:P910 wd:Q8297922 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q217583 p:P856 wds:Q217583-1F12F093-5650-4D6E-B247-F0BA6F868262 .
+
+wds:Q217583-1F12F093-5650-4D6E-B247-F0BA6F868262 a wikibase:Statement ;
+	ps:P856 <http://www.berkshirehathaway.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q217583 p:P646 wds:Q217583-061DB2A3-9D98-44BF-985C-7F54902B176B .
+
+wds:Q217583-061DB2A3-9D98-44BF-985C-7F54902B176B a wikibase:Statement ;
+	ps:P646 "/m/01tmng" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q217583 p:P127 wds:Q217583-30a4a73a-402c-9c9c-2be7-06bff364d28e .
+
+wds:Q217583-30a4a73a-402c-9c9c-2be7-06bff364d28e a wikibase:Statement ;
+	ps:P127 wd:Q47213 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P1107 "+0.1878"^^xsd:decimal ;
+	pqv:P1107 wdv:abff8fb28575f6b9f59e71624fed5567 .
+
+wd:Q217583 p:P571 wds:Q217583-7a222568-4a09-f06f-5fe3-0bd9d06ac6c2 .
+
+wds:Q217583-7a222568-4a09-f06f-5fe3-0bd9d06ac6c2 a wikibase:Statement ;
+	ps:P571 "1955-01-01T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:4548faeb71015fa6e12d0a31dd3a9fe9 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q217583 p:P1128 wds:Q217583-5ab0563a-4468-541f-9dc9-492faa441b4d .
+
+wds:Q217583-5ab0563a-4468-541f-9dc9-492faa441b4d a wikibase:Statement ;
+	ps:P1128 "+316000"^^xsd:decimal ;
+	psv:P1128 wdv:d76c20a3df955395e32a0f59273e6459 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://zh.wikipedia.org/wiki/%E6%B3%A2%E5%85%8B%E5%A4%8F%C2%B7%E5%93%88%E8%96%A9%E5%A8%81%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "zh" .
+
+<https://pl.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "pl" .
+
+<https://fr.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "fr" .
+
+<https://ko.wikipedia.org/wiki/%EB%B2%84%ED%81%AC%EC%85%94%20%ED%95%B4%EC%84%9C%EC%9B%A8%EC%9D%B4> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "ko" .
+
+<https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%A7%D7%A9%D7%99%D7%99%D7%A8%20%D7%94%D7%90%D7%AA%27%D7%90%D7%95%D7%95%D7%99%D7%99> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "he" .
+
+<https://es.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "es" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%86%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%9A%E0%AE%AF%E0%AE%B0%E0%AF%8D%20%E0%AE%B9%E0%AE%BE%E0%AE%A4%E0%AE%B5%E0%AF%87> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "ta" .
+
+<https://lv.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "lv" .
+
+<https://it.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "it" .
+
+<https://et.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "et" .
+
+<https://id.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "id" .
+
+<https://de.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%BB%E3%83%8F%E3%82%B5%E3%82%A6%E3%82%A7%E3%82%A4> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "ja" .
+
+<https://simple.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "simple" .
+
+<https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%B1%D9%83%D8%B4%D9%8A%D8%B1%20%D9%87%D8%A7%D8%AB%D8%A7%D9%88%D8%A7%D9%8A> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "ar" .
+
+<https://sv.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "sv" .
+
+<https://nl.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "nl" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%B6%E0%A4%BE%E0%A4%AF%E0%A4%B0%20%E0%A4%B9%E0%A4%BE%E0%A4%A5%E0%A4%B5%E0%A5%87> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "hi" .
+
+<https://pt.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "pt" .
+
+<https://ru.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "ru" .
+
+<https://kn.wikipedia.org/wiki/%E0%B2%AC%E0%B2%B0%E0%B3%8D%E0%B2%95%E0%B3%8D%E2%80%8C%E0%B2%B7%E0%B3%88%E0%B2%B0%E0%B3%8D%E2%80%8C%20%E0%B2%B9%E0%B2%BE%E0%B2%A5%E0%B3%8D%E2%80%8C%E0%B2%B5%E0%B3%87> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "kn" .
+
+<https://en.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "en" .
+
+<https://tr.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "tr" .
+
+<https://no.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "no" .
+
+<https://ro.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "ro" .
+
+<https://fi.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "fi" .
+
+<https://uk.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "uk" .
+
+<https://cy.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "cy" .
+
+<https://cs.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "cs" .
+
+<https://bg.wikipedia.org/wiki/%D0%91%D1%8A%D1%80%D0%BA%D1%88%D1%8A%D1%80%20%D0%A5%D0%B0%D1%82%D0%B0%D1%83%D0%B5%D0%B9> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "bg" .
+
+<https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%DA%A9%D8%B4%D8%A7%DB%8C%D8%B1%20%D9%87%D8%A7%D8%AA%D8%A7%D9%88%DB%8C> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "fa" .
+
+<https://lt.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "lt" .
+
+<https://da.wikipedia.org/wiki/Berkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "da" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%B6%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%20%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A5%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%87> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "bn" .
+
+<https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3ABerkshire%20Hathaway> a schema:Article ;
+	schema:about wd:Q217583 ;
+	schema:inLanguage "ru" .
+
+wdv:ef420bbe57592f8d527b0c5a1ec1bc52 a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "41.257361111111"^^xsd:decimal ;
+	wikibase:geoLongitude "-95.965388888889"^^xsd:decimal ;
+	wikibase:geoPrecision "2.7777777777778E-5"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdv:abff8fb28575f6b9f59e71624fed5567 a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+0.1878"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+0.1879"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+0.1877"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdv:d76c20a3df955395e32a0f59273e6459 a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+316000"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+316001"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+315999"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdata:Q217585 schema:version "156743271"^^xsd:integer ;
+	schema:dateModified "2014-09-10T22:06:22Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q217585 .
+

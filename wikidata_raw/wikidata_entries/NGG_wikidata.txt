@@ -1,0 +1,114 @@
+wd:Q1465461 a wikibase:Item ;
+	rdfs:label "National Grid"@de ;
+	skos:prefLabel "National Grid"@de ;
+	schema:name "National Grid"@de ;
+	rdfs:label "National Grid"@pl ;
+	skos:prefLabel "National Grid"@pl ;
+	schema:name "National Grid"@pl ;
+	rdfs:label "National Grid"@fr ;
+	skos:prefLabel "National Grid"@fr ;
+	schema:name "National Grid"@fr ;
+	rdfs:label "National Grid plc"@en ;
+	skos:prefLabel "National Grid plc"@en ;
+	schema:name "National Grid plc"@en ;
+	rdfs:label "National Grid plc"@ro ;
+	skos:prefLabel "National Grid plc"@ro ;
+	schema:name "National Grid plc"@ro ;
+	rdfs:label "نشنال گرید"@fa ;
+	skos:prefLabel "نشنال گرید"@fa ;
+	schema:name "نشنال گرید"@fa ;
+	schema:description "Übertragungsnetzbetreiber"@de ;
+	skos:altLabel "National Grid Company"@de,
+		"National Grid Transco"@fr,
+		"National Grid plc"@fr,
+		"National Grid Company"@fr,
+		"Lattice Group plc"@fr,
+		"National Grid"@ro ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P646 "/m/07vpy2" ;
+	wdt:P159 wd:Q84 ;
+	wdt:P452 wd:Q112046 ;
+	wdt:P155 wd:Q6497098 ;
+	wdt:P414 wd:Q13677,
+		wd:Q171240 ;
+	p:P31 wds:q1465461-9017D3DD-C1F9-462C-842C-615C88319F47 .
+
+wds:q1465461-9017D3DD-C1F9-462C-842C-615C88319F47 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q1465461 p:P646 wds:Q1465461-EE7DC7F3-A54F-449B-A985-CF048AC1B6DC .
+
+wds:Q1465461-EE7DC7F3-A54F-449B-A985-CF048AC1B6DC a wikibase:Statement ;
+	ps:P646 "/m/07vpy2" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q1465461 p:P159 wds:Q1465461-F20D6834-5DAB-4281-9FFC-734A683228BE .
+
+wds:Q1465461-F20D6834-5DAB-4281-9FFC-734A683228BE a wikibase:Statement ;
+	ps:P159 wd:Q84 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q1465461 p:P452 wds:Q1465461-de3d4612-4726-e9c1-a1f0-2bc56826c32a .
+
+wds:Q1465461-de3d4612-4726-e9c1-a1f0-2bc56826c32a a wikibase:Statement ;
+	ps:P452 wd:Q112046 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1465461 p:P155 wds:Q1465461-7B98D968-567A-4828-8105-D3FB889F878E .
+
+wds:Q1465461-7B98D968-567A-4828-8105-D3FB889F878E a wikibase:Statement ;
+	ps:P155 wd:Q6497098 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1465461 p:P414 wds:Q1465461-8E76AB9F-03AB-4DBF-900A-A12CC661BA54 .
+
+wds:Q1465461-8E76AB9F-03AB-4DBF-900A-A12CC661BA54 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1465461 p:P414 wds:Q1465461-6E35AEF9-9491-4145-AA6C-15D4178DEC7C .
+
+wds:Q1465461-6E35AEF9-9491-4145-AA6C-15D4178DEC7C a wikibase:Statement ;
+	ps:P414 wd:Q171240 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://de.wikipedia.org/wiki/National%20Grid> a schema:Article ;
+	schema:about wd:Q1465461 ;
+	schema:inLanguage "de" .
+
+<https://pl.wikipedia.org/wiki/National%20Grid> a schema:Article ;
+	schema:about wd:Q1465461 ;
+	schema:inLanguage "pl" .
+
+<https://fr.wikipedia.org/wiki/National%20Grid> a schema:Article ;
+	schema:about wd:Q1465461 ;
+	schema:inLanguage "fr" .
+
+<https://en.wikipedia.org/wiki/National%20Grid%20plc> a schema:Article ;
+	schema:about wd:Q1465461 ;
+	schema:inLanguage "en" .
+
+<https://ro.wikipedia.org/wiki/National%20Grid%20plc> a schema:Article ;
+	schema:about wd:Q1465461 ;
+	schema:inLanguage "ro" .
+
+<https://fa.wikipedia.org/wiki/%D9%86%D8%B4%D9%86%D8%A7%D9%84%20%DA%AF%D8%B1%DB%8C%D8%AF> a schema:Article ;
+	schema:about wd:Q1465461 ;
+	schema:inLanguage "fa" .
+
+wdata:Q1465465 schema:version "220759914"^^xsd:integer ;
+	schema:dateModified "2015-05-30T17:48:08Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q1465465 .
+

@@ -1,0 +1,111 @@
+wd:Q464092 a wikibase:Item ;
+	rdfs:label "American Electric Power"@ru ;
+	skos:prefLabel "American Electric Power"@ru ;
+	schema:name "American Electric Power"@ru ;
+	rdfs:label "American Electric Power"@fr ;
+	skos:prefLabel "American Electric Power"@fr ;
+	schema:name "American Electric Power"@fr ;
+	rdfs:label "American Electric Power"@en ;
+	skos:prefLabel "American Electric Power"@en ;
+	schema:name "American Electric Power"@en ;
+	rdfs:label "American Electric Power"@de ;
+	skos:prefLabel "American Electric Power"@de ;
+	schema:name "American Electric Power"@de ;
+	rdfs:label "American Electric Power"@fi ;
+	skos:prefLabel "American Electric Power"@fi ;
+	schema:name "American Electric Power"@fi ;
+	rdfs:label "American Electric Power"@nl ;
+	skos:prefLabel "American Electric Power"@nl ;
+	schema:name "American Electric Power"@nl ;
+	rdfs:label "آمریکن الکتریک پاور"@fa ;
+	skos:prefLabel "آمریکن الکتریک پاور"@fa ;
+	schema:name "آمریکن الکتریک پاور"@fa ;
+	rdfs:label "American Electric Power"@sv ;
+	skos:prefLabel "American Electric Power"@sv ;
+	schema:name "American Electric Power"@sv ;
+	skos:altLabel "AEP"@fi ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P646 "/m/05khjc" ;
+	wdt:P159 wd:Q16567 ;
+	wdt:P155 wd:Q8055707 ;
+	p:P414 wds:q464092-57BB68A1-7F3A-4F2B-9161-DFDF76016043 .
+
+wds:q464092-57BB68A1-7F3A-4F2B-9161-DFDF76016043 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q464092 p:P31 wds:q464092-DA59DA86-88DB-4271-B007-F31A2B195B30 .
+
+wds:q464092-DA59DA86-88DB-4271-B007-F31A2B195B30 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q464092 p:P646 wds:Q464092-1B900D3F-A98A-4D58-A77A-6E650FBAFC76 .
+
+wds:Q464092-1B900D3F-A98A-4D58-A77A-6E650FBAFC76 a wikibase:Statement ;
+	ps:P646 "/m/05khjc" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q464092 p:P159 wds:Q464092-FC378B3B-F0B9-4D97-B09A-3D86C0D61A0E .
+
+wds:Q464092-FC378B3B-F0B9-4D97-B09A-3D86C0D61A0E a wikibase:Statement ;
+	ps:P159 wd:Q16567 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(39.96515 -83.00509)"^^geo:wktLiteral ;
+	pqv:P625 wdv:308e4b39cde7cfb071794e53094baabf ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q464092 p:P155 wds:Q464092-04CAFDA8-24C6-47CF-B566-EFBCDFEAC177 .
+
+wds:Q464092-04CAFDA8-24C6-47CF-B566-EFBCDFEAC177 a wikibase:Statement ;
+	ps:P155 wd:Q8055707 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://ru.wikipedia.org/wiki/American%20Electric%20Power> a schema:Article ;
+	schema:about wd:Q464092 ;
+	schema:inLanguage "ru" .
+
+<https://fr.wikipedia.org/wiki/American%20Electric%20Power> a schema:Article ;
+	schema:about wd:Q464092 ;
+	schema:inLanguage "fr" .
+
+<https://en.wikipedia.org/wiki/American%20Electric%20Power> a schema:Article ;
+	schema:about wd:Q464092 ;
+	schema:inLanguage "en" .
+
+<https://de.wikipedia.org/wiki/American%20Electric%20Power> a schema:Article ;
+	schema:about wd:Q464092 ;
+	schema:inLanguage "de" .
+
+<https://fi.wikipedia.org/wiki/American%20Electric%20Power> a schema:Article ;
+	schema:about wd:Q464092 ;
+	schema:inLanguage "fi" .
+
+<https://sv.wikipedia.org/wiki/American%20Electric%20Power> a schema:Article ;
+	schema:about wd:Q464092 ;
+	schema:inLanguage "sv" .
+
+<https://fa.wikipedia.org/wiki/%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D9%86%20%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9%20%D9%BE%D8%A7%D9%88%D8%B1> a schema:Article ;
+	schema:about wd:Q464092 ;
+	schema:inLanguage "fa" .
+
+wdv:308e4b39cde7cfb071794e53094baabf a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "39.96515"^^xsd:decimal ;
+	wikibase:geoLongitude "-83.00509"^^xsd:decimal ;
+	wikibase:geoPrecision "2.7777777777778E-7"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdata:Q464118 schema:version "213162236"^^xsd:integer ;
+	schema:dateModified "2015-04-27T14:18:58Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q464118 .
+

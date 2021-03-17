@@ -1,0 +1,1614 @@
+wd:Q95 a wikibase:Item ;
+	rdfs:label "Google"@en ;
+	skos:prefLabel "Google"@en ;
+	schema:name "Google"@en ;
+	rdfs:label "Google"@ru ;
+	skos:prefLabel "Google"@ru ;
+	schema:name "Google"@ru ;
+	rdfs:label "Google"@it ;
+	skos:prefLabel "Google"@it ;
+	schema:name "Google"@it ;
+	rdfs:label "Google"@fr ;
+	skos:prefLabel "Google"@fr ;
+	schema:name "Google"@fr ;
+	rdfs:label "Google"@ja ;
+	skos:prefLabel "Google"@ja ;
+	schema:name "Google"@ja ;
+	rdfs:label "Google Inc."@de ;
+	skos:prefLabel "Google Inc."@de ;
+	schema:name "Google Inc."@de ;
+	rdfs:label "Google"@es ;
+	skos:prefLabel "Google"@es ;
+	schema:name "Google"@es ;
+	rdfs:label "Google"@en-ca ;
+	skos:prefLabel "Google"@en-ca ;
+	schema:name "Google"@en-ca ;
+	rdfs:label "Google"@en-gb ;
+	skos:prefLabel "Google"@en-gb ;
+	schema:name "Google"@en-gb ;
+	rdfs:label "جوجل"@ar ;
+	skos:prefLabel "جوجل"@ar ;
+	schema:name "جوجل"@ar ;
+	rdfs:label "Google"@fi ;
+	skos:prefLabel "Google"@fi ;
+	schema:name "Google"@fi ;
+	rdfs:label "Google"@pt ;
+	skos:prefLabel "Google"@pt ;
+	schema:name "Google"@pt ;
+	rdfs:label "Google"@pt-br ;
+	skos:prefLabel "Google"@pt-br ;
+	schema:name "Google"@pt-br ;
+	rdfs:label "Google"@zh ;
+	skos:prefLabel "Google"@zh ;
+	schema:name "Google"@zh ;
+	rdfs:label "Google"@zh-cn ;
+	skos:prefLabel "Google"@zh-cn ;
+	schema:name "Google"@zh-cn ;
+	rdfs:label "Google"@zh-tw ;
+	skos:prefLabel "Google"@zh-tw ;
+	schema:name "Google"@zh-tw ;
+	rdfs:label "Google"@zh-sg ;
+	skos:prefLabel "Google"@zh-sg ;
+	schema:name "Google"@zh-sg ;
+	rdfs:label "Google"@zh-mo ;
+	skos:prefLabel "Google"@zh-mo ;
+	schema:name "Google"@zh-mo ;
+	rdfs:label "Google"@zh-hant ;
+	skos:prefLabel "Google"@zh-hant ;
+	schema:name "Google"@zh-hant ;
+	rdfs:label "Google"@zh-hk ;
+	skos:prefLabel "Google"@zh-hk ;
+	schema:name "Google"@zh-hk ;
+	rdfs:label "Google"@zh-my ;
+	skos:prefLabel "Google"@zh-my ;
+	schema:name "Google"@zh-my ;
+	rdfs:label "Google"@af ;
+	skos:prefLabel "Google"@af ;
+	schema:name "Google"@af ;
+	rdfs:label "ጉግል"@am ;
+	skos:prefLabel "ጉግል"@am ;
+	schema:name "ጉግል"@am ;
+	rdfs:label "Google"@ang ;
+	skos:prefLabel "Google"@ang ;
+	schema:name "Google"@ang ;
+	rdfs:label "جوجل"@arz ;
+	skos:prefLabel "جوجل"@arz ;
+	schema:name "جوجل"@arz ;
+	rdfs:label "গুগল"@as ;
+	skos:prefLabel "গুগল"@as ;
+	schema:name "গুগল"@as ;
+	rdfs:label "Google"@ast ;
+	skos:prefLabel "Google"@ast ;
+	schema:name "Google"@ast ;
+	rdfs:label "Google"@az ;
+	skos:prefLabel "Google"@az ;
+	schema:name "Google"@az ;
+	rdfs:label "Google"@bar ;
+	skos:prefLabel "Google"@bar ;
+	schema:name "Google"@bar ;
+	rdfs:label "Google"@be ;
+	skos:prefLabel "Google"@be ;
+	schema:name "Google"@be ;
+	rdfs:label "Гугъл"@bg ;
+	skos:prefLabel "Гугъл"@bg ;
+	schema:name "Гугъл"@bg ;
+	rdfs:label "Gugolu"@bm ;
+	skos:prefLabel "Gugolu"@bm ;
+	schema:name "Gugolu"@bm ;
+	rdfs:label "গুগল"@bn ;
+	skos:prefLabel "গুগল"@bn ;
+	schema:name "গুগল"@bn ;
+	rdfs:label "Google"@br ;
+	skos:prefLabel "Google"@br ;
+	schema:name "Google"@br ;
+	rdfs:label "Google"@bs ;
+	skos:prefLabel "Google"@bs ;
+	schema:name "Google"@bs ;
+	rdfs:label "Google"@ca ;
+	skos:prefLabel "Google"@ca ;
+	schema:name "Google"@ca ;
+	rdfs:label "Google"@ceb ;
+	skos:prefLabel "Google"@ceb ;
+	schema:name "Google"@ceb ;
+	rdfs:label "گووگڵ"@ckb ;
+	skos:prefLabel "گووگڵ"@ckb ;
+	schema:name "گووگڵ"@ckb ;
+	rdfs:label "Google"@cs ;
+	skos:prefLabel "Google"@cs ;
+	schema:name "Google"@cs ;
+	rdfs:label "Кукăль"@cv ;
+	skos:prefLabel "Кукăль"@cv ;
+	schema:name "Кукăль"@cv ;
+	rdfs:label "Google"@cy ;
+	skos:prefLabel "Google"@cy ;
+	schema:name "Google"@cy ;
+	rdfs:label "Google"@da ;
+	skos:prefLabel "Google"@da ;
+	schema:name "Google"@da ;
+	rdfs:label "Google"@diq ;
+	skos:prefLabel "Google"@diq ;
+	schema:name "Google"@diq ;
+	rdfs:label "Google"@dsb ;
+	skos:prefLabel "Google"@dsb ;
+	schema:name "Google"@dsb ;
+	rdfs:label "Google"@el ;
+	skos:prefLabel "Google"@el ;
+	schema:name "Google"@el ;
+	rdfs:label "Google"@eo ;
+	skos:prefLabel "Google"@eo ;
+	schema:name "Google"@eo ;
+	rdfs:label "Google"@et ;
+	skos:prefLabel "Google"@et ;
+	schema:name "Google"@et ;
+	rdfs:label "Google"@eu ;
+	skos:prefLabel "Google"@eu ;
+	schema:name "Google"@eu ;
+	rdfs:label "گوگل"@fa ;
+	skos:prefLabel "گوگل"@fa ;
+	schema:name "گوگل"@fa ;
+	rdfs:label "Google"@fo ;
+	skos:prefLabel "Google"@fo ;
+	schema:name "Google"@fo ;
+	rdfs:label "Google"@ga ;
+	skos:prefLabel "Google"@ga ;
+	schema:name "Google"@ga ;
+	rdfs:label "Google"@gl ;
+	skos:prefLabel "Google"@gl ;
+	schema:name "Google"@gl ;
+	rdfs:label "חברת גוגל"@he ;
+	skos:prefLabel "חברת גוגל"@he ;
+	schema:name "חברת גוגל"@he ;
+	rdfs:label "गूगल"@hi ;
+	skos:prefLabel "गूगल"@hi ;
+	schema:name "गूगल"@hi ;
+	rdfs:label "Google"@hr ;
+	skos:prefLabel "Google"@hr ;
+	schema:name "Google"@hr ;
+	rdfs:label "Google"@hsb ;
+	skos:prefLabel "Google"@hsb ;
+	schema:name "Google"@hsb ;
+	rdfs:label "Google"@ht ;
+	skos:prefLabel "Google"@ht ;
+	schema:name "Google"@ht ;
+	rdfs:label "Google"@hu ;
+	skos:prefLabel "Google"@hu ;
+	schema:name "Google"@hu ;
+	rdfs:label "Google"@id ;
+	skos:prefLabel "Google"@id ;
+	schema:name "Google"@id ;
+	rdfs:label "Google"@io ;
+	skos:prefLabel "Google"@io ;
+	schema:name "Google"@io ;
+	rdfs:label "Google"@is ;
+	skos:prefLabel "Google"@is ;
+	schema:name "Google"@is ;
+	rdfs:label "ᒎᒐᓪ"@iu ;
+	skos:prefLabel "ᒎᒐᓪ"@iu ;
+	schema:name "ᒎᒐᓪ"@iu ;
+	rdfs:label "Google"@jv ;
+	skos:prefLabel "Google"@jv ;
+	schema:name "Google"@jv ;
+	rdfs:label "Google"@ka ;
+	skos:prefLabel "Google"@ka ;
+	schema:name "Google"@ka ;
+	rdfs:label "Google"@kaa ;
+	skos:prefLabel "Google"@kaa ;
+	schema:name "Google"@kaa ;
+	rdfs:label "Google"@kab ;
+	skos:prefLabel "Google"@kab ;
+	schema:name "Google"@kab ;
+	rdfs:label "Google"@kk ;
+	skos:prefLabel "Google"@kk ;
+	schema:name "Google"@kk ;
+	rdfs:label "Google ស្វែងរក"@km ;
+	skos:prefLabel "Google ស្វែងរក"@km ;
+	schema:name "Google ស្វែងរក"@km ;
+	rdfs:label "ಗೂಗಲ್"@kn ;
+	skos:prefLabel "ಗೂಗಲ್"@kn ;
+	schema:name "ಗೂಗಲ್"@kn ;
+	rdfs:label "구글"@ko ;
+	skos:prefLabel "구글"@ko ;
+	schema:name "구글"@ko ;
+	rdfs:label "Google"@ku ;
+	skos:prefLabel "Google"@ku ;
+	schema:name "Google"@ku ;
+	rdfs:label "Google"@ky ;
+	skos:prefLabel "Google"@ky ;
+	schema:name "Google"@ky ;
+	rdfs:label "Google"@la ;
+	skos:prefLabel "Google"@la ;
+	schema:name "Google"@la ;
+	rdfs:label "ກູໂກລ"@lo ;
+	skos:prefLabel "ກູໂກລ"@lo ;
+	schema:name "ກູໂກລ"@lo ;
+	rdfs:label "Google"@lt ;
+	skos:prefLabel "Google"@lt ;
+	schema:name "Google"@lt ;
+	rdfs:label "Google"@lv ;
+	skos:prefLabel "Google"@lv ;
+	schema:name "Google"@lv ;
+	rdfs:label "Google"@mg ;
+	skos:prefLabel "Google"@mg ;
+	schema:name "Google"@mg ;
+	rdfs:label "Google"@mk ;
+	skos:prefLabel "Google"@mk ;
+	schema:name "Google"@mk ;
+	rdfs:label "ഗൂഗിൾ"@ml ;
+	skos:prefLabel "ഗൂഗിൾ"@ml ;
+	schema:name "ഗൂഗിൾ"@ml ;
+	rdfs:label "Google"@mn ;
+	skos:prefLabel "Google"@mn ;
+	schema:name "Google"@mn ;
+	rdfs:label "गूगल"@mr ;
+	skos:prefLabel "गूगल"@mr ;
+	schema:name "गूगल"@mr ;
+	rdfs:label "Google"@ms ;
+	skos:prefLabel "Google"@ms ;
+	schema:name "Google"@ms ;
+	rdfs:label "ဂူဂယ်"@my ;
+	skos:prefLabel "ဂူဂယ်"@my ;
+	schema:name "ဂူဂယ်"@my ;
+	rdfs:label "گوگل"@mzn ;
+	skos:prefLabel "گوگل"@mzn ;
+	schema:name "گوگل"@mzn ;
+	rdfs:label "Google"@nah ;
+	skos:prefLabel "Google"@nah ;
+	schema:name "Google"@nah ;
+	rdfs:label "Google"@nds ;
+	skos:prefLabel "Google"@nds ;
+	schema:name "Google"@nds ;
+	rdfs:label "गुगल"@ne ;
+	skos:prefLabel "गुगल"@ne ;
+	schema:name "गुगल"@ne ;
+	rdfs:label "Google Inc."@nl ;
+	skos:prefLabel "Google Inc."@nl ;
+	schema:name "Google Inc."@nl ;
+	rdfs:label "Google"@nn ;
+	skos:prefLabel "Google"@nn ;
+	schema:name "Google"@nn ;
+	rdfs:label "Google"@oc ;
+	skos:prefLabel "Google"@oc ;
+	schema:name "Google"@oc ;
+	rdfs:label "ଗୁଗଲ"@or ;
+	skos:prefLabel "ଗୁଗଲ"@or ;
+	schema:name "ଗୁଗଲ"@or ;
+	rdfs:label "ਗੂਗਲ"@pa ;
+	skos:prefLabel "ਗੂਗਲ"@pa ;
+	schema:name "ਗੂਗਲ"@pa ;
+	rdfs:label "Google"@pl ;
+	skos:prefLabel "Google"@pl ;
+	schema:name "Google"@pl ;
+	rdfs:label "Google"@pms ;
+	skos:prefLabel "Google"@pms ;
+	schema:name "Google"@pms ;
+	rdfs:label "گوگل"@pnb ;
+	skos:prefLabel "گوگل"@pnb ;
+	schema:name "گوگل"@pnb ;
+	rdfs:label "ګووګل"@ps ;
+	skos:prefLabel "ګووګل"@ps ;
+	schema:name "ګووګل"@ps ;
+	rdfs:label "Google"@qu ;
+	skos:prefLabel "Google"@qu ;
+	schema:name "Google"@qu ;
+	rdfs:label "Google"@rn ;
+	skos:prefLabel "Google"@rn ;
+	schema:name "Google"@rn ;
+	rdfs:label "Google"@ro ;
+	skos:prefLabel "Google"@ro ;
+	schema:name "Google"@ro ;
+	rdfs:label "Google"@sah ;
+	skos:prefLabel "Google"@sah ;
+	schema:name "Google"@sah ;
+	rdfs:label "Google"@scn ;
+	skos:prefLabel "Google"@scn ;
+	schema:name "Google"@scn ;
+	rdfs:label "Google"@sco ;
+	skos:prefLabel "Google"@sco ;
+	schema:name "Google"@sco ;
+	rdfs:label "گوگل"@sd ;
+	skos:prefLabel "گوگل"@sd ;
+	schema:name "گوگل"@sd ;
+	rdfs:label "Google"@sh ;
+	skos:prefLabel "Google"@sh ;
+	schema:name "Google"@sh ;
+	rdfs:label "ගූගල්"@si ;
+	skos:prefLabel "ගූගල්"@si ;
+	schema:name "ගූගල්"@si ;
+	rdfs:label "Google"@sk ;
+	skos:prefLabel "Google"@sk ;
+	schema:name "Google"@sk ;
+	rdfs:label "Google"@sl ;
+	skos:prefLabel "Google"@sl ;
+	schema:name "Google"@sl ;
+	rdfs:label "Google"@so ;
+	skos:prefLabel "Google"@so ;
+	schema:name "Google"@so ;
+	rdfs:label "Гугл"@sr ;
+	skos:prefLabel "Гугл"@sr ;
+	schema:name "Гугл"@sr ;
+	rdfs:label "Google"@su ;
+	skos:prefLabel "Google"@su ;
+	schema:name "Google"@su ;
+	rdfs:label "Google"@sv ;
+	skos:prefLabel "Google"@sv ;
+	schema:name "Google"@sv ;
+	rdfs:label "கூகிள்"@ta ;
+	skos:prefLabel "கூகிள்"@ta ;
+	schema:name "கூகிள்"@ta ;
+	rdfs:label "గూగుల్"@te ;
+	skos:prefLabel "గూగుల్"@te ;
+	schema:name "గూగుల్"@te ;
+	rdfs:label "กูเกิล"@th ;
+	skos:prefLabel "กูเกิล"@th ;
+	schema:name "กูเกิล"@th ;
+	rdfs:label "Google"@tl ;
+	skos:prefLabel "Google"@tl ;
+	schema:name "Google"@tl ;
+	rdfs:label "Google"@tr ;
+	skos:prefLabel "Google"@tr ;
+	schema:name "Google"@tr ;
+	rdfs:label "Google"@tt ;
+	skos:prefLabel "Google"@tt ;
+	schema:name "Google"@tt ;
+	rdfs:label "Google"@uk ;
+	skos:prefLabel "Google"@uk ;
+	schema:name "Google"@uk ;
+	rdfs:label "گوگل"@ur ;
+	skos:prefLabel "گوگل"@ur ;
+	schema:name "گوگل"@ur ;
+	rdfs:label "Google"@uz ;
+	skos:prefLabel "Google"@uz ;
+	schema:name "Google"@uz ;
+	rdfs:label "Google Inc."@vec ;
+	skos:prefLabel "Google Inc."@vec ;
+	schema:name "Google Inc."@vec ;
+	rdfs:label "Google"@vi ;
+	skos:prefLabel "Google"@vi ;
+	schema:name "Google"@vi ;
+	rdfs:label "Google"@vls ;
+	skos:prefLabel "Google"@vls ;
+	schema:name "Google"@vls ;
+	rdfs:label "Google"@wa ;
+	skos:prefLabel "Google"@wa ;
+	schema:name "Google"@wa ;
+	rdfs:label "Google"@war ;
+	skos:prefLabel "Google"@war ;
+	schema:name "Google"@war ;
+	rdfs:label "Google"@xmf ;
+	skos:prefLabel "Google"@xmf ;
+	schema:name "Google"@xmf ;
+	rdfs:label "גוגל"@yi ;
+	skos:prefLabel "גוגל"@yi ;
+	schema:name "גוגל"@yi ;
+	rdfs:label "Google"@yo ;
+	skos:prefLabel "Google"@yo ;
+	schema:name "Google"@yo ;
+	rdfs:label "Google"@yue ;
+	skos:prefLabel "Google"@yue ;
+	schema:name "Google"@yue ;
+	rdfs:label "Google"@nb ;
+	skos:prefLabel "Google"@nb ;
+	schema:name "Google"@nb ;
+	rdfs:label "Google"@zh-hans ;
+	skos:prefLabel "Google"@zh-hans ;
+	schema:name "Google"@zh-hans ;
+	rdfs:label "Google Inc."@de-ch ;
+	skos:prefLabel "Google Inc."@de-ch ;
+	schema:name "Google Inc."@de-ch ;
+	rdfs:label "Google"@sq ;
+	skos:prefLabel "Google"@sq ;
+	schema:name "Google"@sq ;
+	rdfs:label "Google"@tg ;
+	skos:prefLabel "Google"@tg ;
+	schema:name "Google"@tg ;
+	rdfs:label "ગૂગલ"@gu ;
+	skos:prefLabel "ગૂગલ"@gu ;
+	schema:name "ગૂગલ"@gu ;
+	rdfs:label "Google"@gan ;
+	skos:prefLabel "Google"@gan ;
+	schema:name "Google"@gan ;
+	rdfs:label "Google"@bjn ;
+	skos:prefLabel "Google"@bjn ;
+	schema:name "Google"@bjn ;
+	rdfs:label "Гугл"@sr-ec ;
+	skos:prefLabel "Гугл"@sr-ec ;
+	schema:name "Гугл"@sr-ec ;
+	rdfs:label "Gugl"@sr-el ;
+	skos:prefLabel "Gugl"@sr-el ;
+	schema:name "Gugl"@sr-el ;
+	rdfs:label "Google"@zea ;
+	skos:prefLabel "Google"@zea ;
+	schema:name "Google"@zea ;
+	rdfs:label "Google"@nan ;
+	skos:prefLabel "Google"@nan ;
+	schema:name "Google"@nan ;
+	rdfs:label "Google"@sgs ;
+	skos:prefLabel "Google"@sgs ;
+	schema:name "Google"@sgs ;
+	rdfs:label "Google"@be-tarask ;
+	skos:prefLabel "Google"@be-tarask ;
+	schema:name "Google"@be-tarask ;
+	rdfs:label "Google"@kl ;
+	skos:prefLabel "Google"@kl ;
+	schema:name "Google"@kl ;
+	rdfs:label "Google"@lmo ;
+	skos:prefLabel "Google"@lmo ;
+	schema:name "Google"@lmo ;
+	rdfs:label "Google"@hak ;
+	skos:prefLabel "Google"@hak ;
+	schema:name "Google"@hak ;
+	rdfs:label "谷歌"@lzh ;
+	skos:prefLabel "谷歌"@lzh ;
+	schema:name "谷歌"@lzh ;
+	rdfs:label "Google Inc."@fy ;
+	skos:prefLabel "Google Inc."@fy ;
+	schema:name "Google Inc."@fy ;
+	rdfs:label "گوگل"@lrc ;
+	skos:prefLabel "گوگل"@lrc ;
+	schema:name "گوگل"@lrc ;
+	schema:description "azienda informatica e motore di ricerca"@it,
+		"entreprise américaine"@fr,
+		"American multinational Internet and technology corporation"@en,
+		"US-amerikanisches Internetunternehmen"@de,
+		"corporación multinacional estadounidense"@es,
+		"internettselskap"@nb,
+		"美国的跨国科技企业"@zh-hans,
+		"美國的跨國科技企業"@zh-hant,
+		"美国的跨国科技企业"@zh-cn,
+		"美国的跨国科技企业"@zh-sg,
+		"美国的跨国科技企业"@zh-my,
+		"美国的跨国科技企业"@zh,
+		"美國的跨國科技企業"@zh-hk,
+		"美國的跨國科技企業"@zh-tw,
+		"美國的跨國科技企業"@zh-mo,
+		"amerikai bejegyzésű multinacionális internetes és technológiai részvénytársaság"@hu,
+		"американская транснациональная публичная корпорация"@ru,
+		"empresa propietària de la marca Google, el producte principal de la qual és el motor de recerca"@ca,
+		"yhdysvaltalainen monikansallinen Internet- ja teknologiayritys"@fi,
+		"חברת אינטרנט"@he,
+		"empresa multinacional americana de internet e tecnologia"@pt-br,
+		"அமெரிக்க பன்னாட்டு இணைய மற்றும் தொழில்நுட்ப நிறுவனம்"@ta,
+		"American multinational Internet and technology corporation"@en-gb,
+		"perusahaan Internet dan teknologi multinasional Amerika Serikat"@id,
+		"Entrepresa"@oc,
+		"アメリカ合衆国のインターネット企業"@ja,
+		"අන්තර්ජාලය හා සම්බන්ධ නිපැයුම් හා සේවාවන් හී විශේෂිකරණය වු ඇමරිකානු බහුජාතික සමාගමකි"@si,
+		"amerikansk virksomhed"@da,
+		"американська публічна транснаціональна корпорація, лідер веб-ринку у світі"@uk,
+		"Amerikaanse multinational internet- en technologiebedrijf"@nl,
+		"Amerikaanske multinational"@fy,
+		"بانک تجارت"@fa,
+		"American multinaitional Internet an technology corporation"@sco,
+		"samhini"@su,
+		"Amerikanskt internet och teknikföretag"@sv,
+		"Empresa multinacional americana de internet tecnologia"@pt ;
+	skos:altLabel "グーグル"@ja,
+		"Google"@de,
+		"Google Incorporated"@de,
+		"谷歌"@zh-hans,
+		"谷歌"@zh-hant,
+		"谷歌"@zh-cn,
+		"谷歌"@zh-sg,
+		"谷歌"@zh-my,
+		"谷歌"@zh,
+		"谷歌"@zh-hk,
+		"谷歌"@zh-tw,
+		"谷歌"@zh-mo,
+		"Google Inc."@en,
+		"Google Inc."@it,
+		"Google.com"@it,
+		"Google Inc"@ca,
+		"Google Inc."@ca,
+		"Directori Google"@ca,
+		"Google Blogsearch"@ca,
+		"Google Books"@ca,
+		"Google Grups"@ca,
+		"Google Groups"@ca,
+		"Google Reader"@ca,
+		"Google search"@ca,
+		"Google Inc."@fi,
+		"Google Inc"@he,
+		"גוגל"@he,
+		"Google Inc."@pt-br,
+		"Google, Inc"@pt-br,
+		"Google Incorporated"@pt-br,
+		"Google, Incorporated"@pt-br,
+		"Google Inc."@pt,
+		"Google, Inc"@pt,
+		"Google Incorporated"@pt,
+		"Google, Incorporated"@pt,
+		"Guglo"@eo,
+		"Google Inc."@ru,
+		"Гугл"@ru,
+		"Google Inc."@es,
+		"Google Inc."@sv ;
+	wdt:P463 wd:Q15614763,
+		wd:Q3614083 ;
+	wdt:P1320 "us_id/D158010" ;
+	wdt:P1297 "77-0493581" ;
+	wdt:P1278 "7ZW8QJWVPR4P1J1KQY45" ;
+	wdt:P1151 wd:Q7850593 ;
+	wdt:P112 wd:Q92764,
+		wd:Q4934 ;
+	wdt:P169 wd:Q4934 ;
+	wdt:P159 wd:Q694178 ;
+	wdt:P373 "Google" ;
+	wdt:P355 wd:Q1318441,
+		wd:Q1053674,
+		wd:Q1816282,
+		wd:Q1114200,
+		wd:Q866,
+		wd:Q140258,
+		wd:Q942327,
+		wd:Q171186,
+		wd:Q15732990,
+		wd:Q2298325,
+		wd:Q4997299,
+		wd:Q2119882,
+		wd:Q15733006,
+		wd:Q7950747,
+		wd:Q164203 ;
+	wdt:P414 wd:Q82059 ;
+	wdt:P571 "1998-09-04T00:00:00Z"^^xsd:dateTime ;
+	wdt:P452 wd:Q75,
+		wd:Q880371,
+		wd:Q12070726 ;
+	wdt:P199 wd:Q13462819,
+		wd:Q1377855,
+		wd:Q133928 ;
+	wdt:P138 wd:Q507 ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P856 <https://www.google.com> ;
+	wdt:P910 wd:Q4004268 ;
+	wdt:P646 "/m/045c7b" ;
+	wdt:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Google%202013%20Official.svg> ;
+	wdt:P1128 "+47756"^^xsd:decimal,
+		"+53861"^^xsd:decimal ;
+	wdt:P166 wd:Q858637,
+		wd:Q3323451 ;
+	wdt:P227 "10122609-3" ;
+	wdt:P1343 wd:Q17290934 ;
+	wdt:P553 wd:Q364 ;
+	p:P463 wds:Q95-d2b1fabb-4189-06e2-507e-73a9c87aec79 .
+
+wds:Q95-d2b1fabb-4189-06e2-507e-73a9c87aec79 a wikibase:Statement ;
+	ps:P463 wd:Q15614763 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P580 "2014-01-06T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:6ec9bfe723a4bba7987d33ccbfd36086 ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q95 p:P463 wds:Q95-e1474dea-4aa7-83f3-939b-0f85ed8d21c0 .
+
+wds:Q95-e1474dea-4aa7-83f3-939b-0f85ed8d21c0 a wikibase:Statement ;
+	ps:P463 wd:Q3614083 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P582 "2014-09-22T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:41c6c162bc44b20be9025a9137c89058 .
+
+wd:Q95 p:P1320 wds:Q95-4f2a9cce-43df-82f3-7474-1e67b074bf5e .
+
+wds:Q95-4f2a9cce-43df-82f3-7474-1e67b074bf5e a wikibase:Statement ;
+	ps:P1320 "us_id/D158010" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P1297 wds:Q95-c39c1886-4b07-8c95-39cf-05ee4749a308 .
+
+wds:Q95-c39c1886-4b07-8c95-39cf-05ee4749a308 a wikibase:Statement ;
+	ps:P1297 "77-0493581" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P1278 wds:Q95-920d7128-4d58-1d7c-9139-19959f886c52 .
+
+wds:Q95-920d7128-4d58-1d7c-9139-19959f886c52 a wikibase:Statement ;
+	ps:P1278 "7ZW8QJWVPR4P1J1KQY45" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P1151 wds:Q95-7a9ce3e6-41c6-ef78-1820-65b13f3f0e9b .
+
+wds:Q95-7a9ce3e6-41c6-ef78-1820-65b13f3f0e9b a wikibase:Statement ;
+	ps:P1151 wd:Q7850593 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P112 wds:q95-E452FF1B-59C8-432F-A457-8A689AA9C613 .
+
+wds:q95-E452FF1B-59C8-432F-A457-8A689AA9C613 a wikibase:Statement ;
+	ps:P112 wd:Q92764 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P112 wds:Q95-e7cb2b83-4da2-af80-226c-f9d4a7fcd29f .
+
+wds:Q95-e7cb2b83-4da2-af80-226c-f9d4a7fcd29f a wikibase:Statement ;
+	ps:P112 wd:Q4934 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P169 wds:q95-E91DD8D6-07D3-4652-8A16-B1942D3CE7C7 .
+
+wds:q95-E91DD8D6-07D3-4652-8A16-B1942D3CE7C7 a wikibase:Statement ;
+	ps:P169 wd:Q4934 ;
+	wikibase:rank wikibase:PreferredRank,
+		wikibase:BestRank ;
+	pq:P580 "2011-04-04T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:d5522e720e81d1f2c86190dfada3b834 ;
+	prov:wasDerivedFrom wdref:075328dc6d4c91038d87e818341b62031c93dc1c .
+
+wd:Q95 p:P169 wds:Q95-12920180-4305-3f90-c3f8-d38bfe2b58bc .
+
+wds:Q95-12920180-4305-3f90-c3f8-d38bfe2b58bc a wikibase:Statement ;
+	ps:P169 wd:Q92747 ;
+	wikibase:rank wikibase:NormalRank ;
+	pq:P582 "2011-04-03T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:d3b130d3fa88114a01a4841a02499fdd ;
+	prov:wasDerivedFrom wdref:075328dc6d4c91038d87e818341b62031c93dc1c .
+
+wd:Q95 p:P159 wds:q95-38088B19-D4FE-43AF-9E75-B26D57CF80DC .
+
+wds:q95-38088B19-D4FE-43AF-9E75-B26D57CF80DC a wikibase:Statement ;
+	ps:P159 wd:Q694178 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(37.422053 -122.084442)"^^geo:wktLiteral ;
+	pqv:P625 wdv:c56575307e8363fec82e10a2197e5a45 .
+
+wd:Q95 p:P373 wds:q95-66BB445F-D1AA-4194-98E4-1E982D44755C .
+
+wds:q95-66BB445F-D1AA-4194-98E4-1E982D44755C a wikibase:Statement ;
+	ps:P373 "Google" ;
+	wikibase:rank wikibase:PreferredRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P355 wds:q95-90783571-1BDA-43A6-B637-7BA6F4AF7F27 .
+
+wds:q95-90783571-1BDA-43A6-B637-7BA6F4AF7F27 a wikibase:Statement ;
+	ps:P355 wd:Q1318441 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P355 wds:q95-E57B8F87-9D7A-4D14-B328-E4A760EC6FC3 .
+
+wds:q95-E57B8F87-9D7A-4D14-B328-E4A760EC6FC3 a wikibase:Statement ;
+	ps:P355 wd:Q1053674 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:a61f99cca5680137c75a78d6fb535de1baebe967 .
+
+wd:Q95 p:P355 wds:q95-D6F77FEB-F417-4F0D-82D1-53B5AF4FE919 .
+
+wds:q95-D6F77FEB-F417-4F0D-82D1-53B5AF4FE919 a wikibase:Statement ;
+	ps:P355 wd:Q1816282 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P355 wds:q95-720B94CA-0D65-4CE7-AE53-241CFF9A4989 .
+
+wds:q95-720B94CA-0D65-4CE7-AE53-241CFF9A4989 a wikibase:Statement ;
+	ps:P355 wd:Q1114200 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P355 wds:q95-E08C0029-5A1C-45C2-A0F8-F95C4F783632 .
+
+wds:q95-E08C0029-5A1C-45C2-A0F8-F95C4F783632 a wikibase:Statement ;
+	ps:P355 wd:Q866 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P355 wds:q95-D53E2B4E-324F-4F6A-87FB-A7D98019512A .
+
+wds:q95-D53E2B4E-324F-4F6A-87FB-A7D98019512A a wikibase:Statement ;
+	ps:P355 wd:Q140258 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P355 wds:q95-80166d1c-42aa-a8c1-ef20-8f990b33b5f0 .
+
+wds:q95-80166d1c-42aa-a8c1-ef20-8f990b33b5f0 a wikibase:Statement ;
+	ps:P355 wd:Q942327 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:a61f99cca5680137c75a78d6fb535de1baebe967 .
+
+wd:Q95 p:P355 wds:Q95-70dbf572-425e-953e-51c9-5a2aa0cb1d5f .
+
+wds:Q95-70dbf572-425e-953e-51c9-5a2aa0cb1d5f a wikibase:Statement ;
+	ps:P355 wd:Q171186 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P355 wds:Q95-3603ba62-4bb9-4ff7-fd9a-11d09905fae1 .
+
+wds:Q95-3603ba62-4bb9-4ff7-fd9a-11d09905fae1 a wikibase:Statement ;
+	ps:P355 wd:Q15732990 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P355 wds:Q95-87b1117c-4e27-4503-0074-ee475db82216 .
+
+wds:Q95-87b1117c-4e27-4503-0074-ee475db82216 a wikibase:Statement ;
+	ps:P355 wd:Q2298325 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:a61f99cca5680137c75a78d6fb535de1baebe967 .
+
+wd:Q95 p:P355 wds:Q95-30536422-4c14-b3e5-c211-ff29ad833a2d .
+
+wds:Q95-30536422-4c14-b3e5-c211-ff29ad833a2d a wikibase:Statement ;
+	ps:P355 wd:Q4997299 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P355 wds:Q95-92bd94d7-420a-7b11-4b68-bdf893b32d1b .
+
+wds:Q95-92bd94d7-420a-7b11-4b68-bdf893b32d1b a wikibase:Statement ;
+	ps:P355 wd:Q2119882 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P355 wds:Q95-ebd69b08-4055-1cab-634f-b15577ebffbb .
+
+wds:Q95-ebd69b08-4055-1cab-634f-b15577ebffbb a wikibase:Statement ;
+	ps:P355 wd:Q15733006 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P355 wds:Q95-b93c6bad-4978-cce7-e93f-6b05cd3dd76c .
+
+wds:Q95-b93c6bad-4978-cce7-e93f-6b05cd3dd76c a wikibase:Statement ;
+	ps:P355 wd:Q7950747 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P355 wds:Q95-77f44d7f-4b79-da8c-d63a-7ee9f10491e6 .
+
+wds:Q95-77f44d7f-4b79-da8c-d63a-7ee9f10491e6 a wikibase:Statement ;
+	ps:P355 wd:Q164203 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P414 wds:q95-3ed5f21a-46d3-c3de-3f9a-2fd5a3d6e994 .
+
+wds:q95-3ed5f21a-46d3-c3de-3f9a-2fd5a3d6e994 a wikibase:Statement ;
+	ps:P414 wd:Q82059 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "GOOG",
+		"GOOGL" ;
+	prov:wasDerivedFrom wdref:27ccb969b5130559d04798b4617e3101745fd201 .
+
+wd:Q95 p:P571 wds:q95-3a9fd1c1-47b5-48b3-2b3e-d29f45273b3a .
+
+wds:q95-3a9fd1c1-47b5-48b3-2b3e-d29f45273b3a a wikibase:Statement ;
+	ps:P571 "1998-09-04T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:56b74d194062ecf51c8f170523b7735c ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P452 wds:q95-7cbf90f9-4233-9d93-bc23-aa35ebb8396a .
+
+wds:q95-7cbf90f9-4233-9d93-bc23-aa35ebb8396a a wikibase:Statement ;
+	ps:P452 wd:Q75 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P452 wds:q95-4535f7cd-4dd7-1179-5fed-49e97b09751e .
+
+wds:q95-4535f7cd-4dd7-1179-5fed-49e97b09751e a wikibase:Statement ;
+	ps:P452 wd:Q880371 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P452 wds:q95-9adb22a8-4561-882d-40ff-103d5ff3d227 .
+
+wds:q95-9adb22a8-4561-882d-40ff-103d5ff3d227 a wikibase:Statement ;
+	ps:P452 wd:Q12070726 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P199 wds:q95-2bf5d32c-43c8-b88d-4018-fc954da7a003 .
+
+wds:q95-2bf5d32c-43c8-b88d-4018-fc954da7a003 a wikibase:Statement ;
+	ps:P199 wd:Q13462819 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P199 wds:q95-d6437e8e-40a2-915d-d351-a9d992b46d47 .
+
+wds:q95-d6437e8e-40a2-915d-d351-a9d992b46d47 a wikibase:Statement ;
+	ps:P199 wd:Q1377855 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P199 wds:q95-4fe9698d-4199-1638-8f49-a4cab36e567f .
+
+wds:q95-4fe9698d-4199-1638-8f49-a4cab36e567f a wikibase:Statement ;
+	ps:P199 wd:Q133928 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P138 wds:q95-2a5e0891-4742-afb2-3f20-cc25f94ff551 .
+
+wds:q95-2a5e0891-4742-afb2-3f20-cc25f94ff551 a wikibase:Statement ;
+	ps:P138 wd:Q507 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P31 wds:Q95-e4606ad7-4f13-8698-a7ac-38effed34053 .
+
+wds:Q95-e4606ad7-4f13-8698-a7ac-38effed34053 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P856 wds:Q95-35ba5038-457d-118c-fee7-ee4e4b38cab2 .
+
+wds:Q95-35ba5038-457d-118c-fee7-ee4e4b38cab2 a wikibase:Statement ;
+	ps:P856 <https://www.google.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P910 wds:Q95-1308E427-B70B-41D6-A8C2-CE3F4754798E .
+
+wds:Q95-1308E427-B70B-41D6-A8C2-CE3F4754798E a wikibase:Statement ;
+	ps:P910 wd:Q4004268 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q95 p:P646 wds:Q95-A8990A1F-1FEE-4546-905C-5147F845AF83 .
+
+wds:Q95-A8990A1F-1FEE-4546-905C-5147F845AF83 a wikibase:Statement ;
+	ps:P646 "/m/045c7b" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q95 p:P154 wds:Q95-49959725-4b36-6a53-b0ef-79bc19a2474c .
+
+wds:Q95-49959725-4b36-6a53-b0ef-79bc19a2474c a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Google%202013%20Official.svg> ;
+	wikibase:rank wikibase:PreferredRank,
+		wikibase:BestRank ;
+	pq:P580 "2013-09-20T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:8a26cea6f3b6e7e9aa8ff38dfe3714b3 ;
+	prov:wasDerivedFrom wdref:473eaef2829a3b999a3002bb35c7f5b896c955bf .
+
+wd:Q95 p:P154 wds:Q95-29f572bd-419e-fc3b-5c46-a9b079b78916 .
+
+wds:Q95-29f572bd-419e-fc3b-5c46-a9b079b78916 a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Googlelogo.png> ;
+	wikibase:rank wikibase:NormalRank .
+
+wd:Q95 p:P154 wds:Q95-a942c410-4bc8-9144-2857-8ade738a4c86 .
+
+wds:Q95-a942c410-4bc8-9144-2857-8ade738a4c86 a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Googlelogo1997.jpg> ;
+	wikibase:rank wikibase:NormalRank ;
+	pq:P580 "1998-09-04T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:56b74d194062ecf51c8f170523b7735c .
+
+wd:Q95 p:P154 wds:Q95-fa4887a1-4b0b-1da8-d1cc-b3afeeecb0e5 .
+
+wds:Q95-fa4887a1-4b0b-1da8-d1cc-b3afeeecb0e5 a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Google.png> ;
+	wikibase:rank wikibase:NormalRank .
+
+wd:Q95 p:P1128 wds:Q95-89d04bbd-498f-5318-4a74-274860485016 .
+
+wds:Q95-89d04bbd-498f-5318-4a74-274860485016 a wikibase:Statement ;
+	ps:P1128 "+47756"^^xsd:decimal ;
+	psv:P1128 wdv:c999bb94fd51249c1d36f315788ec2ad ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P585 "2013-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P585 wdv:e8f0787e44ff9dd43e5b4af2e7fe2b10 .
+
+wd:Q95 p:P1128 wds:Q95-88e58d09-4f4f-5a86-931b-2105fd10ae1f .
+
+wds:Q95-88e58d09-4f4f-5a86-931b-2105fd10ae1f a wikibase:Statement ;
+	ps:P1128 "+53861"^^xsd:decimal ;
+	psv:P1128 wdv:3c79d450c637cc0bef680e8757bf94f1 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P585 "2012-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P585 wdv:bac6eb51cc0ffa931059db82b8dccc6b ;
+	prov:wasDerivedFrom wdref:d9db04be3fbc8b3a2ffe19b50a70e4b1dcf9a4a9 .
+
+wd:Q95 p:P166 wds:Q95-68af7d66-45cd-dbc6-5c44-7d531b2197cf .
+
+wds:Q95-68af7d66-45cd-dbc6-5c44-7d531b2197cf a wikibase:Statement ;
+	ps:P166 wd:Q858637 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P585 "2013-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P585 wdv:e8f0787e44ff9dd43e5b4af2e7fe2b10 .
+
+wd:Q95 p:P166 wds:Q95-c4bc1df7-4a04-f09a-aa42-768dad6d7373 .
+
+wds:Q95-c4bc1df7-4a04-f09a-aa42-768dad6d7373 a wikibase:Statement ;
+	ps:P166 wd:Q3323451 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P585 "2008-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P585 wdv:ce90feaacda74eb7f8326b25fb625c6d .
+
+wd:Q95 p:P227 wds:Q95-198545D2-3A5F-46FF-BC4F-013B98437D67 .
+
+wds:Q95-198545D2-3A5F-46FF-BC4F-013B98437D67 a wikibase:Statement ;
+	ps:P227 "10122609-3" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q95 p:P1343 wds:Q95-21978635-16C3-4C3C-98F1-76AFC3667520 .
+
+wds:Q95-21978635-16C3-4C3C-98F1-76AFC3667520 a wikibase:Statement ;
+	ps:P1343 wd:Q17290934 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P248 wd:Q17315765 ;
+	pq:P1476 "Google Inc."@ru .
+
+wd:Q95 p:P553 wds:Q95-f68adf4a-4719-89c0-cfc2-77413d166443 .
+
+wds:Q95-f68adf4a-4719-89c0-cfc2-77413d166443 a wikibase:Statement ;
+	ps:P553 wd:Q364 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P554 "google" .
+
+<https://ar.wikipedia.org/wiki/%D8%AC%D9%88%D8%AC%D9%84> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ar" .
+
+<https://ru.wikipedia.org/wiki/Google%20%28%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%29> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ru" .
+
+<https://fi.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "fi" .
+
+<https://es.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "es" .
+
+<https://fr.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "fr" .
+
+<https://af.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "af" .
+
+<https://ang.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ang" .
+
+<https://arz.wikipedia.org/wiki/%D8%AC%D9%88%D8%AC%D9%84> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "arz" .
+
+<https://as.wikipedia.org/wiki/%E0%A6%97%E0%A7%81%E0%A6%97%E0%A6%B2> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "as" .
+
+<https://ast.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ast" .
+
+<https://az.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "az" .
+
+<https://bat-smg.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "bat-smg" .
+
+<https://be.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "be" .
+
+<https://bg.wikipedia.org/wiki/%D0%93%D1%83%D0%B3%D1%8A%D0%BB> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "bg" .
+
+<https://bm.wikipedia.org/wiki/Gugolu> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "bm" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%97%E0%A7%81%E0%A6%97%E0%A6%B2%20%28%E0%A6%95%E0%A7%8B%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%29> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "bn" .
+
+<https://br.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "br" .
+
+<https://ca.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ca" .
+
+<https://ceb.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ceb" .
+
+<https://ckb.wikipedia.org/wiki/%DA%AF%D9%88%D9%88%DA%AF%DA%B5> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ckb" .
+
+<https://cs.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "cs" .
+
+<https://cv.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA%C4%83%D0%BB%D1%8C%20%28%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%29> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "cv" .
+
+<https://cy.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "cy" .
+
+<https://da.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "da" .
+
+<https://de.wikipedia.org/wiki/Google%20Inc.> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "de" .
+
+<https://diq.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "diq" .
+
+<https://dsb.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "dsb" .
+
+<https://el.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "el" .
+
+<https://eo.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "eo" .
+
+<https://et.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "et" .
+
+<https://fo.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "fo" .
+
+<https://ga.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ga" .
+
+<https://gl.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "gl" .
+
+<https://he.wikipedia.org/wiki/%D7%92%D7%95%D7%92%D7%9C%20%28%D7%97%D7%91%D7%A8%D7%94%29> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "he" .
+
+<https://hr.wikipedia.org/wiki/Google%20%28tvrtka%29> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "hr" .
+
+<https://hsb.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "hsb" .
+
+<https://ht.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ht" .
+
+<https://hu.wikipedia.org/wiki/Google%20Inc.> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "hu" .
+
+<https://id.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "id" .
+
+<https://io.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "io" .
+
+<https://is.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "is" .
+
+<https://iu.wikipedia.org/wiki/%E1%92%8E%E1%92%90%E1%93%AA> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "iu" .
+
+<https://ja.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ja" .
+
+<https://jv.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "jv" .
+
+<https://ka.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ka" .
+
+<https://kaa.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "kaa" .
+
+<https://kab.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "kab" .
+
+<https://kk.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "kk" .
+
+<https://km.wikipedia.org/wiki/Google%20%E1%9E%9F%E1%9F%92%E1%9E%9C%E1%9F%82%E1%9E%84%E1%9E%9A%E1%9E%80> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "km" .
+
+<https://kn.wikipedia.org/wiki/%E0%B2%97%E0%B3%82%E0%B2%97%E0%B2%B2%E0%B3%8D> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "kn" .
+
+<https://ko.wikipedia.org/wiki/%EA%B5%AC%EA%B8%80> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ko" .
+
+<https://ku.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ku" .
+
+<https://ky.wikipedia.org/wiki/Google%20%28%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%29> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ky" .
+
+<https://la.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "la" .
+
+<https://lo.wikipedia.org/wiki/%E0%BA%81%E0%BA%B9%E0%BB%82%E0%BA%81%E0%BA%A5> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "lo" .
+
+<https://lt.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "lt" .
+
+<https://lv.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "lv" .
+
+<https://mg.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "mg" .
+
+<https://mk.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "mk" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%97%E0%B5%82%E0%B4%97%E0%B4%BF%E0%B5%BE> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ml" .
+
+<https://mn.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "mn" .
+
+<https://mr.wikipedia.org/wiki/%E0%A4%97%E0%A5%82%E0%A4%97%E0%A4%B2> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "mr" .
+
+<https://ms.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ms" .
+
+<https://my.wikipedia.org/wiki/%E1%80%82%E1%80%B0%E1%80%82%E1%80%9A%E1%80%BA> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "my" .
+
+<https://mzn.wikipedia.org/wiki/%DA%AF%D9%88%DA%AF%D9%84> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "mzn" .
+
+<https://nah.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "nah" .
+
+<https://nds.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "nds" .
+
+<https://ne.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%97%E0%A4%B2> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ne" .
+
+<https://nl.wikipedia.org/wiki/Google%20Inc.> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "nl" .
+
+<https://nn.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "nn" .
+
+<https://no.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "no" .
+
+<https://oc.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "oc" .
+
+<https://or.wikipedia.org/wiki/%E0%AC%97%E0%AD%81%E0%AC%97%E0%AC%B2> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "or" .
+
+<https://pa.wikipedia.org/wiki/%E0%A8%97%E0%A9%82%E0%A8%97%E0%A8%B2> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "pa" .
+
+<https://pl.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "pl" .
+
+<https://pms.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "pms" .
+
+<https://pnb.wikipedia.org/wiki/%DA%AF%D9%88%DA%AF%D9%84> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "pnb" .
+
+<https://ps.wikipedia.org/wiki/%DA%AF%D9%88%D9%88%DA%AF%D9%84> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ps" .
+
+<https://qu.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "qu" .
+
+<https://rn.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "rn" .
+
+<https://ro.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ro" .
+
+<https://sah.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "sah" .
+
+<https://scn.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "scn" .
+
+<https://sco.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "sco" .
+
+<https://sd.wikipedia.org/wiki/%DA%AF%D9%88%DA%AF%D9%84> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "sd" .
+
+<https://sh.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "sh" .
+
+<https://si.wikipedia.org/wiki/%E0%B6%9C%E0%B7%96%E0%B6%9C%E0%B6%BD%E0%B7%8A> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "si" .
+
+<https://simple.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "simple" .
+
+<https://sk.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "sk" .
+
+<https://sl.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "sl" .
+
+<https://so.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "so" .
+
+<https://sr.wikipedia.org/wiki/%D0%93%D1%83%D0%B3%D0%BB> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "sr" .
+
+<https://su.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "su" .
+
+<https://sv.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "sv" .
+
+<https://te.wikipedia.org/wiki/%E0%B0%97%E0%B1%82%E0%B0%97%E0%B1%81%E0%B0%B2%E0%B1%8D> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "te" .
+
+<https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%A5> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "th" .
+
+<https://tl.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "tl" .
+
+<https://tt.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "tt" .
+
+<https://uk.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "uk" .
+
+<https://ur.wikipedia.org/wiki/%DA%AF%D9%88%DA%AF%D9%84> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ur" .
+
+<https://uz.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "uz" .
+
+<https://vec.wikipedia.org/wiki/Google%20Inc.> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "vec" .
+
+<https://vi.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "vi" .
+
+<https://vls.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "vls" .
+
+<https://wa.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "wa" .
+
+<https://war.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "war" .
+
+<https://xmf.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "xmf" .
+
+<https://yi.wikipedia.org/wiki/%D7%92%D7%95%D7%92%D7%9C> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "yi" .
+
+<https://yo.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "yo" .
+
+<https://zh-yue.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "zh-yue" .
+
+<https://sq.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "sq" .
+
+<https://zh-min-nan.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "zh-min-nan" .
+
+<https://it.wikipedia.org/wiki/Google%20Inc.> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "it" .
+
+<https://be-x-old.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "be-x-old" .
+
+<https://tg.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "tg" .
+
+<https://gu.wikipedia.org/wiki/%E0%AA%97%E0%AB%82%E0%AA%97%E0%AA%B2> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "gu" .
+
+<https://bjn.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "bjn" .
+
+<https://gan.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "gan" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%82%E0%A4%97%E0%A4%B2> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "hi" .
+
+<https://commons.wikimedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "en" .
+
+<https://zea.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "zea" .
+
+<https://en.wikiquote.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "en" .
+
+<https://zh.wikiquote.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "zh" .
+
+<https://de.wikiquote.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "de" .
+
+<https://fr.wikiquote.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "fr" .
+
+<https://pl.wikiquote.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "pl" .
+
+<https://hak.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "hak" .
+
+<https://zh-classical.wikipedia.org/wiki/%E8%B0%B7%E6%AD%8C> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "zh-classical" .
+
+<https://fa.wikipedia.org/wiki/%DA%AF%D9%88%DA%AF%D9%84> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "fa" ;
+	wikibase:badge wd:Q17437796 .
+
+<https://bar.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "bar" ;
+	wikibase:badge wd:Q17437796 .
+
+<https://eu.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "eu" ;
+	wikibase:badge wd:Q17437796 .
+
+<https://en.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "en" ;
+	wikibase:badge wd:Q17437798 .
+
+<https://pt.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "pt" ;
+	wikibase:badge wd:Q17437796 .
+
+<https://zh.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "zh" ;
+	wikibase:badge wd:Q17437798 .
+
+<https://tr.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "tr" ;
+	wikibase:badge wd:Q17437796 .
+
+<https://uk.wikiquote.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "uk" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%82%E0%AE%95%E0%AF%81%E0%AE%B3%E0%AF%8D> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "ta" .
+
+<https://is.wikibooks.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "is" .
+
+<https://bs.wikipedia.org/wiki/Google> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "bs" ;
+	wikibase:badge wd:Q17437796 .
+
+<https://am.wikipedia.org/wiki/%E1%8C%89%E1%8C%8D%E1%88%8D> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "am" ;
+	wikibase:badge wd:Q17437796 .
+
+<https://lrc.wikipedia.org/wiki/%DA%AF%D9%88%DA%AF%D9%84> a schema:Article ;
+	schema:about wd:Q95 ;
+	schema:inLanguage "lrc" .
+
+wdv:6ec9bfe723a4bba7987d33ccbfd36086 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2014-01-06T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:d5522e720e81d1f2c86190dfada3b834 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2011-04-04T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:d3b130d3fa88114a01a4841a02499fdd a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2011-04-03T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:c56575307e8363fec82e10a2197e5a45 a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "37.422053"^^xsd:decimal ;
+	wikibase:geoLongitude "-122.084442"^^xsd:decimal ;
+	wikibase:geoPrecision "2.7777777777778E-8"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdv:56b74d194062ecf51c8f170523b7735c a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "1998-09-04T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:8a26cea6f3b6e7e9aa8ff38dfe3714b3 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2013-09-20T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:c999bb94fd51249c1d36f315788ec2ad a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+47756"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+47756"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+47756"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdv:3c79d450c637cc0bef680e8757bf94f1 a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+53861"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+53861"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+53861"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdref:075328dc6d4c91038d87e818341b62031c93dc1c a wikibase:Reference ;
+	pr:P854 <http://investor.google.com/earnings/2010/Q4_google_earnings.html> .
+
+wdref:a61f99cca5680137c75a78d6fb535de1baebe967 a wikibase:Reference ;
+	pr:P143 wd:Q199913 .
+
+wdref:27ccb969b5130559d04798b4617e3101745fd201 a wikibase:Reference ;
+	pr:P854 <http://www.nasdaq.com/symbol/goog> .
+
+wdref:473eaef2829a3b999a3002bb35c7f5b896c955bf a wikibase:Reference ;
+	pr:P143 wd:Q53464 .
+
+wdref:d9db04be3fbc8b3a2ffe19b50a70e4b1dcf9a4a9 a wikibase:Reference ;
+	pr:P854 <http://investor.google.com/financial/tables.html> .
+
+wdata:Q96 schema:version "232320959"^^xsd:integer ;
+	schema:dateModified "2015-07-18T21:18:42Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q96 .
+

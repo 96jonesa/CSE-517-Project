@@ -1,0 +1,721 @@
+wd:Q3884 a wikibase:Item ;
+	rdfs:label "Amazon.com"@en ;
+	skos:prefLabel "Amazon.com"@en ;
+	schema:name "Amazon.com"@en ;
+	rdfs:label "Amazon.com"@en-ca ;
+	skos:prefLabel "Amazon.com"@en-ca ;
+	schema:name "Amazon.com"@en-ca ;
+	rdfs:label "Amazon.com"@en-gb ;
+	skos:prefLabel "Amazon.com"@en-gb ;
+	schema:name "Amazon.com"@en-gb ;
+	rdfs:label "أمازون"@ar ;
+	skos:prefLabel "أمازون"@ar ;
+	schema:name "أمازون"@ar ;
+	rdfs:label "Amazon.com"@be ;
+	skos:prefLabel "Amazon.com"@be ;
+	schema:name "Amazon.com"@be ;
+	rdfs:label "Amazon.com"@bg ;
+	skos:prefLabel "Amazon.com"@bg ;
+	schema:name "Amazon.com"@bg ;
+	rdfs:label "Amazon.com"@bs ;
+	skos:prefLabel "Amazon.com"@bs ;
+	schema:name "Amazon.com"@bs ;
+	rdfs:label "Amazon.com"@ca ;
+	skos:prefLabel "Amazon.com"@ca ;
+	schema:name "Amazon.com"@ca ;
+	rdfs:label "ماڵپەڕی ئەمازۆن"@ckb ;
+	skos:prefLabel "ماڵپەڕی ئەمازۆن"@ckb ;
+	schema:name "ماڵپەڕی ئەمازۆن"@ckb ;
+	rdfs:label "Amazon.com"@cs ;
+	skos:prefLabel "Amazon.com"@cs ;
+	schema:name "Amazon.com"@cs ;
+	rdfs:label "Amazon.com"@da ;
+	skos:prefLabel "Amazon.com"@da ;
+	schema:name "Amazon.com"@da ;
+	rdfs:label "Amazon.com"@de ;
+	skos:prefLabel "Amazon.com"@de ;
+	schema:name "Amazon.com"@de ;
+	rdfs:label "Amazon.com"@el ;
+	skos:prefLabel "Amazon.com"@el ;
+	schema:name "Amazon.com"@el ;
+	rdfs:label "Amazon.com"@es ;
+	skos:prefLabel "Amazon.com"@es ;
+	schema:name "Amazon.com"@es ;
+	rdfs:label "Amazon.com"@et ;
+	skos:prefLabel "Amazon.com"@et ;
+	schema:name "Amazon.com"@et ;
+	rdfs:label "آمازون.کام"@fa ;
+	skos:prefLabel "آمازون.کام"@fa ;
+	schema:name "آمازون.کام"@fa ;
+	rdfs:label "Amazon.com"@fi ;
+	skos:prefLabel "Amazon.com"@fi ;
+	schema:name "Amazon.com"@fi ;
+	rdfs:label "Amazon.com"@fr ;
+	skos:prefLabel "Amazon.com"@fr ;
+	schema:name "Amazon.com"@fr ;
+	rdfs:label "Amazon.com"@gl ;
+	skos:prefLabel "Amazon.com"@gl ;
+	schema:name "Amazon.com"@gl ;
+	rdfs:label "אמזון"@he ;
+	skos:prefLabel "אמזון"@he ;
+	schema:name "אמזון"@he ;
+	rdfs:label "एमाज़ॉन.कॉम"@hi ;
+	skos:prefLabel "एमाज़ॉन.कॉम"@hi ;
+	schema:name "एमाज़ॉन.कॉम"@hi ;
+	rdfs:label "Amazon.com"@hu ;
+	skos:prefLabel "Amazon.com"@hu ;
+	schema:name "Amazon.com"@hu ;
+	rdfs:label "Amazon.com"@id ;
+	skos:prefLabel "Amazon.com"@id ;
+	schema:name "Amazon.com"@id ;
+	rdfs:label "Amazon.com"@is ;
+	skos:prefLabel "Amazon.com"@is ;
+	schema:name "Amazon.com"@is ;
+	rdfs:label "Amazon.com"@it ;
+	skos:prefLabel "Amazon.com"@it ;
+	schema:name "Amazon.com"@it ;
+	rdfs:label "Amazon.com"@ja ;
+	skos:prefLabel "Amazon.com"@ja ;
+	schema:name "Amazon.com"@ja ;
+	rdfs:label "Amazon.com"@ka ;
+	skos:prefLabel "Amazon.com"@ka ;
+	schema:name "Amazon.com"@ka ;
+	rdfs:label "아마존닷컴"@ko ;
+	skos:prefLabel "아마존닷컴"@ko ;
+	schema:name "아마존닷컴"@ko ;
+	rdfs:label "Amazon"@lt ;
+	skos:prefLabel "Amazon"@lt ;
+	schema:name "Amazon"@lt ;
+	rdfs:label "Amazon.com"@mk ;
+	skos:prefLabel "Amazon.com"@mk ;
+	schema:name "Amazon.com"@mk ;
+	rdfs:label "ആമസോൺ.കോം"@ml ;
+	skos:prefLabel "ആമസോൺ.കോം"@ml ;
+	schema:name "ആമസോൺ.കോം"@ml ;
+	rdfs:label "Amazon.com"@ms ;
+	skos:prefLabel "Amazon.com"@ms ;
+	schema:name "Amazon.com"@ms ;
+	rdfs:label "Amazon.com"@nl ;
+	skos:prefLabel "Amazon.com"@nl ;
+	schema:name "Amazon.com"@nl ;
+	rdfs:label "Amazon.com"@nn ;
+	skos:prefLabel "Amazon.com"@nn ;
+	schema:name "Amazon.com"@nn ;
+	rdfs:label "Amazon.com"@pl ;
+	skos:prefLabel "Amazon.com"@pl ;
+	schema:name "Amazon.com"@pl ;
+	rdfs:label "Amazon.com"@pt ;
+	skos:prefLabel "Amazon.com"@pt ;
+	schema:name "Amazon.com"@pt ;
+	rdfs:label "Amazon.com"@pt-br ;
+	skos:prefLabel "Amazon.com"@pt-br ;
+	schema:name "Amazon.com"@pt-br ;
+	rdfs:label "Amazon.com"@ro ;
+	skos:prefLabel "Amazon.com"@ro ;
+	schema:name "Amazon.com"@ro ;
+	rdfs:label "Amazon.com"@ru ;
+	skos:prefLabel "Amazon.com"@ru ;
+	schema:name "Amazon.com"@ru ;
+	rdfs:label "Amazon"@sah ;
+	skos:prefLabel "Amazon"@sah ;
+	schema:name "Amazon"@sah ;
+	rdfs:label "Amazon.com"@sh ;
+	skos:prefLabel "Amazon.com"@sh ;
+	schema:name "Amazon.com"@sh ;
+	rdfs:label "Amazon.com, Inc."@sk ;
+	skos:prefLabel "Amazon.com, Inc."@sk ;
+	schema:name "Amazon.com, Inc."@sk ;
+	rdfs:label "Amazon.com"@sl ;
+	skos:prefLabel "Amazon.com"@sl ;
+	schema:name "Amazon.com"@sl ;
+	rdfs:label "Amazon.com"@sq ;
+	skos:prefLabel "Amazon.com"@sq ;
+	schema:name "Amazon.com"@sq ;
+	rdfs:label "Amazon.com"@sv ;
+	skos:prefLabel "Amazon.com"@sv ;
+	schema:name "Amazon.com"@sv ;
+	rdfs:label "அமேசான்.காம்"@ta ;
+	skos:prefLabel "அமேசான்.காம்"@ta ;
+	schema:name "அமேசான்.காம்"@ta ;
+	rdfs:label "అమెజాన్.కాం"@te ;
+	skos:prefLabel "అమెజాన్.కాం"@te ;
+	schema:name "అమెజాన్.కాం"@te ;
+	rdfs:label "แอมะซอน.คอม"@th ;
+	skos:prefLabel "แอมะซอน.คอม"@th ;
+	schema:name "แอมะซอน.คอม"@th ;
+	rdfs:label "Amazon.com"@tr ;
+	skos:prefLabel "Amazon.com"@tr ;
+	schema:name "Amazon.com"@tr ;
+	rdfs:label "ئامازون"@ug ;
+	skos:prefLabel "ئامازون"@ug ;
+	schema:name "ئامازون"@ug ;
+	rdfs:label "Amazon.com"@uk ;
+	skos:prefLabel "Amazon.com"@uk ;
+	schema:name "Amazon.com"@uk ;
+	rdfs:label "Amazon.com"@vi ;
+	skos:prefLabel "Amazon.com"@vi ;
+	schema:name "Amazon.com"@vi ;
+	rdfs:label "Amazon.com"@zh ;
+	skos:prefLabel "Amazon.com"@zh ;
+	schema:name "Amazon.com"@zh ;
+	rdfs:label "Amazon.com"@de-ch ;
+	skos:prefLabel "Amazon.com"@de-ch ;
+	schema:name "Amazon.com"@de-ch ;
+	rdfs:label "Amazon.com"@la ;
+	skos:prefLabel "Amazon.com"@la ;
+	schema:name "Amazon.com"@la ;
+	rdfs:label "Amazon.com"@kk ;
+	skos:prefLabel "Amazon.com"@kk ;
+	schema:name "Amazon.com"@kk ;
+	rdfs:label "Amazon.com"@af ;
+	skos:prefLabel "Amazon.com"@af ;
+	schema:name "Amazon.com"@af ;
+	rdfs:label "আমাজ’ন ডট কম"@as ;
+	skos:prefLabel "আমাজ’ন ডট কম"@as ;
+	schema:name "আমাজ’ন ডট কম"@as ;
+	rdfs:label "Amazon.com"@lv ;
+	skos:prefLabel "Amazon.com"@lv ;
+	schema:name "Amazon.com"@lv ;
+	rdfs:label "Amazon.com"@sco ;
+	skos:prefLabel "Amazon.com"@sco ;
+	schema:name "Amazon.com"@sco ;
+	rdfs:label "Amazon.com"@ln ;
+	skos:prefLabel "Amazon.com"@ln ;
+	schema:name "Amazon.com"@ln ;
+	rdfs:label "Amazon.com"@oc ;
+	skos:prefLabel "Amazon.com"@oc ;
+	schema:name "Amazon.com"@oc ;
+	rdfs:label "Amazon.com"@nb ;
+	skos:prefLabel "Amazon.com"@nb ;
+	schema:name "Amazon.com"@nb ;
+	rdfs:label "Amazon.com"@hr ;
+	skos:prefLabel "Amazon.com"@hr ;
+	schema:name "Amazon.com"@hr ;
+	rdfs:label "Amazon.com"@sr ;
+	skos:prefLabel "Amazon.com"@sr ;
+	schema:name "Amazon.com"@sr ;
+	rdfs:label "ଆମାଜନ୍.କମ୍‌"@or ;
+	skos:prefLabel "ଆମାଜନ୍.କମ୍‌"@or ;
+	schema:name "ଆମାଜନ୍.କମ୍‌"@or ;
+	rdfs:label "Amazon.com"@be-tarask ;
+	skos:prefLabel "Amazon.com"@be-tarask ;
+	schema:name "Amazon.com"@be-tarask ;
+	rdfs:label "Amazon.com"@zu ;
+	skos:prefLabel "Amazon.com"@zu ;
+	schema:name "Amazon.com"@zu ;
+	rdfs:label "Amazon.com"@az ;
+	skos:prefLabel "Amazon.com"@az ;
+	schema:name "Amazon.com"@az ;
+	rdfs:label "Amazon.com"@eo ;
+	skos:prefLabel "Amazon.com"@eo ;
+	schema:name "Amazon.com"@eo ;
+	rdfs:label "Amazon.com"@de-at ;
+	skos:prefLabel "Amazon.com"@de-at ;
+	schema:name "Amazon.com"@de-at ;
+	rdfs:label "Amazon.com"@io ;
+	skos:prefLabel "Amazon.com"@io ;
+	schema:name "Amazon.com"@io ;
+	rdfs:label "Amazon.com"@ia ;
+	skos:prefLabel "Amazon.com"@ia ;
+	schema:name "Amazon.com"@ia ;
+	rdfs:label "Amazon.com"@hy ;
+	skos:prefLabel "Amazon.com"@hy ;
+	schema:name "Amazon.com"@hy ;
+	rdfs:label "ਅਮੇਜ਼ੋਨ"@pa ;
+	skos:prefLabel "ਅਮੇਜ਼ੋਨ"@pa ;
+	schema:name "ਅਮੇਜ਼ੋਨ"@pa ;
+	rdfs:label "আমাজন.কম"@bn ;
+	skos:prefLabel "আমাজন.কম"@bn ;
+	schema:name "আমাজন.কম"@bn ;
+	schema:description "US-amerikanisches E-Commerce-Versandhaus"@de,
+		"compagnia di commercio elettronico statunitense"@it,
+		"compañía estadounidense de comercio electrónico"@es,
+		"American company"@en,
+		"entreprise américaine spécialisée dans la vente de produits culturels en ligne"@fr,
+		"американская компания по продаже товаров и услуг через Интернет"@ru ;
+	skos:altLabel "Amazon"@de,
+		"Amazon.de"@de,
+		"Amazon.com, Inc."@en,
+		"Amazon"@en,
+		"Amazon"@fr,
+		"Amazon.fr"@fr ;
+	wdt:P1320 "us_de/2620453" ;
+	wdt:P1297 "91-1646860" ;
+	wdt:P1278 "ZXTILKJKG63JELOEG630" ;
+	wdt:P373 "Amazon.com" ;
+	wdt:P31 wd:Q35127,
+		wd:Q4830453 ;
+	wdt:P138 wd:Q3783 ;
+	wdt:P112 wd:Q312556 ;
+	wdt:P169 wd:Q312556 ;
+	wdt:P571 "1994-01-01T00:00:00Z"^^xsd:dateTime ;
+	wdt:P227 "10177530-1" ;
+	wdt:P856 <https://www.amazon.com> ;
+	wdt:P910 wd:Q8878347 ;
+	wdt:P414 wd:Q82059 ;
+	wdt:P966 "11076740-0966-4c19-ac63-98e3d580be4c" ;
+	wdt:P646 "/m/0mgkg" ;
+	wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Amazon%20warehouse%20Glenrothes.jpg> ;
+	wdt:P625 "Point(47.6227 -122.3362)"^^geo:wktLiteral ;
+	wdt:P17 wd:Q30 ;
+	wdt:P214 "294572608" ;
+	wdt:P159 wd:Q5083 ;
+	p:P1320 wds:Q3884-a61f9bb2-48ac-d44c-ab7c-992db4ddfd72 .
+
+wds:Q3884-a61f9bb2-48ac-d44c-ab7c-992db4ddfd72 a wikibase:Statement ;
+	ps:P1320 "us_de/2620453" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q3884 p:P1297 wds:Q3884-8af61c93-4bf7-3029-d3ea-3f1783cddd44 .
+
+wds:Q3884-8af61c93-4bf7-3029-d3ea-3f1783cddd44 a wikibase:Statement ;
+	ps:P1297 "91-1646860" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q3884 p:P1278 wds:Q3884-6b0d9d63-4d25-da47-04ce-cb021bd01894 .
+
+wds:Q3884-6b0d9d63-4d25-da47-04ce-cb021bd01894 a wikibase:Statement ;
+	ps:P1278 "ZXTILKJKG63JELOEG630" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q3884 p:P373 wds:q3884-13942597-0CF5-4140-80DA-0CE67BCFAA39 .
+
+wds:q3884-13942597-0CF5-4140-80DA-0CE67BCFAA39 a wikibase:Statement ;
+	ps:P373 "Amazon.com" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q3884 p:P31 wds:q3884-D3B258EB-A2C5-46D5-8305-4908422B7096 .
+
+wds:q3884-D3B258EB-A2C5-46D5-8305-4908422B7096 a wikibase:Statement ;
+	ps:P31 wd:Q35127 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q3884 p:P31 wds:Q3884-1ac8fdb0-43b1-c620-bc25-a52c07b059d1 .
+
+wds:Q3884-1ac8fdb0-43b1-c620-bc25-a52c07b059d1 a wikibase:Statement ;
+	ps:P31 wd:Q4830453 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q3884 p:P138 wds:q3884-e66efeb3-4714-cbef-987b-4b4ca71d851b .
+
+wds:q3884-e66efeb3-4714-cbef-987b-4b4ca71d851b a wikibase:Statement ;
+	ps:P138 wd:Q3783 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q3884 p:P112 wds:q3884-b59c5e98-4640-d375-a819-923fe4b4c753 .
+
+wds:q3884-b59c5e98-4640-d375-a819-923fe4b4c753 a wikibase:Statement ;
+	ps:P112 wd:Q312556 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q3884 p:P169 wds:q3884-14dabe86-4362-333f-c73f-901cddfd2e0b .
+
+wds:q3884-14dabe86-4362-333f-c73f-901cddfd2e0b a wikibase:Statement ;
+	ps:P169 wd:Q312556 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q3884 p:P571 wds:q3884-945873a5-4ad4-e9fc-070d-ec9a0abec354 .
+
+wds:q3884-945873a5-4ad4-e9fc-070d-ec9a0abec354 a wikibase:Statement ;
+	ps:P571 "1994-01-01T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:a0bb46f86fc136205be1b36f9a792260 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q3884 p:P227 wds:Q3884-7D5AAC82-6871-4282-A628-C3FB9D9E3B31 .
+
+wds:Q3884-7D5AAC82-6871-4282-A628-C3FB9D9E3B31 a wikibase:Statement ;
+	ps:P227 "10177530-1" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q3884 p:P856 wds:Q3884-47D7B9FC-E461-4E6A-8067-1DFDE72D5C8D .
+
+wds:Q3884-47D7B9FC-E461-4E6A-8067-1DFDE72D5C8D a wikibase:Statement ;
+	ps:P856 <https://www.amazon.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q3884 p:P910 wds:Q3884-306379ED-179B-4F08-AD48-11E227173EE9 .
+
+wds:Q3884-306379ED-179B-4F08-AD48-11E227173EE9 a wikibase:Statement ;
+	ps:P910 wd:Q8878347 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q3884 p:P414 wds:Q3884-8FCE3DFE-5C05-495F-9C2B-FE05841FFCE2 .
+
+wds:Q3884-8FCE3DFE-5C05-495F-9C2B-FE05841FFCE2 a wikibase:Statement ;
+	ps:P414 wd:Q82059 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q3884 p:P966 wds:Q3884-9E6F8FD8-460B-4493-AC0E-432CCDAD9A1C .
+
+wds:Q3884-9E6F8FD8-460B-4493-AC0E-432CCDAD9A1C a wikibase:Statement ;
+	ps:P966 "11076740-0966-4c19-ac63-98e3d580be4c" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:73057782312f850e2ed69c4c28ad162f57f6d390 .
+
+wd:Q3884 p:P646 wds:Q3884-37094C02-E30C-499A-B5D0-80DCBCA948DC .
+
+wds:Q3884-37094C02-E30C-499A-B5D0-80DCBCA948DC a wikibase:Statement ;
+	ps:P646 "/m/0mgkg" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q3884 p:P18 wds:Q3884-5B283833-404F-4986-BE95-433F49738F08 .
+
+wds:Q3884-5B283833-404F-4986-BE95-433F49738F08 a wikibase:Statement ;
+	ps:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Amazon%20warehouse%20Glenrothes.jpg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7a07c248d59b68eba79e5c5c2a59c6d07cf2cec5 .
+
+wd:Q3884 p:P625 wds:Q3884-E886DB1A-0DB1-4836-AFDE-DF2843F8210A .
+
+wds:Q3884-E886DB1A-0DB1-4836-AFDE-DF2843F8210A a wikibase:Statement ;
+	ps:P625 "Point(47.6227 -122.3362)"^^geo:wktLiteral ;
+	psv:P625 wdv:c5927aea48e8f3e9700ae7833459f540 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:d6e6c12387b861a6d1ba4ea22c85225745a63702 .
+
+wd:Q3884 p:P17 wds:Q3884-EB761079-E3C5-4009-BE2C-F25A4A791CE9 .
+
+wds:Q3884-EB761079-E3C5-4009-BE2C-F25A4A791CE9 a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q3884 p:P214 wds:Q3884-7D3015BC-7E58-4F10-9A87-46679EC64D73 .
+
+wds:Q3884-7D3015BC-7E58-4F10-9A87-46679EC64D73 a wikibase:Statement ;
+	ps:P214 "294572608" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q3884 p:P159 wds:Q3884-CA31EF48-1F4E-4C96-8584-547C09E6E152 .
+
+wds:Q3884-CA31EF48-1F4E-4C96-8584-547C09E6E152 a wikibase:Statement ;
+	ps:P159 wd:Q5083 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://en.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "en" .
+
+<https://be.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "be" .
+
+<https://bg.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "bg" .
+
+<https://bs.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "bs" .
+
+<https://ca.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "ca" .
+
+<https://cs.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "cs" .
+
+<https://da.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "da" .
+
+<https://de.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "de" .
+
+<https://el.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "el" .
+
+<https://es.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "es" .
+
+<https://et.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "et" .
+
+<https://fa.wikipedia.org/wiki/%D8%A2%D9%85%D8%A7%D8%B2%D9%88%D9%86.%DA%A9%D8%A7%D9%85> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "fa" .
+
+<https://fi.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "fi" .
+
+<https://fr.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "fr" .
+
+<https://gl.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "gl" .
+
+<https://he.wikipedia.org/wiki/%D7%90%D7%9E%D7%96%D7%95%D7%9F> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "he" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%BC%E0%A5%89%E0%A4%A8.%E0%A4%95%E0%A5%89%E0%A4%AE> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "hi" .
+
+<https://hu.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "hu" .
+
+<https://id.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "id" .
+
+<https://is.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "is" .
+
+<https://it.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "it" .
+
+<https://ja.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "ja" .
+
+<https://ka.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "ka" .
+
+<https://ko.wikipedia.org/wiki/%EC%95%84%EB%A7%88%EC%A1%B4%EB%8B%B7%EC%BB%B4> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "ko" .
+
+<https://lt.wikipedia.org/wiki/Amazon> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "lt" .
+
+<https://mk.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "mk" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%86%E0%B4%AE%E0%B4%B8%E0%B5%8B%E0%B5%BA.%E0%B4%95%E0%B5%8B%E0%B4%82> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "ml" .
+
+<https://ms.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "ms" .
+
+<https://nl.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "nl" .
+
+<https://nn.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "nn" .
+
+<https://no.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "no" .
+
+<https://pl.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "pl" .
+
+<https://pt.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "pt" .
+
+<https://ro.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "ro" .
+
+<https://ru.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "ru" .
+
+<https://sah.wikipedia.org/wiki/Amazon> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "sah" .
+
+<https://sh.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "sh" .
+
+<https://simple.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "simple" .
+
+<https://sk.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "sk" .
+
+<https://sl.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "sl" .
+
+<https://sq.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "sq" .
+
+<https://sv.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "sv" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%AE%E0%AF%87%E0%AE%9A%E0%AE%BE%E0%AE%A9%E0%AF%8D.%E0%AE%95%E0%AE%BE%E0%AE%AE%E0%AF%8D> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "ta" .
+
+<https://te.wikipedia.org/wiki/%E0%B0%85%E0%B0%AE%E0%B1%86%E0%B0%9C%E0%B0%BE%E0%B0%A8%E0%B1%8D.%E0%B0%95%E0%B0%BE%E0%B0%82> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "te" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%AD%E0%B8%A1%E0%B8%B0%E0%B8%8B%E0%B8%AD%E0%B8%99.%E0%B8%84%E0%B8%AD%E0%B8%A1> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "th" .
+
+<https://tr.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "tr" .
+
+<https://ug.wikipedia.org/wiki/%D8%A6%D8%A7%D9%85%D8%A7%D8%B2%D9%88%D9%86> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "ug" .
+
+<https://uk.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "uk" .
+
+<https://vi.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "vi" .
+
+<https://zh.wikipedia.org/wiki/%E4%BA%9E%E9%A6%AC%E9%81%9C%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "zh" .
+
+<https://af.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "af" .
+
+<https://as.wikipedia.org/wiki/%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%9C%E2%80%99%E0%A6%A8%20%E0%A6%A1%E0%A6%9F%20%E0%A6%95%E0%A6%AE> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "as" .
+
+<https://be-x-old.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "be-x-old" .
+
+<https://kk.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "kk" .
+
+<https://la.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "la" .
+
+<https://lv.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "lv" .
+
+<https://sco.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "sco" .
+
+<https://ln.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "ln" .
+
+<https://oc.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "oc" .
+
+<https://hr.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "hr" .
+
+<https://or.wikipedia.org/wiki/%E0%AC%86%E0%AC%AE%E0%AC%BE%E0%AC%9C%E0%AC%A8%E0%AD%8D.%E0%AC%95%E0%AC%AE%E0%AD%8D%E2%80%8C> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "or" .
+
+<https://sr.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "sr" .
+
+<https://zu.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "zu" .
+
+<https://ckb.wikipedia.org/wiki/%D8%A6%DB%95%D9%85%D8%A7%D8%B2%DB%86%D9%86%20%28%D9%BE%DB%8E%DA%AF%DB%95%29> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "ckb" .
+
+<https://az.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "az" .
+
+<https://ar.wikipedia.org/wiki/%D8%A3%D9%85%D8%A7%D8%B2%D9%88%D9%86%20%28%D8%B4%D8%B1%D9%83%D8%A9%29> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "ar" .
+
+<https://en.wikinews.org/wiki/Category%3AAmazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "en" .
+
+<https://hy.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "hy" .
+
+<https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3AAmazon> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "ru" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A6%A8.%E0%A6%95%E0%A6%AE> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "bn" .
+
+<https://pa.wikipedia.org/wiki/%E0%A8%85%E0%A8%AE%E0%A9%87%E0%A8%9C%E0%A8%BC%E0%A9%8B%E0%A8%A8> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "pa" .
+
+<https://fy.wikipedia.org/wiki/Amazon.com> a schema:Article ;
+	schema:about wd:Q3884 ;
+	schema:inLanguage "fy" .
+
+wdv:c5927aea48e8f3e9700ae7833459f540 a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "47.6227"^^xsd:decimal ;
+	wikibase:geoLongitude "-122.3362"^^xsd:decimal ;
+	wikibase:geoPrecision "1.0E-5"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdata:Q3890 schema:version "222784998"^^xsd:integer ;
+	schema:dateModified "2015-06-18T10:26:38Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q3890 .
+

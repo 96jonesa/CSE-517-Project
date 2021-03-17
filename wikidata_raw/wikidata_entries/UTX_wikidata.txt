@@ -1,0 +1,261 @@
+wd:Q1045758 a wikibase:Item ;
+	rdfs:label "联合技术公司"@zh-hans ;
+	skos:prefLabel "联合技术公司"@zh-hans ;
+	schema:name "联合技术公司"@zh-hans ;
+	rdfs:label "聯合技術公司"@zh-hant ;
+	skos:prefLabel "聯合技術公司"@zh-hant ;
+	schema:name "聯合技術公司"@zh-hant ;
+	rdfs:label "聯合技術公司"@zh-hk ;
+	skos:prefLabel "聯合技術公司"@zh-hk ;
+	schema:name "聯合技術公司"@zh-hk ;
+	rdfs:label "United Technologies Corporation"@pt ;
+	skos:prefLabel "United Technologies Corporation"@pt ;
+	schema:name "United Technologies Corporation"@pt ;
+	rdfs:label "United Technologies Corporation"@pl ;
+	skos:prefLabel "United Technologies Corporation"@pl ;
+	schema:name "United Technologies Corporation"@pl ;
+	rdfs:label "יונייטד טכנולוג'יס"@he ;
+	skos:prefLabel "יונייטד טכנולוג'יס"@he ;
+	schema:name "יונייטד טכנולוג'יס"@he ;
+	rdfs:label "유나이티드 테크놀로지스"@ko ;
+	skos:prefLabel "유나이티드 테크놀로지스"@ko ;
+	schema:name "유나이티드 테크놀로지스"@ko ;
+	rdfs:label "United Technologies Corporation"@fr ;
+	skos:prefLabel "United Technologies Corporation"@fr ;
+	schema:name "United Technologies Corporation"@fr ;
+	rdfs:label "United Technologies"@be ;
+	skos:prefLabel "United Technologies"@be ;
+	schema:name "United Technologies"@be ;
+	rdfs:label "United Technologies"@ru ;
+	skos:prefLabel "United Technologies"@ru ;
+	schema:name "United Technologies"@ru ;
+	rdfs:label "United Technologies Corporation"@en ;
+	skos:prefLabel "United Technologies Corporation"@en ;
+	schema:name "United Technologies Corporation"@en ;
+	rdfs:label "United Technologies Corporation"@es ;
+	skos:prefLabel "United Technologies Corporation"@es ;
+	schema:name "United Technologies Corporation"@es ;
+	rdfs:label "United Technologies Corporation"@ro ;
+	skos:prefLabel "United Technologies Corporation"@ro ;
+	schema:name "United Technologies Corporation"@ro ;
+	rdfs:label "United Technologies Corporation"@fi ;
+	skos:prefLabel "United Technologies Corporation"@fi ;
+	schema:name "United Technologies Corporation"@fi ;
+	rdfs:label "United Technologies Corporation"@it ;
+	skos:prefLabel "United Technologies Corporation"@it ;
+	schema:name "United Technologies Corporation"@it ;
+	rdfs:label "United Technologies Corporation"@de ;
+	skos:prefLabel "United Technologies Corporation"@de ;
+	schema:name "United Technologies Corporation"@de ;
+	rdfs:label "United Technologies Corporation"@id ;
+	skos:prefLabel "United Technologies Corporation"@id ;
+	schema:name "United Technologies Corporation"@id ;
+	rdfs:label "ユナイテッド・テクノロジーズ"@ja ;
+	skos:prefLabel "ユナイテッド・テクノロジーズ"@ja ;
+	schema:name "ユナイテッド・テクノロジーズ"@ja ;
+	rdfs:label "United Technologies Corporation"@nl ;
+	skos:prefLabel "United Technologies Corporation"@nl ;
+	schema:name "United Technologies Corporation"@nl ;
+	rdfs:label "United Technologies Corporation"@da ;
+	skos:prefLabel "United Technologies Corporation"@da ;
+	schema:name "United Technologies Corporation"@da ;
+	rdfs:label "یونایتد تکنولوژی"@fa ;
+	skos:prefLabel "یونایتد تکنولوژی"@fa ;
+	schema:name "یونایتد تکنولوژی"@fa ;
+	rdfs:label "联合技术公司"@zh ;
+	skos:prefLabel "联合技术公司"@zh ;
+	schema:name "联合技术公司"@zh ;
+	rdfs:label "United Technologies"@uk ;
+	skos:prefLabel "United Technologies"@uk ;
+	schema:name "United Technologies"@uk ;
+	rdfs:label "شركة يونايتد تكنولوجيز"@ar ;
+	skos:prefLabel "شركة يونايتد تكنولوجيز"@ar ;
+	schema:name "شركة يونايتد تكنولوجيز"@ar ;
+	rdfs:label "ইউনাইটেড টেকনোলজিস কর্পোরেশন"@bn ;
+	skos:prefLabel "ইউনাইটেড টেকনোলজিস কর্পোরেশন"@bn ;
+	schema:name "ইউনাইটেড টেকনোলজিস কর্পোরেশন"@bn ;
+	rdfs:label "United Technologies Corporation"@tr ;
+	skos:prefLabel "United Technologies Corporation"@tr ;
+	schema:name "United Technologies Corporation"@tr ;
+	schema:description "enterprise"@fr,
+		"American multinational conglomerate"@en ;
+	skos:altLabel "United Technologies"@pl,
+		"United Technologies"@fr,
+		"United Aircraft"@ru,
+		"Юнайтед текнолоджиз"@ru,
+		"United Technologies Corporation"@ru,
+		"United Technologies"@es,
+		"United Technologies"@it,
+		"United Technologies"@de,
+		"United Technologies"@id,
+		"ユナイテッドテクノロジーズ"@ja,
+		"UTX"@ja,
+		"ユナイテッド・テクノロジー"@ja,
+		"United Technologies"@nl,
+		"United Technologies"@da,
+		"UTC"@en ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P155 wd:Q7887331,
+		wd:Q7493752 ;
+	wdt:P910 wd:Q7216995 ;
+	wdt:P646 "/m/02_g11" ;
+	wdt:P159 wd:Q33486 ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P17 wd:Q30 ;
+	p:P31 wds:q1045758-457DE57C-449C-4F15-809D-6FF7FFFEE58D .
+
+wds:q1045758-457DE57C-449C-4F15-809D-6FF7FFFEE58D a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q1045758 p:P155 wds:q1045758-BD9B5E3A-0817-46E7-A06B-A7BDCD97F800 .
+
+wds:q1045758-BD9B5E3A-0817-46E7-A06B-A7BDCD97F800 a wikibase:Statement ;
+	ps:P155 wd:Q7887331 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q1045758 p:P155 wds:Q1045758-13D8F279-2041-41BD-AAF5-2786C926147F .
+
+wds:Q1045758-13D8F279-2041-41BD-AAF5-2786C926147F a wikibase:Statement ;
+	ps:P155 wd:Q7493752 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1045758 p:P910 wds:Q1045758-3F1ACECF-B3D6-45DB-BD3D-32BE473FA771 .
+
+wds:Q1045758-3F1ACECF-B3D6-45DB-BD3D-32BE473FA771 a wikibase:Statement ;
+	ps:P910 wd:Q7216995 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1045758 p:P646 wds:Q1045758-8E8E28CF-7D56-40C9-9E15-936FE5749EC9 .
+
+wds:Q1045758-8E8E28CF-7D56-40C9-9E15-936FE5749EC9 a wikibase:Statement ;
+	ps:P646 "/m/02_g11" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q1045758 p:P159 wds:Q1045758-FB3FC46E-068C-4047-B7EB-9ABB61E1DAD2 .
+
+wds:Q1045758-FB3FC46E-068C-4047-B7EB-9ABB61E1DAD2 a wikibase:Statement ;
+	ps:P159 wd:Q33486 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q1045758 p:P414 wds:Q1045758-893A2277-AB33-43F1-826D-A148708FB3FB .
+
+wds:Q1045758-893A2277-AB33-43F1-826D-A148708FB3FB a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1045758 p:P17 wds:Q1045758-EB9C891C-4553-4242-9A3E-F4B2297481CE .
+
+wds:Q1045758-EB9C891C-4553-4242-9A3E-F4B2297481CE a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://zh.wikipedia.org/wiki/%E8%81%94%E5%90%88%E6%8A%80%E6%9C%AF%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "zh" .
+
+<https://pt.wikipedia.org/wiki/United%20Technologies%20Corporation> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "pt" .
+
+<https://pl.wikipedia.org/wiki/United%20Technologies%20Corporation> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "pl" .
+
+<https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%A0%D7%99%D7%99%D7%98%D7%93%20%D7%98%D7%9B%D7%A0%D7%95%D7%9C%D7%95%D7%92%27%D7%99%D7%A1> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "he" .
+
+<https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%82%98%EC%9D%B4%ED%8B%B0%EB%93%9C%20%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80%EC%8A%A4> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "ko" .
+
+<https://fr.wikipedia.org/wiki/United%20Technologies%20Corporation> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "fr" .
+
+<https://be.wikipedia.org/wiki/United%20Technologies> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "be" .
+
+<https://ru.wikipedia.org/wiki/United%20Technologies> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "ru" .
+
+<https://en.wikipedia.org/wiki/United%20Technologies%20Corporation> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "en" .
+
+<https://es.wikipedia.org/wiki/United%20Technologies%20Corporation> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "es" .
+
+<https://ro.wikipedia.org/wiki/United%20Technologies%20Corporation> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "ro" .
+
+<https://fi.wikipedia.org/wiki/United%20Technologies%20Corporation> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "fi" .
+
+<https://it.wikipedia.org/wiki/United%20Technologies%20Corporation> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "it" .
+
+<https://de.wikipedia.org/wiki/United%20Technologies%20Corporation> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "de" .
+
+<https://id.wikipedia.org/wiki/United%20Technologies%20Corporation> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "id" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "ja" .
+
+<https://nl.wikipedia.org/wiki/United%20Technologies%20Corporation> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "nl" .
+
+<https://da.wikipedia.org/wiki/United%20Technologies%20Corporation> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "da" .
+
+<https://fa.wikipedia.org/wiki/%DB%8C%D9%88%D9%86%D8%A7%DB%8C%D8%AA%D8%AF%20%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "fa" .
+
+<https://uk.wikipedia.org/wiki/United%20Technologies> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "uk" .
+
+<https://ar.wikipedia.org/wiki/%D8%B4%D8%B1%D9%83%D8%A9%20%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF%20%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%B2> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "ar" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9F%E0%A7%87%E0%A6%A1%20%E0%A6%9F%E0%A7%87%E0%A6%95%E0%A6%A8%E0%A7%8B%E0%A6%B2%E0%A6%9C%E0%A6%BF%E0%A6%B8%20%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "bn" .
+
+<https://tr.wikipedia.org/wiki/United%20Technologies%20Corporation> a schema:Article ;
+	schema:about wd:Q1045758 ;
+	schema:inLanguage "tr" .
+
+wdata:Q1045760 schema:version "136413937"^^xsd:integer ;
+	schema:dateModified "2014-06-03T09:47:13Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q1045760 .
+

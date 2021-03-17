@@ -1,0 +1,385 @@
+wd:Q744149 a wikibase:Item ;
+	rdfs:label "富国银行集团"@zh-hans ;
+	skos:prefLabel "富国银行集团"@zh-hans ;
+	schema:name "富国银行集团"@zh-hans ;
+	rdfs:label "富國銀行集團"@zh-hant ;
+	skos:prefLabel "富國銀行集團"@zh-hant ;
+	schema:name "富國銀行集團"@zh-hant ;
+	rdfs:label "富國銀行集團"@zh-hk ;
+	skos:prefLabel "富國銀行集團"@zh-hk ;
+	schema:name "富國銀行集團"@zh-hk ;
+	rdfs:label "Wells Fargo"@pt ;
+	skos:prefLabel "Wells Fargo"@pt ;
+	schema:name "Wells Fargo"@pt ;
+	rdfs:label "Wells Fargo"@pms ;
+	skos:prefLabel "Wells Fargo"@pms ;
+	schema:name "Wells Fargo"@pms ;
+	rdfs:label "웰스 파고"@ko ;
+	skos:prefLabel "웰스 파고"@ko ;
+	schema:name "웰스 파고"@ko ;
+	rdfs:label "Wells Fargo"@ru ;
+	skos:prefLabel "Wells Fargo"@ru ;
+	schema:name "Wells Fargo"@ru ;
+	rdfs:label "Wells Fargo"@fr ;
+	skos:prefLabel "Wells Fargo"@fr ;
+	schema:name "Wells Fargo"@fr ;
+	rdfs:label "ולס פארגו"@he ;
+	skos:prefLabel "ולס פארגו"@he ;
+	schema:name "ולס פארגו"@he ;
+	rdfs:label "Wells Fargo"@es ;
+	skos:prefLabel "Wells Fargo"@es ;
+	schema:name "Wells Fargo"@es ;
+	rdfs:label "Wells Fargo"@en ;
+	skos:prefLabel "Wells Fargo"@en ;
+	schema:name "Wells Fargo"@en ;
+	rdfs:label "Wells Fargo"@ro ;
+	skos:prefLabel "Wells Fargo"@ro ;
+	schema:name "Wells Fargo"@ro ;
+	rdfs:label "Wells Fargo"@ca ;
+	skos:prefLabel "Wells Fargo"@ca ;
+	schema:name "Wells Fargo"@ca ;
+	rdfs:label "Wells Fargo"@fi ;
+	skos:prefLabel "Wells Fargo"@fi ;
+	schema:name "Wells Fargo"@fi ;
+	rdfs:label "Wells Fargo"@it ;
+	skos:prefLabel "Wells Fargo"@it ;
+	schema:name "Wells Fargo"@it ;
+	rdfs:label "Wells Fargo"@de ;
+	skos:prefLabel "Wells Fargo"@de ;
+	schema:name "Wells Fargo"@de ;
+	rdfs:label "Wells Fargo"@id ;
+	skos:prefLabel "Wells Fargo"@id ;
+	schema:name "Wells Fargo"@id ;
+	rdfs:label "ウェルズ・ファーゴ"@ja ;
+	skos:prefLabel "ウェルズ・ファーゴ"@ja ;
+	schema:name "ウェルズ・ファーゴ"@ja ;
+	rdfs:label "ولز فارگو"@fa ;
+	skos:prefLabel "ولز فارگو"@fa ;
+	schema:name "ولز فارگو"@fa ;
+	rdfs:label "富國銀行集團"@yue ;
+	skos:prefLabel "富國銀行集團"@yue ;
+	schema:name "富國銀行集團"@yue ;
+	rdfs:label "Wells Fargo"@sh ;
+	skos:prefLabel "Wells Fargo"@sh ;
+	schema:name "Wells Fargo"@sh ;
+	rdfs:label "Wells Fargo"@ga ;
+	skos:prefLabel "Wells Fargo"@ga ;
+	schema:name "Wells Fargo"@ga ;
+	rdfs:label "Wells Fargo"@lt ;
+	skos:prefLabel "Wells Fargo"@lt ;
+	schema:name "Wells Fargo"@lt ;
+	rdfs:label "ولز فارجو"@ar ;
+	skos:prefLabel "ولز فارجو"@ar ;
+	schema:name "ولز فارجو"@ar ;
+	rdfs:label "Wells Fargo"@nl ;
+	skos:prefLabel "Wells Fargo"@nl ;
+	schema:name "Wells Fargo"@nl ;
+	rdfs:label "Wells Fargo"@sv ;
+	skos:prefLabel "Wells Fargo"@sv ;
+	schema:name "Wells Fargo"@sv ;
+	rdfs:label "富国银行集团"@zh ;
+	skos:prefLabel "富国银行集团"@zh ;
+	schema:name "富国银行集团"@zh ;
+	rdfs:label "Wells Fargo"@war ;
+	skos:prefLabel "Wells Fargo"@war ;
+	schema:name "Wells Fargo"@war ;
+	rdfs:label "ویلز فارگو"@ur ;
+	skos:prefLabel "ویلز فارگو"@ur ;
+	schema:name "ویلز فارگو"@ur ;
+	rdfs:label "Wells Fargo"@uk ;
+	skos:prefLabel "Wells Fargo"@uk ;
+	schema:name "Wells Fargo"@uk ;
+	rdfs:label "Wells Fargo"@da ;
+	skos:prefLabel "Wells Fargo"@da ;
+	schema:name "Wells Fargo"@da ;
+	rdfs:label "Wells Fargo"@pl ;
+	skos:prefLabel "Wells Fargo"@pl ;
+	schema:name "Wells Fargo"@pl ;
+	schema:description "American multinational banking and financial services company"@en ;
+	skos:altLabel "富國銀行"@zh,
+		"웰스파고"@ko,
+		"Wells Fargo Bank"@ru,
+		"Wells Fargo & Company"@ru,
+		"וולס פארגו"@he,
+		"Wells Fargo Bank"@es,
+		"Wells Fargo & Company"@de,
+		"Wells Fargo Bank"@de,
+		"ウェルス・ファーゴ"@ja,
+		"富國銀行"@yue,
+		"Wells Fargo"@yue,
+		"ويلز فارغو"@ar,
+		"ولز فارغو"@ar,
+		"ويلز فارجو"@ar,
+		"Wells Fargo & Co"@nl,
+		"Wells Fargo & Company"@en ;
+	wdt:P373 "Wells Fargo" ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P571 "1852-03-18T00:00:00Z"^^xsd:dateTime ;
+	wdt:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Wells%20Fargo%20Bank.svg> ;
+	wdt:P112 wd:Q364220,
+		wd:Q323682 ;
+	wdt:P169 wd:Q1701854 ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P856 <http://www.wellsfargo.com> ;
+	wdt:P910 wd:Q7371870 ;
+	wdt:P646 "/m/01kdws" ;
+	wdt:P155 wd:Q5170142,
+		wd:Q3072973,
+		wd:Q7061445 ;
+	wdt:P214 "132150619" ;
+	wdt:P1448 "Wells Fargo & Company"@en ;
+	wdt:P159 wd:Q62 ;
+	p:P373 wds:q744149-91568649-43B7-4F65-9066-B6D377879039 .
+
+wds:q744149-91568649-43B7-4F65-9066-B6D377879039 a wikibase:Statement ;
+	ps:P373 "Wells Fargo" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q744149 p:P31 wds:q744149-346FB60F-F348-4AC8-B14D-410BC5C8F17E .
+
+wds:q744149-346FB60F-F348-4AC8-B14D-410BC5C8F17E a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q744149 p:P571 wds:q744149-89beb021-4c59-cac1-5451-1ad91982bfbf .
+
+wds:q744149-89beb021-4c59-cac1-5451-1ad91982bfbf a wikibase:Statement ;
+	ps:P571 "1852-03-18T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:748aa59c402a9f8ebc67ec94129a4125 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q744149 p:P154 wds:q744149-e01b9553-45e1-20b7-9ffc-7cda2276f1b2 .
+
+wds:q744149-e01b9553-45e1-20b7-9ffc-7cda2276f1b2 a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Wells%20Fargo%20Bank.svg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q744149 p:P112 wds:q744149-2a369b43-4fb5-ce6e-b101-715651e076b8 .
+
+wds:q744149-2a369b43-4fb5-ce6e-b101-715651e076b8 a wikibase:Statement ;
+	ps:P112 wd:Q364220 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q744149 p:P112 wds:q744149-a503d88c-43d3-3251-c29f-254778687758 .
+
+wds:q744149-a503d88c-43d3-3251-c29f-254778687758 a wikibase:Statement ;
+	ps:P112 wd:Q323682 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q744149 p:P169 wds:q744149-99f03dd6-4761-267e-4f72-82efecf4a36f .
+
+wds:q744149-99f03dd6-4761-267e-4f72-82efecf4a36f a wikibase:Statement ;
+	ps:P169 wd:Q1701854 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q744149 p:P414 wds:q744149-90266ae7-4ebf-dc54-f066-730336a37a12 .
+
+wds:q744149-90266ae7-4ebf-dc54-f066-730336a37a12 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "WFC" .
+
+wd:Q744149 p:P856 wds:Q744149-3A767FDB-0D07-4E86-817B-DE80287BBFF4 .
+
+wds:Q744149-3A767FDB-0D07-4E86-817B-DE80287BBFF4 a wikibase:Statement ;
+	ps:P856 <http://www.wellsfargo.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q744149 p:P910 wds:Q744149-7C5CF157-F7FE-4B2E-B9C5-3CE8272CEF48 .
+
+wds:Q744149-7C5CF157-F7FE-4B2E-B9C5-3CE8272CEF48 a wikibase:Statement ;
+	ps:P910 wd:Q7371870 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q744149 p:P646 wds:Q744149-0DCBAFC2-D674-4226-ADE2-683311170485 .
+
+wds:Q744149-0DCBAFC2-D674-4226-ADE2-683311170485 a wikibase:Statement ;
+	ps:P646 "/m/01kdws" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q744149 p:P155 wds:Q744149-77637ACA-60FE-4AAB-9739-2487934DFDFF .
+
+wds:Q744149-77637ACA-60FE-4AAB-9739-2487934DFDFF a wikibase:Statement ;
+	ps:P155 wd:Q5170142 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q744149 p:P155 wds:Q744149-8A78870B-063D-4FAF-8DFA-FE1CF7A1C259 .
+
+wds:Q744149-8A78870B-063D-4FAF-8DFA-FE1CF7A1C259 a wikibase:Statement ;
+	ps:P155 wd:Q3072973 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q744149 p:P155 wds:Q744149-F04A62B2-279A-460F-A9ED-DEAC70B48468 .
+
+wds:Q744149-F04A62B2-279A-460F-A9ED-DEAC70B48468 a wikibase:Statement ;
+	ps:P155 wd:Q7061445 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q744149 p:P214 wds:Q744149-FC1CCBA8-F4D1-4B97-A5C5-891A1F364B4E .
+
+wds:Q744149-FC1CCBA8-F4D1-4B97-A5C5-891A1F364B4E a wikibase:Statement ;
+	ps:P214 "132150619" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q744149 p:P1448 wds:Q744149-98bc2be5-4a46-f40d-98d1-12f27a075e38 .
+
+wds:Q744149-98bc2be5-4a46-f40d-98d1-12f27a075e38 a wikibase:Statement ;
+	ps:P1448 "Wells Fargo & Company"@en ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q744149 p:P159 wds:Q744149-46a2d652-496a-7402-8e4f-dfdc7faeae5a .
+
+wds:Q744149-46a2d652-496a-7402-8e4f-dfdc7faeae5a a wikibase:Statement ;
+	ps:P159 wd:Q62 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://zh.wikipedia.org/wiki/%E5%AF%8C%E5%9B%BD%E9%93%B6%E8%A1%8C%E9%9B%86%E5%9B%A2> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "zh" .
+
+<https://pt.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "pt" .
+
+<https://pms.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "pms" .
+
+<https://ko.wikipedia.org/wiki/%EC%9B%B0%EC%8A%A4%20%ED%8C%8C%EA%B3%A0> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "ko" .
+
+<https://ru.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "ru" .
+
+<https://fr.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "fr" .
+
+<https://he.wikipedia.org/wiki/%D7%95%D7%9C%D7%A1%20%D7%A4%D7%90%D7%A8%D7%92%D7%95> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "he" .
+
+<https://es.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "es" .
+
+<https://en.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "en" .
+
+<https://ro.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "ro" .
+
+<https://ca.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "ca" .
+
+<https://fi.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "fi" .
+
+<https://it.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "it" .
+
+<https://de.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "de" .
+
+<https://id.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "id" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%BA%E3%83%BB%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B4> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "ja" .
+
+<https://fa.wikipedia.org/wiki/%D9%88%D9%84%D8%B2%20%D9%81%D8%A7%D8%B1%DA%AF%D9%88> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "fa" .
+
+<https://zh-yue.wikipedia.org/wiki/%E5%AF%8C%E5%9C%8B%E9%8A%80%E8%A1%8C%E9%9B%86%E5%9C%98> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "zh-yue" .
+
+<https://sh.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "sh" .
+
+<https://ga.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "ga" .
+
+<https://lt.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "lt" .
+
+<https://ar.wikipedia.org/wiki/%D9%88%D9%84%D8%B2%20%D9%81%D8%A7%D8%B1%D8%AC%D9%88> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "ar" .
+
+<https://nl.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "nl" .
+
+<https://sv.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "sv" .
+
+<https://war.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "war" .
+
+<https://simple.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "simple" .
+
+<https://ur.wikipedia.org/wiki/%D9%88%DB%8C%D9%84%D8%B2%20%D9%81%D8%A7%D8%B1%DA%AF%D9%88> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "ur" .
+
+<https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3AWells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "ru" .
+
+<https://uk.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "uk" .
+
+<https://da.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "da" .
+
+<https://pl.wikipedia.org/wiki/Wells%20Fargo> a schema:Article ;
+	schema:about wd:Q744149 ;
+	schema:inLanguage "pl" .
+
+wdata:Q744152 schema:version "226570138"^^xsd:integer ;
+	schema:dateModified "2015-07-05T14:39:19Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q744152 .
+

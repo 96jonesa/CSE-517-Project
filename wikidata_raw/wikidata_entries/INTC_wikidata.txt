@@ -1,0 +1,759 @@
+wd:Q248 a wikibase:Item ;
+	rdfs:label "Intel"@en ;
+	skos:prefLabel "Intel"@en ;
+	schema:name "Intel"@en ;
+	rdfs:label "Intel"@it ;
+	skos:prefLabel "Intel"@it ;
+	schema:name "Intel"@it ;
+	rdfs:label "Intel"@de ;
+	skos:prefLabel "Intel"@de ;
+	schema:name "Intel"@de ;
+	rdfs:label "Intel"@fr ;
+	skos:prefLabel "Intel"@fr ;
+	schema:name "Intel"@fr ;
+	rdfs:label "Intel"@es ;
+	skos:prefLabel "Intel"@es ;
+	schema:name "Intel"@es ;
+	rdfs:label "Intel"@en-ca ;
+	skos:prefLabel "Intel"@en-ca ;
+	schema:name "Intel"@en-ca ;
+	rdfs:label "Intel"@en-gb ;
+	skos:prefLabel "Intel"@en-gb ;
+	schema:name "Intel"@en-gb ;
+	rdfs:label "இன்டெல்"@ta ;
+	skos:prefLabel "இன்டெல்"@ta ;
+	schema:name "இன்டெல்"@ta ;
+	rdfs:label "Intel"@af ;
+	skos:prefLabel "Intel"@af ;
+	schema:name "Intel"@af ;
+	rdfs:label "إنتل"@ar ;
+	skos:prefLabel "إنتل"@ar ;
+	schema:name "إنتل"@ar ;
+	rdfs:label "Intel"@az ;
+	skos:prefLabel "Intel"@az ;
+	schema:name "Intel"@az ;
+	rdfs:label "Intel"@be ;
+	skos:prefLabel "Intel"@be ;
+	schema:name "Intel"@be ;
+	rdfs:label "Интел"@bg ;
+	skos:prefLabel "Интел"@bg ;
+	schema:name "Интел"@bg ;
+	rdfs:label "ইন্টেল কর্পোরেশন"@bn ;
+	skos:prefLabel "ইন্টেল কর্পোরেশন"@bn ;
+	schema:name "ইন্টেল কর্পোরেশন"@bn ;
+	rdfs:label "Intel"@bs ;
+	skos:prefLabel "Intel"@bs ;
+	schema:name "Intel"@bs ;
+	rdfs:label "Intel"@ca ;
+	skos:prefLabel "Intel"@ca ;
+	schema:name "Intel"@ca ;
+	rdfs:label "ئینتێل"@ckb ;
+	skos:prefLabel "ئینتێل"@ckb ;
+	schema:name "ئینتێل"@ckb ;
+	rdfs:label "Intel"@cs ;
+	skos:prefLabel "Intel"@cs ;
+	schema:name "Intel"@cs ;
+	rdfs:label "Intel"@da ;
+	skos:prefLabel "Intel"@da ;
+	schema:name "Intel"@da ;
+	rdfs:label "Intel"@de-ch ;
+	skos:prefLabel "Intel"@de-ch ;
+	schema:name "Intel"@de-ch ;
+	rdfs:label "Intel Corporation"@el ;
+	skos:prefLabel "Intel Corporation"@el ;
+	schema:name "Intel Corporation"@el ;
+	rdfs:label "Intel"@eo ;
+	skos:prefLabel "Intel"@eo ;
+	schema:name "Intel"@eo ;
+	rdfs:label "Intel"@et ;
+	skos:prefLabel "Intel"@et ;
+	schema:name "Intel"@et ;
+	rdfs:label "اینتل"@fa ;
+	skos:prefLabel "اینتل"@fa ;
+	schema:name "اینتل"@fa ;
+	rdfs:label "Intel"@fi ;
+	skos:prefLabel "Intel"@fi ;
+	schema:name "Intel"@fi ;
+	rdfs:label "Intel"@ga ;
+	skos:prefLabel "Intel"@ga ;
+	schema:name "Intel"@ga ;
+	rdfs:label "Intel Corporation"@gl ;
+	skos:prefLabel "Intel Corporation"@gl ;
+	schema:name "Intel Corporation"@gl ;
+	rdfs:label "ઇન્ટેલ કોર્પોરેશન"@gu ;
+	skos:prefLabel "ઇન્ટેલ કોર્પોરેશન"@gu ;
+	schema:name "ઇન્ટેલ કોર્પોરેશન"@gu ;
+	rdfs:label "אינטל"@he ;
+	skos:prefLabel "אינטל"@he ;
+	schema:name "אינטל"@he ;
+	rdfs:label "इंटेल"@hi ;
+	skos:prefLabel "इंटेल"@hi ;
+	schema:name "इंटेल"@hi ;
+	rdfs:label "Intel"@hr ;
+	skos:prefLabel "Intel"@hr ;
+	schema:name "Intel"@hr ;
+	rdfs:label "Intel"@hu ;
+	skos:prefLabel "Intel"@hu ;
+	schema:name "Intel"@hu ;
+	rdfs:label "Ինտել"@hy ;
+	skos:prefLabel "Ինտել"@hy ;
+	schema:name "Ինտել"@hy ;
+	rdfs:label "Intel Corporation"@id ;
+	skos:prefLabel "Intel Corporation"@id ;
+	schema:name "Intel Corporation"@id ;
+	rdfs:label "Intel Corporation"@is ;
+	skos:prefLabel "Intel Corporation"@is ;
+	schema:name "Intel Corporation"@is ;
+	rdfs:label "インテル"@ja ;
+	skos:prefLabel "インテル"@ja ;
+	schema:name "インテル"@ja ;
+	rdfs:label "Intel"@ka ;
+	skos:prefLabel "Intel"@ka ;
+	schema:name "Intel"@ka ;
+	rdfs:label "Intel"@kaa ;
+	skos:prefLabel "Intel"@kaa ;
+	schema:name "Intel"@kaa ;
+	rdfs:label "Intel"@kk ;
+	skos:prefLabel "Intel"@kk ;
+	schema:name "Intel"@kk ;
+	rdfs:label "ಇಂಟೆಲ್ ಕಾರ್ಪೊರೇಶನ್"@kn ;
+	skos:prefLabel "ಇಂಟೆಲ್ ಕಾರ್ಪೊರೇಶನ್"@kn ;
+	schema:name "ಇಂಟೆಲ್ ಕಾರ್ಪೊರೇಶನ್"@kn ;
+	rdfs:label "인텔"@ko ;
+	skos:prefLabel "인텔"@ko ;
+	schema:name "인텔"@ko ;
+	rdfs:label "Intel"@ky ;
+	skos:prefLabel "Intel"@ky ;
+	schema:name "Intel"@ky ;
+	rdfs:label "Intel Corporation"@lt ;
+	skos:prefLabel "Intel Corporation"@lt ;
+	schema:name "Intel Corporation"@lt ;
+	rdfs:label "Intel Corporation"@lv ;
+	skos:prefLabel "Intel Corporation"@lv ;
+	schema:name "Intel Corporation"@lv ;
+	rdfs:label "Интел"@mk ;
+	skos:prefLabel "Интел"@mk ;
+	schema:name "Интел"@mk ;
+	rdfs:label "ഇന്റൽ കോർപ്പറേഷൻ"@ml ;
+	skos:prefLabel "ഇന്റൽ കോർപ്പറേഷൻ"@ml ;
+	schema:name "ഇന്റൽ കോർപ്പറേഷൻ"@ml ;
+	rdfs:label "इंटेल कॉर्पोरेशन"@mr ;
+	skos:prefLabel "इंटेल कॉर्पोरेशन"@mr ;
+	schema:name "इंटेल कॉर्पोरेशन"@mr ;
+	rdfs:label "Intel Corporation"@ms ;
+	skos:prefLabel "Intel Corporation"@ms ;
+	schema:name "Intel Corporation"@ms ;
+	rdfs:label "Intel"@nl ;
+	skos:prefLabel "Intel"@nl ;
+	schema:name "Intel"@nl ;
+	rdfs:label "Intel"@pl ;
+	skos:prefLabel "Intel"@pl ;
+	schema:name "Intel"@pl ;
+	rdfs:label "Intel"@pnt ;
+	skos:prefLabel "Intel"@pnt ;
+	schema:name "Intel"@pnt ;
+	rdfs:label "Intel Corporation"@pt ;
+	skos:prefLabel "Intel Corporation"@pt ;
+	schema:name "Intel Corporation"@pt ;
+	rdfs:label "Intel"@pt-br ;
+	skos:prefLabel "Intel"@pt-br ;
+	schema:name "Intel"@pt-br ;
+	rdfs:label "Intel"@ro ;
+	skos:prefLabel "Intel"@ro ;
+	schema:name "Intel"@ro ;
+	rdfs:label "Intel"@ru ;
+	skos:prefLabel "Intel"@ru ;
+	schema:name "Intel"@ru ;
+	rdfs:label "Intel"@sh ;
+	skos:prefLabel "Intel"@sh ;
+	schema:name "Intel"@sh ;
+	rdfs:label "ඉන්ටෙල්"@si ;
+	skos:prefLabel "ඉන්ටෙල්"@si ;
+	schema:name "ඉන්ටෙල්"@si ;
+	rdfs:label "Intel"@sk ;
+	skos:prefLabel "Intel"@sk ;
+	schema:name "Intel"@sk ;
+	rdfs:label "Intel"@sl ;
+	skos:prefLabel "Intel"@sl ;
+	schema:name "Intel"@sl ;
+	rdfs:label "Intel Corporation"@sq ;
+	skos:prefLabel "Intel Corporation"@sq ;
+	schema:name "Intel Corporation"@sq ;
+	rdfs:label "Интел"@sr ;
+	skos:prefLabel "Интел"@sr ;
+	schema:name "Интел"@sr ;
+	rdfs:label "Intel"@sv ;
+	skos:prefLabel "Intel"@sv ;
+	schema:name "Intel"@sv ;
+	rdfs:label "ఇంటెల్ సంస్థ"@te ;
+	skos:prefLabel "ఇంటెల్ సంస్థ"@te ;
+	schema:name "ఇంటెల్ సంస్థ"@te ;
+	rdfs:label "อินเทล"@th ;
+	skos:prefLabel "อินเทล"@th ;
+	schema:name "อินเทล"@th ;
+	rdfs:label "Intel"@tr ;
+	skos:prefLabel "Intel"@tr ;
+	schema:name "Intel"@tr ;
+	rdfs:label "Intel"@uk ;
+	skos:prefLabel "Intel"@uk ;
+	schema:name "Intel"@uk ;
+	rdfs:label "Intel"@uz ;
+	skos:prefLabel "Intel"@uz ;
+	schema:name "Intel"@uz ;
+	rdfs:label "Intel"@vi ;
+	skos:prefLabel "Intel"@vi ;
+	schema:name "Intel"@vi ;
+	rdfs:label "英特尔"@zh ;
+	skos:prefLabel "英特尔"@zh ;
+	schema:name "英特尔"@zh ;
+	rdfs:label "英特爾"@yue ;
+	skos:prefLabel "英特爾"@yue ;
+	schema:name "英特爾"@yue ;
+	rdfs:label "Intel"@nb ;
+	skos:prefLabel "Intel"@nb ;
+	schema:name "Intel"@nb ;
+	rdfs:label "英特尔"@zh-hans ;
+	skos:prefLabel "英特尔"@zh-hans ;
+	schema:name "英特尔"@zh-hans ;
+	rdfs:label "英特爾"@zh-hant ;
+	skos:prefLabel "英特爾"@zh-hant ;
+	schema:name "英特爾"@zh-hant ;
+	rdfs:label "Intel"@oc ;
+	skos:prefLabel "Intel"@oc ;
+	schema:name "Intel"@oc ;
+	rdfs:label "Intel"@ki ;
+	skos:prefLabel "Intel"@ki ;
+	schema:name "Intel"@ki ;
+	rdfs:label "Интел"@sr-ec ;
+	skos:prefLabel "Интел"@sr-ec ;
+	schema:name "Интел"@sr-ec ;
+	rdfs:label "Intel"@sr-el ;
+	skos:prefLabel "Intel"@sr-el ;
+	schema:name "Intel"@sr-el ;
+	rdfs:label "ଇଣ୍ଟେଲ"@or ;
+	skos:prefLabel "ଇଣ୍ଟେଲ"@or ;
+	schema:name "ଇଣ୍ଟେଲ"@or ;
+	rdfs:label "Intel"@sco ;
+	skos:prefLabel "Intel"@sco ;
+	schema:name "Intel"@sco ;
+	rdfs:label "ਇਨਟੈੱਲ"@pa ;
+	skos:prefLabel "ਇਨਟੈੱਲ"@pa ;
+	schema:name "ਇਨਟੈੱਲ"@pa ;
+	rdfs:label "Intel"@mn ;
+	skos:prefLabel "Intel"@mn ;
+	schema:name "Intel"@mn ;
+	rdfs:label "Intel Corporation"@su ;
+	skos:prefLabel "Intel Corporation"@su ;
+	schema:name "Intel Corporation"@su ;
+	rdfs:label "Intel"@scn ;
+	skos:prefLabel "Intel"@scn ;
+	schema:name "Intel"@scn ;
+	rdfs:label "इन्टेल"@ne ;
+	skos:prefLabel "इन्टेल"@ne ;
+	schema:name "इन्टेल"@ne ;
+	schema:description "azienda statunitense produttrice di semiconduttori"@it,
+		"entreprise américaine"@fr,
+		"American multinational corporation that manufactures semiconductor chips"@en,
+		"empresa estadounidense fabricante de circuitos integrados"@es,
+		"US-amerikanischer Halbleiterhersteller"@de,
+		"американская корпорация"@ru,
+		"yhdysvaltalainen monikansallinen teknologiayhtiö ja maailman suurin puolijohdevalmistaja"@fi,
+		"datafirma"@nb,
+		"americká společnost vyrábějící polovodiče"@cs,
+		"empresa multinacional americana que fabrica chips semicondutores"@pt-br,
+		"美国的半导体公司"@zh-hans,
+		"найбільша у світі напівпровідникова компанія та виробник x86-серії мікропроцесорів"@uk,
+		"mikroprocesszorokat gyártó amerikai-nemzetközi vállalat"@hu,
+		"azienna miricana"@scn ;
+	skos:altLabel "Intel Corporation"@fr,
+		"Intel Corporation"@ru,
+		"Интэл"@ru,
+		"Intel Corporation"@cs,
+		"Integrated Electronics Corporation"@cs,
+		"Integrated Electronics"@cs,
+		"Intel Corporation"@en,
+		"Intel Corporation"@pt-br,
+		"Intel Corporation"@uk,
+		"Integrated Electronics"@uk,
+		"Інтел"@uk,
+		"Intel Corporation"@hu,
+		"Intel Corporation"@scn ;
+	wdt:P112 wd:Q241735,
+		wd:Q243969 ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P244 "n78020122" ;
+	wdt:P214 "154747966" ;
+	wdt:P213 "0000 0001 0354 5207" ;
+	wdt:P414 wd:Q82059 ;
+	wdt:P169 wd:Q12572999 ;
+	wdt:P373 "Intel" ;
+	wdt:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Intel-logo.svg> ;
+	wdt:P159 wd:Q159260 ;
+	wdt:P646 "/m/03s7h" ;
+	wdt:P269 "145835014" ;
+	wdt:P1343 wd:Q17311605,
+		wd:Q17290934 ;
+	wdt:P245 "500333088" ;
+	p:P112 wds:q248-8CB61A34-B432-4932-B091-819F8E72881A .
+
+wds:q248-8CB61A34-B432-4932-B091-819F8E72881A a wikibase:Statement ;
+	ps:P112 wd:Q241735 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q248 p:P112 wds:q248-F8C5BD56-22BE-4DC9-92D2-57B68930E833 .
+
+wds:q248-F8C5BD56-22BE-4DC9-92D2-57B68930E833 a wikibase:Statement ;
+	ps:P112 wd:Q243969 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q248 p:P31 wds:q248-A50EA36D-A2E5-450D-A825-2A228CEB0244 .
+
+wds:q248-A50EA36D-A2E5-450D-A825-2A228CEB0244 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q248 p:P244 wds:q248-E0875D49-E07F-4626-8DD4-9F8E281B0402 .
+
+wds:q248-E0875D49-E07F-4626-8DD4-9F8E281B0402 a wikibase:Statement ;
+	ps:P244 "n78020122" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q248 p:P214 wds:q248-05669CAE-F827-44D8-9546-A5AF765858E7 .
+
+wds:q248-05669CAE-F827-44D8-9546-A5AF765858E7 a wikibase:Statement ;
+	ps:P214 "154747966" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q248 p:P213 wds:q248-63CEC69D-75FE-44DF-9D0C-8840DC148EC6 .
+
+wds:q248-63CEC69D-75FE-44DF-9D0C-8840DC148EC6 a wikibase:Statement ;
+	ps:P213 "0000 0001 0354 5207" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:500bf0768a4645f1e00ad451f904d3a010fa43ae .
+
+wd:Q248 p:P414 wds:q248-79542498-4632-a468-c539-9e376dec77ca .
+
+wds:q248-79542498-4632-a468-c539-9e376dec77ca a wikibase:Statement ;
+	ps:P414 wd:Q82059 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "INTC" .
+
+wd:Q248 p:P169 wds:q248-2734ecd8-4b99-0280-b495-50a18e9b1a73 .
+
+wds:q248-2734ecd8-4b99-0280-b495-50a18e9b1a73 a wikibase:Statement ;
+	ps:P169 wd:Q12572999 ;
+	wikibase:rank wikibase:PreferredRank,
+		wikibase:BestRank ;
+	pq:P580 "2013-05-02T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:a3ab9e6916cef9a54de77b1631fe194f ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q248 p:P169 wds:q248-27fbd247-4fb3-3167-9c11-1edc958709c0 .
+
+wds:q248-27fbd247-4fb3-3167-9c11-1edc958709c0 a wikibase:Statement ;
+	ps:P169 wd:Q1148995 ;
+	wikibase:rank wikibase:NormalRank ;
+	pq:P580 "2005-05-18T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:46a5ad6767c3e9c9e3e89a3969ec4b08 ;
+	pq:P582 "2013-05-02T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:a3ab9e6916cef9a54de77b1631fe194f ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q248 p:P373 wds:q248-A1F17051-BEF1-4AD8-B0AE-8E88F4F5A347 .
+
+wds:q248-A1F17051-BEF1-4AD8-B0AE-8E88F4F5A347 a wikibase:Statement ;
+	ps:P373 "Intel" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q248 p:P154 wds:q248-940AC5C0-70D2-4B33-AC2A-B109399F8929 .
+
+wds:q248-940AC5C0-70D2-4B33-AC2A-B109399F8929 a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Intel-logo.svg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q248 p:P159 wds:q248-53fca92c-44f2-bea5-0e0d-86ad62eda577 .
+
+wds:q248-53fca92c-44f2-bea5-0e0d-86ad62eda577 a wikibase:Statement ;
+	ps:P159 wd:Q159260 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(37.387927777778 -121.96353888889)"^^geo:wktLiteral ;
+	pqv:P625 wdv:0f28e4c5e71ac717b209c7f3e1eeb6b3 .
+
+wd:Q248 p:P646 wds:Q248-D13C97D7-5F8D-4B45-97D0-60C57315248E .
+
+wds:Q248-D13C97D7-5F8D-4B45-97D0-60C57315248E a wikibase:Statement ;
+	ps:P646 "/m/03s7h" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q248 p:P269 wds:Q248-090B92FC-F537-4622-90A4-1C30094D3CBA .
+
+wds:Q248-090B92FC-F537-4622-90A4-1C30094D3CBA a wikibase:Statement ;
+	ps:P269 "145835014" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:a51d6594fee36c7452eaed2db35a4833613a7078 .
+
+wd:Q248 p:P1343 wds:Q248-4720253D-C03C-4AFC-A8F0-FB92FA36A447 .
+
+wds:Q248-4720253D-C03C-4AFC-A8F0-FB92FA36A447 a wikibase:Statement ;
+	ps:P1343 wd:Q17311605 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P357 "Intel" ;
+	pq:P248 wd:Q17315768 .
+
+wd:Q248 p:P1343 wds:Q248-375944D5-E833-4871-B87C-0E0D6EEAACC9 .
+
+wds:Q248-375944D5-E833-4871-B87C-0E0D6EEAACC9 a wikibase:Statement ;
+	ps:P1343 wd:Q17290934 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P357 "Intel" ;
+	pq:P248 wd:Q17315769 .
+
+wd:Q248 p:P245 wds:Q248-B3A99AAB-019B-4310-9F51-5A2B3BC06166 .
+
+wds:Q248-B3A99AAB-019B-4310-9F51-5A2B3BC06166 a wikibase:Statement ;
+	ps:P245 "500333088" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:2a29afbf4741a8299ff5e02428f2ec4b00cadcff .
+
+<https://en.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "en" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%A9%E0%AF%8D%E0%AE%9F%E0%AF%86%E0%AE%B2%E0%AF%8D> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "ta" .
+
+<https://af.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "af" .
+
+<https://ar.wikipedia.org/wiki/%D8%A5%D9%86%D8%AA%D9%84> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "ar" .
+
+<https://be.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "be" .
+
+<https://bg.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%BB> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "bg" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B2%20%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "bn" .
+
+<https://bs.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "bs" .
+
+<https://ca.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "ca" .
+
+<https://ckb.wikipedia.org/wiki/%D8%A6%DB%8C%D9%86%D8%AA%DB%8E%D9%84> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "ckb" .
+
+<https://cs.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "cs" .
+
+<https://da.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "da" .
+
+<https://de.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "de" .
+
+<https://el.wikipedia.org/wiki/Intel%20Corporation> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "el" .
+
+<https://eo.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "eo" .
+
+<https://es.wikipedia.org/wiki/Intel%20Corporation> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "es" .
+
+<https://et.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "et" .
+
+<https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%86%D8%AA%D9%84> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "fa" .
+
+<https://fi.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "fi" .
+
+<https://fr.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "fr" .
+
+<https://ga.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "ga" .
+
+<https://gl.wikipedia.org/wiki/Intel%20Corporation> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "gl" .
+
+<https://gu.wikipedia.org/wiki/%E0%AA%87%E0%AA%A8%E0%AB%8D%E0%AA%9F%E0%AB%87%E0%AA%B2%20%E0%AA%95%E0%AB%8B%E0%AA%B0%E0%AB%8D%E0%AA%AA%E0%AB%8B%E0%AA%B0%E0%AB%87%E0%AA%B6%E0%AA%A8> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "gu" .
+
+<https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%A0%D7%98%D7%9C> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "he" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%87%E0%A4%82%E0%A4%9F%E0%A5%87%E0%A4%B2> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "hi" .
+
+<https://hr.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "hr" .
+
+<https://hu.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "hu" .
+
+<https://hy.wikipedia.org/wiki/%D4%BB%D5%B6%D5%BF%D5%A5%D5%AC> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "hy" .
+
+<https://id.wikipedia.org/wiki/Intel%20Corporation> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "id" .
+
+<https://is.wikipedia.org/wiki/Intel%20Corporation> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "is" .
+
+<https://it.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "it" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "ja" .
+
+<https://ka.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "ka" .
+
+<https://kaa.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "kaa" .
+
+<https://kk.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "kk" .
+
+<https://kn.wikipedia.org/wiki/%E0%B2%87%E0%B2%82%E0%B2%9F%E0%B3%86%E0%B2%B2%E0%B3%8D%20%E0%B2%95%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%AA%E0%B3%8A%E0%B2%B0%E0%B3%87%E0%B2%B6%E0%B2%A8%E0%B3%8D> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "kn" .
+
+<https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%85%94> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "ko" .
+
+<https://ky.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "ky" .
+
+<https://lt.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "lt" .
+
+<https://lv.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "lv" .
+
+<https://mk.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%BB> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "mk" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%87%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%BD%20%E0%B4%95%E0%B5%8B%E0%B5%BC%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%B1%E0%B5%87%E0%B4%B7%E0%B5%BB> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "ml" .
+
+<https://mr.wikipedia.org/wiki/%E0%A4%87%E0%A4%82%E0%A4%9F%E0%A5%87%E0%A4%B2%20%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A4%A8> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "mr" .
+
+<https://ms.wikipedia.org/wiki/Intel%20Corporation> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "ms" .
+
+<https://nl.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "nl" .
+
+<https://no.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "no" .
+
+<https://pl.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "pl" .
+
+<https://pnt.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "pnt" .
+
+<https://pt.wikipedia.org/wiki/Intel%20Corporation> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "pt" .
+
+<https://ro.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "ro" .
+
+<https://ru.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "ru" .
+
+<https://sh.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "sh" .
+
+<https://si.wikipedia.org/wiki/%E0%B6%89%E0%B6%B1%E0%B7%8A%E0%B6%A7%E0%B7%99%E0%B6%BD%E0%B7%8A> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "si" .
+
+<https://simple.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "simple" .
+
+<https://sk.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "sk" .
+
+<https://sl.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "sl" .
+
+<https://sq.wikipedia.org/wiki/Intel%20Corporation> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "sq" .
+
+<https://sr.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%BB> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "sr" .
+
+<https://sv.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "sv" .
+
+<https://te.wikipedia.org/wiki/%E0%B0%87%E0%B0%82%E0%B0%9F%E0%B1%86%E0%B0%B2%E0%B1%8D%20%E0%B0%B8%E0%B0%82%E0%B0%B8%E0%B1%8D%E0%B0%A5> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "te" .
+
+<https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%A5> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "th" .
+
+<https://tr.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "tr" .
+
+<https://uk.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "uk" .
+
+<https://uz.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "uz" .
+
+<https://vi.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "vi" .
+
+<https://zh.wikipedia.org/wiki/%E8%8B%B1%E7%89%B9%E5%B0%94> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "zh" .
+
+<https://zh-yue.wikipedia.org/wiki/%E8%8B%B1%E7%89%B9%E7%88%BE> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "zh-yue" .
+
+<https://ki.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "ki" .
+
+<https://or.wikipedia.org/wiki/%E0%AC%87%E0%AC%A3%E0%AD%8D%E0%AC%9F%E0%AD%87%E0%AC%B2%E0%AD%8D%E2%80%8C> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "or" .
+
+<https://pa.wikipedia.org/wiki/%E0%A8%87%E0%A8%A8%E0%A8%9F%E0%A9%88%E0%A9%B1%E0%A8%B2> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "pa" .
+
+<https://az.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "az" .
+
+<https://mn.wikipedia.org/wiki/Intel> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "mn" .
+
+<https://su.wikipedia.org/wiki/Intel%20Corporation> a schema:Article ;
+	schema:about wd:Q248 ;
+	schema:inLanguage "su" .
+
+wdv:a3ab9e6916cef9a54de77b1631fe194f a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2013-05-02T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:46a5ad6767c3e9c9e3e89a3969ec4b08 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2005-05-18T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:0f28e4c5e71ac717b209c7f3e1eeb6b3 a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "37.387927777778"^^xsd:decimal ;
+	wikibase:geoLongitude "-121.96353888889"^^xsd:decimal ;
+	wikibase:geoPrecision "2.7777777777778E-6"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdref:2a29afbf4741a8299ff5e02428f2ec4b00cadcff a wikibase:Reference ;
+	pr:P248 wd:Q54919 ;
+	pr:P813 "2014-12-16T00:00:00Z"^^xsd:dateTime ;
+	prv:P813 wdv:76e897091f8a5423320262325216a9c2 ;
+	pr:P854 <http://viaf.org/viaf/154747966> .
+
+wdata:Q250 schema:version "232036080"^^xsd:integer ;
+	schema:dateModified "2015-07-18T07:28:14Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q250 .
+

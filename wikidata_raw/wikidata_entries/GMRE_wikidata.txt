@@ -1,0 +1,14 @@
+wd:Q19356963 a wikibase:Item ;
+	rdfs:label "國際醫療房地產投資信託"@zh ;
+	skos:prefLabel "國際醫療房地產投資信託"@zh ;
+	schema:name "國際醫療房地產投資信託"@zh .
+
+<https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%9A%9B%E9%86%AB%E7%99%82%E6%88%BF%E5%9C%B0%E7%94%A2%E6%8A%95%E8%B3%87%E4%BF%A1%E8%A8%97> a schema:Article ;
+	schema:about wd:Q19356963 ;
+	schema:inLanguage "zh" .
+
+wdata:Q19356966 schema:version "206588805"^^xsd:integer ;
+	schema:dateModified "2015-03-24T23:53:10Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q19356966 .
+

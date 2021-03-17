@@ -1,0 +1,470 @@
+wd:Q7240 a wikibase:Item ;
+	rdfs:label "Lockheed Martin"@en ;
+	skos:prefLabel "Lockheed Martin"@en ;
+	schema:name "Lockheed Martin"@en ;
+	rdfs:label "Lockheed Martin"@nb ;
+	skos:prefLabel "Lockheed Martin"@nb ;
+	schema:name "Lockheed Martin"@nb ;
+	rdfs:label "Lockheed Martin"@en-ca ;
+	skos:prefLabel "Lockheed Martin"@en-ca ;
+	schema:name "Lockheed Martin"@en-ca ;
+	rdfs:label "Lockheed Martin"@en-gb ;
+	skos:prefLabel "Lockheed Martin"@en-gb ;
+	schema:name "Lockheed Martin"@en-gb ;
+	rdfs:label "لوكهيد مارتن"@ar ;
+	skos:prefLabel "لوكهيد مارتن"@ar ;
+	schema:name "لوكهيد مارتن"@ar ;
+	rdfs:label "Lockheed Martin"@bs ;
+	skos:prefLabel "Lockheed Martin"@bs ;
+	schema:name "Lockheed Martin"@bs ;
+	rdfs:label "Lockheed Martin"@ca ;
+	skos:prefLabel "Lockheed Martin"@ca ;
+	schema:name "Lockheed Martin"@ca ;
+	rdfs:label "Lockheed Martin"@cs ;
+	skos:prefLabel "Lockheed Martin"@cs ;
+	schema:name "Lockheed Martin"@cs ;
+	rdfs:label "Lockheed Martin"@da ;
+	skos:prefLabel "Lockheed Martin"@da ;
+	schema:name "Lockheed Martin"@da ;
+	rdfs:label "Lockheed Martin"@de ;
+	skos:prefLabel "Lockheed Martin"@de ;
+	schema:name "Lockheed Martin"@de ;
+	rdfs:label "Lockheed Martin"@es ;
+	skos:prefLabel "Lockheed Martin"@es ;
+	schema:name "Lockheed Martin"@es ;
+	rdfs:label "Lockheed Martin"@eu ;
+	skos:prefLabel "Lockheed Martin"@eu ;
+	schema:name "Lockheed Martin"@eu ;
+	rdfs:label "لاکهید مارتین"@fa ;
+	skos:prefLabel "لاکهید مارتین"@fa ;
+	schema:name "لاکهید مارتین"@fa ;
+	rdfs:label "Lockheed Martin"@fi ;
+	skos:prefLabel "Lockheed Martin"@fi ;
+	schema:name "Lockheed Martin"@fi ;
+	rdfs:label "Lockheed Martin"@fr ;
+	skos:prefLabel "Lockheed Martin"@fr ;
+	schema:name "Lockheed Martin"@fr ;
+	rdfs:label "Lockheed Martin"@fy ;
+	skos:prefLabel "Lockheed Martin"@fy ;
+	schema:name "Lockheed Martin"@fy ;
+	rdfs:label "לוקהיד מרטין"@he ;
+	skos:prefLabel "לוקהיד מרטין"@he ;
+	schema:name "לוקהיד מרטין"@he ;
+	rdfs:label "Lockheed Martin"@id ;
+	skos:prefLabel "Lockheed Martin"@id ;
+	schema:name "Lockheed Martin"@id ;
+	rdfs:label "Lockheed Martin"@it ;
+	skos:prefLabel "Lockheed Martin"@it ;
+	schema:name "Lockheed Martin"@it ;
+	rdfs:label "ロッキード・マーティン"@ja ;
+	skos:prefLabel "ロッキード・マーティン"@ja ;
+	schema:name "ロッキード・マーティン"@ja ;
+	rdfs:label "록히드 마틴"@ko ;
+	skos:prefLabel "록히드 마틴"@ko ;
+	schema:name "록히드 마틴"@ko ;
+	rdfs:label "Lockheed Martin"@lb ;
+	skos:prefLabel "Lockheed Martin"@lb ;
+	schema:name "Lockheed Martin"@lb ;
+	rdfs:label "Lockheed Martin"@lt ;
+	skos:prefLabel "Lockheed Martin"@lt ;
+	schema:name "Lockheed Martin"@lt ;
+	rdfs:label "Lockheed Martin"@lv ;
+	skos:prefLabel "Lockheed Martin"@lv ;
+	schema:name "Lockheed Martin"@lv ;
+	rdfs:label "Lockheed Martin"@ms ;
+	skos:prefLabel "Lockheed Martin"@ms ;
+	schema:name "Lockheed Martin"@ms ;
+	rdfs:label "Lockheed Martin"@nl ;
+	skos:prefLabel "Lockheed Martin"@nl ;
+	schema:name "Lockheed Martin"@nl ;
+	rdfs:label "Lockheed-Martin"@nn ;
+	skos:prefLabel "Lockheed-Martin"@nn ;
+	schema:name "Lockheed-Martin"@nn ;
+	rdfs:label "Lockheed Martin"@pl ;
+	skos:prefLabel "Lockheed Martin"@pl ;
+	schema:name "Lockheed Martin"@pl ;
+	rdfs:label "Lockheed Martin"@pt ;
+	skos:prefLabel "Lockheed Martin"@pt ;
+	schema:name "Lockheed Martin"@pt ;
+	rdfs:label "Lockheed Martin"@pt-br ;
+	skos:prefLabel "Lockheed Martin"@pt-br ;
+	schema:name "Lockheed Martin"@pt-br ;
+	rdfs:label "Lockheed Martin"@ro ;
+	skos:prefLabel "Lockheed Martin"@ro ;
+	schema:name "Lockheed Martin"@ro ;
+	rdfs:label "Lockheed Martin"@ru ;
+	skos:prefLabel "Lockheed Martin"@ru ;
+	schema:name "Lockheed Martin"@ru ;
+	rdfs:label "Lockheed Martin"@sk ;
+	skos:prefLabel "Lockheed Martin"@sk ;
+	schema:name "Lockheed Martin"@sk ;
+	rdfs:label "Локид Мартин"@sr ;
+	skos:prefLabel "Локид Мартин"@sr ;
+	schema:name "Локид Мартин"@sr ;
+	rdfs:label "Lockheed Martin"@sv ;
+	skos:prefLabel "Lockheed Martin"@sv ;
+	schema:name "Lockheed Martin"@sv ;
+	rdfs:label "Lockheed Martin"@tr ;
+	skos:prefLabel "Lockheed Martin"@tr ;
+	schema:name "Lockheed Martin"@tr ;
+	rdfs:label "Lockheed Martin"@uk ;
+	skos:prefLabel "Lockheed Martin"@uk ;
+	schema:name "Lockheed Martin"@uk ;
+	rdfs:label "Lockheed Martin"@vi ;
+	skos:prefLabel "Lockheed Martin"@vi ;
+	schema:name "Lockheed Martin"@vi ;
+	rdfs:label "洛克希德·马丁"@zh ;
+	skos:prefLabel "洛克希德·马丁"@zh ;
+	schema:name "洛克希德·马丁"@zh ;
+	rdfs:label "Lockheed Martin"@de-ch ;
+	skos:prefLabel "Lockheed Martin"@de-ch ;
+	schema:name "Lockheed Martin"@de-ch ;
+	rdfs:label "ล็อกฮีด มาร์ติน"@th ;
+	skos:prefLabel "ล็อกฮีด มาร์ติน"@th ;
+	schema:name "ล็อกฮีด มาร์ติน"@th ;
+	rdfs:label "Lockheed Martin"@be-tarask ;
+	skos:prefLabel "Lockheed Martin"@be-tarask ;
+	schema:name "Lockheed Martin"@be-tarask ;
+	rdfs:label "洛克希德·馬丁"@zh-hant ;
+	skos:prefLabel "洛克希德·馬丁"@zh-hant ;
+	schema:name "洛克希德·馬丁"@zh-hant ;
+	rdfs:label "洛克希德·马丁"@zh-hans ;
+	skos:prefLabel "洛克希德·马丁"@zh-hans ;
+	schema:name "洛克希德·马丁"@zh-hans ;
+	rdfs:label "Lockheed Martin"@oc ;
+	skos:prefLabel "Lockheed Martin"@oc ;
+	schema:name "Lockheed Martin"@oc ;
+	rdfs:label "লকহীড মার্টিন"@bn ;
+	skos:prefLabel "লকহীড মার্টিন"@bn ;
+	schema:name "লকহীড মার্টিন"@bn ;
+	rdfs:label "Lockheed Martin"@et ;
+	skos:prefLabel "Lockheed Martin"@et ;
+	schema:name "Lockheed Martin"@et ;
+	rdfs:label "Локхид Мартин"@mk ;
+	skos:prefLabel "Локхид Мартин"@mk ;
+	schema:name "Локхид Мартин"@mk ;
+	rdfs:label "Lockheed Martin"@sco ;
+	skos:prefLabel "Lockheed Martin"@sco ;
+	schema:name "Lockheed Martin"@sco ;
+	rdfs:label "Lockheed Martin"@sl ;
+	skos:prefLabel "Lockheed Martin"@sl ;
+	schema:name "Lockheed Martin"@sl ;
+	rdfs:label "Lockheed Martin"@sh ;
+	skos:prefLabel "Lockheed Martin"@sh ;
+	schema:name "Lockheed Martin"@sh ;
+	rdfs:label "Lockheed Martin"@be ;
+	skos:prefLabel "Lockheed Martin"@be ;
+	schema:name "Lockheed Martin"@be ;
+	schema:description "flyprodusent"@nb,
+		"1995년에 록히드 사와 마틴 마리에타 사가 합병하여 설립된 항공기 제작사이자 첨단 기술 회사이다."@ko,
+		"empresa estadounidense"@es,
+		"aerospace, defense, security, and advanced technology company in the United States"@en,
+		"azienda aereospaziale statunitense"@it,
+		"US-amerikanischer Rüstungs- und Technologiekonzern"@de,
+		"constructeur aéronautique"@fr ;
+	skos:altLabel "Lockheed Martin"@mk ;
+	wdt:P17 wd:Q30 ;
+	wdt:P31 wd:Q936518,
+		wd:Q1934969 ;
+	wdt:P373 "Lockheed Martin" ;
+	wdt:P244 "n95082784" ;
+	wdt:P214 "143228619" ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P159 wd:Q584451 ;
+	wdt:P155 wd:Q7233,
+		wd:Q626800 ;
+	wdt:P910 wd:Q6459886 ;
+	wdt:P452 wd:Q3477363 ;
+	wdt:P646 "/m/0hkqn" ;
+	p:P17 wds:q7240-2B796F14-93D7-4EBD-B585-BD5DE570F389 .
+
+wds:q7240-2B796F14-93D7-4EBD-B585-BD5DE570F389 a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7240 p:P31 wds:q7240-A5414BD0-5411-4272-A0CF-8F666C21AEE7 .
+
+wds:q7240-A5414BD0-5411-4272-A0CF-8F666C21AEE7 a wikibase:Statement ;
+	ps:P31 wd:Q936518 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7240 p:P31 wds:q7240-1850ff0e-4a96-8e54-dd65-ad5be5ea7402 .
+
+wds:q7240-1850ff0e-4a96-8e54-dd65-ad5be5ea7402 a wikibase:Statement ;
+	ps:P31 wd:Q1934969 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7240 p:P373 wds:q7240-32A4256A-1774-45B7-894E-C084B5D5F094 .
+
+wds:q7240-32A4256A-1774-45B7-894E-C084B5D5F094 a wikibase:Statement ;
+	ps:P373 "Lockheed Martin" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q7240 p:P244 wds:q7240-7eea5941-40fa-3bb2-2200-b8089104c77b .
+
+wds:q7240-7eea5941-40fa-3bb2-2200-b8089104c77b a wikibase:Statement ;
+	ps:P244 "n95082784" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7240 p:P214 wds:q7240-0bf3d1e4-4f70-fcf2-8b0c-4b469c41b595 .
+
+wds:q7240-0bf3d1e4-4f70-fcf2-8b0c-4b469c41b595 a wikibase:Statement ;
+	ps:P214 "143228619" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7240 p:P414 wds:q7240-890a1d9b-4a88-5201-723b-c9c564a6ddca .
+
+wds:q7240-890a1d9b-4a88-5201-723b-c9c564a6ddca a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "LMT" .
+
+wd:Q7240 p:P159 wds:q7240-839f6eb5-4b11-a907-b435-8cb2f4a0e91b .
+
+wds:q7240-839f6eb5-4b11-a907-b435-8cb2f4a0e91b a wikibase:Statement ;
+	ps:P159 wd:Q584451 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(39.0305 -77.138833333333)"^^geo:wktLiteral ;
+	pqv:P625 wdv:4ce73228c24620ff24143330edc5b5b2 .
+
+wd:Q7240 p:P155 wds:q7240-e4d8f406-4232-3cf7-bc6b-4953da02004c .
+
+wds:q7240-e4d8f406-4232-3cf7-bc6b-4953da02004c a wikibase:Statement ;
+	ps:P155 wd:Q7233 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7240 p:P155 wds:q7240-73c23510-4e70-0aa7-2fa4-c7d30c5223e2 .
+
+wds:q7240-73c23510-4e70-0aa7-2fa4-c7d30c5223e2 a wikibase:Statement ;
+	ps:P155 wd:Q626800 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7240 p:P910 wds:Q7240-E3C139D2-18FB-47B5-A017-DC58FF5C629B .
+
+wds:Q7240-E3C139D2-18FB-47B5-A017-DC58FF5C629B a wikibase:Statement ;
+	ps:P910 wd:Q6459886 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7240 p:P452 wds:Q7240-58139386-4a59-3ee8-d4e5-f4b1dce2999a .
+
+wds:Q7240-58139386-4a59-3ee8-d4e5-f4b1dce2999a a wikibase:Statement ;
+	ps:P452 wd:Q3477363 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7240 p:P646 wds:Q7240-92A1686D-9F68-4DC3-87BF-975C54A36B90 .
+
+wds:Q7240-92A1686D-9F68-4DC3-87BF-975C54A36B90 a wikibase:Statement ;
+	ps:P646 "/m/0hkqn" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+<https://en.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "en" .
+
+<https://ar.wikipedia.org/wiki/%D9%84%D9%88%D9%83%D9%87%D9%8A%D8%AF%20%D9%85%D8%A7%D8%B1%D8%AA%D9%86> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "ar" .
+
+<https://bs.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "bs" .
+
+<https://ca.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "ca" .
+
+<https://cs.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "cs" .
+
+<https://da.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "da" .
+
+<https://de.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "de" .
+
+<https://es.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "es" .
+
+<https://eu.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "eu" .
+
+<https://fa.wikipedia.org/wiki/%D9%84%D8%A7%DA%A9%D9%87%DB%8C%D8%AF%20%D9%85%D8%A7%D8%B1%D8%AA%DB%8C%D9%86> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "fa" .
+
+<https://fi.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "fi" .
+
+<https://fr.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "fr" .
+
+<https://fy.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "fy" .
+
+<https://he.wikipedia.org/wiki/%D7%9C%D7%95%D7%A7%D7%94%D7%99%D7%93%20%D7%9E%D7%A8%D7%98%D7%99%D7%9F> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "he" .
+
+<https://id.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "id" .
+
+<https://it.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "it" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "ja" .
+
+<https://ko.wikipedia.org/wiki/%EB%A1%9D%ED%9E%88%EB%93%9C%20%EB%A7%88%ED%8B%B4> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "ko" .
+
+<https://lb.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "lb" .
+
+<https://lt.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "lt" .
+
+<https://lv.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "lv" .
+
+<https://ms.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "ms" .
+
+<https://nl.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "nl" .
+
+<https://no.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "no" .
+
+<https://pl.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "pl" .
+
+<https://pt.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "pt" .
+
+<https://ro.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "ro" .
+
+<https://ru.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "ru" .
+
+<https://sk.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "sk" .
+
+<https://sr.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BA%D0%B8%D0%B4%20%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "sr" .
+
+<https://sv.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "sv" .
+
+<https://tr.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "tr" .
+
+<https://uk.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "uk" .
+
+<https://vi.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "vi" .
+
+<https://zh.wikipedia.org/wiki/%E6%B4%9B%E5%85%8B%E5%B8%8C%E5%BE%B7%C2%B7%E9%A9%AC%E4%B8%81> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "zh" .
+
+<https://be-x-old.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "be-x-old" .
+
+<https://simple.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "simple" .
+
+<https://th.wikipedia.org/wiki/%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%AE%E0%B8%B5%E0%B8%94%20%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B4%E0%B8%99> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "th" .
+
+<https://oc.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "oc" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%B2%E0%A6%95%E0%A6%B9%E0%A7%80%E0%A6%A1%20%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A8> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "bn" .
+
+<https://et.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "et" .
+
+<https://nn.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "nn" .
+
+<https://sco.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "sco" .
+
+<https://sl.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "sl" .
+
+<https://sh.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "sh" .
+
+<https://be.wikipedia.org/wiki/Lockheed%20Martin> a schema:Article ;
+	schema:about wd:Q7240 ;
+	schema:inLanguage "be" .
+
+wdv:4ce73228c24620ff24143330edc5b5b2 a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "39.0305"^^xsd:decimal ;
+	wikibase:geoLongitude "-77.138833333333"^^xsd:decimal ;
+	wikibase:geoPrecision "2.7777777777778E-5"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdata:Q7242 schema:version "220643160"^^xsd:integer ;
+	schema:dateModified "2015-05-30T04:50:13Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q7242 .
+

@@ -1,0 +1,21 @@
+wd:Q17143142 a wikibase:Item ;
+	rdfs:label "REX American Resources"@en ;
+	skos:prefLabel "REX American Resources"@en ;
+	schema:name "REX American Resources"@en ;
+	wdt:P31 wd:Q783794 ;
+	p:P31 wds:Q17143142-DE7D23C7-E0ED-41DD-9F57-E0C1298CB4B3 .
+
+wds:Q17143142-DE7D23C7-E0ED-41DD-9F57-E0C1298CB4B3 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://en.wikipedia.org/wiki/REX%20American%20Resources> a schema:Article ;
+	schema:about wd:Q17143142 ;
+	schema:inLanguage "en" .
+
+wdata:Q17143151 schema:version "136949536"^^xsd:integer ;
+	schema:dateModified "2014-06-06T20:15:15Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q17143151 .
+

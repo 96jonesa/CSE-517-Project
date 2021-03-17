@@ -1,0 +1,375 @@
+wd:Q155026 a wikibase:Item ;
+	rdfs:label "联合包裹服务"@zh-hans ;
+	skos:prefLabel "联合包裹服务"@zh-hans ;
+	schema:name "联合包裹服务"@zh-hans ;
+	rdfs:label "優比速"@zh-hant ;
+	skos:prefLabel "優比速"@zh-hant ;
+	schema:name "優比速"@zh-hant ;
+	rdfs:label "聯合包裹"@zh-hk ;
+	skos:prefLabel "聯合包裹"@zh-hk ;
+	schema:name "聯合包裹"@zh-hk ;
+	rdfs:label "联合包裹服务"@zh-cn ;
+	skos:prefLabel "联合包裹服务"@zh-cn ;
+	schema:name "联合包裹服务"@zh-cn ;
+	rdfs:label "联合包裹服务"@zh-sg ;
+	skos:prefLabel "联合包裹服务"@zh-sg ;
+	schema:name "联合包裹服务"@zh-sg ;
+	rdfs:label "優比速"@zh-tw ;
+	skos:prefLabel "優比速"@zh-tw ;
+	schema:name "優比速"@zh-tw ;
+	rdfs:label "United Parcel Service"@pl ;
+	skos:prefLabel "United Parcel Service"@pl ;
+	schema:name "United Parcel Service"@pl ;
+	rdfs:label "United Parcel Service"@fr ;
+	skos:prefLabel "United Parcel Service"@fr ;
+	schema:name "United Parcel Service"@fr ;
+	rdfs:label "UPS"@ko ;
+	skos:prefLabel "UPS"@ko ;
+	schema:name "UPS"@ko ;
+	rdfs:label "UPS"@be ;
+	skos:prefLabel "UPS"@be ;
+	schema:name "UPS"@be ;
+	rdfs:label "United Parcel Service"@he ;
+	skos:prefLabel "United Parcel Service"@he ;
+	schema:name "United Parcel Service"@he ;
+	rdfs:label "United Parcel Service"@es ;
+	skos:prefLabel "United Parcel Service"@es ;
+	schema:name "United Parcel Service"@es ;
+	rdfs:label "United Parcel Service"@it ;
+	skos:prefLabel "United Parcel Service"@it ;
+	schema:name "United Parcel Service"@it ;
+	rdfs:label "United Parcel Service"@de ;
+	skos:prefLabel "United Parcel Service"@de ;
+	schema:name "United Parcel Service"@de ;
+	rdfs:label "United Parcel Service"@id ;
+	skos:prefLabel "United Parcel Service"@id ;
+	schema:name "United Parcel Service"@id ;
+	rdfs:label "ユナイテッド・パーセル・サービス"@ja ;
+	skos:prefLabel "ユナイテッド・パーセル・サービス"@ja ;
+	schema:name "ユナイテッド・パーセル・サービス"@ja ;
+	rdfs:label "United Parcel Service"@en ;
+	skos:prefLabel "United Parcel Service"@en ;
+	schema:name "United Parcel Service"@en ;
+	rdfs:label "United Parcel Service"@sh ;
+	skos:prefLabel "United Parcel Service"@sh ;
+	schema:name "United Parcel Service"@sh ;
+	rdfs:label "UPS"@sv ;
+	skos:prefLabel "UPS"@sv ;
+	schema:name "UPS"@sv ;
+	rdfs:label "United Parcel Service"@nl ;
+	skos:prefLabel "United Parcel Service"@nl ;
+	schema:name "United Parcel Service"@nl ;
+	rdfs:label "يو بي إس"@ar ;
+	skos:prefLabel "يو بي إس"@ar ;
+	schema:name "يو بي إس"@ar ;
+	rdfs:label "United Parcel Service"@pt ;
+	skos:prefLabel "United Parcel Service"@pt ;
+	schema:name "United Parcel Service"@pt ;
+	rdfs:label "United Parcel Service"@is ;
+	skos:prefLabel "United Parcel Service"@is ;
+	schema:name "United Parcel Service"@is ;
+	rdfs:label "United Parcel Service"@ru ;
+	skos:prefLabel "United Parcel Service"@ru ;
+	schema:name "United Parcel Service"@ru ;
+	rdfs:label "United Parcel Service"@tr ;
+	skos:prefLabel "United Parcel Service"@tr ;
+	schema:name "United Parcel Service"@tr ;
+	rdfs:label "ยูพีเอส"@th ;
+	skos:prefLabel "ยูพีเอส"@th ;
+	schema:name "ยูพีเอส"@th ;
+	rdfs:label "United Parcel Service"@ro ;
+	skos:prefLabel "United Parcel Service"@ro ;
+	schema:name "United Parcel Service"@ro ;
+	rdfs:label "United Parcel Service"@fi ;
+	skos:prefLabel "United Parcel Service"@fi ;
+	schema:name "United Parcel Service"@fi ;
+	rdfs:label "یونایتد پارسل سرویس"@fa ;
+	skos:prefLabel "یونایتد پارسل سرویس"@fa ;
+	schema:name "یونایتد پارسل سرویس"@fa ;
+	rdfs:label "United Parcel Service"@da ;
+	skos:prefLabel "United Parcel Service"@da ;
+	schema:name "United Parcel Service"@da ;
+	rdfs:label "联合包裹服务"@zh ;
+	skos:prefLabel "联合包裹服务"@zh ;
+	schema:name "联合包裹服务"@zh ;
+	rdfs:label "युनायटेड पार्सल सर्व्हिस"@mr ;
+	skos:prefLabel "युनायटेड पार्सल सर्व्हिस"@mr ;
+	schema:name "युनायटेड पार्सल सर्व्हिस"@mr ;
+	rdfs:label "United Parcel Service"@nb ;
+	skos:prefLabel "United Parcel Service"@nb ;
+	schema:name "United Parcel Service"@nb ;
+	rdfs:label "United Parcel Service"@uk ;
+	skos:prefLabel "United Parcel Service"@uk ;
+	schema:name "United Parcel Service"@uk ;
+	rdfs:label "United Parcel Service"@ca ;
+	skos:prefLabel "United Parcel Service"@ca ;
+	schema:name "United Parcel Service"@ca ;
+	rdfs:label "United Parcel Service"@af ;
+	skos:prefLabel "United Parcel Service"@af ;
+	schema:name "United Parcel Service"@af ;
+	skos:altLabel "聯合包裹服務公司"@zh,
+		"聯合包裹"@zh,
+		"联合包裹服务公司"@zh,
+		"美商優比速公司"@zh,
+		"優比速"@zh,
+		"American Messenger Company"@pl,
+		"UPS, United Parcel Service"@fr,
+		"유나이티드 페러셀 서비스"@ko,
+		"유피에스"@ko,
+		"유나이티드 파셀 서비스"@ko,
+		"UPS"@he,
+		"American Messenger Company"@es,
+		"Merchants Parcel Delivery"@es,
+		"UPS Airlines"@es,
+		"United Parcel Service Inc."@es,
+		"United Parcel Service Inc"@es,
+		"United Parcel Service Company"@it,
+		"The UPS Store"@de,
+		"UPS"@de,
+		"United Parcel Service of North America, Inc."@de,
+		"UPS Airlines"@id,
+		"UPS"@id,
+		"ユーピーエス・ジャパン"@ja,
+		"5X"@ja,
+		"United Parcel Service"@sv,
+		"UPS Airlines"@nl,
+		"Ups"@pt,
+		"Trans Courier"@ro,
+		"Trans Courier Service"@ro,
+		"UPS"@ro,
+		"یو پی اس"@fa,
+		"5X"@nb ;
+	wdt:P373 "United Parcel Service" ;
+	wdt:P31 wd:Q783794,
+		wd:Q1529128,
+		wd:Q848466 ;
+	wdt:P112 wd:Q3161046 ;
+	wdt:P646 "/m/01d734" ;
+	wdt:P159 wd:Q914884 ;
+	wdt:P155 wd:Q6460461 ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P856 <http://www.ups.com/> ;
+	p:P373 wds:q155026-CDB0BE0B-1E48-4FB6-A5E9-149E9DC25747 .
+
+wds:q155026-CDB0BE0B-1E48-4FB6-A5E9-149E9DC25747 a wikibase:Statement ;
+	ps:P373 "United Parcel Service" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q155026 p:P31 wds:q155026-89827D87-9B1E-4805-811D-D7BD7006DC55 .
+
+wds:q155026-89827D87-9B1E-4805-811D-D7BD7006DC55 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q155026 p:P31 wds:q155026-5f733840-442e-8df1-a336-fc1f7c6bcc2d .
+
+wds:q155026-5f733840-442e-8df1-a336-fc1f7c6bcc2d a wikibase:Statement ;
+	ps:P31 wd:Q1529128 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q155026 p:P31 wds:q155026-abfd4a82-4631-804a-1d13-4f76eb607315 .
+
+wds:q155026-abfd4a82-4631-804a-1d13-4f76eb607315 a wikibase:Statement ;
+	ps:P31 wd:Q848466 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q155026 p:P112 wds:q155026-9CF85098-782D-486A-ABE7-C3EDFF0F9211 .
+
+wds:q155026-9CF85098-782D-486A-ABE7-C3EDFF0F9211 a wikibase:Statement ;
+	ps:P112 wd:Q3161046 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q155026 p:P646 wds:Q155026-0AAA1088-3A83-425A-BCD2-64258E4CC2C0 .
+
+wds:Q155026-0AAA1088-3A83-425A-BCD2-64258E4CC2C0 a wikibase:Statement ;
+	ps:P646 "/m/01d734" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q155026 p:P159 wds:Q155026-b3e8ab7d-4534-7d6b-2d8c-a1c0ffb5769b .
+
+wds:Q155026-b3e8ab7d-4534-7d6b-2d8c-a1c0ffb5769b a wikibase:Statement ;
+	ps:P159 wd:Q914884 ;
+	wikibase:rank wikibase:PreferredRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(33.943377777778 -84.359647222222)"^^geo:wktLiteral ;
+	pqv:P625 wdv:849a4e9338f5a821e02f0a346b2a99cd ;
+	pq:P580 "1991-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:381f386d5f2303f296df7a0f1034b45e .
+
+wd:Q155026 p:P159 wds:Q155026-0a2f495f-4bce-e8cb-4521-4adeda2f8bac .
+
+wds:Q155026-0a2f495f-4bce-e8cb-4521-4adeda2f8bac a wikibase:Statement ;
+	ps:P159 wd:Q49202 ;
+	wikibase:rank wikibase:NormalRank ;
+	pq:P580 "1975-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:32ab3709506ccd214afed95ad91cfa87 ;
+	pq:P582 "1991-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:381f386d5f2303f296df7a0f1034b45e .
+
+wd:Q155026 p:P155 wds:Q155026-C41A3E17-E307-4AEE-83F4-5DA10A89B16D .
+
+wds:Q155026-C41A3E17-E307-4AEE-83F4-5DA10A89B16D a wikibase:Statement ;
+	ps:P155 wd:Q6460461 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q155026 p:P414 wds:Q155026-127FC09D-5225-47D4-AEA6-55845FAA8FDB .
+
+wds:Q155026-127FC09D-5225-47D4-AEA6-55845FAA8FDB a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q155026 p:P856 wds:Q155026-2C9FD17E-B82B-45DE-B56F-F1FDEBEF33F2 .
+
+wds:Q155026-2C9FD17E-B82B-45DE-B56F-F1FDEBEF33F2 a wikibase:Statement ;
+	ps:P856 <http://www.ups.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+<https://zh.wikipedia.org/wiki/%E8%81%94%E5%90%88%E5%8C%85%E8%A3%B9%E6%9C%8D%E5%8A%A1> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "zh" .
+
+<https://pl.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "pl" .
+
+<https://fr.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "fr" .
+
+<https://ko.wikipedia.org/wiki/UPS%20%28%EA%B8%B0%EC%97%85%29> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "ko" .
+
+<https://be.wikipedia.org/wiki/UPS> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "be" .
+
+<https://he.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "he" .
+
+<https://es.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "es" .
+
+<https://it.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "it" .
+
+<https://de.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "de" .
+
+<https://id.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "id" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%E3%83%BB%E3%83%91%E3%83%BC%E3%82%BB%E3%83%AB%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "ja" .
+
+<https://simple.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "simple" .
+
+<https://sh.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "sh" .
+
+<https://sv.wikipedia.org/wiki/UPS%20%28transportf%C3%B6retag%29> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "sv" .
+
+<https://nl.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "nl" .
+
+<https://ar.wikipedia.org/wiki/%D9%8A%D9%88%20%D8%A8%D9%8A%20%D8%A5%D8%B3%20%28%D8%A8%D8%B1%D9%8A%D8%AF%20%D8%B3%D8%B1%D9%8A%D8%B9%29> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "ar" .
+
+<https://pt.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "pt" .
+
+<https://is.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "is" .
+
+<https://ru.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "ru" .
+
+<https://en.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "en" .
+
+<https://tr.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "tr" .
+
+<https://th.wikipedia.org/wiki/%E0%B8%A2%E0%B8%B9%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%AD%E0%B8%AA> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "th" .
+
+<https://no.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "no" .
+
+<https://ro.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "ro" .
+
+<https://fi.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "fi" .
+
+<https://fa.wikipedia.org/wiki/%DB%8C%D9%88%D9%86%D8%A7%DB%8C%D8%AA%D8%AF%20%D9%BE%D8%A7%D8%B1%D8%B3%D9%84%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "fa" .
+
+<https://da.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "da" .
+
+<https://mr.wikipedia.org/wiki/%E0%A4%AF%E0%A5%81%E0%A4%A8%E0%A4%BE%E0%A4%AF%E0%A4%9F%E0%A5%87%E0%A4%A1%20%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B8%E0%A4%B2%20%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BF%E0%A4%B8> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "mr" .
+
+<https://uk.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "uk" .
+
+<https://ca.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "ca" .
+
+<https://af.wikipedia.org/wiki/United%20Parcel%20Service> a schema:Article ;
+	schema:about wd:Q155026 ;
+	schema:inLanguage "af" .
+
+wdv:849a4e9338f5a821e02f0a346b2a99cd a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "33.943377777778"^^xsd:decimal ;
+	wikibase:geoLongitude "-84.359647222222"^^xsd:decimal ;
+	wikibase:geoPrecision "2.7777777777778E-6"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdata:Q155029 schema:version "197649008"^^xsd:integer ;
+	schema:dateModified "2015-02-18T23:40:51Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q155029 .
+

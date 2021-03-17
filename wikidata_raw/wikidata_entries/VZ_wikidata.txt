@@ -1,0 +1,442 @@
+wd:Q467752 a wikibase:Item ;
+	rdfs:label "威讯"@zh-hans ;
+	skos:prefLabel "威讯"@zh-hans ;
+	schema:name "威讯"@zh-hans ;
+	rdfs:label "威訊"@zh-hant ;
+	skos:prefLabel "威訊"@zh-hant ;
+	schema:name "威訊"@zh-hant ;
+	rdfs:label "威訊"@zh-hk ;
+	skos:prefLabel "威訊"@zh-hk ;
+	schema:name "威訊"@zh-hk ;
+	rdfs:label "威讯"@zh-cn ;
+	skos:prefLabel "威讯"@zh-cn ;
+	schema:name "威讯"@zh-cn ;
+	rdfs:label "威讯"@zh-sg ;
+	skos:prefLabel "威讯"@zh-sg ;
+	schema:name "威讯"@zh-sg ;
+	rdfs:label "威訊"@zh-tw ;
+	skos:prefLabel "威訊"@zh-tw ;
+	schema:name "威訊"@zh-tw ;
+	rdfs:label "Verizon Communications"@pl ;
+	skos:prefLabel "Verizon Communications"@pl ;
+	schema:name "Verizon Communications"@pl ;
+	rdfs:label "ורייזון תקשורת"@he ;
+	skos:prefLabel "ורייזון תקשורת"@he ;
+	schema:name "ורייזון תקשורת"@he ;
+	rdfs:label "버라이즌 커뮤니케이션스"@ko ;
+	skos:prefLabel "버라이즌 커뮤니케이션스"@ko ;
+	schema:name "버라이즌 커뮤니케이션스"@ko ;
+	rdfs:label "Verizon Communications"@fr ;
+	skos:prefLabel "Verizon Communications"@fr ;
+	schema:name "Verizon Communications"@fr ;
+	rdfs:label "Verizon Communications"@es ;
+	skos:prefLabel "Verizon Communications"@es ;
+	schema:name "Verizon Communications"@es ;
+	rdfs:label "Verizon Communications"@it ;
+	skos:prefLabel "Verizon Communications"@it ;
+	schema:name "Verizon Communications"@it ;
+	rdfs:label "Verizon Communications"@id ;
+	skos:prefLabel "Verizon Communications"@id ;
+	schema:name "Verizon Communications"@id ;
+	rdfs:label "Verizon Communications"@de ;
+	skos:prefLabel "Verizon Communications"@de ;
+	schema:name "Verizon Communications"@de ;
+	rdfs:label "ベライゾン・コミュニケーションズ"@ja ;
+	skos:prefLabel "ベライゾン・コミュニケーションズ"@ja ;
+	schema:name "ベライゾン・コミュニケーションズ"@ja ;
+	rdfs:label "വെറൈസൺ കമ്മ്യൂണിക്കേഷൻസ്"@ml ;
+	skos:prefLabel "വെറൈസൺ കമ്മ്യൂണിക്കേഷൻസ്"@ml ;
+	schema:name "വെറൈസൺ കമ്മ്യൂണിക്കേഷൻസ്"@ml ;
+	rdfs:label "Verizon"@en ;
+	skos:prefLabel "Verizon"@en ;
+	schema:name "Verizon"@en ;
+	rdfs:label "فيرايزون للاتصالات"@ar ;
+	skos:prefLabel "فيرايزون للاتصالات"@ar ;
+	schema:name "فيرايزون للاتصالات"@ar ;
+	rdfs:label "Verizon Communications"@nl ;
+	skos:prefLabel "Verizon Communications"@nl ;
+	schema:name "Verizon Communications"@nl ;
+	rdfs:label "Verizon"@sv ;
+	skos:prefLabel "Verizon"@sv ;
+	schema:name "Verizon"@sv ;
+	rdfs:label "Verizon Communications"@pt ;
+	skos:prefLabel "Verizon Communications"@pt ;
+	schema:name "Verizon Communications"@pt ;
+	rdfs:label "Verizon Communications"@eo ;
+	skos:prefLabel "Verizon Communications"@eo ;
+	schema:name "Verizon Communications"@eo ;
+	rdfs:label "Verizon Communications"@ru ;
+	skos:prefLabel "Verizon Communications"@ru ;
+	schema:name "Verizon Communications"@ru ;
+	rdfs:label "ವೆರಿಝೋನ್ ಕಮ್ಯುನಿಕೇಶನ್ಸ್"@kn ;
+	skos:prefLabel "ವೆರಿಝೋನ್ ಕಮ್ಯುನಿಕೇಶನ್ಸ್"@kn ;
+	schema:name "ವೆರಿಝೋನ್ ಕಮ್ಯುನಿಕೇಶನ್ಸ್"@kn ;
+	rdfs:label "Verizon"@ro ;
+	skos:prefLabel "Verizon"@ro ;
+	schema:name "Verizon"@ro ;
+	rdfs:label "Verizon Communications"@fi ;
+	skos:prefLabel "Verizon Communications"@fi ;
+	schema:name "Verizon Communications"@fi ;
+	rdfs:label "ورایزون"@fa ;
+	skos:prefLabel "ورایزون"@fa ;
+	schema:name "ورایزون"@fa ;
+	rdfs:label "વેરાઇઝન કમ્યુનિકેશન્સ"@gu ;
+	skos:prefLabel "વેરાઇઝન કમ્યુનિકેશન્સ"@gu ;
+	schema:name "વેરાઇઝન કમ્યુનિકેશન્સ"@gu ;
+	rdfs:label "Verizon Communications"@lt ;
+	skos:prefLabel "Verizon Communications"@lt ;
+	schema:name "Verizon Communications"@lt ;
+	rdfs:label "Verizon Communications"@kk-arab ;
+	skos:prefLabel "Verizon Communications"@kk-arab ;
+	schema:name "Verizon Communications"@kk-arab ;
+	rdfs:label "Verizon Communications"@kk-cn ;
+	skos:prefLabel "Verizon Communications"@kk-cn ;
+	schema:name "Verizon Communications"@kk-cn ;
+	rdfs:label "Verizon Communications"@kk-tr ;
+	skos:prefLabel "Verizon Communications"@kk-tr ;
+	schema:name "Verizon Communications"@kk-tr ;
+	rdfs:label "Верізон Цоммұніцатіонс"@kk-kz ;
+	skos:prefLabel "Верізон Цоммұніцатіонс"@kk-kz ;
+	schema:name "Верізон Цоммұніцатіонс"@kk-kz ;
+	rdfs:label "Верізон Цоммұніцатіонс"@kk-cyrl ;
+	skos:prefLabel "Верізон Цоммұніцатіонс"@kk-cyrl ;
+	schema:name "Верізон Цоммұніцатіонс"@kk-cyrl ;
+	rdfs:label "Verizon Communications"@kk-latn ;
+	skos:prefLabel "Verizon Communications"@kk-latn ;
+	schema:name "Verizon Communications"@kk-latn ;
+	rdfs:label "Verizon Communications"@da ;
+	skos:prefLabel "Verizon Communications"@da ;
+	schema:name "Verizon Communications"@da ;
+	rdfs:label "Verizon Communications"@kk ;
+	skos:prefLabel "Verizon Communications"@kk ;
+	schema:name "Verizon Communications"@kk ;
+	rdfs:label "威訊"@zh ;
+	skos:prefLabel "威訊"@zh ;
+	schema:name "威訊"@zh ;
+	rdfs:label "Verizon Communications"@uk ;
+	skos:prefLabel "Verizon Communications"@uk ;
+	schema:name "Verizon Communications"@uk ;
+	rdfs:label "Verizon"@ur ;
+	skos:prefLabel "Verizon"@ur ;
+	schema:name "Verizon"@ur ;
+	rdfs:label "Verizon Communications"@de-ch ;
+	skos:prefLabel "Verizon Communications"@de-ch ;
+	schema:name "Verizon Communications"@de-ch ;
+	rdfs:label "Verizon Communications"@en-ca ;
+	skos:prefLabel "Verizon Communications"@en-ca ;
+	schema:name "Verizon Communications"@en-ca ;
+	rdfs:label "Verizon Communications"@en-gb ;
+	skos:prefLabel "Verizon Communications"@en-gb ;
+	schema:name "Verizon Communications"@en-gb ;
+	rdfs:label "Verizon Communications"@pt-br ;
+	skos:prefLabel "Verizon Communications"@pt-br ;
+	schema:name "Verizon Communications"@pt-br ;
+	rdfs:label "Verizon Communications"@nb ;
+	skos:prefLabel "Verizon Communications"@nb ;
+	schema:name "Verizon Communications"@nb ;
+	rdfs:label "Verizon Communications"@ca ;
+	skos:prefLabel "Verizon Communications"@ca ;
+	schema:name "Verizon Communications"@ca ;
+	rdfs:label "Verizon Communications"@hy ;
+	skos:prefLabel "Verizon Communications"@hy ;
+	schema:name "Verizon Communications"@hy ;
+	schema:description "enterprise"@fr,
+		"American broadband and telecommunications company"@en,
+		"كيفية تشغيل خط مصرى على موبيل نوت3 4g"@ar ;
+	skos:altLabel "Verizon"@zh,
+		"Verizon Wireless"@zh,
+		"威讯"@zh,
+		"Verizon Communications"@zh,
+		"Verizon"@pl,
+		"וריזון תקשורת"@he,
+		"버라이존"@ko,
+		"버라이존 커뮤니케이션스"@ko,
+		"버라이즌"@ko,
+		"버라이존 커뮤니케이션"@ko,
+		"Verizon Communications Incorporated"@fr,
+		"Verizon"@fr,
+		"Bell Atlantic"@fr,
+		"Verizon"@es,
+		"Verizon"@it,
+		"Bell Atlantic"@it,
+		"Verizon"@id,
+		"Verizon"@de,
+		"Bell Atlantic"@de,
+		"Verizon"@ja,
+		"ベライゾン"@ja,
+		"Verizon Communications"@ja,
+		"വെരിസോൺ കമ്മ്യൂണിക്കേഷൻസ്"@ml,
+		"Verizon Communications"@ml,
+		"فيرايزون"@ar,
+		"Verizon"@nl,
+		"NYNEX"@nl,
+		"Bell Atlantic"@nl,
+		"Verizon Mobile"@nl,
+		"Verizon Wireless"@nl,
+		"GTE"@nl,
+		"VZN"@sv,
+		"Verizon"@pt,
+		"Verizon"@eo,
+		"Verizon"@ru,
+		"Verizon Business"@ru,
+		"Веризон коммьюникейшнс ИНК"@ru,
+		"Веризон"@ru,
+		"Verizon Communications Inc."@en,
+		"وریزون"@fa,
+		"ارتباطات ورایزون"@fa,
+		"Verizon Wireless"@lt,
+		"Verizon"@da ;
+	wdt:P1297 "23-2259884" ;
+	wdt:P1278 "2S72QS2UO2OESLG6Y829" ;
+	wdt:P373 "Verizon" ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P155 wd:Q2843047,
+		wd:Q3759492 ;
+	wdt:P414 wd:Q13677,
+		wd:Q82059 ;
+	wdt:P571 "1983-10-07T00:00:00Z"^^xsd:dateTime ;
+	wdt:P361 wd:Q180816 ;
+	wdt:P856 <http://www.verizon.com/> ;
+	wdt:P910 wd:Q7400269 ;
+	wdt:P646 "/m/07_dn" ;
+	wdt:P159 wd:Q60 ;
+	p:P1297 wds:Q467752-401ff69e-455b-73c1-7b09-3daf0a9da1b0 .
+
+wds:Q467752-401ff69e-455b-73c1-7b09-3daf0a9da1b0 a wikibase:Statement ;
+	ps:P1297 "23-2259884" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q467752 p:P1278 wds:Q467752-95665f27-4c75-d988-da1a-846c522a05c7 .
+
+wds:Q467752-95665f27-4c75-d988-da1a-846c522a05c7 a wikibase:Statement ;
+	ps:P1278 "2S72QS2UO2OESLG6Y829" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q467752 p:P373 wds:q467752-4BF2EF83-E666-42CB-B231-EEA96C40C576 .
+
+wds:q467752-4BF2EF83-E666-42CB-B231-EEA96C40C576 a wikibase:Statement ;
+	ps:P373 "Verizon" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q467752 p:P31 wds:q467752-0CEAEC57-EDE9-41F0-9170-7677632CD058 .
+
+wds:q467752-0CEAEC57-EDE9-41F0-9170-7677632CD058 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q467752 p:P155 wds:q467752-E1CE7643-BC64-41F3-B2E4-54C532231E7F .
+
+wds:q467752-E1CE7643-BC64-41F3-B2E4-54C532231E7F a wikibase:Statement ;
+	ps:P155 wd:Q2843047 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q467752 p:P155 wds:Q467752-B81BEC19-9A08-49AA-B442-1B344B72A2EB .
+
+wds:Q467752-B81BEC19-9A08-49AA-B442-1B344B72A2EB a wikibase:Statement ;
+	ps:P155 wd:Q3759492 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q467752 p:P414 wds:q467752-47517e62-4681-6767-42d6-fb29a6a3b3b9 .
+
+wds:q467752-47517e62-4681-6767-42d6-fb29a6a3b3b9 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "VZ" .
+
+wd:Q467752 p:P414 wds:q467752-e1094d8c-4708-aec1-51d5-52fbe4ee5309 .
+
+wds:q467752-e1094d8c-4708-aec1-51d5-52fbe4ee5309 a wikibase:Statement ;
+	ps:P414 wd:Q82059 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "VZ" .
+
+wd:Q467752 p:P571 wds:q467752-fb6acacb-468d-29d1-ec6b-57ab712f357e .
+
+wds:q467752-fb6acacb-468d-29d1-ec6b-57ab712f357e a wikibase:Statement ;
+	ps:P571 "1983-10-07T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:2f453131edd7aaab0ff9095b3372c048 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q467752 p:P361 wds:q467752-68286441-42e3-1554-2659-668a5c3b55ce .
+
+wds:q467752-68286441-42e3-1554-2659-668a5c3b55ce a wikibase:Statement ;
+	ps:P361 wd:Q180816 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q467752 p:P856 wds:Q467752-D6E1930B-AD68-4754-9731-42B13DC93A08 .
+
+wds:Q467752-D6E1930B-AD68-4754-9731-42B13DC93A08 a wikibase:Statement ;
+	ps:P856 <http://www.verizon.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q467752 p:P910 wds:Q467752-7D27FDB5-05F3-4281-A6D5-C9C0CEF353BB .
+
+wds:Q467752-7D27FDB5-05F3-4281-A6D5-C9C0CEF353BB a wikibase:Statement ;
+	ps:P910 wd:Q7400269 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q467752 p:P646 wds:Q467752-F45B919F-1677-43ED-A3F3-ECC89EB6795A .
+
+wds:Q467752-F45B919F-1677-43ED-A3F3-ECC89EB6795A a wikibase:Statement ;
+	ps:P646 "/m/07_dn" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q467752 p:P159 wds:Q467752-C7CEB543-950D-46FB-960B-3850E7AE3918 .
+
+wds:Q467752-C7CEB543-950D-46FB-960B-3850E7AE3918 a wikibase:Statement ;
+	ps:P159 wd:Q60 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+<https://zh.wikipedia.org/wiki/%E5%A8%81%E8%A8%8A> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "zh" .
+
+<https://pl.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "pl" .
+
+<https://he.wikipedia.org/wiki/%D7%95%D7%A8%D7%99%D7%99%D7%96%D7%95%D7%9F%20%D7%AA%D7%A7%D7%A9%D7%95%D7%A8%D7%AA> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "he" .
+
+<https://ko.wikipedia.org/wiki/%EB%B2%84%EB%9D%BC%EC%9D%B4%EC%A6%8C%20%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98%EC%8A%A4> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "ko" .
+
+<https://fr.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "fr" .
+
+<https://es.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "es" .
+
+<https://it.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "it" .
+
+<https://id.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "id" .
+
+<https://de.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%A9%E3%82%A4%E3%82%BE%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "ja" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%86%E0%B4%B1%E0%B5%88%E0%B4%B8%E0%B5%BA%20%E0%B4%95%E0%B4%AE%E0%B5%8D%E0%B4%AE%E0%B5%8D%E0%B4%AF%E0%B5%82%E0%B4%A3%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%87%E0%B4%B7%E0%B5%BB%E0%B4%B8%E0%B5%8D> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "ml" .
+
+<https://simple.wikipedia.org/wiki/Verizon> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "simple" .
+
+<https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B1%D8%A7%D9%8A%D8%B2%D9%88%D9%86%20%D9%84%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "ar" .
+
+<https://nl.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "nl" .
+
+<https://sv.wikipedia.org/wiki/Verizon> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "sv" .
+
+<https://pt.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "pt" .
+
+<https://eo.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "eo" .
+
+<https://ru.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "ru" .
+
+<https://en.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "en" .
+
+<https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B3%86%E0%B2%B0%E0%B2%BF%E0%B2%9D%E0%B3%8B%E0%B2%A8%E0%B3%8D%20%E0%B2%95%E0%B2%AE%E0%B3%8D%E0%B2%AF%E0%B3%81%E0%B2%A8%E0%B2%BF%E0%B2%95%E0%B3%87%E0%B2%B6%E0%B2%A8%E0%B3%8D%E0%B2%B8%E0%B3%8D> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "kn" .
+
+<https://ro.wikipedia.org/wiki/Verizon> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "ro" .
+
+<https://fi.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "fi" .
+
+<https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%DB%8C%D8%B2%D9%86%20%DA%A9%D8%A7%D9%85%DB%8C%D9%88%D9%86%DB%8C%DA%A9%DB%8C%D8%B4%D9%86%D8%B2> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "fa" .
+
+<https://gu.wikipedia.org/wiki/%E0%AA%B5%E0%AB%87%E0%AA%B0%E0%AA%BE%E0%AA%87%E0%AA%9D%E0%AA%A8%20%E0%AA%95%E0%AA%AE%E0%AB%8D%E0%AA%AF%E0%AB%81%E0%AA%A8%E0%AA%BF%E0%AA%95%E0%AB%87%E0%AA%B6%E0%AA%A8%E0%AB%8D%E0%AA%B8> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "gu" .
+
+<https://lt.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "lt" .
+
+<https://kk.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "kk" .
+
+<https://da.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "da" .
+
+<https://uk.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "uk" .
+
+<https://ur.wikipedia.org/wiki/Verizon> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "ur" .
+
+<https://no.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "no" .
+
+<https://ca.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "ca" .
+
+<https://hy.wikipedia.org/wiki/Verizon%20Communications> a schema:Article ;
+	schema:about wd:Q467752 ;
+	schema:inLanguage "hy" .
+
+wdata:Q467756 schema:version "181529831"^^xsd:integer ;
+	schema:dateModified "2014-12-16T10:49:37Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q467756 .
+

@@ -1,0 +1,42 @@
+wd:Q18674747 a wikibase:Item ;
+	rdfs:label "The Priceline Group"@en ;
+	skos:prefLabel "The Priceline Group"@en ;
+	schema:name "The Priceline Group"@en ;
+	rdfs:label "プライスライングループ"@ja ;
+	skos:prefLabel "プライスライングループ"@ja ;
+	schema:name "プライスライングループ"@ja ;
+	rdfs:label "The Priceline Group"@de ;
+	skos:prefLabel "The Priceline Group"@de ;
+	schema:name "The Priceline Group"@de ;
+	rdfs:label "The Priceline Group"@uk ;
+	skos:prefLabel "The Priceline Group"@uk ;
+	schema:name "The Priceline Group"@uk ;
+	wdt:P31 wd:Q783794 ;
+	p:P31 wds:Q18674747-1ECAE500-2101-4F84-A882-90967BA152F0 .
+
+wds:Q18674747-1ECAE500-2101-4F84-A882-90967BA152F0 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://en.wikipedia.org/wiki/The%20Priceline%20Group> a schema:Article ;
+	schema:about wd:Q18674747 ;
+	schema:inLanguage "en" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97> a schema:Article ;
+	schema:about wd:Q18674747 ;
+	schema:inLanguage "ja" .
+
+<https://uk.wikipedia.org/wiki/The%20Priceline%20Group> a schema:Article ;
+	schema:about wd:Q18674747 ;
+	schema:inLanguage "uk" .
+
+<https://de.wikipedia.org/wiki/The%20Priceline%20Group> a schema:Article ;
+	schema:about wd:Q18674747 ;
+	schema:inLanguage "de" .
+
+wdata:Q18674748 schema:version "183850416"^^xsd:integer ;
+	schema:dateModified "2014-12-26T13:07:21Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q18674748 .
+

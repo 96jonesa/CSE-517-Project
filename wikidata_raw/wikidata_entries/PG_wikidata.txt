@@ -1,0 +1,465 @@
+wd:Q212405 a wikibase:Item ;
+	rdfs:label "宝洁公司"@zh-hans ;
+	skos:prefLabel "宝洁公司"@zh-hans ;
+	schema:name "宝洁公司"@zh-hans ;
+	rdfs:label "寶鹼公司"@zh-hant ;
+	skos:prefLabel "寶鹼公司"@zh-hant ;
+	schema:name "寶鹼公司"@zh-hant ;
+	rdfs:label "寶潔公司"@zh-hk ;
+	skos:prefLabel "寶潔公司"@zh-hk ;
+	schema:name "寶潔公司"@zh-hk ;
+	rdfs:label "宝洁公司"@zh-cn ;
+	skos:prefLabel "宝洁公司"@zh-cn ;
+	schema:name "宝洁公司"@zh-cn ;
+	rdfs:label "宝洁公司"@zh-sg ;
+	skos:prefLabel "宝洁公司"@zh-sg ;
+	schema:name "宝洁公司"@zh-sg ;
+	rdfs:label "寶鹼公司"@zh-tw ;
+	skos:prefLabel "寶鹼公司"@zh-tw ;
+	schema:name "寶鹼公司"@zh-tw ;
+	rdfs:label "Procter & Gamble"@pl ;
+	skos:prefLabel "Procter & Gamble"@pl ;
+	schema:name "Procter & Gamble"@pl ;
+	rdfs:label "Procter & Gamble"@be ;
+	skos:prefLabel "Procter & Gamble"@be ;
+	schema:name "Procter & Gamble"@be ;
+	rdfs:label "פרוקטר אנד גמבל"@he ;
+	skos:prefLabel "פרוקטר אנד גמבל"@he ;
+	schema:name "פרוקטר אנד גמבל"@he ;
+	rdfs:label "프록터 앤드 갬블"@ko ;
+	skos:prefLabel "프록터 앤드 갬블"@ko ;
+	schema:name "프록터 앤드 갬블"@ko ;
+	rdfs:label "Procter & Gamble"@fr ;
+	skos:prefLabel "Procter & Gamble"@fr ;
+	schema:name "Procter & Gamble"@fr ;
+	rdfs:label "Procter & Gamble"@es ;
+	skos:prefLabel "Procter & Gamble"@es ;
+	schema:name "Procter & Gamble"@es ;
+	rdfs:label "Procter & Gamble"@hu ;
+	skos:prefLabel "Procter & Gamble"@hu ;
+	schema:name "Procter & Gamble"@hu ;
+	rdfs:label "Procter & Gamble"@ms ;
+	skos:prefLabel "Procter & Gamble"@ms ;
+	schema:name "Procter & Gamble"@ms ;
+	rdfs:label "Procter & Gamble"@it ;
+	skos:prefLabel "Procter & Gamble"@it ;
+	schema:name "Procter & Gamble"@it ;
+	rdfs:label "Procter & Gamble"@id ;
+	skos:prefLabel "Procter & Gamble"@id ;
+	schema:name "Procter & Gamble"@id ;
+	rdfs:label "Procter & Gamble"@de ;
+	skos:prefLabel "Procter & Gamble"@de ;
+	schema:name "Procter & Gamble"@de ;
+	rdfs:label "プロクター・アンド・ギャンブル"@ja ;
+	skos:prefLabel "プロクター・アンド・ギャンブル"@ja ;
+	schema:name "プロクター・アンド・ギャンブル"@ja ;
+	rdfs:label "Procter & Gamble"@vi ;
+	skos:prefLabel "Procter & Gamble"@vi ;
+	schema:name "Procter & Gamble"@vi ;
+	rdfs:label "Procter & Gamble"@sh ;
+	skos:prefLabel "Procter & Gamble"@sh ;
+	schema:name "Procter & Gamble"@sh ;
+	rdfs:label "بروكتر وغامبل"@ar ;
+	skos:prefLabel "بروكتر وغامبل"@ar ;
+	schema:name "بروكتر وغامبل"@ar ;
+	rdfs:label "Procter & Gamble"@nl ;
+	skos:prefLabel "Procter & Gamble"@nl ;
+	schema:name "Procter & Gamble"@nl ;
+	rdfs:label "Procter & Gamble"@sv ;
+	skos:prefLabel "Procter & Gamble"@sv ;
+	schema:name "Procter & Gamble"@sv ;
+	rdfs:label "Procter & Gamble"@pt ;
+	skos:prefLabel "Procter & Gamble"@pt ;
+	schema:name "Procter & Gamble"@pt ;
+	rdfs:label "Procter & Gamble"@ru ;
+	skos:prefLabel "Procter & Gamble"@ru ;
+	schema:name "Procter & Gamble"@ru ;
+	rdfs:label "ಪ್ರಾಕ್ಟರ್"@kn ;
+	skos:prefLabel "ಪ್ರಾಕ್ಟರ್"@kn ;
+	schema:name "ಪ್ರಾಕ್ಟರ್"@kn ;
+	rdfs:label "Procter & Gamble"@en ;
+	skos:prefLabel "Procter & Gamble"@en ;
+	schema:name "Procter & Gamble"@en ;
+	rdfs:label "Procter & Gamble"@tr ;
+	skos:prefLabel "Procter & Gamble"@tr ;
+	schema:name "Procter & Gamble"@tr ;
+	rdfs:label "Procter & Gamble"@ro ;
+	skos:prefLabel "Procter & Gamble"@ro ;
+	schema:name "Procter & Gamble"@ro ;
+	rdfs:label "พรอคเตอร์ แอนด์ แกมเบิล"@th ;
+	skos:prefLabel "พรอคเตอร์ แอนด์ แกมเบิล"@th ;
+	schema:name "พรอคเตอร์ แอนด์ แกมเบิล"@th ;
+	rdfs:label "Procter & Gamble"@ca ;
+	skos:prefLabel "Procter & Gamble"@ca ;
+	schema:name "Procter & Gamble"@ca ;
+	rdfs:label "Procter & Gamble"@mk ;
+	skos:prefLabel "Procter & Gamble"@mk ;
+	schema:name "Procter & Gamble"@mk ;
+	rdfs:label "Procter & Gamble"@fi ;
+	skos:prefLabel "Procter & Gamble"@fi ;
+	schema:name "Procter & Gamble"@fi ;
+	rdfs:label "Procter & Gamble"@uk ;
+	skos:prefLabel "Procter & Gamble"@uk ;
+	schema:name "Procter & Gamble"@uk ;
+	rdfs:label "Procter and Gamble"@sah ;
+	skos:prefLabel "Procter and Gamble"@sah ;
+	schema:name "Procter and Gamble"@sah ;
+	rdfs:label "Procter & Gamble"@war ;
+	skos:prefLabel "Procter & Gamble"@war ;
+	schema:name "Procter & Gamble"@war ;
+	rdfs:label "Проктър и Гембъл"@bg ;
+	skos:prefLabel "Проктър и Гембъл"@bg ;
+	schema:name "Проктър и Гембъл"@bg ;
+	rdfs:label "پروکتر اند گمبل"@fa ;
+	skos:prefLabel "پروکتر اند گمبل"@fa ;
+	schema:name "پروکتر اند گمبل"@fa ;
+	rdfs:label "Procter & Gamble"@hr ;
+	skos:prefLabel "Procter & Gamble"@hr ;
+	schema:name "Procter & Gamble"@hr ;
+	rdfs:label "Procter & Gamble"@lt ;
+	skos:prefLabel "Procter & Gamble"@lt ;
+	schema:name "Procter & Gamble"@lt ;
+	rdfs:label "Procter & Gamble"@da ;
+	skos:prefLabel "Procter & Gamble"@da ;
+	schema:name "Procter & Gamble"@da ;
+	rdfs:label "Проктер мен Гэмбл"@kk ;
+	skos:prefLabel "Проктер мен Гэмбл"@kk ;
+	schema:name "Проктер мен Гэмбл"@kk ;
+	rdfs:label "宝洁公司"@zh ;
+	skos:prefLabel "宝洁公司"@zh ;
+	schema:name "宝洁公司"@zh ;
+	rdfs:label "Procter & Gamble"@nb ;
+	skos:prefLabel "Procter & Gamble"@nb ;
+	schema:name "Procter & Gamble"@nb ;
+	rdfs:label "Procter & Gamble"@sco ;
+	skos:prefLabel "Procter & Gamble"@sco ;
+	schema:name "Procter & Gamble"@sco ;
+	rdfs:label "Procter & Gamble"@az ;
+	skos:prefLabel "Procter & Gamble"@az ;
+	schema:name "Procter & Gamble"@az ;
+	skos:altLabel "寶潔公司"@zh,
+		"P&G"@zh,
+		"寶鹼"@zh,
+		"寶僑"@zh,
+		"寶潔"@zh,
+		"宝洁"@zh,
+		"護舒寶 pinkcess"@zh,
+		"Procter"@pl,
+		"Procter and Gamble"@pl,
+		"프록터 & 갬블"@ko,
+		"프락터 앤드 갬블"@ko,
+		"P&G"@ko,
+		"프록터 앤 갬블"@ko,
+		"피앤지"@ko,
+		"프록터&갬블"@ko,
+		"Procter"@fr,
+		"P&G"@fr,
+		"Procter et Gamble"@fr,
+		"Procter and Gamble"@fr,
+		"Procter&gamble"@es,
+		"P&G"@es,
+		"P & G"@es,
+		"Ariel"@es,
+		"Procter and Gamble"@es,
+		"Zest"@es,
+		"P&G"@ms,
+		"Procter and Gamble"@it,
+		"P&G"@it,
+		"P&G"@id,
+		"P&G"@de,
+		"P & G"@de,
+		"Olay"@de,
+		"Procter&Gamble"@de,
+		"Pampers"@de,
+		"Meister Proper"@de,
+		"Mr. Proper"@de,
+		"P&G"@ja,
+		"プロクター&ギャンブル"@ja,
+		"プロクターアンドギャンブル"@ja,
+		"Procter & Gamble"@ja,
+		"ピーアンドジー"@ja,
+		"P&G"@vi,
+		"بروكتر و غامبل"@ar,
+		"بروكتر وجامبل"@ar,
+		"بروكتر أند غامبل"@ar,
+		"Procter & Gamble"@ar,
+		"Proctor & Gamble"@nl,
+		"P&G"@nl,
+		"Procter and Gamble"@sv,
+		"Global gillette"@pt,
+		"Procter&gamble"@pt,
+		"Procter gamble"@pt,
+		"P&g"@pt,
+		"Provou Gostou"@pt,
+		"Procter & Gamble Prestige"@pt,
+		"Проктер и Гэмбл"@ru,
+		"P&G"@ru,
+		"Procter&Gamble"@ru,
+		"Проктер энд Гэмбл"@ru,
+		"Procter & Gamble Co"@ru,
+		"Procter and gamble"@ru,
+		"P&G"@tr,
+		"P&G"@ro,
+		"Procter&Gamble"@ro,
+		"Procter & Gamble"@th,
+		"Procter and Gamble"@uk,
+		"P&G"@uk,
+		"P&G"@sah,
+		"Procter and Gamble"@bg,
+		"Проктър енд Гембъл"@bg,
+		"Procter & Gamble"@bg,
+		"P&G"@hr,
+		"Proctor & Gamble"@da,
+		"P&G"@da,
+		"P & G"@da,
+		"PG"@da,
+		"Gillette"@da ;
+	wdt:P373 "Procter & Gamble" ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P112 wd:Q556384,
+		wd:Q556367 ;
+	wdt:P910 wd:Q7348471 ;
+	wdt:P646 "/m/01qygl" ;
+	wdt:P159 wd:Q43196 ;
+	wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Cincinnati-procter-and-gamble-headquarters.jpg> ;
+	wdt:P166 wd:Q937629 ;
+	wdt:P414 wd:Q13677 ;
+	p:P373 wds:q212405-0C1B8F8E-F7E1-4F6A-8ED0-445981D9A66C .
+
+wds:q212405-0C1B8F8E-F7E1-4F6A-8ED0-445981D9A66C a wikibase:Statement ;
+	ps:P373 "Procter & Gamble" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q212405 p:P31 wds:q212405-B53800F8-7275-4BD4-88C8-6C86D3844F62 .
+
+wds:q212405-B53800F8-7275-4BD4-88C8-6C86D3844F62 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q212405 p:P112 wds:q212405-9B910290-2FB3-4FFB-A31A-87AD3A0C62AA .
+
+wds:q212405-9B910290-2FB3-4FFB-A31A-87AD3A0C62AA a wikibase:Statement ;
+	ps:P112 wd:Q556384 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q212405 p:P112 wds:q212405-BDC9D9D6-40F4-4567-9547-83DFDA35A7AB .
+
+wds:q212405-BDC9D9D6-40F4-4567-9547-83DFDA35A7AB a wikibase:Statement ;
+	ps:P112 wd:Q556367 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q212405 p:P910 wds:Q212405-DB18853B-2E58-4ADD-B18D-087D71D1BE6A .
+
+wds:Q212405-DB18853B-2E58-4ADD-B18D-087D71D1BE6A a wikibase:Statement ;
+	ps:P910 wd:Q7348471 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q212405 p:P646 wds:Q212405-3BD12446-823E-455A-ABD3-53F26F368CF4 .
+
+wds:Q212405-3BD12446-823E-455A-ABD3-53F26F368CF4 a wikibase:Statement ;
+	ps:P646 "/m/01qygl" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q212405 p:P159 wds:Q212405-EAE6B26D-3F74-4C52-A864-1CA721D799C3 .
+
+wds:Q212405-EAE6B26D-3F74-4C52-A864-1CA721D799C3 a wikibase:Statement ;
+	ps:P159 wd:Q43196 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q212405 p:P18 wds:Q212405-281479C2-AC0B-473C-B6C0-4AADC60A0C31 .
+
+wds:Q212405-281479C2-AC0B-473C-B6C0-4AADC60A0C31 a wikibase:Statement ;
+	ps:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Cincinnati-procter-and-gamble-headquarters.jpg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:223f43a7229297bd67ffab922174f80c722fff1a .
+
+wd:Q212405 p:P166 wds:Q212405-72BB3313-C061-49C4-B6B2-601529493D2C .
+
+wds:Q212405-72BB3313-C061-49C4-B6B2-601529493D2C a wikibase:Statement ;
+	ps:P166 wd:Q937629 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P585 "1995-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P585 wdv:c259e52728c72fb7bf9f41b140e77218 .
+
+wd:Q212405 p:P414 wds:Q212405-B313B363-3506-41CD-8755-3D79FF9668DD .
+
+wds:Q212405-B313B363-3506-41CD-8755-3D79FF9668DD a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://pl.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "pl" .
+
+<https://be.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "be" .
+
+<https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%95%D7%A7%D7%98%D7%A8%20%D7%90%D7%A0%D7%93%20%D7%92%D7%9E%D7%91%D7%9C> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "he" .
+
+<https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9D%ED%84%B0%20%EC%95%A4%EB%93%9C%20%EA%B0%AC%EB%B8%94> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "ko" .
+
+<https://fr.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "fr" .
+
+<https://es.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "es" .
+
+<https://hu.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "hu" .
+
+<https://ms.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "ms" .
+
+<https://it.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "it" .
+
+<https://id.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "id" .
+
+<https://de.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AE%E3%83%A3%E3%83%B3%E3%83%96%E3%83%AB> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "ja" .
+
+<https://vi.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "vi" .
+
+<https://sh.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "sh" .
+
+<https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D9%83%D8%AA%D8%B1%20%D9%88%D8%BA%D8%A7%D9%85%D8%A8%D9%84> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "ar" .
+
+<https://nl.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "nl" .
+
+<https://sv.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "sv" .
+
+<https://pt.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "pt" .
+
+<https://ru.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "ru" .
+
+<https://kn.wikipedia.org/wiki/%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%95%E0%B3%8D%E0%B2%9F%E0%B2%B0%E0%B3%8D> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "kn" .
+
+<https://en.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "en" .
+
+<https://tr.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "tr" .
+
+<https://no.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "no" .
+
+<https://ro.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "ro" .
+
+<https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C%20%E0%B9%81%E0%B8%81%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "th" .
+
+<https://mk.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "mk" .
+
+<https://fi.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "fi" .
+
+<https://uk.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "uk" .
+
+<https://sah.wikipedia.org/wiki/Procter%20and%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "sah" .
+
+<https://war.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "war" .
+
+<https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D1%82%D1%8A%D1%80%20%D0%B8%20%D0%93%D0%B5%D0%BC%D0%B1%D1%8A%D0%BB> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "bg" .
+
+<https://fa.wikipedia.org/wiki/%D9%BE%D8%B1%D9%88%DA%A9%D8%AA%D8%B1%20%D8%A7%D9%86%D8%AF%20%DA%AF%D9%85%D8%A8%D9%84> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "fa" .
+
+<https://hr.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "hr" .
+
+<https://lt.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "lt" .
+
+<https://da.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "da" .
+
+<https://kk.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D1%82%D0%B5%D1%80%20%D0%BC%D0%B5%D0%BD%20%D0%93%D1%8D%D0%BC%D0%B1%D0%BB> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "kk" .
+
+<https://sco.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "sco" .
+
+<https://az.wikipedia.org/wiki/Procter%20%26%20Gamble> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "az" .
+
+<https://zh.wikipedia.org/wiki/%E5%AE%9D%E6%B4%81> a schema:Article ;
+	schema:about wd:Q212405 ;
+	schema:inLanguage "zh" .
+
+wdata:Q212419 schema:version "227136346"^^xsd:integer ;
+	schema:dateModified "2015-07-07T10:26:03Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q212419 .
+

@@ -1,0 +1,870 @@
+wd:Q66 a wikibase:Item ;
+	rdfs:label "Boeing"@en ;
+	skos:prefLabel "Boeing"@en ;
+	schema:name "Boeing"@en ;
+	rdfs:label "Boeing"@fr ;
+	skos:prefLabel "Boeing"@fr ;
+	schema:name "Boeing"@fr ;
+	rdfs:label "Боинг"@ru ;
+	skos:prefLabel "Боинг"@ru ;
+	schema:name "Боинг"@ru ;
+	rdfs:label "Boeing"@it ;
+	skos:prefLabel "Boeing"@it ;
+	schema:name "Boeing"@it ;
+	rdfs:label "Boeing"@de ;
+	skos:prefLabel "Boeing"@de ;
+	schema:name "Boeing"@de ;
+	rdfs:label "Boeing"@es ;
+	skos:prefLabel "Boeing"@es ;
+	schema:name "Boeing"@es ;
+	rdfs:label "Boeing"@en-ca ;
+	skos:prefLabel "Boeing"@en-ca ;
+	schema:name "Boeing"@en-ca ;
+	rdfs:label "Boeing"@en-gb ;
+	skos:prefLabel "Boeing"@en-gb ;
+	schema:name "Boeing"@en-gb ;
+	rdfs:label "Boeing"@af ;
+	skos:prefLabel "Boeing"@af ;
+	schema:name "Boeing"@af ;
+	rdfs:label "بوينغ"@ar ;
+	skos:prefLabel "بوينغ"@ar ;
+	schema:name "بوينغ"@ar ;
+	rdfs:label "Boeing"@az ;
+	skos:prefLabel "Boeing"@az ;
+	schema:name "Boeing"@az ;
+	rdfs:label "Boeing"@be ;
+	skos:prefLabel "Boeing"@be ;
+	schema:name "Boeing"@be ;
+	rdfs:label "Боинг"@bg ;
+	skos:prefLabel "Боинг"@bg ;
+	schema:name "Боинг"@bg ;
+	rdfs:label "বোয়িং"@bn ;
+	skos:prefLabel "বোয়িং"@bn ;
+	schema:name "বোয়িং"@bn ;
+	rdfs:label "Boeing"@bs ;
+	skos:prefLabel "Boeing"@bs ;
+	schema:name "Boeing"@bs ;
+	rdfs:label "Boeing"@ca ;
+	skos:prefLabel "Boeing"@ca ;
+	schema:name "Boeing"@ca ;
+	rdfs:label "Boeing"@cs ;
+	skos:prefLabel "Boeing"@cs ;
+	schema:name "Boeing"@cs ;
+	rdfs:label "Boeing"@da ;
+	skos:prefLabel "Boeing"@da ;
+	schema:name "Boeing"@da ;
+	rdfs:label "Boeing"@eo ;
+	skos:prefLabel "Boeing"@eo ;
+	schema:name "Boeing"@eo ;
+	rdfs:label "Boeing"@et ;
+	skos:prefLabel "Boeing"@et ;
+	schema:name "Boeing"@et ;
+	rdfs:label "Boeing"@eu ;
+	skos:prefLabel "Boeing"@eu ;
+	schema:name "Boeing"@eu ;
+	rdfs:label "بوئینگ"@fa ;
+	skos:prefLabel "بوئینگ"@fa ;
+	schema:name "بوئینگ"@fa ;
+	rdfs:label "Boeing"@fi ;
+	skos:prefLabel "Boeing"@fi ;
+	schema:name "Boeing"@fi ;
+	rdfs:label "Boeing"@ga ;
+	skos:prefLabel "Boeing"@ga ;
+	schema:name "Boeing"@ga ;
+	rdfs:label "Boeing"@gl ;
+	skos:prefLabel "Boeing"@gl ;
+	schema:name "Boeing"@gl ;
+	rdfs:label "בואינג"@he ;
+	skos:prefLabel "בואינג"@he ;
+	schema:name "בואינג"@he ;
+	rdfs:label "बोइंग"@hi ;
+	skos:prefLabel "बोइंग"@hi ;
+	schema:name "बोइंग"@hi ;
+	rdfs:label "Boeing"@hr ;
+	skos:prefLabel "Boeing"@hr ;
+	schema:name "Boeing"@hr ;
+	rdfs:label "Boeing"@hu ;
+	skos:prefLabel "Boeing"@hu ;
+	schema:name "Boeing"@hu ;
+	rdfs:label "Բոինգ"@hy ;
+	skos:prefLabel "Բոինգ"@hy ;
+	schema:name "Բոինգ"@hy ;
+	rdfs:label "Boeing"@id ;
+	skos:prefLabel "Boeing"@id ;
+	schema:name "Boeing"@id ;
+	rdfs:label "Boeing"@is ;
+	skos:prefLabel "Boeing"@is ;
+	schema:name "Boeing"@is ;
+	rdfs:label "ボーイング"@ja ;
+	skos:prefLabel "ボーイング"@ja ;
+	schema:name "ボーイング"@ja ;
+	rdfs:label "Boeing"@jv ;
+	skos:prefLabel "Boeing"@jv ;
+	schema:name "Boeing"@jv ;
+	rdfs:label "Boeing"@ka ;
+	skos:prefLabel "Boeing"@ka ;
+	schema:name "Boeing"@ka ;
+	rdfs:label "Боинг"@kk ;
+	skos:prefLabel "Боинг"@kk ;
+	schema:name "Боинг"@kk ;
+	rdfs:label "ಬೋಯಿಂಗ್"@kn ;
+	skos:prefLabel "ಬೋಯಿಂಗ್"@kn ;
+	schema:name "ಬೋಯಿಂಗ್"@kn ;
+	rdfs:label "보잉"@ko ;
+	skos:prefLabel "보잉"@ko ;
+	schema:name "보잉"@ko ;
+	rdfs:label "Boeing"@lb ;
+	skos:prefLabel "Boeing"@lb ;
+	schema:name "Boeing"@lb ;
+	rdfs:label "Boeing"@li ;
+	skos:prefLabel "Boeing"@li ;
+	schema:name "Boeing"@li ;
+	rdfs:label "Boeing"@lt ;
+	skos:prefLabel "Boeing"@lt ;
+	schema:name "Boeing"@lt ;
+	rdfs:label "Boeing"@lv ;
+	skos:prefLabel "Boeing"@lv ;
+	schema:name "Boeing"@lv ;
+	rdfs:label "ബോയിങ്"@ml ;
+	skos:prefLabel "ബോയിങ്"@ml ;
+	schema:name "ബോയിങ്"@ml ;
+	rdfs:label "बोईंग"@mr ;
+	skos:prefLabel "बोईंग"@mr ;
+	schema:name "बोईंग"@mr ;
+	rdfs:label "Boeing"@ms ;
+	skos:prefLabel "Boeing"@ms ;
+	schema:name "Boeing"@ms ;
+	rdfs:label "Boeing"@nl ;
+	skos:prefLabel "Boeing"@nl ;
+	schema:name "Boeing"@nl ;
+	rdfs:label "Boeing"@nn ;
+	skos:prefLabel "Boeing"@nn ;
+	schema:name "Boeing"@nn ;
+	rdfs:label "Boeing"@pl ;
+	skos:prefLabel "Boeing"@pl ;
+	schema:name "Boeing"@pl ;
+	rdfs:label "بوئنگ"@pnb ;
+	skos:prefLabel "بوئنگ"@pnb ;
+	schema:name "بوئنگ"@pnb ;
+	rdfs:label "Boeing"@pt ;
+	skos:prefLabel "Boeing"@pt ;
+	schema:name "Boeing"@pt ;
+	rdfs:label "Boeing"@pt-br ;
+	skos:prefLabel "Boeing"@pt-br ;
+	schema:name "Boeing"@pt-br ;
+	rdfs:label "Boeing"@ro ;
+	skos:prefLabel "Boeing"@ro ;
+	schema:name "Boeing"@ro ;
+	rdfs:label "Boeing"@sh ;
+	skos:prefLabel "Boeing"@sh ;
+	schema:name "Boeing"@sh ;
+	rdfs:label "Boeing"@sk ;
+	skos:prefLabel "Boeing"@sk ;
+	schema:name "Boeing"@sk ;
+	rdfs:label "Boeing"@so ;
+	skos:prefLabel "Boeing"@so ;
+	schema:name "Boeing"@so ;
+	rdfs:label "Boeing"@sq ;
+	skos:prefLabel "Boeing"@sq ;
+	schema:name "Boeing"@sq ;
+	rdfs:label "Боинг"@sr ;
+	skos:prefLabel "Боинг"@sr ;
+	schema:name "Боинг"@sr ;
+	rdfs:label "Boeing"@sv ;
+	skos:prefLabel "Boeing"@sv ;
+	schema:name "Boeing"@sv ;
+	rdfs:label "Boeing"@sw ;
+	skos:prefLabel "Boeing"@sw ;
+	schema:name "Boeing"@sw ;
+	rdfs:label "போயிங்"@ta ;
+	skos:prefLabel "போயிங்"@ta ;
+	schema:name "போயிங்"@ta ;
+	rdfs:label "โบอิง"@th ;
+	skos:prefLabel "โบอิง"@th ;
+	schema:name "โบอิง"@th ;
+	rdfs:label "Boeing"@tr ;
+	skos:prefLabel "Boeing"@tr ;
+	schema:name "Boeing"@tr ;
+	rdfs:label "Боїнг"@uk ;
+	skos:prefLabel "Боїнг"@uk ;
+	schema:name "Боїнг"@uk ;
+	rdfs:label "Boeing"@vi ;
+	skos:prefLabel "Boeing"@vi ;
+	schema:name "Boeing"@vi ;
+	rdfs:label "ბოინგი"@xmf ;
+	skos:prefLabel "ბოინგი"@xmf ;
+	schema:name "ბოინგი"@xmf ;
+	rdfs:label "באואינג"@yi ;
+	skos:prefLabel "באואינג"@yi ;
+	schema:name "באואינג"@yi ;
+	rdfs:label "波音"@zh ;
+	skos:prefLabel "波音"@zh ;
+	schema:name "波音"@zh ;
+	rdfs:label "波音"@zh-cn ;
+	skos:prefLabel "波音"@zh-cn ;
+	schema:name "波音"@zh-cn ;
+	rdfs:label "波音"@zh-tw ;
+	skos:prefLabel "波音"@zh-tw ;
+	schema:name "波音"@zh-tw ;
+	rdfs:label "波音"@zh-sg ;
+	skos:prefLabel "波音"@zh-sg ;
+	schema:name "波音"@zh-sg ;
+	rdfs:label "波音"@zh-mo ;
+	skos:prefLabel "波音"@zh-mo ;
+	schema:name "波音"@zh-mo ;
+	rdfs:label "波音"@zh-hans ;
+	skos:prefLabel "波音"@zh-hans ;
+	schema:name "波音"@zh-hans ;
+	rdfs:label "波音"@zh-hant ;
+	skos:prefLabel "波音"@zh-hant ;
+	schema:name "波音"@zh-hant ;
+	rdfs:label "波音"@zh-hk ;
+	skos:prefLabel "波音"@zh-hk ;
+	schema:name "波音"@zh-hk ;
+	rdfs:label "波音"@zh-my ;
+	skos:prefLabel "波音"@zh-my ;
+	schema:name "波音"@zh-my ;
+	rdfs:label "Boeing"@nb ;
+	skos:prefLabel "Boeing"@nb ;
+	schema:name "Boeing"@nb ;
+	rdfs:label "Boeing"@oc ;
+	skos:prefLabel "Boeing"@oc ;
+	schema:name "Boeing"@oc ;
+	rdfs:label "Боинг"@mk ;
+	skos:prefLabel "Боинг"@mk ;
+	schema:name "Боинг"@mk ;
+	rdfs:label "Boeing"@sco ;
+	skos:prefLabel "Boeing"@sco ;
+	schema:name "Boeing"@sco ;
+	rdfs:label "Боинг"@sr-ec ;
+	skos:prefLabel "Боинг"@sr-ec ;
+	schema:name "Боинг"@sr-ec ;
+	rdfs:label "Boing"@sr-el ;
+	skos:prefLabel "Boing"@sr-el ;
+	schema:name "Boing"@sr-el ;
+	rdfs:label "波音"@yue ;
+	skos:prefLabel "波音"@yue ;
+	schema:name "波音"@yue ;
+	rdfs:label "بوئنگ"@ur ;
+	skos:prefLabel "بوئنگ"@ur ;
+	schema:name "بوئنگ"@ur ;
+	rdfs:label "Boeing"@el ;
+	skos:prefLabel "Boeing"@el ;
+	schema:name "Boeing"@el ;
+	rdfs:label "Боинг"@mn ;
+	skos:prefLabel "Боинг"@mn ;
+	schema:name "Боинг"@mn ;
+	rdfs:label "Boing"@uz ;
+	skos:prefLabel "Boing"@uz ;
+	schema:name "Boing"@uz ;
+	rdfs:label "बोइङ"@ne ;
+	skos:prefLabel "बोइङ"@ne ;
+	schema:name "बोइङ"@ne ;
+	rdfs:label "बोइङ"@new ;
+	skos:prefLabel "बोइङ"@new ;
+	schema:name "बोइङ"@new ;
+	schema:description "azienda costruttrice di aeromobili statunitense"@it,
+		"constructeur aéronautique et aérospatial américain"@fr,
+		"Luftfahrtunternehmen"@de,
+		"empresa aeronáutica estadounidense"@es,
+		"American aerospace and defence manufacturer"@en,
+		"flyprodusent"@nb,
+		"американская авиастроительная компания"@ru,
+		"美國飛機公司"@zh,
+		"美国飞机公司"@zh-hans,
+		"美國飛機公司"@zh-hant,
+		"美国飞机公司"@zh-cn,
+		"美国飞机公司"@zh-sg,
+		"美国飞机公司"@zh-my,
+		"美國飛機公司"@zh-hk,
+		"美國飛機公司"@zh-tw,
+		"美國飛機公司"@zh-mo,
+		"fabricants d'avions i equips aeroespacials"@ca,
+		"yhdysvaltalainen ilmailu- ja sotateollisuusyritys"@fi,
+		"corporação multinacional americana de desenvolvimento aeroespacial e de defesa"@pt-br,
+		"அமெரிக்க விமான மற்றும் பாதுகாப்பு தயாரிப்பாளர்"@ta,
+		"アメリカ合衆国の航空宇宙機器開発製造会社"@ja,
+		"одна з найбільших світових аерокосмічних та оборонних корпорацій"@uk,
+		"repülőgépgyártó vállalat"@hu ;
+	skos:altLabel "The Boeing Company"@fr,
+		"波音公司"@zh,
+		"波音飛機公司"@zh,
+		"波音公司"@zh-hans,
+		"波音飞机公司"@zh-hans,
+		"波音公司"@zh-hant,
+		"波音飛機公司"@zh-hant,
+		"波音公司"@zh-cn,
+		"波音飞机公司"@zh-cn,
+		"波音公司"@zh-sg,
+		"波音飞机公司"@zh-sg,
+		"波音公司"@zh-my,
+		"波音飞机公司"@zh-my,
+		"波音公司"@zh-hk,
+		"波音飛機公司"@zh-hk,
+		"波音公司"@zh-tw,
+		"波音飛機公司"@zh-tw,
+		"波音公司"@zh-mo,
+		"波音飛機公司"@zh-mo,
+		"Boeing Commercial Airplanes"@ca,
+		"Boeing"@th,
+		"โบอิ้ง"@th,
+		"The Boeing Company"@en,
+		"The Boeing Company"@pt-br ;
+	wdt:P112 wd:Q214826 ;
+	wdt:P159 wd:Q961568,
+		wd:Q5083,
+		wd:Q1297 ;
+	wdt:P199 wd:Q8793,
+		wd:Q795324,
+		wd:Q4937128 ;
+	wdt:P373 "Boeing" ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P31 wd:Q783794,
+		wd:Q936518 ;
+	wdt:P244 "n79134057" ;
+	wdt:P214 "135371434" ;
+	wdt:P169 wd:Q1680807 ;
+	wdt:P355 wd:Q890180 ;
+	wdt:P138 wd:Q214826 ;
+	wdt:P910 wd:Q6392568 ;
+	wdt:P571 "1916-07-15T00:00:00Z"^^xsd:dateTime ;
+	wdt:P227 "4254195-5" ;
+	wdt:P452 wd:Q3477363 ;
+	wdt:P646 "/m/0178g" ;
+	wdt:P269 "121749592" ;
+	wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Boeing%20787%20Roll-out.jpg> ;
+	wdt:P155 wd:Q201815 ;
+	wdt:P856 <http://www.boeing.com/> ;
+	p:P112 wds:q66-FDF2CF78-FD0E-46F5-B9F2-9C81806B0499 .
+
+wds:q66-FDF2CF78-FD0E-46F5-B9F2-9C81806B0499 a wikibase:Statement ;
+	ps:P112 wd:Q214826 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q66 p:P159 wds:q66-8DDF5822-5637-4D6F-869B-C19290F1D95E .
+
+wds:q66-8DDF5822-5637-4D6F-869B-C19290F1D95E a wikibase:Statement ;
+	ps:P159 wd:Q961568 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P580 "2001-09-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:c62984cdb7d9ebb83776f79576223e00 .
+
+wd:Q66 p:P159 wds:Q66-9c2e4889-432f-c602-70a2-b48896e8bcc4 .
+
+wds:Q66-9c2e4889-432f-c602-70a2-b48896e8bcc4 a wikibase:Statement ;
+	ps:P159 wd:Q5083 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P582 "2001-09-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:c62984cdb7d9ebb83776f79576223e00 .
+
+wd:Q66 p:P159 wds:Q66-AF26825A-A11A-4B42-84D5-F9E7B184AF6B .
+
+wds:Q66-AF26825A-A11A-4B42-84D5-F9E7B184AF6B a wikibase:Statement ;
+	ps:P159 wd:Q1297 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q66 p:P199 wds:q66-162C3754-9ABF-49AA-95F8-D09AEA9DAF3E .
+
+wds:q66-162C3754-9ABF-49AA-95F8-D09AEA9DAF3E a wikibase:Statement ;
+	ps:P199 wd:Q8793 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q66 p:P199 wds:q66-798EC9A5-4BBE-455D-A9FF-0EF3761D946F .
+
+wds:q66-798EC9A5-4BBE-455D-A9FF-0EF3761D946F a wikibase:Statement ;
+	ps:P199 wd:Q795324 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q66 p:P199 wds:Q66-0adf3869-49f8-1e50-c171-3e850a19067e .
+
+wds:Q66-0adf3869-49f8-1e50-c171-3e850a19067e a wikibase:Statement ;
+	ps:P199 wd:Q4937128 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q66 p:P373 wds:q66-1ED2B69B-EE47-43FE-91C8-286D935FDAB8 .
+
+wds:q66-1ED2B69B-EE47-43FE-91C8-286D935FDAB8 a wikibase:Statement ;
+	ps:P373 "Boeing" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q66 p:P414 wds:q66-68C489BB-C616-4762-9196-278DCD5DEFBF .
+
+wds:q66-68C489BB-C616-4762-9196-278DCD5DEFBF a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "BA" .
+
+wd:Q66 p:P31 wds:q66-FA14DC1C-CCDD-49E4-B126-E8F9FB077906 .
+
+wds:q66-FA14DC1C-CCDD-49E4-B126-E8F9FB077906 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0,
+		wdref:dea197df9b196b99d4da612df54eafdd207febf1 .
+
+wd:Q66 p:P31 wds:q66-a23d2fb5-4ad8-f6d6-c67d-d645a9859f06 .
+
+wds:q66-a23d2fb5-4ad8-f6d6-c67d-d645a9859f06 a wikibase:Statement ;
+	ps:P31 wd:Q936518 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q66 p:P244 wds:q66-ac616ffd-4439-de42-44c4-5dd6182da543 .
+
+wds:q66-ac616ffd-4439-de42-44c4-5dd6182da543 a wikibase:Statement ;
+	ps:P244 "n79134057" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q66 p:P214 wds:q66-258903cc-4ab5-a19d-fd8f-740fc7354993 .
+
+wds:q66-258903cc-4ab5-a19d-fd8f-740fc7354993 a wikibase:Statement ;
+	ps:P214 "135371434" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q66 p:P169 wds:q66-CF22FD82-DB7A-48CF-BE7D-8F4102DDF961 .
+
+wds:q66-CF22FD82-DB7A-48CF-BE7D-8F4102DDF961 a wikibase:Statement ;
+	ps:P169 wd:Q1680807 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P580 "2005-06-30T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:3ceba6253bf038fc10917fae453d5431 .
+
+wd:Q66 p:P355 wds:q66-56429ee5-42c2-f9f7-4e5c-05075fc1cc3e .
+
+wds:q66-56429ee5-42c2-f9f7-4e5c-05075fc1cc3e a wikibase:Statement ;
+	ps:P355 wd:Q890180 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q66 p:P138 wds:q66-54de2b5c-4ad2-100c-b335-fad7f1815510 .
+
+wds:q66-54de2b5c-4ad2-100c-b335-fad7f1815510 a wikibase:Statement ;
+	ps:P138 wd:Q214826 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q66 p:P910 wds:Q66-3605AC0B-492C-45DF-9758-33E41AC23794 .
+
+wds:Q66-3605AC0B-492C-45DF-9758-33E41AC23794 a wikibase:Statement ;
+	ps:P910 wd:Q6392568 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q66 p:P571 wds:Q66-65c8f111-4041-da63-24a1-0db5e0341fdb .
+
+wds:Q66-65c8f111-4041-da63-24a1-0db5e0341fdb a wikibase:Statement ;
+	ps:P571 "1916-07-15T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:d2eb7a3fb2133d3343792e3212812d3c ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P131 wd:Q5083 ;
+	prov:wasDerivedFrom wdref:1dcea7c99e7e89dc977e6b15fbaf9d9d7a77e74f .
+
+wd:Q66 p:P227 wds:Q66-7BA534CC-FA5E-4D70-8C13-183FCD2FD357 .
+
+wds:Q66-7BA534CC-FA5E-4D70-8C13-183FCD2FD357 a wikibase:Statement ;
+	ps:P227 "4254195-5" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q66 p:P452 wds:Q66-0d266332-4a2c-37f0-c4fc-ebcf9f3c7342 .
+
+wds:Q66-0d266332-4a2c-37f0-c4fc-ebcf9f3c7342 a wikibase:Statement ;
+	ps:P452 wd:Q3477363 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q66 p:P646 wds:Q66-7D4C4ABE-9B57-4ADB-BF63-51B243B49DE9 .
+
+wds:Q66-7D4C4ABE-9B57-4ADB-BF63-51B243B49DE9 a wikibase:Statement ;
+	ps:P646 "/m/0178g" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q66 p:P269 wds:Q66-A2012A51-E132-485F-93FB-ADC12A0D3C93 .
+
+wds:Q66-A2012A51-E132-485F-93FB-ADC12A0D3C93 a wikibase:Statement ;
+	ps:P269 "121749592" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:a51d6594fee36c7452eaed2db35a4833613a7078 .
+
+wd:Q66 p:P18 wds:Q66-8384E9E8-CA1C-4B31-A3AA-548ED8B02758 .
+
+wds:Q66-8384E9E8-CA1C-4B31-A3AA-548ED8B02758 a wikibase:Statement ;
+	ps:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Boeing%20787%20Roll-out.jpg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:223f43a7229297bd67ffab922174f80c722fff1a .
+
+wd:Q66 p:P155 wds:Q66-9970F2DD-96A8-4E50-83A1-583DABACE35D .
+
+wds:Q66-9970F2DD-96A8-4E50-83A1-583DABACE35D a wikibase:Statement ;
+	ps:P155 wd:Q201815 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q66 p:P856 wds:Q66-5A182CDE-4BB4-440F-80EC-96E58ABDF787 .
+
+wds:Q66-5A182CDE-4BB4-440F-80EC-96E58ABDF787 a wikibase:Statement ;
+	ps:P856 <http://www.boeing.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://en.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "en" .
+
+<https://fr.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "fr" .
+
+<https://ru.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "ru" .
+
+<https://de.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "de" .
+
+<https://it.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "it" .
+
+<https://af.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "af" .
+
+<https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D9%8A%D9%86%D8%BA> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "ar" .
+
+<https://az.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "az" .
+
+<https://be.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "be" .
+
+<https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D0%B8%D0%BD%D0%B3> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "bg" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BF%E0%A6%82> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "bn" .
+
+<https://bs.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "bs" .
+
+<https://ca.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "ca" .
+
+<https://cs.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "cs" .
+
+<https://da.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "da" .
+
+<https://eo.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "eo" .
+
+<https://es.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "es" .
+
+<https://et.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "et" .
+
+<https://eu.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "eu" .
+
+<https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%A6%DB%8C%D9%86%DA%AF> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "fa" .
+
+<https://fi.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "fi" .
+
+<https://ga.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "ga" .
+
+<https://gl.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "gl" .
+
+<https://he.wikipedia.org/wiki/%D7%91%D7%95%D7%90%D7%99%D7%A0%D7%92> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "he" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8B%E0%A4%87%E0%A4%82%E0%A4%97> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "hi" .
+
+<https://hr.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "hr" .
+
+<https://hu.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "hu" .
+
+<https://id.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "id" .
+
+<https://is.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "is" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "ja" .
+
+<https://jv.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "jv" .
+
+<https://ka.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "ka" .
+
+<https://kk.wikipedia.org/wiki/%D0%91%D0%BE%D0%B8%D0%BD%D0%B3> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "kk" .
+
+<https://kn.wikipedia.org/wiki/%E0%B2%AC%E0%B3%8B%E0%B2%AF%E0%B2%BF%E0%B2%82%E0%B2%97%E0%B3%8D> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "kn" .
+
+<https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%9E%89> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "ko" .
+
+<https://lb.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "lb" .
+
+<https://li.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "li" .
+
+<https://lt.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "lt" .
+
+<https://lv.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "lv" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%AC%E0%B5%8B%E0%B4%AF%E0%B4%BF%E0%B4%99%E0%B5%8D> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "ml" .
+
+<https://mr.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8B%E0%A4%88%E0%A4%82%E0%A4%97> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "mr" .
+
+<https://ms.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "ms" .
+
+<https://nl.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "nl" .
+
+<https://nn.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "nn" .
+
+<https://no.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "no" .
+
+<https://pl.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "pl" .
+
+<https://pnb.wikipedia.org/wiki/%D8%A8%D9%88%D8%A6%D9%86%DA%AF> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "pnb" .
+
+<https://pt.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "pt" .
+
+<https://ro.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "ro" .
+
+<https://sh.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "sh" .
+
+<https://simple.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "simple" .
+
+<https://sk.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "sk" .
+
+<https://so.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "so" .
+
+<https://sq.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "sq" .
+
+<https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D0%B8%D0%BD%D0%B3> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "sr" .
+
+<https://sv.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "sv" .
+
+<https://sw.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "sw" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%8B%E0%AE%AF%E0%AE%BF%E0%AE%99%E0%AF%8D> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "ta" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%9A%E0%B8%AD%E0%B8%B4%E0%B8%87> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "th" .
+
+<https://tr.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "tr" .
+
+<https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%97%D0%BD%D0%B3> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "uk" .
+
+<https://vi.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "vi" .
+
+<https://xmf.wikipedia.org/wiki/%E1%83%91%E1%83%9D%E1%83%98%E1%83%9C%E1%83%92%E1%83%98> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "xmf" .
+
+<https://yi.wikipedia.org/wiki/%D7%91%D7%90%D7%95%D7%90%D7%99%D7%A0%D7%92> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "yi" .
+
+<https://zh.wikipedia.org/wiki/%E6%B3%A2%E9%9F%B3> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "zh" .
+
+<https://oc.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "oc" .
+
+<https://sco.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "sco" .
+
+<https://zh-yue.wikipedia.org/wiki/%E6%B3%A2%E9%9F%B3> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "zh-yue" .
+
+<https://ur.wikipedia.org/wiki/%D8%A8%D9%88%D8%A6%D9%86%DA%AF> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "ur" .
+
+<https://mn.wikipedia.org/wiki/%D0%91%D0%BE%D0%B8%D0%BD%D0%B3> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "mn" .
+
+<https://uz.wikipedia.org/wiki/Boing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "uz" .
+
+<https://mk.wikipedia.org/wiki/%D0%91%D0%BE%D0%B8%D0%BD%D0%B3> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "mk" .
+
+<https://hy.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "hy" .
+
+<https://fy.wikipedia.org/wiki/Boeing> a schema:Article ;
+	schema:about wd:Q66 ;
+	schema:inLanguage "fy" .
+
+wdv:c62984cdb7d9ebb83776f79576223e00 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2001-09-01T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "10"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:00376636cda433a419a71d1c513377bb a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2015-06-04T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:3ceba6253bf038fc10917fae453d5431 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2005-06-30T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:d2eb7a3fb2133d3343792e3212812d3c a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "1916-07-15T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdref:dea197df9b196b99d4da612df54eafdd207febf1 a wikibase:Reference ;
+	pr:P854 <http://www.nyse.com/about/listed/lcddata.html?ticker=BA> ;
+	pr:P813 "2015-06-04T00:00:00Z"^^xsd:dateTime ;
+	prv:P813 wdv:00376636cda433a419a71d1c513377bb .
+
+wdref:1dcea7c99e7e89dc977e6b15fbaf9d9d7a77e74f a wikibase:Reference ;
+	pr:P248 wd:Q15055957 ;
+	pr:P304 "16" .
+
+wdref:223f43a7229297bd67ffab922174f80c722fff1a a wikibase:Reference ;
+	pr:P143 wd:Q10000 .
+
+wdata:Q77 schema:version "230920991"^^xsd:integer ;
+	schema:dateModified "2015-07-15T00:08:57Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q77 .
+

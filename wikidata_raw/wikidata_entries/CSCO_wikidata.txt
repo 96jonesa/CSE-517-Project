@@ -1,0 +1,602 @@
+wd:Q173395 a wikibase:Item ;
+	rdfs:label "思科系统"@zh-hans ;
+	skos:prefLabel "思科系统"@zh-hans ;
+	schema:name "思科系统"@zh-hans ;
+	rdfs:label "思科系統"@zh-hant ;
+	skos:prefLabel "思科系統"@zh-hant ;
+	schema:name "思科系統"@zh-hant ;
+	rdfs:label "思科系統"@zh-hk ;
+	skos:prefLabel "思科系統"@zh-hk ;
+	schema:name "思科系統"@zh-hk ;
+	rdfs:label "思科系统"@zh-cn ;
+	skos:prefLabel "思科系统"@zh-cn ;
+	schema:name "思科系统"@zh-cn ;
+	rdfs:label "思科系统"@zh-sg ;
+	skos:prefLabel "思科系统"@zh-sg ;
+	schema:name "思科系统"@zh-sg ;
+	rdfs:label "思科系統"@zh-tw ;
+	skos:prefLabel "思科系統"@zh-tw ;
+	schema:name "思科系統"@zh-tw ;
+	rdfs:label "Cisco Systems"@eu ;
+	skos:prefLabel "Cisco Systems"@eu ;
+	schema:name "Cisco Systems"@eu ;
+	rdfs:label "Cisco Systems"@pl ;
+	skos:prefLabel "Cisco Systems"@pl ;
+	schema:name "Cisco Systems"@pl ;
+	rdfs:label "시스코 시스템즈"@ko ;
+	skos:prefLabel "시스코 시스템즈"@ko ;
+	schema:name "시스코 시스템즈"@ko ;
+	rdfs:label "סיסקו מערכות"@he ;
+	skos:prefLabel "סיסקו מערכות"@he ;
+	schema:name "סיסקו מערכות"@he ;
+	rdfs:label "Cisco Systems"@fr ;
+	skos:prefLabel "Cisco Systems"@fr ;
+	schema:name "Cisco Systems"@fr ;
+	rdfs:label "Cisco Systems"@es ;
+	skos:prefLabel "Cisco Systems"@es ;
+	schema:name "Cisco Systems"@es ;
+	rdfs:label "சிஸ்கோ சிஸ்டம்ஸ்"@ta ;
+	skos:prefLabel "சிஸ்கோ சிஸ்டம்ஸ்"@ta ;
+	schema:name "சிஸ்கோ சிஸ்டம்ஸ்"@ta ;
+	rdfs:label "Cisco Systems"@hu ;
+	skos:prefLabel "Cisco Systems"@hu ;
+	schema:name "Cisco Systems"@hu ;
+	rdfs:label "Cisco Systems"@ms ;
+	skos:prefLabel "Cisco Systems"@ms ;
+	schema:name "Cisco Systems"@ms ;
+	rdfs:label "Cisco Systems"@it ;
+	skos:prefLabel "Cisco Systems"@it ;
+	schema:name "Cisco Systems"@it ;
+	rdfs:label "Cisco Systems"@gl ;
+	skos:prefLabel "Cisco Systems"@gl ;
+	schema:name "Cisco Systems"@gl ;
+	rdfs:label "Cisco Systems"@de ;
+	skos:prefLabel "Cisco Systems"@de ;
+	schema:name "Cisco Systems"@de ;
+	rdfs:label "Cisco Systems"@id ;
+	skos:prefLabel "Cisco Systems"@id ;
+	schema:name "Cisco Systems"@id ;
+	rdfs:label "സിസ്‌കോ"@ml ;
+	skos:prefLabel "സിസ്‌കോ"@ml ;
+	schema:name "സിസ്‌കോ"@ml ;
+	rdfs:label "シスコシステムズ"@ja ;
+	skos:prefLabel "シスコシステムズ"@ja ;
+	schema:name "シスコシステムズ"@ja ;
+	rdfs:label "সিসকো সিস্টেমস"@bn ;
+	skos:prefLabel "সিসকো সিস্টেমস"@bn ;
+	schema:name "সিসকো সিস্টেমস"@bn ;
+	rdfs:label "Cisco Systems"@sq ;
+	skos:prefLabel "Cisco Systems"@sq ;
+	schema:name "Cisco Systems"@sq ;
+	rdfs:label "Cisco Systems"@vi ;
+	skos:prefLabel "Cisco Systems"@vi ;
+	schema:name "Cisco Systems"@vi ;
+	rdfs:label "Cisco Systems"@el ;
+	skos:prefLabel "Cisco Systems"@el ;
+	schema:name "Cisco Systems"@el ;
+	rdfs:label "思科"@yue ;
+	skos:prefLabel "思科"@yue ;
+	schema:name "思科"@yue ;
+	rdfs:label "စစ်စကို"@my ;
+	skos:prefLabel "စစ်စကို"@my ;
+	schema:name "စစ်စကို"@my ;
+	rdfs:label "Cisco Systems"@sv ;
+	skos:prefLabel "Cisco Systems"@sv ;
+	schema:name "Cisco Systems"@sv ;
+	rdfs:label "سيسكو سيستمز"@ar ;
+	skos:prefLabel "سيسكو سيستمز"@ar ;
+	schema:name "سيسكو سيستمز"@ar ;
+	rdfs:label "Cisco Systems"@nl ;
+	skos:prefLabel "Cisco Systems"@nl ;
+	schema:name "Cisco Systems"@nl ;
+	rdfs:label "Cisco Systems"@pt ;
+	skos:prefLabel "Cisco Systems"@pt ;
+	schema:name "Cisco Systems"@pt ;
+	rdfs:label "Cisco Systems"@sk ;
+	skos:prefLabel "Cisco Systems"@sk ;
+	schema:name "Cisco Systems"@sk ;
+	rdfs:label "סיסקא"@yi ;
+	skos:prefLabel "סיסקא"@yi ;
+	schema:name "סיסקא"@yi ;
+	rdfs:label "Cisco Systems"@ru ;
+	skos:prefLabel "Cisco Systems"@ru ;
+	schema:name "Cisco Systems"@ru ;
+	rdfs:label "Cisco"@sr-el ;
+	skos:prefLabel "Cisco"@sr-el ;
+	schema:name "Cisco"@sr-el ;
+	rdfs:label "Цисцо"@sr-ec ;
+	skos:prefLabel "Цисцо"@sr-ec ;
+	schema:name "Цисцо"@sr-ec ;
+	rdfs:label "Cisco Systems"@en ;
+	skos:prefLabel "Cisco Systems"@en ;
+	schema:name "Cisco Systems"@en ;
+	rdfs:label "Cisco Systems"@tr ;
+	skos:prefLabel "Cisco Systems"@tr ;
+	schema:name "Cisco Systems"@tr ;
+	rdfs:label "سیسکۆ"@ckb ;
+	skos:prefLabel "سیسکۆ"@ckb ;
+	schema:name "سیسکۆ"@ckb ;
+	rdfs:label "Cisco Systems"@ro ;
+	skos:prefLabel "Cisco Systems"@ro ;
+	schema:name "Cisco Systems"@ro ;
+	rdfs:label "Cisco Systems"@ca ;
+	skos:prefLabel "Cisco Systems"@ca ;
+	schema:name "Cisco Systems"@ca ;
+	rdfs:label "Cisco Systems"@fi ;
+	skos:prefLabel "Cisco Systems"@fi ;
+	schema:name "Cisco Systems"@fi ;
+	rdfs:label "Cisco Systems"@uk ;
+	skos:prefLabel "Cisco Systems"@uk ;
+	schema:name "Cisco Systems"@uk ;
+	rdfs:label "Cisco Systems"@cs ;
+	skos:prefLabel "Cisco Systems"@cs ;
+	schema:name "Cisco Systems"@cs ;
+	rdfs:label "સિસ્કો"@gu ;
+	skos:prefLabel "સિસ્કો"@gu ;
+	schema:name "સિસ્કો"@gu ;
+	rdfs:label "سیسکو سیستمز"@fa ;
+	skos:prefLabel "سیسکو سیستمز"@fa ;
+	schema:name "سیسکو سیستمز"@fa ;
+	rdfs:label "Сиско Систъмс"@bg ;
+	skos:prefLabel "Сиско Систъмс"@bg ;
+	schema:name "Сиско Систъмс"@bg ;
+	rdfs:label "Cisco Systems"@hr ;
+	skos:prefLabel "Cisco Systems"@hr ;
+	schema:name "Cisco Systems"@hr ;
+	rdfs:label "CISCO"@az ;
+	skos:prefLabel "CISCO"@az ;
+	schema:name "CISCO"@az ;
+	rdfs:label "Cisco"@lt ;
+	skos:prefLabel "Cisco"@lt ;
+	schema:name "Cisco"@lt ;
+	rdfs:label "Cisco Systems"@kk-arab ;
+	skos:prefLabel "Cisco Systems"@kk-arab ;
+	schema:name "Cisco Systems"@kk-arab ;
+	rdfs:label "Cisco Systems"@kk-cn ;
+	skos:prefLabel "Cisco Systems"@kk-cn ;
+	schema:name "Cisco Systems"@kk-cn ;
+	rdfs:label "Cisco Systems"@kk-tr ;
+	skos:prefLabel "Cisco Systems"@kk-tr ;
+	schema:name "Cisco Systems"@kk-tr ;
+	rdfs:label "Цісцо Сyстемс"@kk-kz ;
+	skos:prefLabel "Цісцо Сyстемс"@kk-kz ;
+	schema:name "Цісцо Сyстемс"@kk-kz ;
+	rdfs:label "Цісцо Сyстемс"@kk-cyrl ;
+	skos:prefLabel "Цісцо Сyстемс"@kk-cyrl ;
+	schema:name "Цісцо Сyстемс"@kk-cyrl ;
+	rdfs:label "Cisco Systems"@kk-latn ;
+	skos:prefLabel "Cisco Systems"@kk-latn ;
+	schema:name "Cisco Systems"@kk-latn ;
+	rdfs:label "Cisco Systems"@da ;
+	skos:prefLabel "Cisco Systems"@da ;
+	schema:name "Cisco Systems"@da ;
+	rdfs:label "Cisco Systems"@kk ;
+	skos:prefLabel "Cisco Systems"@kk ;
+	schema:name "Cisco Systems"@kk ;
+	rdfs:label "Cisco"@sr ;
+	skos:prefLabel "Cisco"@sr ;
+	schema:name "Cisco"@sr ;
+	rdfs:label "思科系统"@zh ;
+	skos:prefLabel "思科系统"@zh ;
+	schema:name "思科系统"@zh ;
+	rdfs:label "Cisco Systems"@nb ;
+	skos:prefLabel "Cisco Systems"@nb ;
+	schema:name "Cisco Systems"@nb ;
+	rdfs:label "ସିସ୍କୋ ସିଷ୍ଟମ୍ସ"@or ;
+	skos:prefLabel "ସିସ୍କୋ ସିଷ୍ଟମ୍ସ"@or ;
+	schema:name "ସିସ୍କୋ ସିଷ୍ଟମ୍ସ"@or ;
+	rdfs:label "Cisco Systems"@bs ;
+	skos:prefLabel "Cisco Systems"@bs ;
+	schema:name "Cisco Systems"@bs ;
+	rdfs:label "सिस्को सिस्टिम्स"@mr ;
+	skos:prefLabel "सिस्को सिस्टिम्स"@mr ;
+	schema:name "सिस्को सिस्टिम्स"@mr ;
+	skos:altLabel "CISCO"@zh,
+		"思科系统公司"@zh,
+		"思科公司"@zh,
+		"思科"@zh,
+		"Cisco"@eu,
+		"CISCO"@pl,
+		"시스코 시스템스"@ko,
+		"시스코"@ko,
+		"סיסקו"@he,
+		"Cisco"@he,
+		"Cisco"@fr,
+		"Cisco Systems Incorporated"@fr,
+		"Cisco"@es,
+		"Cisco"@ms,
+		"Cisco"@gl,
+		"Linksys"@de,
+		"Cisco Certified Network Associate"@de,
+		"Cisco"@de,
+		"Cisco Systems, Inc."@de,
+		"Cisco"@id,
+		"Cisco Systems"@ml,
+		"സിസ്കോ"@ml,
+		"Cisco"@ml,
+		"Cisco Systems"@ja,
+		"Cisco"@ja,
+		"シスコ・システムズ"@ja,
+		"CISCO"@sq,
+		"Cisco"@vi,
+		"Cisco"@my,
+		"Cisco"@sv,
+		"سيسكو سيستامز"@ar,
+		"سيسكو"@ar,
+		"Linksys"@nl,
+		"סיסקאָ"@yi,
+		"Циска"@ru,
+		"Cisco"@ru,
+		"Cisco Systems, Inc."@ru,
+		"Cisco Systems"@sr,
+		"Сиско"@sr,
+		"Циско"@sr,
+		"Cisco"@tr,
+		"Cisco Onay Sistemleri"@tr,
+		"Cisco"@ckb,
+		"سیسكۆ"@ckb,
+		"CISCO"@ro,
+		"Cisco"@fi,
+		"Cisco"@uk,
+		"Cisco"@cs,
+		"Cisco Systems"@bg,
+		"WebEx"@bg,
+		"Сиско Системс"@bg,
+		"Сиско"@bg,
+		"Cisco"@bg,
+		"Cisco Systems"@lt,
+		"Cisco"@nb ;
+	wdt:P1056 wd:Q5318,
+		wd:Q4503,
+		wd:Q326717,
+		wd:Q842729,
+		wd:Q383978,
+		wd:Q1024878,
+		wd:Q2922859 ;
+	wdt:P373 "Cisco" ;
+	wdt:P31 wd:Q783794,
+		wd:Q891723 ;
+	wdt:P138 wd:Q62 ;
+	wdt:P910 wd:Q8372962 ;
+	wdt:P856 <http://www.cisco.com> ;
+	wdt:P414 wd:Q82059 ;
+	wdt:P646 "/m/0dmtp" ;
+	wdt:P155 wd:Q7338217,
+		wd:Q5645700 ;
+	wdt:P159 wd:Q16553 ;
+	p:P1056 wds:Q173395-ce8ef8b2-40f3-119b-9d41-4e7aa2fd8c10 .
+
+wds:Q173395-ce8ef8b2-40f3-119b-9d41-4e7aa2fd8c10 a wikibase:Statement ;
+	ps:P1056 wd:Q5318 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q173395 p:P1056 wds:Q173395-4f5ee339-4061-215c-baee-4c7593770432 .
+
+wds:Q173395-4f5ee339-4061-215c-baee-4c7593770432 a wikibase:Statement ;
+	ps:P1056 wd:Q4503 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q173395 p:P1056 wds:Q173395-b1f49c98-47f1-ee5c-ea19-b6e33421edde .
+
+wds:Q173395-b1f49c98-47f1-ee5c-ea19-b6e33421edde a wikibase:Statement ;
+	ps:P1056 wd:Q326717 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q173395 p:P1056 wds:Q173395-c494c3ff-4f26-8a31-e962-c35cc93b589b .
+
+wds:Q173395-c494c3ff-4f26-8a31-e962-c35cc93b589b a wikibase:Statement ;
+	ps:P1056 wd:Q842729 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q173395 p:P1056 wds:Q173395-4bdeedf5-47ab-ab9b-a3ae-5ac3a1716e0f .
+
+wds:Q173395-4bdeedf5-47ab-ab9b-a3ae-5ac3a1716e0f a wikibase:Statement ;
+	ps:P1056 wd:Q383978 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q173395 p:P1056 wds:Q173395-078d56da-44c0-b4f8-7d28-252a9f76faa7 .
+
+wds:Q173395-078d56da-44c0-b4f8-7d28-252a9f76faa7 a wikibase:Statement ;
+	ps:P1056 wd:Q1024878 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q173395 p:P1056 wds:Q173395-035747bb-468c-8f09-b9d3-aa59efffdfc0 .
+
+wds:Q173395-035747bb-468c-8f09-b9d3-aa59efffdfc0 a wikibase:Statement ;
+	ps:P1056 wd:Q2922859 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q173395 p:P373 wds:q173395-7FED0893-8B42-4DAC-BA13-8E2D07D54F1B .
+
+wds:q173395-7FED0893-8B42-4DAC-BA13-8E2D07D54F1B a wikibase:Statement ;
+	ps:P373 "Cisco" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q173395 p:P31 wds:q173395-B546B207-6362-47D5-9C5E-57A8B5057C6B .
+
+wds:q173395-B546B207-6362-47D5-9C5E-57A8B5057C6B a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q173395 p:P31 wds:Q173395-1a8293af-40e7-8a6e-273d-8663bfd8eed1 .
+
+wds:Q173395-1a8293af-40e7-8a6e-273d-8663bfd8eed1 a wikibase:Statement ;
+	ps:P31 wd:Q891723 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q173395 p:P138 wds:q173395-df6d5d9f-447c-63d0-0db1-03d400f0f15e .
+
+wds:q173395-df6d5d9f-447c-63d0-0db1-03d400f0f15e a wikibase:Statement ;
+	ps:P138 wd:Q62 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q173395 p:P910 wds:Q173395-D68BE35A-E7CC-4A45-8432-80126F7E32F2 .
+
+wds:Q173395-D68BE35A-E7CC-4A45-8432-80126F7E32F2 a wikibase:Statement ;
+	ps:P910 wd:Q8372962 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q173395 p:P856 wds:Q173395-F1E8704C-B825-4B98-922A-25C0C43CA19F .
+
+wds:Q173395-F1E8704C-B825-4B98-922A-25C0C43CA19F a wikibase:Statement ;
+	ps:P856 <http://www.cisco.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q173395 p:P414 wds:Q173395-A5280447-444E-4B4D-ABC0-1FB5AB7CDEC3 .
+
+wds:Q173395-A5280447-444E-4B4D-ABC0-1FB5AB7CDEC3 a wikibase:Statement ;
+	ps:P414 wd:Q82059 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q173395 p:P646 wds:Q173395-C8BC8443-E186-4D30-BCD0-4375D2A9A64E .
+
+wds:Q173395-C8BC8443-E186-4D30-BCD0-4375D2A9A64E a wikibase:Statement ;
+	ps:P646 "/m/0dmtp" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q173395 p:P155 wds:Q173395-EDF3DA58-B43C-4842-8FBF-BE5641DDACC3 .
+
+wds:Q173395-EDF3DA58-B43C-4842-8FBF-BE5641DDACC3 a wikibase:Statement ;
+	ps:P155 wd:Q7338217 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q173395 p:P155 wds:Q173395-FC5BF4DD-9C29-4F29-809A-1093EB7194CA .
+
+wds:Q173395-FC5BF4DD-9C29-4F29-809A-1093EB7194CA a wikibase:Statement ;
+	ps:P155 wd:Q5645700 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q173395 p:P159 wds:Q173395-7678f1d7-4914-c572-4ba4-a3be33639bc4 .
+
+wds:Q173395-7678f1d7-4914-c572-4ba4-a3be33639bc4 a wikibase:Statement ;
+	ps:P159 wd:Q16553 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(37.411666666667 -121.96138888889)"^^geo:wktLiteral ;
+	pqv:P625 wdv:bff3137f6758c8d1d1a55f9433c83cdc .
+
+<https://zh.wikipedia.org/wiki/%E6%80%9D%E7%A7%91%E7%B3%BB%E7%BB%9F> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "zh" .
+
+<https://eu.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "eu" .
+
+<https://pl.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "pl" .
+
+<https://ko.wikipedia.org/wiki/%EC%8B%9C%EC%8A%A4%EC%BD%94%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A6%88> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "ko" .
+
+<https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%A1%D7%A7%D7%95%20%D7%9E%D7%A2%D7%A8%D7%9B%D7%95%D7%AA> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "he" .
+
+<https://fr.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "fr" .
+
+<https://es.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "es" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%BF%E0%AE%B8%E0%AF%8D%E0%AE%95%E0%AF%8B%20%E0%AE%9A%E0%AE%BF%E0%AE%B8%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D%E0%AE%B8%E0%AF%8D> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "ta" .
+
+<https://hu.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "hu" .
+
+<https://ms.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "ms" .
+
+<https://it.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "it" .
+
+<https://gl.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "gl" .
+
+<https://de.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "de" .
+
+<https://id.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "id" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%BF%E0%B4%B8%E0%B5%8D%E2%80%8C%E0%B4%95%E0%B5%8B> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "ml" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B9%E3%82%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "ja" .
+
+<https://sq.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "sq" .
+
+<https://vi.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "vi" .
+
+<https://el.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "el" .
+
+<https://my.wikipedia.org/wiki/%E1%80%85%E1%80%85%E1%80%BA%E1%80%85%E1%80%80%E1%80%AD%E1%80%AF> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "my" .
+
+<https://sv.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "sv" .
+
+<https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D8%B3%D9%83%D9%88%20%D8%B3%D9%8A%D8%B3%D8%AA%D9%85%D8%B2> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "ar" .
+
+<https://nl.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "nl" .
+
+<https://pt.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "pt" .
+
+<https://sk.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "sk" .
+
+<https://ru.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "ru" .
+
+<https://sr.wikipedia.org/wiki/Cisco> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "sr" .
+
+<https://en.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "en" .
+
+<https://tr.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "tr" .
+
+<https://ckb.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B3%DA%A9%DB%86%20%D8%B3%DB%8C%D8%B3%D8%AA%DB%95%D9%85%D8%B2> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "ckb" .
+
+<https://no.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "no" .
+
+<https://ro.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "ro" .
+
+<https://ca.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "ca" .
+
+<https://fi.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "fi" .
+
+<https://uk.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "uk" .
+
+<https://cs.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "cs" .
+
+<https://gu.wikipedia.org/wiki/%E0%AA%B8%E0%AA%BF%E0%AA%B8%E0%AB%8D%E0%AA%95%E0%AB%8B> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "gu" .
+
+<https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B3%DA%A9%D9%88%20%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%D8%B2> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "fa" .
+
+<https://bg.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D0%BA%D0%BE%20%D0%A1%D0%B8%D1%81%D1%82%D1%8A%D0%BC%D1%81> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "bg" .
+
+<https://hr.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "hr" .
+
+<https://az.wikipedia.org/wiki/CISCO> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "az" .
+
+<https://lt.wikipedia.org/wiki/Cisco> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "lt" .
+
+<https://kk.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "kk" .
+
+<https://da.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "da" .
+
+<https://bs.wikipedia.org/wiki/Cisco%20Systems> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "bs" .
+
+<https://mr.wikipedia.org/wiki/%E0%A4%B8%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%8B%20%E0%A4%B8%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%B8> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "mr" .
+
+<https://zh-yue.wikipedia.org/wiki/%E6%80%9D%E7%A7%91> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "zh-yue" .
+
+<https://yi.wikipedia.org/wiki/%D7%A1%D7%99%D7%A1%D7%A7%D7%90> a schema:Article ;
+	schema:about wd:Q173395 ;
+	schema:inLanguage "yi" .
+
+wdv:bff3137f6758c8d1d1a55f9433c83cdc a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "37.411666666667"^^xsd:decimal ;
+	wikibase:geoLongitude "-121.96138888889"^^xsd:decimal ;
+	wikibase:geoPrecision "0.00027777777777778"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdata:Q173397 schema:version "145062053"^^xsd:integer ;
+	schema:dateModified "2014-07-16T13:01:03Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q173397 .
+

@@ -1,0 +1,104 @@
+wd:Q1383669 a wikibase:Item ;
+	rdfs:label "Exelon"@fr ;
+	skos:prefLabel "Exelon"@fr ;
+	schema:name "Exelon"@fr ;
+	rdfs:label "Exelon"@en ;
+	skos:prefLabel "Exelon"@en ;
+	schema:name "Exelon"@en ;
+	rdfs:label "Exelon"@de ;
+	skos:prefLabel "Exelon"@de ;
+	schema:name "Exelon"@de ;
+	rdfs:label "エクセロン"@ja ;
+	skos:prefLabel "エクセロン"@ja ;
+	schema:name "エクセロン"@ja ;
+	rdfs:label "Exelon Corporation"@es ;
+	skos:prefLabel "Exelon Corporation"@es ;
+	schema:name "Exelon Corporation"@es ;
+	rdfs:label "Exelon"@nl ;
+	skos:prefLabel "Exelon"@nl ;
+	schema:name "Exelon"@nl ;
+	rdfs:label "اکسلون"@fa ;
+	skos:prefLabel "اکسلون"@fa ;
+	schema:name "اکسلون"@fa ;
+	rdfs:label "Exelon"@id ;
+	skos:prefLabel "Exelon"@id ;
+	schema:name "Exelon"@id ;
+	skos:altLabel "Exelon Corporation"@de,
+		"Exelon Electric & Gas"@es ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P646 "/m/06vlnl" ;
+	wdt:P159 wd:Q1297 ;
+	wdt:P910 wd:Q15256488 ;
+	wdt:P414 wd:Q13677 ;
+	p:P31 wds:q1383669-7190D904-8231-4EE0-AE80-A6BF27C6FF7B .
+
+wds:q1383669-7190D904-8231-4EE0-AE80-A6BF27C6FF7B a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q1383669 p:P646 wds:Q1383669-A66060A0-773C-4B2E-8C59-5D8B388BD436 .
+
+wds:Q1383669-A66060A0-773C-4B2E-8C59-5D8B388BD436 a wikibase:Statement ;
+	ps:P646 "/m/06vlnl" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q1383669 p:P159 wds:Q1383669-F54239DD-5D86-4080-9A9F-7F2275928F65 .
+
+wds:Q1383669-F54239DD-5D86-4080-9A9F-7F2275928F65 a wikibase:Statement ;
+	ps:P159 wd:Q1297 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q1383669 p:P910 wds:Q1383669-68FAFB7E-094E-450E-9B39-148C1DA3E236 .
+
+wds:Q1383669-68FAFB7E-094E-450E-9B39-148C1DA3E236 a wikibase:Statement ;
+	ps:P910 wd:Q15256488 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q1383669 p:P414 wds:Q1383669-0D70677A-175A-4B11-920D-54BEC0FBDFF1 .
+
+wds:Q1383669-0D70677A-175A-4B11-920D-54BEC0FBDFF1 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://en.wikipedia.org/wiki/Exelon> a schema:Article ;
+	schema:about wd:Q1383669 ;
+	schema:inLanguage "en" .
+
+<https://de.wikipedia.org/wiki/Exelon> a schema:Article ;
+	schema:about wd:Q1383669 ;
+	schema:inLanguage "de" .
+
+<https://fr.wikipedia.org/wiki/Exelon> a schema:Article ;
+	schema:about wd:Q1383669 ;
+	schema:inLanguage "fr" .
+
+<https://es.wikipedia.org/wiki/Exelon%20Corporation> a schema:Article ;
+	schema:about wd:Q1383669 ;
+	schema:inLanguage "es" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AD%E3%83%B3> a schema:Article ;
+	schema:about wd:Q1383669 ;
+	schema:inLanguage "ja" .
+
+<https://fa.wikipedia.org/wiki/%D8%A7%DA%A9%D8%B3%D9%84%D9%88%D9%86> a schema:Article ;
+	schema:about wd:Q1383669 ;
+	schema:inLanguage "fa" .
+
+<https://id.wikipedia.org/wiki/Exelon> a schema:Article ;
+	schema:about wd:Q1383669 ;
+	schema:inLanguage "id" .
+
+wdata:Q1383678 schema:version "2030644"^^xsd:integer ;
+	schema:dateModified "2012-12-21T12:03:34Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q1383678 .
+

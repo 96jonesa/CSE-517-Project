@@ -1,0 +1,69 @@
+wd:Q842947 a wikibase:Item ;
+	rdfs:label "Celgene"@pt ;
+	skos:prefLabel "Celgene"@pt ;
+	schema:name "Celgene"@pt ;
+	rdfs:label "Celgene"@de ;
+	skos:prefLabel "Celgene"@de ;
+	schema:name "Celgene"@de ;
+	rdfs:label "Celgene"@fr ;
+	skos:prefLabel "Celgene"@fr ;
+	schema:name "Celgene"@fr ;
+	rdfs:label "Celgene"@en ;
+	skos:prefLabel "Celgene"@en ;
+	schema:name "Celgene"@en ;
+	rdfs:label "Celgene"@nl ;
+	skos:prefLabel "Celgene"@nl ;
+	schema:name "Celgene"@nl ;
+	rdfs:label "Celgene"@it ;
+	skos:prefLabel "Celgene"@it ;
+	schema:name "Celgene"@it ;
+	rdfs:label "سلژن"@fa ;
+	skos:prefLabel "سلژن"@fa ;
+	schema:name "سلژن"@fa ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P646 "/m/0898kv" ;
+	p:P31 wds:q842947-2B8A4A5E-299D-4501-9E5F-96AD312543CF .
+
+wds:q842947-2B8A4A5E-299D-4501-9E5F-96AD312543CF a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q842947 p:P646 wds:Q842947-EB1EFEED-D56C-459C-A367-30402E6D914B .
+
+wds:Q842947-EB1EFEED-D56C-459C-A367-30402E6D914B a wikibase:Statement ;
+	ps:P646 "/m/0898kv" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+<https://pt.wikipedia.org/wiki/Celgene> a schema:Article ;
+	schema:about wd:Q842947 ;
+	schema:inLanguage "pt" .
+
+<https://de.wikipedia.org/wiki/Celgene> a schema:Article ;
+	schema:about wd:Q842947 ;
+	schema:inLanguage "de" .
+
+<https://fr.wikipedia.org/wiki/Celgene> a schema:Article ;
+	schema:about wd:Q842947 ;
+	schema:inLanguage "fr" .
+
+<https://en.wikipedia.org/wiki/Celgene> a schema:Article ;
+	schema:about wd:Q842947 ;
+	schema:inLanguage "en" .
+
+<https://it.wikipedia.org/wiki/Celgene> a schema:Article ;
+	schema:about wd:Q842947 ;
+	schema:inLanguage "it" .
+
+<https://fa.wikipedia.org/wiki/%D8%B3%D9%84%DA%98%D9%86> a schema:Article ;
+	schema:about wd:Q842947 ;
+	schema:inLanguage "fa" .
+
+wdata:Q842952 schema:version "230973834"^^xsd:integer ;
+	schema:dateModified "2015-07-15T06:55:59Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q842952 .
+

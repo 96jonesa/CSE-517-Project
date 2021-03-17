@@ -1,0 +1,683 @@
+wd:Q380 a wikibase:Item ;
+	rdfs:label "Facebook Inc."@fr ;
+	skos:prefLabel "Facebook Inc."@fr ;
+	schema:name "Facebook Inc."@fr ;
+	rdfs:label "Facebook, Inc."@en ;
+	skos:prefLabel "Facebook, Inc."@en ;
+	schema:name "Facebook, Inc."@en ;
+	rdfs:label "Facebook Inc."@de ;
+	skos:prefLabel "Facebook Inc."@de ;
+	schema:name "Facebook Inc."@de ;
+	rdfs:label "Facebook Inc."@ru ;
+	skos:prefLabel "Facebook Inc."@ru ;
+	schema:name "Facebook Inc."@ru ;
+	rdfs:label "Facebook, Inc."@en-ca ;
+	skos:prefLabel "Facebook, Inc."@en-ca ;
+	schema:name "Facebook, Inc."@en-ca ;
+	rdfs:label "Facebook, Inc."@en-gb ;
+	skos:prefLabel "Facebook, Inc."@en-gb ;
+	schema:name "Facebook, Inc."@en-gb ;
+	rdfs:label "פייסבוק"@he ;
+	skos:prefLabel "פייסבוק"@he ;
+	schema:name "פייסבוק"@he ;
+	rdfs:label "Facebook"@es ;
+	skos:prefLabel "Facebook"@es ;
+	schema:name "Facebook"@es ;
+	rdfs:label "Facebook Inc."@it ;
+	skos:prefLabel "Facebook Inc."@it ;
+	schema:name "Facebook Inc."@it ;
+	rdfs:label "Facebook Inc."@hu ;
+	skos:prefLabel "Facebook Inc."@hu ;
+	schema:name "Facebook Inc."@hu ;
+	rdfs:label "Facebook Inc."@fi ;
+	skos:prefLabel "Facebook Inc."@fi ;
+	schema:name "Facebook Inc."@fi ;
+	rdfs:label "Facebook Inc."@nb ;
+	skos:prefLabel "Facebook Inc."@nb ;
+	schema:name "Facebook Inc."@nb ;
+	rdfs:label "Facebook, Inc."@pt-br ;
+	skos:prefLabel "Facebook, Inc."@pt-br ;
+	schema:name "Facebook, Inc."@pt-br ;
+	rdfs:label "Facebook, Inc."@ca ;
+	skos:prefLabel "Facebook, Inc."@ca ;
+	schema:name "Facebook, Inc."@ca ;
+	rdfs:label "பேஸ்புக், இங்க்."@ta ;
+	skos:prefLabel "பேஸ்புக், இங்க்."@ta ;
+	schema:name "பேஸ்புக், இங்க்."@ta ;
+	rdfs:label "Facebook Inc."@be ;
+	skos:prefLabel "Facebook Inc."@be ;
+	schema:name "Facebook Inc."@be ;
+	rdfs:label "Facebook, Inc."@oc ;
+	skos:prefLabel "Facebook, Inc."@oc ;
+	schema:name "Facebook, Inc."@oc ;
+	rdfs:label "フェイスブック株式会社"@ja ;
+	skos:prefLabel "フェイスブック株式会社"@ja ;
+	schema:name "フェイスブック株式会社"@ja ;
+	rdfs:label "Facebook Inc."@nl ;
+	skos:prefLabel "Facebook Inc."@nl ;
+	schema:name "Facebook Inc."@nl ;
+	rdfs:label "페이스북 사"@ko ;
+	skos:prefLabel "페이스북 사"@ko ;
+	schema:name "페이스북 사"@ko ;
+	rdfs:label "Facebook公司"@zh ;
+	skos:prefLabel "Facebook公司"@zh ;
+	schema:name "Facebook公司"@zh ;
+	rdfs:label "Facebook公司"@zh-hk ;
+	skos:prefLabel "Facebook公司"@zh-hk ;
+	schema:name "Facebook公司"@zh-hk ;
+	rdfs:label "Facebook公司"@zh-cn ;
+	skos:prefLabel "Facebook公司"@zh-cn ;
+	schema:name "Facebook公司"@zh-cn ;
+	rdfs:label "فيسبوك"@ar ;
+	skos:prefLabel "فيسبوك"@ar ;
+	schema:name "فيسبوك"@ar ;
+	rdfs:label "Facebook"@id ;
+	skos:prefLabel "Facebook"@id ;
+	schema:name "Facebook"@id ;
+	rdfs:label "เฟซบุ๊ก"@th ;
+	skos:prefLabel "เฟซบุ๊ก"@th ;
+	schema:name "เฟซบุ๊ก"@th ;
+	rdfs:label "Facebook Inc."@uk ;
+	skos:prefLabel "Facebook Inc."@uk ;
+	schema:name "Facebook Inc."@uk ;
+	rdfs:label "Facebook, Inc."@sco ;
+	skos:prefLabel "Facebook, Inc."@sco ;
+	schema:name "Facebook, Inc."@sco ;
+	rdfs:label "Facebook, Inc."@mk ;
+	skos:prefLabel "Facebook, Inc."@mk ;
+	schema:name "Facebook, Inc."@mk ;
+	rdfs:label "फेसबुक इन्क."@ne ;
+	skos:prefLabel "फेसबुक इन्क."@ne ;
+	schema:name "फेसबुक इन्क."@ne ;
+	schema:description "société américaine"@fr,
+		"американская корпорация, владеющая социальной сетью Facebook"@ru,
+		"American multinational Internet corporation which runs the social networking website Facebook"@en,
+		"empresa norteamericana multinacional de internet"@es,
+		"multinazionale statunitense di internet"@it,
+		"US-amerikanisches Unternehmen, dem das soziale Netzwerk Facebook gehört"@de,
+		"yhdysvaltalainen monikansallinen Internet-yritys, joka hallinnoi verkostopalvelu Facebookia"@fi,
+		"amerikansk selskap som driver nettstedet Facebook"@nb,
+		"companyia propietària de facebook"@ca,
+		"амерыканская карпарацыя, якая валодае сацыяльнай сеткай Facebook"@be,
+		"소셜 네트워킹 서비스인 페이스북을 운영하는 미국의 다언어 인터넷 기업"@ko,
+		"empresa americana multinacional de internet"@pt-br,
+		"американська корпорація, власник соціальної мережі Facebook"@uk,
+		"amerikai Internetes vállalat, a Facebook közösségi oldal üzemeltetője"@hu,
+		"חברת אינטרנט המפעילה את הרשת החברתית פייסבוק"@he ;
+	skos:altLabel "Facebook"@de,
+		"FB"@de,
+		"Facebook"@en,
+		"Facebook, Inc."@nb,
+		"Facebook Inc."@th,
+		"פייסבוק בע\"מ"@he,
+		"חברת פייסבוק"@he ;
+	wdt:P112 wd:Q36215,
+		wd:Q312663,
+		wd:Q370217,
+		wd:Q370321,
+		wd:Q4757939 ;
+	wdt:P214 "131581663" ;
+	wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Facebookheadquarters.jpg> ;
+	wdt:P414 wd:Q82059 ;
+	wdt:P31 wd:Q891723 ;
+	wdt:P227 "16072396-6" ;
+	wdt:P244 "n2009022167" ;
+	wdt:P646 "/m/0hmyfsv" ;
+	wdt:P159 wd:Q74195 ;
+	wdt:P553 wd:Q355,
+		wd:Q918 ;
+	wdt:P571 "2004-02-04T00:00:00Z"^^xsd:dateTime ;
+	wdt:P856 <https://www.facebook.com/> ;
+	wdt:P1789 wd:Q234653 ;
+	p:P112 wds:q380-CE727484-A306-40C8-A31E-C1161D551A2B .
+
+wds:q380-CE727484-A306-40C8-A31E-C1161D551A2B a wikibase:Statement ;
+	ps:P112 wd:Q36215 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q380 p:P112 wds:q380-91FD92AA-020A-45CA-968B-494A14E626A9 .
+
+wds:q380-91FD92AA-020A-45CA-968B-494A14E626A9 a wikibase:Statement ;
+	ps:P112 wd:Q312663 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q380 p:P112 wds:Q380-742acb6b-4e0e-74e5-0c7c-3f94268f56e9 .
+
+wds:Q380-742acb6b-4e0e-74e5-0c7c-3f94268f56e9 a wikibase:Statement ;
+	ps:P112 wd:Q370217 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q380 p:P112 wds:Q380-02f25d64-41fb-9800-a0d7-bcd8a2b0a957 .
+
+wds:Q380-02f25d64-41fb-9800-a0d7-bcd8a2b0a957 a wikibase:Statement ;
+	ps:P112 wd:Q370321 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q380 p:P112 wds:Q380-97c7bc27-4461-6b8e-3659-64b6b21da411 .
+
+wds:Q380-97c7bc27-4461-6b8e-3659-64b6b21da411 a wikibase:Statement ;
+	ps:P112 wd:Q4757939 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q380 p:P214 wds:q380-d4e1248a-4c50-43a8-ec51-4f10bcb18427 .
+
+wds:q380-d4e1248a-4c50-43a8-ec51-4f10bcb18427 a wikibase:Statement ;
+	ps:P214 "131581663" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q380 p:P18 wds:q380-8B8CFA22-A840-4B97-8291-287C3313A9F1 .
+
+wds:q380-8B8CFA22-A840-4B97-8291-287C3313A9F1 a wikibase:Statement ;
+	ps:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Facebookheadquarters.jpg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q380 p:P414 wds:Q380-4addc5ac-4c8b-46e1-e81e-684b612c505c .
+
+wds:Q380-4addc5ac-4c8b-46e1-e81e-684b612c505c a wikibase:Statement ;
+	ps:P414 wd:Q82059 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "FB" .
+
+wd:Q380 p:P31 wds:Q380-b61d1bee-4040-83c7-6da0-2ec1c12a4494 .
+
+wds:Q380-b61d1bee-4040-83c7-6da0-2ec1c12a4494 a wikibase:Statement ;
+	ps:P31 wd:Q891723 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q380 p:P227 wds:Q380-C361DA05-B301-4481-96A8-FB4F84CC24D8 .
+
+wds:Q380-C361DA05-B301-4481-96A8-FB4F84CC24D8 a wikibase:Statement ;
+	ps:P227 "16072396-6" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q380 p:P244 wds:Q380-957DC50D-4CCF-46A6-A5AD-2445CDC71A06 .
+
+wds:Q380-957DC50D-4CCF-46A6-A5AD-2445CDC71A06 a wikibase:Statement ;
+	ps:P244 "n2009022167" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q380 p:P646 wds:Q380-BDFBED35-4DC4-40C7-B0F8-C82884918382 .
+
+wds:Q380-BDFBED35-4DC4-40C7-B0F8-C82884918382 a wikibase:Statement ;
+	ps:P646 "/m/0hmyfsv" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q380 p:P159 wds:Q380-35470BDC-0CE4-4599-B35E-C04814B5F8CF .
+
+wds:Q380-35470BDC-0CE4-4599-B35E-C04814B5F8CF a wikibase:Statement ;
+	ps:P159 wd:Q74195 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(37.4846 -122.1484)"^^geo:wktLiteral ;
+	pqv:P625 wdv:a6dccd63220e33ebd009afbf5fe97e16 ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q380 p:P553 wds:Q380-50c01bba-42df-e6f9-a02b-ddb143b935e9 .
+
+wds:Q380-50c01bba-42df-e6f9-a02b-ddb143b935e9 a wikibase:Statement ;
+	ps:P553 wd:Q355 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	a wdno:P554 .
+
+wd:Q380 p:P553 wds:Q380-84a65393-494a-f69c-de90-89520420966a .
+
+wds:Q380-84a65393-494a-f69c-de90-89520420966a a wikibase:Statement ;
+	ps:P553 wd:Q918 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P554 "facebook" .
+
+wd:Q380 p:P571 wds:Q380-e72ba77d-461d-35e4-c2aa-f77007b6aaf4 .
+
+wds:Q380-e72ba77d-461d-35e4-c2aa-f77007b6aaf4 a wikibase:Statement ;
+	ps:P571 "2004-02-04T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:14ccc3d1dab1201c91c84a560eb7968f ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q380 p:P856 wds:Q380-de9f7c10-4b02-4d79-1af5-3f6fd9934762 .
+
+wds:Q380-de9f7c10-4b02-4d79-1af5-3f6fd9934762 a wikibase:Statement ;
+	ps:P856 <https://www.facebook.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q380 p:P1789 wds:Q380-fd47f965-4ee5-c8b6-8e11-5e0ffa9244e3 .
+
+wds:Q380-fd47f965-4ee5-c8b6-8e11-5e0ffa9244e3 a wikibase:Statement ;
+	ps:P1789 wd:Q234653 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://fr.wikipedia.org/wiki/Facebook%20%28entreprise%29> a schema:Article ;
+	schema:about wd:Q380 ;
+	schema:inLanguage "fr" .
+
+<https://de.wikipedia.org/wiki/Facebook%20Inc.> a schema:Article ;
+	schema:about wd:Q380 ;
+	schema:inLanguage "de" .
+
+<https://no.wikipedia.org/wiki/Facebook%2C%20Inc.> a schema:Article ;
+	schema:about wd:Q380 ;
+	schema:inLanguage "no" .
+
+<https://he.wikipedia.org/wiki/%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7%20%28%D7%97%D7%91%D7%A8%D7%94%29> a schema:Article ;
+	schema:about wd:Q380 ;
+	schema:inLanguage "he" .
+
+<https://id.wikipedia.org/wiki/Facebook%2C%20Inc.> a schema:Article ;
+	schema:about wd:Q380 ;
+	schema:inLanguage "id" .
+
+<https://simple.wikipedia.org/wiki/Facebook%2C%20Inc.> a schema:Article ;
+	schema:about wd:Q380 ;
+	schema:inLanguage "simple" .
+
+<https://it.wikipedia.org/wiki/Facebook%20%28azienda%29> a schema:Article ;
+	schema:about wd:Q380 ;
+	schema:inLanguage "it" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%9F%E0%B8%8B%E0%B8%9A%E0%B8%B8%E0%B9%8A%E0%B8%81%20%28%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97%29> a schema:Article ;
+	schema:about wd:Q380 ;
+	schema:inLanguage "th" .
+
+wdv:a6dccd63220e33ebd009afbf5fe97e16 a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "37.4846"^^xsd:decimal ;
+	wikibase:geoLongitude "-122.1484"^^xsd:decimal ;
+	wikibase:geoPrecision "2.7777777777778E-6"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdata:P380 schema:version "215701706"^^xsd:integer ;
+	schema:dateModified "2015-05-15T20:59:24Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:P380 .
+
+wd:P380 a wikibase:Property ;
+	wikibase:propertyType wikibase:String ;
+	wikibase:directClaim wdt:P380 ;
+	wikibase:claim p:P380 ;
+	wikibase:statementProperty ps:P380 ;
+	wikibase:statementValue psv:P380 ;
+	wikibase:qualifier pq:P380 ;
+	wikibase:qualifierValue pqv:P380 ;
+	wikibase:reference pr:P380 ;
+	wikibase:referenceValue prv:P380 ;
+	wikibase:novalue wdno:P380 .
+
+p:P380 a owl:ObjectProperty .
+
+psv:P380 a owl:ObjectProperty .
+
+pqv:P380 a owl:ObjectProperty .
+
+prv:P380 a owl:ObjectProperty .
+
+wdt:P380 a owl:DatatypeProperty .
+
+ps:P380 a owl:DatatypeProperty .
+
+pq:P380 a owl:DatatypeProperty .
+
+pr:P380 a owl:DatatypeProperty .
+
+wdno:P380 a owl:Class ;
+	owl:complementOf _:genid72 .
+
+_:genid72 a owl:Restriction ;
+	owl:onProperty wdt:P380 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P380 rdfs:label "identifiant Mérimée"@fr ;
+	skos:prefLabel "identifiant Mérimée"@fr ;
+	schema:name "identifiant Mérimée"@fr ;
+	rdfs:label "Mérimée identifier"@en ;
+	skos:prefLabel "Mérimée identifier"@en ;
+	schema:name "Mérimée identifier"@en ;
+	rdfs:label "Mérimée-code"@nl ;
+	skos:prefLabel "Mérimée-code"@nl ;
+	schema:name "Mérimée-code"@nl ;
+	rdfs:label "identificativo Mérimée"@it ;
+	skos:prefLabel "identificativo Mérimée"@it ;
+	schema:name "identificativo Mérimée"@it ;
+	rdfs:label "メリメ識別子"@ja ;
+	skos:prefLabel "メリメ識別子"@ja ;
+	schema:name "メリメ識別子"@ja ;
+	rdfs:label "kód Mériméovy databáze"@cs ;
+	skos:prefLabel "kód Mériméovy databáze"@cs ;
+	schema:name "kód Mériméovy databáze"@cs ;
+	rdfs:label "شناسهٔ ثبت اثر فرهنگی فرانسه مریمه"@fa ;
+	skos:prefLabel "شناسهٔ ثبت اثر فرهنگی فرانسه مریمه"@fa ;
+	schema:name "شناسهٔ ثبت اثر فرهنگی فرانسه مریمه"@fa ;
+	rdfs:label "identyfikator Mérimée"@pl ;
+	skos:prefLabel "identyfikator Mérimée"@pl ;
+	schema:name "identyfikator Mérimée"@pl ;
+	rdfs:label "identificador Mérimée"@ca ;
+	skos:prefLabel "identificador Mérimée"@ca ;
+	schema:name "identificador Mérimée"@ca ;
+	rdfs:label "מזהה Mérimée"@he ;
+	skos:prefLabel "מזהה Mérimée"@he ;
+	schema:name "מזהה Mérimée"@he ;
+	rdfs:label "Mérimée-ID"@nds ;
+	skos:prefLabel "Mérimée-ID"@nds ;
+	schema:name "Mérimée-ID"@nds ;
+	rdfs:label "Mérimée-Kennzeichnung"@de ;
+	skos:prefLabel "Mérimée-Kennzeichnung"@de ;
+	schema:name "Mérimée-Kennzeichnung"@de ;
+	rdfs:label "код Mérimée"@ru ;
+	skos:prefLabel "код Mérimée"@ru ;
+	schema:name "код Mérimée"@ru ;
+	rdfs:label "ідентифікатор Mérimée"@uk ;
+	skos:prefLabel "ідентифікатор Mérimée"@uk ;
+	schema:name "ідентифікатор Mérimée"@uk ;
+	rdfs:label "identificador Mérimée"@es ;
+	skos:prefLabel "identificador Mérimée"@es ;
+	schema:name "identificador Mérimée"@es ;
+	rdfs:label "Mérimée-назнака"@mk ;
+	skos:prefLabel "Mérimée-назнака"@mk ;
+	schema:name "Mérimée-назнака"@mk ;
+	rdfs:label "Mérimée"@rm ;
+	skos:prefLabel "Mérimée"@rm ;
+	schema:name "Mérimée"@rm ;
+	rdfs:label "ідэнтыфікатар Mérimée"@be ;
+	skos:prefLabel "ідэнтыфікатар Mérimée"@be ;
+	schema:name "ідэнтыфікатар Mérimée"@be ;
+	rdfs:label "pengecam Mérimée"@ms ;
+	skos:prefLabel "pengecam Mérimée"@ms ;
+	schema:name "pengecam Mérimée"@ms ;
+	rdfs:label "Mérimée identifikator"@bs ;
+	skos:prefLabel "Mérimée identifikator"@bs ;
+	schema:name "Mérimée identifikator"@bs ;
+	rdfs:label "Mérimée идентификатор"@sr ;
+	skos:prefLabel "Mérimée идентификатор"@sr ;
+	schema:name "Mérimée идентификатор"@sr ;
+	rdfs:label "Mérimée идентификатор"@sr-ec ;
+	skos:prefLabel "Mérimée идентификатор"@sr-ec ;
+	schema:name "Mérimée идентификатор"@sr-ec ;
+	rdfs:label "identificant Mérimée"@oc ;
+	skos:prefLabel "identificant Mérimée"@oc ;
+	schema:name "identificant Mérimée"@oc ;
+	rdfs:label "identificador Mérimée"@pt ;
+	skos:prefLabel "identificador Mérimée"@pt ;
+	schema:name "identificador Mérimée"@pt ;
+	rdfs:label "Mérimée-identifikator"@da ;
+	skos:prefLabel "Mérimée-identifikator"@da ;
+	schema:name "Mérimée-identifikator"@da ;
+	rdfs:label "Mérimée-tunniste"@fi ;
+	skos:prefLabel "Mérimée-tunniste"@fi ;
+	schema:name "Mérimée-tunniste"@fi ;
+	rdfs:label "κωδικός αναφοράς Mérimée"@el ;
+	skos:prefLabel "κωδικός αναφοράς Mérimée"@el ;
+	schema:name "κωδικός αναφοράς Mérimée"@el ;
+	rdfs:label "Mérimée identifikator"@sr-el ;
+	skos:prefLabel "Mérimée identifikator"@sr-el ;
+	schema:name "Mérimée identifikator"@sr-el ;
+	rdfs:label "Mérimée identifier"@sco ;
+	skos:prefLabel "Mérimée identifier"@sco ;
+	schema:name "Mérimée identifier"@sco ;
+	rdfs:label "Mérimée-ID"@sv ;
+	skos:prefLabel "Mérimée-ID"@sv ;
+	schema:name "Mérimée-ID"@sv ;
+	rdfs:label "identificator Mérimée"@ia ;
+	skos:prefLabel "identificator Mérimée"@ia ;
+	schema:name "identificator Mérimée"@ia ;
+	schema:description "identifiant base Mérimée pour les monuments historiques français"@fr,
+		"identificatiecode van een monument in de Franse ‎Mérimée database"@nl,
+		"identifier for a monument per the Mérimée database of French cultural heritage"@en,
+		"フランス文化遺産のメリメ・データベース（Base Mérimée）における識別子"@ja,
+		"kód Mériméovy databáze, která zahrnuje francouzské kulturní památky"@cs,
+		"شناسهٔ ثبت آثار فرهنگی در پایگاه دادهٔ مریمه"@fa,
+		"מזהה אתרים היסטוריים צרפתיים"@he,
+		"Identifikator für die französischen Kulturdenkmäler-Datenbank Mérimée"@de,
+		"codice identificativo dei monumenti usato dal database Mérimée del patrimonio culturale francese"@it,
+		"identificador de monumento histórico francés por la base de datos Mérimée"@es,
+		"број во регистарот на културно наследство на Франција (Mérimée)"@mk,
+		"identificador de monument de la base de dades francesa Mérimée de monuments històrics"@ca,
+		"identifikator til brug for databasen over kulturarv i Frankrig, Mérimée"@da,
+		"Ranskan kulttuurihistoriallisten muistomerkkien tunniste Mérimée-tietokannassa"@fi,
+		"κωδικός αναφοράς μνημείου στη βάση δεδομένων της Γαλλικής πολιτιστικής κληρονομιάς Mérimée"@el ;
+	skos:altLabel "Mérimée"@it,
+		"Mérimée"@fr,
+		"Base Mérimée"@cs,
+		"Base Mérimée"@oc,
+		"Merimee"@oc,
+		"cultureel erfgoed identificatiecode Frankrijk"@nl,
+		"идентификатор Mérimée"@ru ;
+	wdt:P31 wd:Q19847637,
+		wd:Q18618628 ;
+	wdt:P1629 wd:Q809830 ;
+	wdt:P1630 "http://www.culture.gouv.fr/public/mistral/merimee_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=$1" ;
+	wdt:P1793 "[PEI][A]\\d[0-9AB]\\d\\d\\d\\d\\d\\d|" ;
+	p:P31 wds:P380-855e9065-476e-6874-de6b-2c848530956c .
+
+wds:P380-855e9065-476e-6874-de6b-2c848530956c a wikibase:Statement ;
+	ps:P31 wd:Q19847637 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:P380 p:P31 wds:P380-d9bc063e-42b9-d206-66bf-2f7b491c4b08 .
+
+wds:P380-d9bc063e-42b9-d206-66bf-2f7b491c4b08 a wikibase:Statement ;
+	ps:P31 wd:Q18618628 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:P380 p:P1629 wds:P380-fbfd6cda-45f8-ab36-979e-bd0afc55e1d5 .
+
+wds:P380-fbfd6cda-45f8-ab36-979e-bd0afc55e1d5 a wikibase:Statement ;
+	ps:P1629 wd:Q809830 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:P380 p:P1630 wds:P380-129dffd5-40d6-6e64-44a8-d1a6cf0d5359 .
+
+wds:P380-129dffd5-40d6-6e64-44a8-d1a6cf0d5359 a wikibase:Statement ;
+	ps:P1630 "http://www.culture.gouv.fr/public/mistral/merimee_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=$1" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:a151d5bf1b7e92fc8f0c34de02f422e09fc2fc28 .
+
+wd:P380 p:P1793 wds:P380-ed6a7be8-464e-b3ee-83b0-a56929fb327f .
+
+wds:P380-ed6a7be8-464e-b3ee-83b0-a56929fb327f a wikibase:Statement ;
+	ps:P1793 "[PEI][A]\\d[0-9AB]\\d\\d\\d\\d\\d\\d|" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wdata:P381 schema:version "192521452"^^xsd:integer ;
+	schema:dateModified "2015-01-31T22:30:31Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:P381 .
+
+wd:P381 a wikibase:Property ;
+	wikibase:propertyType wikibase:String ;
+	wikibase:directClaim wdt:P381 ;
+	wikibase:claim p:P381 ;
+	wikibase:statementProperty ps:P381 ;
+	wikibase:statementValue psv:P381 ;
+	wikibase:qualifier pq:P381 ;
+	wikibase:qualifierValue pqv:P381 ;
+	wikibase:reference pr:P381 ;
+	wikibase:referenceValue prv:P381 ;
+	wikibase:novalue wdno:P381 .
+
+p:P381 a owl:ObjectProperty .
+
+psv:P381 a owl:ObjectProperty .
+
+pqv:P381 a owl:ObjectProperty .
+
+prv:P381 a owl:ObjectProperty .
+
+wdt:P381 a owl:DatatypeProperty .
+
+ps:P381 a owl:DatatypeProperty .
+
+pq:P381 a owl:DatatypeProperty .
+
+pr:P381 a owl:DatatypeProperty .
+
+wdno:P381 a owl:Class ;
+	owl:complementOf _:genid73 .
+
+_:genid73 a owl:Restriction ;
+	owl:onProperty wdt:P381 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P381 rdfs:label "identifiant PBC"@fr ;
+	skos:prefLabel "identifiant PBC"@fr ;
+	schema:name "identifiant PBC"@fr ;
+	rdfs:label "PCP reference number"@en ;
+	skos:prefLabel "PCP reference number"@en ;
+	schema:name "PCP reference number"@en ;
+	rdfs:label "cultureel erfgoed identificatiecode Zwitserland"@nl ;
+	skos:prefLabel "cultureel erfgoed identificatiecode Zwitserland"@nl ;
+	schema:name "cultureel erfgoed identificatiecode Zwitserland"@nl ;
+	rdfs:label "identificatore PBC"@it ;
+	skos:prefLabel "identificatore PBC"@it ;
+	schema:name "identificatore PBC"@it ;
+	rdfs:label "KGS識別子"@ja ;
+	skos:prefLabel "KGS識別子"@ja ;
+	schema:name "KGS識別子"@ja ;
+	rdfs:label "kód KGS"@cs ;
+	skos:prefLabel "kód KGS"@cs ;
+	schema:name "kód KGS"@cs ;
+	rdfs:label "شناسهٔ KGS"@fa ;
+	skos:prefLabel "شناسهٔ KGS"@fa ;
+	schema:name "شناسهٔ KGS"@fa ;
+	rdfs:label "identyfikator KGS"@pl ;
+	skos:prefLabel "identyfikator KGS"@pl ;
+	schema:name "identyfikator KGS"@pl ;
+	rdfs:label "identificador KGS"@ca ;
+	skos:prefLabel "identificador KGS"@ca ;
+	schema:name "identificador KGS"@ca ;
+	rdfs:label "מזהה KGS"@he ;
+	skos:prefLabel "מזהה KGS"@he ;
+	schema:name "מזהה KGS"@he ;
+	rdfs:label "KGS-ID"@nds ;
+	skos:prefLabel "KGS-ID"@nds ;
+	schema:name "KGS-ID"@nds ;
+	rdfs:label "KGS-DS-Nummer"@de ;
+	skos:prefLabel "KGS-DS-Nummer"@de ;
+	schema:name "KGS-DS-Nummer"@de ;
+	rdfs:label "идентификатор KGS"@ru ;
+	skos:prefLabel "идентификатор KGS"@ru ;
+	schema:name "идентификатор KGS"@ru ;
+	rdfs:label "ідэнтыфікатар KGS"@be ;
+	skos:prefLabel "ідэнтыфікатар KGS"@be ;
+	schema:name "ідэнтыфікатар KGS"@be ;
+	rdfs:label "identificador KGS"@es ;
+	skos:prefLabel "identificador KGS"@es ;
+	schema:name "identificador KGS"@es ;
+	rdfs:label "KGS-назнака"@mk ;
+	skos:prefLabel "KGS-назнака"@mk ;
+	schema:name "KGS-назнака"@mk ;
+	rdfs:label "pengecam KGS"@ms ;
+	skos:prefLabel "pengecam KGS"@ms ;
+	schema:name "pengecam KGS"@ms ;
+	rdfs:label "KGS identifikator"@bs ;
+	skos:prefLabel "KGS identifikator"@bs ;
+	schema:name "KGS identifikator"@bs ;
+	rdfs:label "KGS идентификатор"@sr ;
+	skos:prefLabel "KGS идентификатор"@sr ;
+	schema:name "KGS идентификатор"@sr ;
+	rdfs:label "KGS идентификатор"@sr-ec ;
+	skos:prefLabel "KGS идентификатор"@sr-ec ;
+	schema:name "KGS идентификатор"@sr-ec ;
+	rdfs:label "KGS-nummer"@nb ;
+	skos:prefLabel "KGS-nummer"@nb ;
+	schema:name "KGS-nummer"@nb ;
+	rdfs:label "identificador PCP"@pt ;
+	skos:prefLabel "identificador PCP"@pt ;
+	schema:name "identificador PCP"@pt ;
+	rdfs:label "identificant PBC"@oc ;
+	skos:prefLabel "identificant PBC"@oc ;
+	schema:name "identificant PBC"@oc ;
+	rdfs:label "KGS-DS-nummer"@da ;
+	skos:prefLabel "KGS-DS-nummer"@da ;
+	schema:name "KGS-DS-nummer"@da ;
+	rdfs:label "PCP hivatkozási szám"@hu ;
+	skos:prefLabel "PCP hivatkozási szám"@hu ;
+	schema:name "PCP hivatkozási szám"@hu ;
+	rdfs:label "κωδικός αναφοράς PCP"@el ;
+	skos:prefLabel "κωδικός αναφοράς PCP"@el ;
+	schema:name "κωδικός αναφοράς PCP"@el ;
+	rdfs:label "KGS identifikator"@sr-el ;
+	skos:prefLabel "KGS identifikator"@sr-el ;
+	schema:name "KGS identifikator"@sr-el ;
+	rdfs:label "PCP reference nummer"@sco ;
+	skos:prefLabel "PCP reference nummer"@sco ;
+	schema:name "PCP reference nummer"@sco ;
+	rdfs:label "numero de referentia PCP"@ia ;
+	skos:prefLabel "numero de referentia PCP"@ia ;
+	schema:name "numero de referentia PCP"@ia ;
+	schema:description "identifiant PBC pour les biens culturels d'importance nationale et régionale en Suisse"@fr,
+		"identificatiecode van monument in Zwitserse KGS database"@nl,
+		"identifier for cultural properties in Switzerland"@en,
+		"スイスの文化財の識別子"@ja,
+		"kód označující švýcarské památky"@cs,
+		"شناسهٔ ثبت فرهنگی سوئیس (KGS)"@fa,
+		"för en Denkmaal in de Datenbank von'n Kulturgüterschutz"@nds,
+		"Identifizierungsnummer des Kulturgüterschutzes in der Schweiz"@de,
+		"codice identificativo del patrimonio culturale svizzero"@it,
+		"identificador para bienes culturales en Suiza"@es,
+		"назнака во регистарот на културни добра на Швајцарија"@mk,
+		"identificador de propietats culturals a Suïssa"@ca,
+		"identifikator for kulturminner i Sveits"@nb,
+		"identifikatornummer til kulturarv i Schweiz"@da,
+		"κωδικός αναφοράς πολιτιστικών αντικειμένων στην Ελβετία"@el,
+		"identificator pro proprietates cultural in Suissa"@ia ;
+	skos:altLabel "identificatore KGS"@it,
+		"numero KGS"@it,
+		"numero PBC"@it,
+		"no. PBC"@it,
+		"identifiant KGS"@fr,
+		"numéro KGS"@fr,
+		"no. KGS"@fr,
+		"numéro PBC"@fr,
+		"no. PBC"@fr,
+		"KGS-Nr"@de,
+		"PCP ref. no."@en,
+		"PCP no."@en,
+		"KGS identifier"@en,
+		"PCP identifier"@en,
+		"KGS-code"@nl ;
+	wdt:P31 wd:Q18618628 ;
+	wdt:P1630 "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=html&srcountry=ch&srid=$1" ;
+	p:P31 wds:P381-9c18c4d6-4847-0caa-9a70-062303f9cdc6 .
+
+wds:P381-9c18c4d6-4847-0caa-9a70-062303f9cdc6 a wikibase:Statement ;
+	ps:P31 wd:Q18618628 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:P381 p:P1630 wds:P381-A3689CAD-C0F4-40BA-9760-AF1388AC18E7 .
+
+wds:P381-A3689CAD-C0F4-40BA-9760-AF1388AC18E7 a wikibase:Statement ;
+	ps:P1630 "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=html&srcountry=ch&srid=$1" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:a151d5bf1b7e92fc8f0c34de02f422e09fc2fc28 .
+
+wdata:Q387 schema:version "223075050"^^xsd:integer ;
+	schema:dateModified "2015-06-21T08:17:00Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q387 .
+

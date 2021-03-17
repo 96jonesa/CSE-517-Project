@@ -1,0 +1,1564 @@
+wd:Q312 a wikibase:Item ;
+	rdfs:label "Apple Inc."@en ;
+	skos:prefLabel "Apple Inc."@en ;
+	schema:name "Apple Inc."@en ;
+	rdfs:label "Apple"@fr ;
+	skos:prefLabel "Apple"@fr ;
+	schema:name "Apple"@fr ;
+	rdfs:label "Apple"@de ;
+	skos:prefLabel "Apple"@de ;
+	schema:name "Apple"@de ;
+	rdfs:label "Apple"@it ;
+	skos:prefLabel "Apple"@it ;
+	schema:name "Apple"@it ;
+	rdfs:label "Apple Inc."@be-tarask ;
+	skos:prefLabel "Apple Inc."@be-tarask ;
+	schema:name "Apple Inc."@be-tarask ;
+	rdfs:label "Apple Inc."@kk ;
+	skos:prefLabel "Apple Inc."@kk ;
+	schema:name "Apple Inc."@kk ;
+	rdfs:label "Apple"@pap ;
+	skos:prefLabel "Apple"@pap ;
+	schema:name "Apple"@pap ;
+	rdfs:label "Apple"@es ;
+	skos:prefLabel "Apple"@es ;
+	schema:name "Apple"@es ;
+	rdfs:label "Apple Inc."@en-ca ;
+	skos:prefLabel "Apple Inc."@en-ca ;
+	schema:name "Apple Inc."@en-ca ;
+	rdfs:label "Apple Inc."@en-gb ;
+	skos:prefLabel "Apple Inc."@en-gb ;
+	schema:name "Apple Inc."@en-gb ;
+	rdfs:label "Apple Inc."@af ;
+	skos:prefLabel "Apple Inc."@af ;
+	schema:name "Apple Inc."@af ;
+	rdfs:label "Apple Inc."@ang ;
+	skos:prefLabel "Apple Inc."@ang ;
+	schema:name "Apple Inc."@ang ;
+	rdfs:label "أبل"@ar ;
+	skos:prefLabel "أبل"@ar ;
+	schema:name "أبل"@ar ;
+	rdfs:label "Apple"@ast ;
+	skos:prefLabel "Apple"@ast ;
+	schema:name "Apple"@ast ;
+	rdfs:label "Apple"@az ;
+	skos:prefLabel "Apple"@az ;
+	schema:name "Apple"@az ;
+	rdfs:label "Apple"@be ;
+	skos:prefLabel "Apple"@be ;
+	schema:name "Apple"@be ;
+	rdfs:label "Апъл"@bg ;
+	skos:prefLabel "Апъл"@bg ;
+	schema:name "Апъл"@bg ;
+	rdfs:label "অ্যাপ্ ল কম্পিউটার"@bn ;
+	skos:prefLabel "অ্যাপ্ ল কম্পিউটার"@bn ;
+	schema:name "অ্যাপ্ ল কম্পিউটার"@bn ;
+	rdfs:label "Apple"@br ;
+	skos:prefLabel "Apple"@br ;
+	schema:name "Apple"@br ;
+	rdfs:label "Apple Inc."@bs ;
+	skos:prefLabel "Apple Inc."@bs ;
+	schema:name "Apple Inc."@bs ;
+	rdfs:label "Apple Inc"@ca ;
+	skos:prefLabel "Apple Inc"@ca ;
+	schema:name "Apple Inc"@ca ;
+	rdfs:label "ئەپڵ"@ckb ;
+	skos:prefLabel "ئەپڵ"@ckb ;
+	schema:name "ئەپڵ"@ckb ;
+	rdfs:label "Apple"@cs ;
+	skos:prefLabel "Apple"@cs ;
+	schema:name "Apple"@cs ;
+	rdfs:label "Apple Computer"@cv ;
+	skos:prefLabel "Apple Computer"@cv ;
+	schema:name "Apple Computer"@cv ;
+	rdfs:label "Apple Inc."@cy ;
+	skos:prefLabel "Apple Inc."@cy ;
+	schema:name "Apple Inc."@cy ;
+	rdfs:label "Apple Inc."@da ;
+	skos:prefLabel "Apple Inc."@da ;
+	schema:name "Apple Inc."@da ;
+	rdfs:label "Apple"@el ;
+	skos:prefLabel "Apple"@el ;
+	schema:name "Apple"@el ;
+	rdfs:label "Apple"@eo ;
+	skos:prefLabel "Apple"@eo ;
+	schema:name "Apple"@eo ;
+	rdfs:label "Apple Inc."@et ;
+	skos:prefLabel "Apple Inc."@et ;
+	schema:name "Apple Inc."@et ;
+	rdfs:label "Apple Inc."@eu ;
+	skos:prefLabel "Apple Inc."@eu ;
+	schema:name "Apple Inc."@eu ;
+	rdfs:label "اپل"@fa ;
+	skos:prefLabel "اپل"@fa ;
+	schema:name "اپل"@fa ;
+	rdfs:label "Apple"@fi ;
+	skos:prefLabel "Apple"@fi ;
+	schema:name "Apple"@fi ;
+	rdfs:label "Apple Inc."@ga ;
+	skos:prefLabel "Apple Inc."@ga ;
+	schema:name "Apple Inc."@ga ;
+	rdfs:label "Apple Inc."@gl ;
+	skos:prefLabel "Apple Inc."@gl ;
+	schema:name "Apple Inc."@gl ;
+	rdfs:label "𐌰𐌹𐍀𐍀𐌴𐌻"@got ;
+	skos:prefLabel "𐌰𐌹𐍀𐍀𐌴𐌻"@got ;
+	schema:name "𐌰𐌹𐍀𐍀𐌴𐌻"@got ;
+	rdfs:label "אפל"@he ;
+	skos:prefLabel "אפל"@he ;
+	schema:name "אפל"@he ;
+	rdfs:label "एप्पल इंक॰"@hi ;
+	skos:prefLabel "एप्पल इंक॰"@hi ;
+	schema:name "एप्पल इंक॰"@hi ;
+	rdfs:label "Apple Inc."@hr ;
+	skos:prefLabel "Apple Inc."@hr ;
+	schema:name "Apple Inc."@hr ;
+	rdfs:label "Apple"@ht ;
+	skos:prefLabel "Apple"@ht ;
+	schema:name "Apple"@ht ;
+	rdfs:label "Apple Inc."@hu ;
+	skos:prefLabel "Apple Inc."@hu ;
+	schema:name "Apple Inc."@hu ;
+	rdfs:label "Էփլ"@hy ;
+	skos:prefLabel "Էփլ"@hy ;
+	schema:name "Էփլ"@hy ;
+	rdfs:label "Apple Computer"@ia ;
+	skos:prefLabel "Apple Computer"@ia ;
+	schema:name "Apple Computer"@ia ;
+	rdfs:label "Apple Inc."@id ;
+	skos:prefLabel "Apple Inc."@id ;
+	schema:name "Apple Inc."@id ;
+	rdfs:label "Apple Inc."@is ;
+	skos:prefLabel "Apple Inc."@is ;
+	schema:name "Apple Inc."@is ;
+	rdfs:label "アップル インコーポレイテッド"@ja ;
+	skos:prefLabel "アップル インコーポレイテッド"@ja ;
+	schema:name "アップル インコーポレイテッド"@ja ;
+	rdfs:label "Apple Inc."@jv ;
+	skos:prefLabel "Apple Inc."@jv ;
+	schema:name "Apple Inc."@jv ;
+	rdfs:label "Apple"@ka ;
+	skos:prefLabel "Apple"@ka ;
+	schema:name "Apple"@ka ;
+	rdfs:label "Apple Inc."@kaa ;
+	skos:prefLabel "Apple Inc."@kaa ;
+	schema:name "Apple Inc."@kaa ;
+	rdfs:label "애플"@ko ;
+	skos:prefLabel "애플"@ko ;
+	schema:name "애플"@ko ;
+	rdfs:label "Apple Inc."@ku ;
+	skos:prefLabel "Apple Inc."@ku ;
+	schema:name "Apple Inc."@ku ;
+	rdfs:label "Apple Inc."@la ;
+	skos:prefLabel "Apple Inc."@la ;
+	schema:name "Apple Inc."@la ;
+	rdfs:label "Apple Inc."@lb ;
+	skos:prefLabel "Apple Inc."@lb ;
+	schema:name "Apple Inc."@lb ;
+	rdfs:label "Apple"@lt ;
+	skos:prefLabel "Apple"@lt ;
+	schema:name "Apple"@lt ;
+	rdfs:label "Apple Inc."@lv ;
+	skos:prefLabel "Apple Inc."@lv ;
+	schema:name "Apple Inc."@lv ;
+	rdfs:label "Apple"@mg ;
+	skos:prefLabel "Apple"@mg ;
+	schema:name "Apple"@mg ;
+	rdfs:label "Apple"@mk ;
+	skos:prefLabel "Apple"@mk ;
+	schema:name "Apple"@mk ;
+	rdfs:label "ആപ്പിൾ ഇൻകോർപ്പറേറ്റഡ്"@ml ;
+	skos:prefLabel "ആപ്പിൾ ഇൻകോർപ്പറേറ്റഡ്"@ml ;
+	schema:name "ആപ്പിൾ ഇൻകോർപ്പറേറ്റഡ്"@ml ;
+	rdfs:label "Apple"@mn ;
+	skos:prefLabel "Apple"@mn ;
+	schema:name "Apple"@mn ;
+	rdfs:label "ॲपल"@mr ;
+	skos:prefLabel "ॲपल"@mr ;
+	schema:name "ॲपल"@mr ;
+	rdfs:label "Apple"@ms ;
+	skos:prefLabel "Apple"@ms ;
+	schema:name "Apple"@ms ;
+	rdfs:label "Apple Computer"@nah ;
+	skos:prefLabel "Apple Computer"@nah ;
+	schema:name "Apple Computer"@nah ;
+	rdfs:label "Apple"@nds ;
+	skos:prefLabel "Apple"@nds ;
+	schema:name "Apple"@nds ;
+	rdfs:label "एप्पल निगम"@ne ;
+	skos:prefLabel "एप्पल निगम"@ne ;
+	schema:name "एप्पल निगम"@ne ;
+	rdfs:label "एप्पल"@new ;
+	skos:prefLabel "एप्पल"@new ;
+	schema:name "एप्पल"@new ;
+	rdfs:label "Apple Inc."@nl ;
+	skos:prefLabel "Apple Inc."@nl ;
+	schema:name "Apple Inc."@nl ;
+	rdfs:label "Apple Inc."@nn ;
+	skos:prefLabel "Apple Inc."@nn ;
+	schema:name "Apple Inc."@nn ;
+	rdfs:label "Akáʼátʼiil"@nv ;
+	skos:prefLabel "Akáʼátʼiil"@nv ;
+	schema:name "Akáʼátʼiil"@nv ;
+	rdfs:label "Apple Inc."@oc ;
+	skos:prefLabel "Apple Inc."@oc ;
+	schema:name "Apple Inc."@oc ;
+	rdfs:label "ଆପଲ କମ୍ପାନି"@or ;
+	skos:prefLabel "ଆପଲ କମ୍ପାନି"@or ;
+	schema:name "ଆପଲ କମ୍ପାନି"@or ;
+	rdfs:label "Apple Inc."@pl ;
+	skos:prefLabel "Apple Inc."@pl ;
+	schema:name "Apple Inc."@pl ;
+	rdfs:label "ایپل"@pnb ;
+	skos:prefLabel "ایپل"@pnb ;
+	schema:name "ایپل"@pnb ;
+	rdfs:label "Apple"@pt ;
+	skos:prefLabel "Apple"@pt ;
+	schema:name "Apple"@pt ;
+	rdfs:label "Apple Inc."@ro ;
+	skos:prefLabel "Apple Inc."@ro ;
+	schema:name "Apple Inc."@ro ;
+	rdfs:label "Apple"@ru ;
+	skos:prefLabel "Apple"@ru ;
+	schema:name "Apple"@ru ;
+	rdfs:label "Apple"@sah ;
+	skos:prefLabel "Apple"@sah ;
+	schema:name "Apple"@sah ;
+	rdfs:label "Apple Inc."@sc ;
+	skos:prefLabel "Apple Inc."@sc ;
+	schema:name "Apple Inc."@sc ;
+	rdfs:label "Apple"@scn ;
+	skos:prefLabel "Apple"@scn ;
+	schema:name "Apple"@scn ;
+	rdfs:label "Apple Inc."@sh ;
+	skos:prefLabel "Apple Inc."@sh ;
+	schema:name "Apple Inc."@sh ;
+	rdfs:label "ඇපල් ඉන්කෝපරේෂන්"@si ;
+	skos:prefLabel "ඇපල් ඉන්කෝපරේෂන්"@si ;
+	schema:name "ඇපල් ඉන්කෝපරේෂන්"@si ;
+	rdfs:label "Apple"@sk ;
+	skos:prefLabel "Apple"@sk ;
+	schema:name "Apple"@sk ;
+	rdfs:label "Apple Inc."@sl ;
+	skos:prefLabel "Apple Inc."@sl ;
+	schema:name "Apple Inc."@sl ;
+	rdfs:label "APPLE INC"@so ;
+	skos:prefLabel "APPLE INC"@so ;
+	schema:name "APPLE INC"@so ;
+	rdfs:label "Apple Inc."@sq ;
+	skos:prefLabel "Apple Inc."@sq ;
+	schema:name "Apple Inc."@sq ;
+	rdfs:label "Епл"@sr ;
+	skos:prefLabel "Епл"@sr ;
+	schema:name "Епл"@sr ;
+	rdfs:label "Apple Inc."@sv ;
+	skos:prefLabel "Apple Inc."@sv ;
+	schema:name "Apple Inc."@sv ;
+	rdfs:label "Apple Inc."@szl ;
+	skos:prefLabel "Apple Inc."@szl ;
+	schema:name "Apple Inc."@szl ;
+	rdfs:label "ஆப்பிள் நிறுவனம்"@ta ;
+	skos:prefLabel "ஆப்பிள் நிறுவனம்"@ta ;
+	schema:name "ஆப்பிள் நிறுவனம்"@ta ;
+	rdfs:label "యాపిల్ ఇన్ కార్పొరేషన్"@te ;
+	skos:prefLabel "యాపిల్ ఇన్ కార్పొరేషన్"@te ;
+	schema:name "యాపిల్ ఇన్ కార్పొరేషన్"@te ;
+	rdfs:label "Apple Computer"@tg ;
+	skos:prefLabel "Apple Computer"@tg ;
+	schema:name "Apple Computer"@tg ;
+	rdfs:label "แอปเปิล"@th ;
+	skos:prefLabel "แอปเปิล"@th ;
+	schema:name "แอปเปิล"@th ;
+	rdfs:label "Apple Inc."@tl ;
+	skos:prefLabel "Apple Inc."@tl ;
+	schema:name "Apple Inc."@tl ;
+	rdfs:label "Apple"@tr ;
+	skos:prefLabel "Apple"@tr ;
+	schema:name "Apple"@tr ;
+	rdfs:label "Apple Inc."@tt ;
+	skos:prefLabel "Apple Inc."@tt ;
+	schema:name "Apple Inc."@tt ;
+	rdfs:label "ئالما شىركىتى"@ug ;
+	skos:prefLabel "ئالما شىركىتى"@ug ;
+	schema:name "ئالما شىركىتى"@ug ;
+	rdfs:label "Apple"@uk ;
+	skos:prefLabel "Apple"@uk ;
+	schema:name "Apple"@uk ;
+	rdfs:label "Apple Inc."@uz ;
+	skos:prefLabel "Apple Inc."@uz ;
+	schema:name "Apple Inc."@uz ;
+	rdfs:label "Apple"@vec ;
+	skos:prefLabel "Apple"@vec ;
+	schema:name "Apple"@vec ;
+	rdfs:label "Apple Inc."@vi ;
+	skos:prefLabel "Apple Inc."@vi ;
+	schema:name "Apple Inc."@vi ;
+	rdfs:label "Apple Inc."@war ;
+	skos:prefLabel "Apple Inc."@war ;
+	schema:name "Apple Inc."@war ;
+	rdfs:label "עפל"@yi ;
+	skos:prefLabel "עפל"@yi ;
+	schema:name "עפל"@yi ;
+	rdfs:label "Apple Inc."@yo ;
+	skos:prefLabel "Apple Inc."@yo ;
+	schema:name "Apple Inc."@yo ;
+	rdfs:label "蘋果公司"@zh ;
+	skos:prefLabel "蘋果公司"@zh ;
+	schema:name "蘋果公司"@zh ;
+	rdfs:label "苹果公司"@zh-cn ;
+	skos:prefLabel "苹果公司"@zh-cn ;
+	schema:name "苹果公司"@zh-cn ;
+	rdfs:label "苹果公司"@zh-hans ;
+	skos:prefLabel "苹果公司"@zh-hans ;
+	schema:name "苹果公司"@zh-hans ;
+	rdfs:label "蘋果公司"@zh-hant ;
+	skos:prefLabel "蘋果公司"@zh-hant ;
+	schema:name "蘋果公司"@zh-hant ;
+	rdfs:label "Apple"@zu ;
+	skos:prefLabel "Apple"@zu ;
+	schema:name "Apple"@zu ;
+	rdfs:label "苹果公司"@zh-sg ;
+	skos:prefLabel "苹果公司"@zh-sg ;
+	schema:name "苹果公司"@zh-sg ;
+	rdfs:label "苹果公司"@zh-my ;
+	skos:prefLabel "苹果公司"@zh-my ;
+	schema:name "苹果公司"@zh-my ;
+	rdfs:label "蘋果公司"@zh-hk ;
+	skos:prefLabel "蘋果公司"@zh-hk ;
+	schema:name "蘋果公司"@zh-hk ;
+	rdfs:label "蘋果公司"@zh-tw ;
+	skos:prefLabel "蘋果公司"@zh-tw ;
+	schema:name "蘋果公司"@zh-tw ;
+	rdfs:label "蘋果公司"@zh-mo ;
+	skos:prefLabel "蘋果公司"@zh-mo ;
+	schema:name "蘋果公司"@zh-mo ;
+	rdfs:label "Apple"@de-ch ;
+	skos:prefLabel "Apple"@de-ch ;
+	schema:name "Apple"@de-ch ;
+	rdfs:label "Apple"@pt-br ;
+	skos:prefLabel "Apple"@pt-br ;
+	schema:name "Apple"@pt-br ;
+	rdfs:label "蘋果公司"@yue ;
+	skos:prefLabel "蘋果公司"@yue ;
+	schema:name "蘋果公司"@yue ;
+	rdfs:label "Apple"@nb ;
+	skos:prefLabel "Apple"@nb ;
+	schema:name "Apple"@nb ;
+	rdfs:label "Apple"@ky ;
+	skos:prefLabel "Apple"@ky ;
+	schema:name "Apple"@ky ;
+	rdfs:label "एप्पल्"@sa ;
+	skos:prefLabel "एप्पल्"@sa ;
+	schema:name "एप्पल्"@sa ;
+	rdfs:label "ایپل متشرک"@ur ;
+	skos:prefLabel "ایپل متشرک"@ur ;
+	schema:name "ایپل متشرک"@ur ;
+	rdfs:label "ਐਪਲ"@pa ;
+	skos:prefLabel "ਐਪਲ"@pa ;
+	schema:name "ਐਪਲ"@pa ;
+	rdfs:label "Apple Inc."@sco ;
+	skos:prefLabel "Apple Inc."@sco ;
+	schema:name "Apple Inc."@sco ;
+	rdfs:label "Apple Inc."@pfl ;
+	skos:prefLabel "Apple Inc."@pfl ;
+	schema:name "Apple Inc."@pfl ;
+	rdfs:label "Apple"@gsw ;
+	skos:prefLabel "Apple"@gsw ;
+	schema:name "Apple"@gsw ;
+	rdfs:label "አፕል ኮርፖሬሽን"@am ;
+	skos:prefLabel "አፕል ኮርፖሬሽን"@am ;
+	schema:name "አፕል ኮርፖሬሽን"@am ;
+	rdfs:label "Епл"@sr-ec ;
+	skos:prefLabel "Епл"@sr-ec ;
+	schema:name "Епл"@sr-ec ;
+	rdfs:label "Epl"@sr-el ;
+	skos:prefLabel "Epl"@sr-el ;
+	schema:name "Epl"@sr-el ;
+	rdfs:label "ಆಪಲ್"@kn ;
+	skos:prefLabel "ಆಪಲ್"@kn ;
+	schema:name "ಆಪಲ್"@kn ;
+	rdfs:label "Apple Inc."@nan ;
+	skos:prefLabel "Apple Inc."@nan ;
+	schema:name "Apple Inc."@nan ;
+	rdfs:label "Apple"@zea ;
+	skos:prefLabel "Apple"@zea ;
+	schema:name "Apple"@zea ;
+	rdfs:label "Apple"@fo ;
+	skos:prefLabel "Apple"@fo ;
+	schema:name "Apple"@fo ;
+	rdfs:label "Apple Inc."@se ;
+	skos:prefLabel "Apple Inc."@se ;
+	schema:name "Apple Inc."@se ;
+	rdfs:label "Phìn-kó Kûng-sṳ̂"@hak ;
+	skos:prefLabel "Phìn-kó Kûng-sṳ̂"@hak ;
+	schema:name "Phìn-kó Kûng-sṳ̂"@hak ;
+	rdfs:label "蘋果公司"@lzh ;
+	skos:prefLabel "蘋果公司"@lzh ;
+	schema:name "蘋果公司"@lzh ;
+	rdfs:label "एप्पल कम्पनी"@mai ;
+	skos:prefLabel "एप्पल कम्पनी"@mai ;
+	schema:name "एप्पल कम्पनी"@mai ;
+	rdfs:label "Apple Inc."@fy ;
+	skos:prefLabel "Apple Inc."@fy ;
+	schema:name "Apple Inc."@fy ;
+	rdfs:label "Apple"@lmo ;
+	skos:prefLabel "Apple"@lmo ;
+	schema:name "Apple"@lmo ;
+	rdfs:label "Apple Inc."@su ;
+	skos:prefLabel "Apple Inc."@su ;
+	schema:name "Apple Inc."@su ;
+	schema:description "American multinational technology corporation"@en,
+		"US-amerikanisches Unternehmen"@de,
+		"azienda informatica statunitense"@it,
+		"compagnie informatique américaine"@fr,
+		"compañía informática multinacional estadounidense"@es,
+		"美国的科技企业"@zh-hans,
+		"美國的科技企業"@zh-hant,
+		"美国的科技企业"@zh-cn,
+		"美国的科技企业"@zh-sg,
+		"美国的科技企业"@zh-my,
+		"美國的科技企業"@zh-hk,
+		"美國的科技企業"@zh-tw,
+		"美國的科技企業"@zh-mo,
+		"美國的科技企業"@zh,
+		"американская корпорация"@ru,
+		"yhdysvaltalainen monikansallinen teknologiayritys"@fi,
+		"amerikansk teknologifirma"@nb,
+		"ਇੱਕ ਅਮਰੀਕੀ ਬਹੁਰਾਸ਼ਟਰੀ ਨਿਗਮ"@pa,
+		"empresa multinacional de tecnologia americana"@pt-br,
+		"미국의 컴퓨터 및 스마트폰 기업"@ko,
+		"amerikai hardvergyártással foglalkozó cég"@hu,
+		"американська компанія, яка проектує та виробляє побутову електроніку, програмне забезпечення та комерційні сервери"@uk,
+		"American multinational technology corporation"@en-gb,
+		"American multinaitional technology corporation"@sco,
+		"Amerikaans technologiebedrijf"@nl,
+		"Amerikaansk technologybedriuw"@fy ;
+	skos:altLabel "Apple"@en,
+		"Apple Computer, Inc."@en,
+		"Apple Inc."@de,
+		"Apple Computer"@de,
+		"Apple Inc."@it,
+		"Apple Computer Inc."@it,
+		"Эпл"@be-tarask,
+		"Apple computer"@kk,
+		"Apple"@kk,
+		"苹果"@zh-hans,
+		"蘋果"@zh-hant,
+		"苹果"@zh-cn,
+		"苹果"@zh-sg,
+		"苹果"@zh-my,
+		"蘋果"@zh-hk,
+		"蘋果"@zh-tw,
+		"蘋果"@zh-mo,
+		"蘋果"@zh,
+		"Apple Inc."@fi,
+		"Apple Computer Inc."@fi,
+		"Apple Inc."@pt-br,
+		"Apple Inc."@ru,
+		"Apple Incorporation"@ru,
+		"Apple"@sco,
+		"Apple Computer, Inc."@sco,
+		"Apple Inc."@es,
+		"Apple Computer, Inc."@es ;
+	wdt:P1448 "Apple Computer, Inc."@en,
+		"Apple Inc."@en ;
+	wdt:P1297 "94-2404110" ;
+	wdt:P1278 "HWUPKR0MPOU8FGXBT394" ;
+	wdt:P1151 wd:Q7852935 ;
+	wdt:P112 wd:Q19837,
+		wd:Q483382,
+		wd:Q332591 ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P159 wd:Q3150741 ;
+	wdt:P17 wd:Q30 ;
+	wdt:P355 wd:Q1982831 ;
+	wdt:P199 wd:Q2893391,
+		wd:Q8084438 ;
+	wdt:P214 "154701873" ;
+	wdt:P227 "1095305-X" ;
+	wdt:P244 "n84040978" ;
+	wdt:P414 wd:Q82059 ;
+	wdt:P373 "Apple Inc." ;
+	wdt:P434 "9b502a85-104b-4489-beff-ecedca81741c" ;
+	wdt:P571 "1976-04-01T00:00:00Z"^^xsd:dateTime ;
+	wdt:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Apple%20logo%20black.svg> ;
+	wdt:P856 <https://www.apple.com> ;
+	wdt:P910 wd:Q7215242 ;
+	wdt:P946 "US0378331005" ;
+	wdt:P268 "11991592t" ;
+	wdt:P409 "36551832" ;
+	wdt:P1005 "197517" ;
+	wdt:P906 "352120" ;
+	wdt:P691 "olak2003164541" ;
+	wdt:P349 "00276548" ;
+	wdt:P213 "0000 0001 1958 1886" ;
+	wdt:P488 wd:Q709063 ;
+	wdt:P452 wd:Q3966,
+		wd:Q880371,
+		wd:Q581105,
+		wd:Q269415 ;
+	wdt:P169 wd:Q265852 ;
+	wdt:P646 "/m/0k8z" ;
+	wdt:P1128 "+80000"^^xsd:decimal ;
+	wdt:P1343 wd:Q17290934 ;
+	wdt:P155 wd:Q308993 ;
+	wdt:P245 "500335330" ;
+	wdt:P553 wd:Q866 ;
+	wdt:P127 wd:Q4008579 ;
+	p:P1448 wds:Q312-5da7f737-4dc4-466b-f3d3-aabceeb7554b .
+
+wds:Q312-5da7f737-4dc4-466b-f3d3-aabceeb7554b a wikibase:Statement ;
+	ps:P1448 "Apple Computer, Inc."@en ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P580 "1977-01-03T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:c81778114b0ccdca5d71f4bfef4cf2aa .
+
+wd:Q312 p:P1448 wds:Q312-426cb875-4e99-7b82-ac93-2c0828937acc .
+
+wds:Q312-426cb875-4e99-7b82-ac93-2c0828937acc a wikibase:Statement ;
+	ps:P1448 "Apple Inc."@en ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P580 "2007-01-09T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:66346e17011eb707d2fe15d8790f2420 .
+
+wd:Q312 p:P1297 wds:Q312-f3a96405-48cd-8b98-33dc-d14852bdfef7 .
+
+wds:Q312-f3a96405-48cd-8b98-33dc-d14852bdfef7 a wikibase:Statement ;
+	ps:P1297 "94-2404110" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P1278 wds:Q312-c798f893-4719-bae3-be73-e8436ecc12b6 .
+
+wds:Q312-c798f893-4719-bae3-be73-e8436ecc12b6 a wikibase:Statement ;
+	ps:P1278 "HWUPKR0MPOU8FGXBT394" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P1151 wds:Q312-ce4da4c2-43de-5d05-ea0f-3e769905a6a4 .
+
+wds:Q312-ce4da4c2-43de-5d05-ea0f-3e769905a6a4 a wikibase:Statement ;
+	ps:P1151 wd:Q7852935 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P112 wds:q312-03131537-8EA9-4A83-B2C3-F31CF93AB87A .
+
+wds:q312-03131537-8EA9-4A83-B2C3-F31CF93AB87A a wikibase:Statement ;
+	ps:P112 wd:Q19837 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q312 p:P112 wds:q312-6ADBE47F-D570-45B5-B028-957CCE39AEFE .
+
+wds:q312-6ADBE47F-D570-45B5-B028-957CCE39AEFE a wikibase:Statement ;
+	ps:P112 wd:Q483382 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q312 p:P112 wds:q312-A3BC6D89-83AF-4F73-84FE-A97656B2E5FB .
+
+wds:q312-A3BC6D89-83AF-4F73-84FE-A97656B2E5FB a wikibase:Statement ;
+	ps:P112 wd:Q332591 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P31 wds:q312-7268372A-0C82-4764-B2B8-36F435DA3A01 .
+
+wds:q312-7268372A-0C82-4764-B2B8-36F435DA3A01 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P159 wds:q312-25C933E9-B610-45AD-88B0-97464ED11386 .
+
+wds:q312-25C933E9-B610-45AD-88B0-97464ED11386 a wikibase:Statement ;
+	ps:P159 wd:Q3150741 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(37.33182 -122.03118)"^^geo:wktLiteral ;
+	pqv:P625 wdv:56bff8dc21d71ca4ed0aba9daa226590 .
+
+wd:Q312 p:P17 wds:q312-2D1CBAC3-B491-4DAE-BE17-7CF2053F88F2 .
+
+wds:q312-2D1CBAC3-B491-4DAE-BE17-7CF2053F88F2 a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q312 p:P355 wds:Q312-5b887c19-40df-e1d8-7ebe-f6f6f08c3de7 .
+
+wds:Q312-5b887c19-40df-e1d8-7ebe-f6f6f08c3de7 a wikibase:Statement ;
+	ps:P355 wd:Q1982831 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P199 wds:q312-6AA576C2-38A4-4FBF-8414-7B28646C8F03 .
+
+wds:q312-6AA576C2-38A4-4FBF-8414-7B28646C8F03 a wikibase:Statement ;
+	ps:P199 wd:Q2893391 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q312 p:P199 wds:q312-2909D288-6559-4907-86CE-9BFBD8C1C1CA .
+
+wds:q312-2909D288-6559-4907-86CE-9BFBD8C1C1CA a wikibase:Statement ;
+	ps:P199 wd:Q8084438 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q312 p:P214 wds:q312-2C0FE448-3F52-4DD0-A92C-51923CD26AF1 .
+
+wds:q312-2C0FE448-3F52-4DD0-A92C-51923CD26AF1 a wikibase:Statement ;
+	ps:P214 "154701873" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q312 p:P227 wds:q312-15512CAC-6D8C-4516-A505-2770A21343C2 .
+
+wds:q312-15512CAC-6D8C-4516-A505-2770A21343C2 a wikibase:Statement ;
+	ps:P227 "1095305-X" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q312 p:P244 wds:q312-9EF26DD0-75B4-48AE-A6FD-5DE99FBFCA0C .
+
+wds:q312-9EF26DD0-75B4-48AE-A6FD-5DE99FBFCA0C a wikibase:Statement ;
+	ps:P244 "n84040978" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q312 p:P414 wds:q312-3413cbde-45b5-c7a6-095f-a0c0ab5f1eb1 .
+
+wds:q312-3413cbde-45b5-c7a6-095f-a0c0ab5f1eb1 a wikibase:Statement ;
+	ps:P414 wd:Q82059 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "AAPL" ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q312 p:P373 wds:q312-DD1D2518-C27B-4819-90DB-DAD24BF5A2C9 .
+
+wds:q312-DD1D2518-C27B-4819-90DB-DAD24BF5A2C9 a wikibase:Statement ;
+	ps:P373 "Apple Inc." ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q312 p:P434 wds:q312-CFA9A45C-6619-4BA3-AB34-B03FA91C6239 .
+
+wds:q312-CFA9A45C-6619-4BA3-AB34-B03FA91C6239 a wikibase:Statement ;
+	ps:P434 "9b502a85-104b-4489-beff-ecedca81741c" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:cc53937a15e6b6d1d36a4ea24bf2674d2fd4e2a5 .
+
+wd:Q312 p:P571 wds:q312-66ceeef4-4ced-41e2-68c4-e0a57a724f65 .
+
+wds:q312-66ceeef4-4ced-41e2-68c4-e0a57a724f65 a wikibase:Statement ;
+	ps:P571 "1976-04-01T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:256c85a1fece95d04fa4374776c0ac1b ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P154 wds:q312-5B574C40-5C57-4246-A143-F8D32584CE81 .
+
+wds:q312-5B574C40-5C57-4246-A143-F8D32584CE81 a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Apple%20logo%20black.svg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P856 wds:Q312-928d7833-4367-6c2b-5753-e73855b027ec .
+
+wds:Q312-928d7833-4367-6c2b-5753-e73855b027ec a wikibase:Statement ;
+	ps:P856 <https://www.apple.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q312 p:P910 wds:Q312-EE81ADD6-938D-4194-A564-9E6E875F23C0 .
+
+wds:Q312-EE81ADD6-938D-4194-A564-9E6E875F23C0 a wikibase:Statement ;
+	ps:P910 wd:Q7215242 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P946 wds:Q312-3bb38b84-48cc-bebf-fea5-a90bb1cf0c81 .
+
+wds:Q312-3bb38b84-48cc-bebf-fea5-a90bb1cf0c81 a wikibase:Statement ;
+	ps:P946 "US0378331005" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:9afd0abc8d81f857acd9bff397193aab6e851d68 .
+
+wd:Q312 p:P268 wds:Q312-8c6c9dca-483e-060a-e65b-45007ccba4cd .
+
+wds:Q312-8c6c9dca-483e-060a-e65b-45007ccba4cd a wikibase:Statement ;
+	ps:P268 "11991592t" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P409 wds:Q312-BC43593B-C99A-4E02-B9CE-41A3E2C1BE30 .
+
+wds:Q312-BC43593B-C99A-4E02-B9CE-41A3E2C1BE30 a wikibase:Statement ;
+	ps:P409 "36551832" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P1005 wds:Q312-B8EBA5A8-44FB-4C7D-8AD6-D732D542ECC0 .
+
+wds:Q312-B8EBA5A8-44FB-4C7D-8AD6-D732D542ECC0 a wikibase:Statement ;
+	ps:P1005 "197517" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P906 wds:Q312-5F4A53B4-9B93-4936-AE80-0C622C02C45C .
+
+wds:Q312-5F4A53B4-9B93-4936-AE80-0C622C02C45C a wikibase:Statement ;
+	ps:P906 "352120" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P691 wds:Q312-C16B0B8C-A7B5-48C6-AD38-245616EB87FC .
+
+wds:Q312-C16B0B8C-A7B5-48C6-AD38-245616EB87FC a wikibase:Statement ;
+	ps:P691 "olak2003164541" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P349 wds:Q312-FBD5E09C-B8DE-44B1-AE45-58FB9E28DA62 .
+
+wds:Q312-FBD5E09C-B8DE-44B1-AE45-58FB9E28DA62 a wikibase:Statement ;
+	ps:P349 "00276548" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P213 wds:Q312-58CA0DAE-C0F1-4FC5-8A8B-0480E2B26D69 .
+
+wds:Q312-58CA0DAE-C0F1-4FC5-8A8B-0480E2B26D69 a wikibase:Statement ;
+	ps:P213 "0000 0001 1958 1886" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P488 wds:Q312-e7d39b3e-4c91-49c0-2445-0d89135fa69f .
+
+wds:Q312-e7d39b3e-4c91-49c0-2445-0d89135fa69f a wikibase:Statement ;
+	ps:P488 wd:Q709063 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P452 wds:Q312-8cb2eaa0-4c5b-e40e-9112-36e223ec02fe .
+
+wds:Q312-8cb2eaa0-4c5b-e40e-9112-36e223ec02fe a wikibase:Statement ;
+	ps:P452 wd:Q3966 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P452 wds:Q312-30e946e7-4a82-6d68-24b8-c2954d74f574 .
+
+wds:Q312-30e946e7-4a82-6d68-24b8-c2954d74f574 a wikibase:Statement ;
+	ps:P452 wd:Q880371 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P452 wds:Q312-6eb91e47-4cce-7404-a7be-881a5e4784c6 .
+
+wds:Q312-6eb91e47-4cce-7404-a7be-881a5e4784c6 a wikibase:Statement ;
+	ps:P452 wd:Q581105 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P452 wds:Q312-654529d6-4d7b-a46f-e60a-8a019d8b43cc .
+
+wds:Q312-654529d6-4d7b-a46f-e60a-8a019d8b43cc a wikibase:Statement ;
+	ps:P452 wd:Q269415 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P169 wds:q312-523ED330-6C99-4A8D-B245-E3AC5424C313 .
+
+wds:q312-523ED330-6C99-4A8D-B245-E3AC5424C313 a wikibase:Statement ;
+	ps:P169 wd:Q265852 ;
+	wikibase:rank wikibase:PreferredRank,
+		wikibase:BestRank ;
+	pq:P580 "2011-08-24T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:e656d24859953b420e559c993507fe5b ;
+	prov:wasDerivedFrom wdref:99e73288395d83fc197eb92464daebea5cc1dfab .
+
+wd:Q312 p:P169 wds:q312-d93cd29d-49ee-364d-308c-b41e711d7d50 .
+
+wds:q312-d93cd29d-49ee-364d-308c-b41e711d7d50 a wikibase:Statement ;
+	ps:P169 wd:Q19837 ;
+	wikibase:rank wikibase:NormalRank ;
+	pq:P580 "1997-09-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:a7b814dad934c38ae6480527336d893c ;
+	pq:P582 "2011-08-23T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:d3ba4bb6da6c5e11f15c82c26162aea7 .
+
+wd:Q312 p:P169 wds:Q312-19bfd695-4a8a-0f36-ec7b-bbd856c746c7 .
+
+wds:Q312-19bfd695-4a8a-0f36-ec7b-bbd856c746c7 a wikibase:Statement ;
+	ps:P169 wd:Q926972 ;
+	wikibase:rank wikibase:NormalRank ;
+	pq:P580 "1977-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:85b531fb33c8188cd865c54d3e930d40 ;
+	pq:P582 "1981-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:bcfd24be7ab6e038fc67a2bb23db518a ;
+	prov:wasDerivedFrom wdref:9c93d82c74c9f113054bbb01828066bec1c16413 .
+
+wd:Q312 p:P169 wds:Q312-299f7232-4f55-50d4-7de1-6b35f6afee1f .
+
+wds:Q312-299f7232-4f55-50d4-7de1-6b35f6afee1f a wikibase:Statement ;
+	ps:P169 wd:Q713588 ;
+	wikibase:rank wikibase:NormalRank ;
+	pq:P580 "1996-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:e1f28dafe18efe99a187a348d0740ee4 ;
+	pq:P582 "1997-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:c4adedfc632662e20dfe88f702c48a3c .
+
+wd:Q312 p:P169 wds:Q312-97ab57fd-4318-ed20-43df-76613cff2363 .
+
+wds:Q312-97ab57fd-4318-ed20-43df-76613cff2363 a wikibase:Statement ;
+	ps:P169 wd:Q64088 ;
+	wikibase:rank wikibase:NormalRank ;
+	pq:P580 "1993-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:fe99489432ca5572b17f2bd94991f606 ;
+	pq:P582 "1996-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:e1f28dafe18efe99a187a348d0740ee4 .
+
+wd:Q312 p:P169 wds:Q312-4a67d2fa-42fe-238b-2c07-1174edc5358e .
+
+wds:Q312-4a67d2fa-42fe-238b-2c07-1174edc5358e a wikibase:Statement ;
+	ps:P169 wd:Q337024 ;
+	wikibase:rank wikibase:NormalRank ;
+	pq:P580 "1983-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:879ab479c61145d6cf9d0b29093b0e10 ;
+	pq:P582 "1993-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:fe99489432ca5572b17f2bd94991f606 .
+
+wd:Q312 p:P169 wds:Q312-46c68bab-4b22-82a2-05be-7268d8aae293 .
+
+wds:Q312-46c68bab-4b22-82a2-05be-7268d8aae293 a wikibase:Statement ;
+	ps:P169 wd:Q369783 ;
+	wikibase:rank wikibase:NormalRank ;
+	pq:P580 "1981-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:bcfd24be7ab6e038fc67a2bb23db518a ;
+	pq:P582 "1983-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:879ab479c61145d6cf9d0b29093b0e10 .
+
+wd:Q312 p:P646 wds:Q312-C588A793-84C9-4A44-A117-7742025B5460 .
+
+wds:Q312-C588A793-84C9-4A44-A117-7742025B5460 a wikibase:Statement ;
+	ps:P646 "/m/0k8z" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q312 p:P1128 wds:Q312-2DBDF7A5-1761-4CBE-A896-EE83D3B5408D .
+
+wds:Q312-2DBDF7A5-1761-4CBE-A896-EE83D3B5408D a wikibase:Statement ;
+	ps:P1128 "+80000"^^xsd:decimal ;
+	psv:P1128 wdv:5c3a2728ca8a89cfaf5f42e0e0e64ada ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q312 p:P1343 wds:Q312-AE62B02A-827A-423A-820A-DD920DA0AF39 .
+
+wds:Q312-AE62B02A-827A-423A-820A-DD920DA0AF39 a wikibase:Statement ;
+	ps:P1343 wd:Q17290934 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P357 "Apple Inc." ;
+	pq:P248 wd:Q17314914 .
+
+wd:Q312 p:P155 wds:Q312-DA61F7FE-4A6C-4540-9DA5-DF778268E901 .
+
+wds:Q312-DA61F7FE-4A6C-4540-9DA5-DF778268E901 a wikibase:Statement ;
+	ps:P155 wd:Q308993 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q312 p:P245 wds:Q312-E9B46593-6690-4708-972C-66AB57C6D4BB .
+
+wds:Q312-E9B46593-6690-4708-972C-66AB57C6D4BB a wikibase:Statement ;
+	ps:P245 "500335330" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f8426c4a0812ed8fd41568c2f2db8cf82657e9ce .
+
+wd:Q312 p:P553 wds:Q312-c74e1766-428a-b50e-ab33-b3b9fe97e053 .
+
+wds:Q312-c74e1766-428a-b50e-ab33-b3b9fe97e053 a wikibase:Statement ;
+	ps:P553 wd:Q866 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P554 "Apple" .
+
+wd:Q312 p:P127 wds:Q312-e37c793d-4bfb-0442-40e0-f2e701d39676 .
+
+wds:Q312-e37c793d-4bfb-0442-40e0-f2e701d39676 a wikibase:Statement ;
+	ps:P127 wd:Q4008579 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P1107 "+0.0567"^^xsd:decimal ;
+	pqv:P1107 wdv:04e4bc2710858243bc7728c75455c6f5 .
+
+<https://als.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "als" .
+
+<https://am.wikipedia.org/wiki/%E1%8A%A0%E1%8D%95%E1%88%8D%20%E1%8A%AE%E1%88%AD%E1%8D%96%E1%88%AC%E1%88%BD%E1%8A%95> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "am" .
+
+<https://ang.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ang" .
+
+<https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%84> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ar" .
+
+<https://ast.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ast" .
+
+<https://az.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "az" .
+
+<https://be-x-old.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "be-x-old" .
+
+<https://be.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "be" .
+
+<https://bg.wikipedia.org/wiki/%D0%90%D0%BF%D1%8A%D0%BB%20%28%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%29> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "bg" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%B2%20%E0%A6%87%E0%A6%A8%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%9F%E0%A7%87%E0%A6%A1> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "bn" .
+
+<https://br.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "br" .
+
+<https://ca.wikipedia.org/wiki/Apple%20Inc> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ca" .
+
+<https://ckb.wikipedia.org/wiki/%D8%A6%DB%95%D9%BE%DA%B5> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ckb" .
+
+<https://commons.wikimedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "en" .
+
+<https://cs.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "cs" .
+
+<https://cv.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "cv" .
+
+<https://cy.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "cy" .
+
+<https://da.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "da" .
+
+<https://de.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "de" ;
+	wikibase:badge wd:Q17437798 .
+
+<https://el.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "el" .
+
+<https://en.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "en" .
+
+<https://eo.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "eo" .
+
+<https://es.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "es" .
+
+<https://et.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "et" .
+
+<https://eu.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "eu" .
+
+<https://fi.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "fi" .
+
+<https://fo.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "fo" .
+
+<https://fr.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "fr" .
+
+<https://ga.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ga" .
+
+<https://gl.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "gl" .
+
+<https://got.wikipedia.org/wiki/%F0%90%8C%B0%F0%90%8D%80%F0%90%8D%80%F0%90%8C%BB%F0%90%8C%B4> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "got" .
+
+<https://hak.wikipedia.org/wiki/Ph%C3%ACn-k%C3%B3%20K%C3%BBng-s%E1%B9%B3%CC%82> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "hak" .
+
+<https://he.wikipedia.org/wiki/%D7%90%D7%A4%D7%9C> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "he" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%AA%E0%A5%8D%E0%A4%AA%E0%A4%B2%20%E0%A4%87%E0%A4%82%E0%A4%95%E0%A5%B0> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "hi" .
+
+<https://hr.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "hr" .
+
+<https://ht.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ht" .
+
+<https://hu.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "hu" .
+
+<https://ia.wikipedia.org/wiki/Apple%20Computer> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ia" .
+
+<https://id.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "id" .
+
+<https://is.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "is" .
+
+<https://it.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "it" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%20%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%82%A4%E3%83%86%E3%83%83%E3%83%89> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ja" .
+
+<https://jv.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "jv" .
+
+<https://kaa.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "kaa" .
+
+<https://ka.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ka" .
+
+<https://kk.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "kk" .
+
+<https://kn.wikipedia.org/wiki/%E0%B2%86%E0%B2%AA%E0%B2%B2%E0%B3%8D> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "kn" .
+
+<https://ko.wikipedia.org/wiki/%EC%95%A0%ED%94%8C%20%28%EA%B8%B0%EC%97%85%29> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ko" .
+
+<https://ku.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ku" .
+
+<https://ky.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ky" .
+
+<https://la.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "la" .
+
+<https://lb.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "lb" .
+
+<https://lv.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "lv" .
+
+<https://mg.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "mg" .
+
+<https://mk.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "mk" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%86%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%BF%E0%B5%BE%20%E0%B4%87%E0%B5%BB%E0%B4%95%E0%B5%8B%E0%B5%BC%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%B1%E0%B5%87%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%A1%E0%B5%8D> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ml" .
+
+<https://mn.wikipedia.org/wiki/Apple%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "mn" .
+
+<https://mr.wikipedia.org/wiki/%E0%A5%B2%E0%A4%AA%E0%A4%B2> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "mr" .
+
+<https://ms.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ms" .
+
+<https://nah.wikipedia.org/wiki/Apple%20Computer> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "nah" .
+
+<https://nds.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "nds" .
+
+<https://ne.wikipedia.org/wiki/%E0%A4%8F%E0%A4%AA%E0%A5%8D%E0%A4%AA%E0%A4%B2%20%E0%A4%95%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%A8%E0%A5%80> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ne" .
+
+<https://new.wikipedia.org/wiki/%E0%A4%8F%E0%A4%AA%E0%A5%8D%E0%A4%AA%E0%A4%B2> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "new" .
+
+<https://nl.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "nl" .
+
+<https://nn.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "nn" .
+
+<https://no.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "no" .
+
+<https://nv.wikipedia.org/wiki/%C3%81k%C3%A1%CA%BC%C3%A1t%CA%BC%C4%AF%C4%AF%C5%82%20%28b%C3%A9%C3%A9sh%20nts%C3%A9kees%C3%ADg%C3%AD%C3%AD%20%C3%A1l%CA%BC%C3%ADn%C3%AD%29> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "nv" .
+
+<https://oc.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "oc" .
+
+<https://or.wikipedia.org/wiki/%E0%AC%86%E0%AC%AA%E0%AC%B2%20%E0%AC%95%E0%AC%AE%E0%AD%8D%E0%AC%AA%E0%AC%BE%E0%AC%A8%E0%AD%80> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "or" .
+
+<https://pa.wikipedia.org/wiki/%E0%A8%90%E0%A8%AA%E0%A8%B2> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "pa" .
+
+<https://pfl.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "pfl" .
+
+<https://pl.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "pl" .
+
+<https://pnb.wikipedia.org/wiki/%D8%A7%DB%8C%D9%BE%D9%84> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "pnb" .
+
+<https://pt.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "pt" .
+
+<https://ro.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ro" .
+
+<https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3AApple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ru" .
+
+<https://sah.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "sah" .
+
+<https://sa.wikipedia.org/wiki/%E0%A4%8F%E0%A4%AA%E0%A5%8D%E0%A4%AA%E0%A4%B2%E0%A5%8D> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "sa" .
+
+<https://scn.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "scn" .
+
+<https://sco.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "sco" .
+
+<https://sc.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "sc" .
+
+<https://se.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "se" .
+
+<https://sh.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "sh" ;
+	wikibase:badge wd:Q17437796 .
+
+<https://simple.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "simple" .
+
+<https://simple.wikiquote.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "simple" .
+
+<https://si.wikipedia.org/wiki/%E0%B6%87%E0%B6%B4%E0%B6%BD%E0%B7%8A%20%E0%B6%89%E0%B6%B1%E0%B7%8A%E0%B6%9A%E0%B7%9D%E0%B6%B4%E0%B6%BB%E0%B7%9A%E0%B7%82%E0%B6%B1%E0%B7%8A> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "si" .
+
+<https://sk.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "sk" .
+
+<https://sl.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "sl" .
+
+<https://so.wikipedia.org/wiki/Apple%20Inc> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "so" .
+
+<https://sq.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "sq" .
+
+<https://sr.wikipedia.org/wiki/%D0%95%D0%BF%D0%BB> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "sr" .
+
+<https://sv.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "sv" .
+
+<https://szl.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "szl" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%B3%E0%AF%8D%20%E0%AE%A8%E0%AE%BF%E0%AE%B1%E0%AF%81%E0%AE%B5%E0%AE%A9%E0%AE%AE%E0%AF%8D> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ta" .
+
+<https://te.wikipedia.org/wiki/%E0%B0%AF%E0%B0%BE%E0%B0%AA%E0%B0%BF%E0%B0%B2%E0%B1%8D%20%E0%B0%87%E0%B0%A8%E0%B1%8D%E2%80%8C%E0%B0%95%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%AA%E0%B1%8A%E0%B0%B0%E0%B1%87%E0%B0%B7%E0%B0%A8%E0%B1%8D> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "te" .
+
+<https://tg.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "tg" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%A5%20%28%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97%29> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "th" .
+
+<https://tl.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "tl" .
+
+<https://tr.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "tr" .
+
+<https://tt.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "tt" .
+
+<https://ug.wikipedia.org/wiki/%D8%A6%D8%A7%D9%84%D9%85%D8%A7%20%D8%B4%D9%89%D8%B1%D9%83%D9%89%D8%AA%D9%89> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ug" .
+
+<https://uk.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "uk" .
+
+<https://ur.wikipedia.org/wiki/%D8%A7%DB%8C%D9%BE%D9%84%20%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%D9%BE%D9%88%D8%B1%DB%8C%D8%B4%D9%86> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ur" .
+
+<https://uz.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "uz" .
+
+<https://vec.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "vec" .
+
+<https://vi.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "vi" .
+
+<https://war.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "war" .
+
+<https://yi.wikipedia.org/wiki/%D7%A2%D7%A4%D7%9C%20%28%D7%A4%D7%99%D7%A8%D7%9E%D7%A2%29> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "yi" .
+
+<https://yo.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "yo" .
+
+<https://zea.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "zea" .
+
+<https://zh-classical.wikipedia.org/wiki/%E8%98%8B%E6%9E%9C%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "zh-classical" .
+
+<https://zh-min-nan.wikipedia.org/wiki/Ph%C5%8Dng-k%C3%B3%20Kong-si> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "zh-min-nan" .
+
+<https://zh-yue.wikipedia.org/wiki/%E8%98%8B%E6%9E%9C%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "zh-yue" .
+
+<https://zh.wikipedia.org/wiki/%E8%98%8B%E6%9E%9C%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "zh" .
+
+<https://zh.wikiquote.org/wiki/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "zh" .
+
+<https://zu.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "zu" .
+
+<https://en.wikinews.org/wiki/Category%3AApple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "en" .
+
+<https://es.wikinews.org/wiki/Categor%C3%ADa%3AApple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "es" .
+
+<https://fa.wikinews.org/wiki/%D8%B1%D8%AF%D9%87%3A%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A7%D9%BE%D9%84> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "fa" .
+
+<https://fr.wikinews.org/wiki/Cat%C3%A9gorie%3AApple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "fr" .
+
+<https://zh.wikinews.org/wiki/Category%3A%E8%98%8B%E6%9E%9C%E9%9B%BB%E8%85%A6> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "zh" .
+
+<https://bs.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "bs" ;
+	wikibase:badge wd:Q17437798 .
+
+<https://en.wikiquote.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "en" .
+
+<https://fr.wikiquote.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "fr" .
+
+<https://pl.wikiquote.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "pl" .
+
+<https://hy.wikipedia.org/wiki/%D4%B7%D6%83%D5%AC> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "hy" .
+
+<https://mai.wikipedia.org/wiki/%E0%A4%8F%E0%A4%AA%E0%A5%8D%E0%A4%AA%E0%A4%B2%20%E0%A4%95%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%A8%E0%A5%80> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "mai" .
+
+<https://lt.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "lt" .
+
+<https://fa.wikipedia.org/wiki/%D8%A7%D9%BE%D9%84> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "fa" .
+
+<https://it.wikibooks.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "it" .
+
+<https://ru.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "ru" .
+
+<https://lmo.wikipedia.org/wiki/Apple> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "lmo" .
+
+<https://su.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "su" .
+
+<https://af.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "af" .
+
+<https://pap.wikipedia.org/wiki/Apple%20Inc.> a schema:Article ;
+	schema:about wd:Q312 ;
+	schema:inLanguage "pap" .
+
+wdv:c81778114b0ccdca5d71f4bfef4cf2aa a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "1977-01-03T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:66346e17011eb707d2fe15d8790f2420 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2007-01-09T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:56bff8dc21d71ca4ed0aba9daa226590 a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "37.33182"^^xsd:decimal ;
+	wikibase:geoLongitude "-122.03118"^^xsd:decimal ;
+	wikibase:geoPrecision "2.7777777777778E-7"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdv:256c85a1fece95d04fa4374776c0ac1b a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "1976-04-01T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:e656d24859953b420e559c993507fe5b a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2011-08-24T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:a7b814dad934c38ae6480527336d893c a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "1997-09-01T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "10"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:d3ba4bb6da6c5e11f15c82c26162aea7 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2011-08-23T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:85b531fb33c8188cd865c54d3e930d40 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "1977-01-01T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "9"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:e1f28dafe18efe99a187a348d0740ee4 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "1996-01-01T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "9"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:c4adedfc632662e20dfe88f702c48a3c a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "1997-01-01T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "9"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:5c3a2728ca8a89cfaf5f42e0e0e64ada a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+80000"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+80000"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+80000"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdv:04e4bc2710858243bc7728c75455c6f5 a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+0.0567"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+0.0568"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+0.0566"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdref:9afd0abc8d81f857acd9bff397193aab6e851d68 a wikibase:Reference ;
+	pr:P854 <http://www.isin.org/isin-database/isin-view/?isin=US0378331005> .
+
+wdref:99e73288395d83fc197eb92464daebea5cc1dfab a wikibase:Reference ;
+	pr:P854 <https://en.wikipedia.org/wiki/Tim_Cook> .
+
+wdref:9c93d82c74c9f113054bbb01828066bec1c16413 a wikibase:Reference ;
+	pr:P854 <http://thenextweb.com/apple/2011/08/25/a-look-at-apples-ceos-from-1977-to-2011/> ;
+	pr:P248 wd:Q2913725 .
+
+wdref:f8426c4a0812ed8fd41568c2f2db8cf82657e9ce a wikibase:Reference ;
+	pr:P248 wd:Q54919 ;
+	pr:P813 "2014-12-16T00:00:00Z"^^xsd:dateTime ;
+	prv:P813 wdv:76e897091f8a5423320262325216a9c2 ;
+	pr:P854 <http://viaf.org/viaf/154701873> .
+
+wdata:Q321 schema:version "231877148"^^xsd:integer ;
+	schema:dateModified "2015-07-17T13:28:20Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q321 .
+

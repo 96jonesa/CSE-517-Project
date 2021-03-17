@@ -1,0 +1,312 @@
+wd:Q247489 a wikibase:Item ;
+	rdfs:label "मर्क एंड कंपनी"@hi ;
+	skos:prefLabel "मर्क एंड कंपनी"@hi ;
+	schema:name "मर्क एंड कंपनी"@hi ;
+	rdfs:label "Merck Sharp and Dohme"@pt ;
+	skos:prefLabel "Merck Sharp and Dohme"@pt ;
+	schema:name "Merck Sharp and Dohme"@pt ;
+	rdfs:label "默克药厂"@zh-hans ;
+	skos:prefLabel "默克药厂"@zh-hans ;
+	schema:name "默克药厂"@zh-hans ;
+	rdfs:label "默克藥廠"@zh-hant ;
+	skos:prefLabel "默克藥廠"@zh-hant ;
+	schema:name "默克藥廠"@zh-hant ;
+	rdfs:label "默克藥廠"@zh-hk ;
+	skos:prefLabel "默克藥廠"@zh-hk ;
+	schema:name "默克藥廠"@zh-hk ;
+	rdfs:label "默克药厂"@zh-cn ;
+	skos:prefLabel "默克药厂"@zh-cn ;
+	schema:name "默克药厂"@zh-cn ;
+	rdfs:label "默克药厂"@zh-sg ;
+	skos:prefLabel "默克药厂"@zh-sg ;
+	schema:name "默克药厂"@zh-sg ;
+	rdfs:label "默克藥廠"@zh-tw ;
+	skos:prefLabel "默克藥廠"@zh-tw ;
+	schema:name "默克藥廠"@zh-tw ;
+	rdfs:label "Merck & Co."@pl ;
+	skos:prefLabel "Merck & Co."@pl ;
+	schema:name "Merck & Co."@pl ;
+	rdfs:label "Merck & Co."@fr ;
+	skos:prefLabel "Merck & Co."@fr ;
+	schema:name "Merck & Co."@fr ;
+	rdfs:label "MSD"@ko ;
+	skos:prefLabel "MSD"@ko ;
+	schema:name "MSD"@ko ;
+	rdfs:label "מרק"@he ;
+	skos:prefLabel "מרק"@he ;
+	schema:name "מרק"@he ;
+	rdfs:label "Merck & Co."@en ;
+	skos:prefLabel "Merck & Co."@en ;
+	schema:name "Merck & Co."@en ;
+	rdfs:label "Merck & Co."@sr-el ;
+	skos:prefLabel "Merck & Co."@sr-el ;
+	schema:name "Merck & Co."@sr-el ;
+	rdfs:label "Мерцк & Цо."@sr-ec ;
+	skos:prefLabel "Мерцк & Цо."@sr-ec ;
+	schema:name "Мерцк & Цо."@sr-ec ;
+	rdfs:label "Merck & Co."@es ;
+	skos:prefLabel "Merck & Co."@es ;
+	schema:name "Merck & Co."@es ;
+	rdfs:label "เมอร์ค"@th ;
+	skos:prefLabel "เมอร์ค"@th ;
+	schema:name "เมอร์ค"@th ;
+	rdfs:label "Merck & Co."@ro ;
+	skos:prefLabel "Merck & Co."@ro ;
+	schema:name "Merck & Co."@ro ;
+	rdfs:label "MSD"@fi ;
+	skos:prefLabel "MSD"@fi ;
+	schema:name "MSD"@fi ;
+	rdfs:label "Merck & Co."@it ;
+	skos:prefLabel "Merck & Co."@it ;
+	schema:name "Merck & Co."@it ;
+	rdfs:label "Merck & Co."@et ;
+	skos:prefLabel "Merck & Co."@et ;
+	schema:name "Merck & Co."@et ;
+	rdfs:label "Merck & Co."@id ;
+	skos:prefLabel "Merck & Co."@id ;
+	schema:name "Merck & Co."@id ;
+	rdfs:label "MSD Sharp & Dohme"@de ;
+	skos:prefLabel "MSD Sharp & Dohme"@de ;
+	schema:name "MSD Sharp & Dohme"@de ;
+	rdfs:label "メルク・アンド・カンパニー"@ja ;
+	skos:prefLabel "メルク・アンド・カンパニー"@ja ;
+	schema:name "メルク・アンド・カンパニー"@ja ;
+	rdfs:label "Merck & Co."@nn ;
+	skos:prefLabel "Merck & Co."@nn ;
+	schema:name "Merck & Co."@nn ;
+	rdfs:label "Merck"@lt ;
+	skos:prefLabel "Merck"@lt ;
+	schema:name "Merck"@lt ;
+	rdfs:label "Merck & Co."@da ;
+	skos:prefLabel "Merck & Co."@da ;
+	schema:name "Merck & Co."@da ;
+	rdfs:label "MSD"@nl ;
+	skos:prefLabel "MSD"@nl ;
+	schema:name "MSD"@nl ;
+	rdfs:label "مرک اند کو."@fa ;
+	skos:prefLabel "مرک اند کو."@fa ;
+	schema:name "مرک اند کو."@fa ;
+	rdfs:label "默克藥廠"@zh ;
+	skos:prefLabel "默克藥廠"@zh ;
+	schema:name "默克藥廠"@zh ;
+	rdfs:label "Merck & Co."@sr ;
+	skos:prefLabel "Merck & Co."@sr ;
+	schema:name "Merck & Co."@sr ;
+	rdfs:label "Merck & Co."@en-ca ;
+	skos:prefLabel "Merck & Co."@en-ca ;
+	schema:name "Merck & Co."@en-ca ;
+	rdfs:label "Merck & Co."@en-gb ;
+	skos:prefLabel "Merck & Co."@en-gb ;
+	schema:name "Merck & Co."@en-gb ;
+	rdfs:label "Merck & Co."@nb ;
+	skos:prefLabel "Merck & Co."@nb ;
+	schema:name "Merck & Co."@nb ;
+	rdfs:label "Merck Sharp and Dohme"@pt-br ;
+	skos:prefLabel "Merck Sharp and Dohme"@pt-br ;
+	schema:name "Merck Sharp and Dohme"@pt-br ;
+	rdfs:label "Merck & Co"@uk ;
+	skos:prefLabel "Merck & Co"@uk ;
+	schema:name "Merck & Co"@uk ;
+	rdfs:label "Merck & Co."@sh ;
+	skos:prefLabel "Merck & Co."@sh ;
+	schema:name "Merck & Co."@sh ;
+	rdfs:label "Merck & Co."@ru ;
+	skos:prefLabel "Merck & Co."@ru ;
+	schema:name "Merck & Co."@ru ;
+	rdfs:label "ميرك اند كو"@ar ;
+	skos:prefLabel "ميرك اند كو"@ar ;
+	schema:name "ميرك اند كو"@ar ;
+	schema:description "enterprise"@fr,
+		"società farmaceutica statunitense"@it,
+		"Merck & Co."@ru,
+		"Merck & Co."@en ;
+	skos:altLabel "Merck sharp & dohme"@pt,
+		"Merck & Co."@pt,
+		"默克大藥廠"@zh,
+		"默沙東"@zh,
+		"默克制药公司"@zh,
+		"默沙東藥廠"@zh,
+		"默克公司"@zh,
+		"默克"@zh,
+		"Merck & Company"@pl,
+		"MSD"@pl,
+		"Merck Sharp & Dohme"@pl,
+		"Merck & Co"@fr,
+		"Merck & Co. Inc."@fr,
+		"머크"@ko,
+		"머크앤드컴퍼니"@ko,
+		"Merck Sharp & Dohme"@sr,
+		"Merck & Co"@es,
+		"Merck Sharp Dohme"@es,
+		"MSD"@es,
+		"Merck Sharp & Dohme"@es,
+		"Merck & Co"@ro,
+		"Merck&Co"@ro,
+		"Merck Sharp & Dohme"@ro,
+		"Merck & Co."@fi,
+		"Merck"@fi,
+		"Merck & Co"@it,
+		"MSD"@et,
+		"Merck Sharp & Dohme"@et,
+		"Essex Pharma"@de,
+		"Merck"@de,
+		"Merck & Co."@de,
+		"Merck & Co., Inc."@de,
+		"Merck & Co"@nn,
+		"Merck and Co"@nn,
+		"MSD"@da,
+		"Schering-Plough"@da,
+		"Merck Sharp & Dohme"@da,
+		"Merck & Co."@nl,
+		"Merck Sharp & Dohme"@nl ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P646 "/m/04f0xq" ;
+	wdt:P155 wd:Q249723 ;
+	wdt:P414 wd:Q13677 ;
+	p:P31 wds:q247489-D86B7A88-6FE8-4708-94C1-E3917F63EF64 .
+
+wds:q247489-D86B7A88-6FE8-4708-94C1-E3917F63EF64 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q247489 p:P646 wds:Q247489-FCD4F4C9-6D3A-40EC-82BE-C0931BF60D65 .
+
+wds:Q247489-FCD4F4C9-6D3A-40EC-82BE-C0931BF60D65 a wikibase:Statement ;
+	ps:P646 "/m/04f0xq" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q247489 p:P155 wds:Q247489-64ED7A49-49F1-4337-B4D3-111D8523CAA7 .
+
+wds:Q247489-64ED7A49-49F1-4337-B4D3-111D8523CAA7 a wikibase:Statement ;
+	ps:P155 wd:Q249723 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q247489 p:P414 wds:Q247489-FCD8ACAD-0A0C-442C-8077-2BA5116C7D9D .
+
+wds:Q247489-FCD8ACAD-0A0C-442C-8077-2BA5116C7D9D a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%95%20%E0%A4%8F%E0%A4%82%E0%A4%A1%20%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "hi" .
+
+<https://pt.wikipedia.org/wiki/Merck%20Sharp%20and%20Dohme> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "pt" .
+
+<https://zh.wikipedia.org/wiki/%E9%BB%98%E5%85%8B%E8%97%A5%E5%BB%A0> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "zh" .
+
+<https://pl.wikipedia.org/wiki/Merck%20%26%20Co.> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "pl" .
+
+<https://fr.wikipedia.org/wiki/Merck%20%26%20Co.> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "fr" .
+
+<https://ko.wikipedia.org/wiki/MSD> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "ko" .
+
+<https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%A7%20%28%D7%97%D7%91%D7%A8%D7%AA%20%D7%AA%D7%A8%D7%95%D7%A4%D7%95%D7%AA%29> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "he" .
+
+<https://en.wikipedia.org/wiki/Merck%20%26%20Co.> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "en" .
+
+<https://sr.wikipedia.org/wiki/Merck%20%26%20Co.> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "sr" .
+
+<https://es.wikipedia.org/wiki/Merck%20%26%20Co.> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "es" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%84> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "th" .
+
+<https://no.wikipedia.org/wiki/Merck%20%26%20Co.> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "no" .
+
+<https://ro.wikipedia.org/wiki/Merck%20%26%20Co.> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "ro" .
+
+<https://fi.wikipedia.org/wiki/MSD> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "fi" .
+
+<https://it.wikipedia.org/wiki/Merck%20%26%20Co.> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "it" .
+
+<https://et.wikipedia.org/wiki/Merck%20%26%20Co.> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "et" .
+
+<https://id.wikipedia.org/wiki/Merck%20%26%20Co.> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "id" .
+
+<https://de.wikipedia.org/wiki/MSD%20Sharp%20%26%20Dohme> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AB%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "ja" .
+
+<https://nn.wikipedia.org/wiki/Merck%20%26%20Co.> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "nn" .
+
+<https://lt.wikipedia.org/wiki/Merck> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "lt" .
+
+<https://da.wikipedia.org/wiki/Merck%20%26%20Co.> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "da" .
+
+<https://nl.wikipedia.org/wiki/MSD> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "nl" .
+
+<https://fa.wikipedia.org/wiki/%D9%85%D8%B1%DA%A9%20%D8%A7%D9%86%D8%AF%20%DA%A9%D9%88.> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "fa" .
+
+<https://uk.wikipedia.org/wiki/Merck%20%26%20Co> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "uk" .
+
+<https://sh.wikipedia.org/wiki/Merck%20%26%20Co.> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "sh" .
+
+<https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%BA%20%D0%B8%20%D0%9A%D0%BE> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "ru" .
+
+<https://ar.wikipedia.org/wiki/%D9%85%D9%8A%D8%B1%D9%83%20%D8%A2%D9%86%D8%AF%20%D9%83%D9%88> a schema:Article ;
+	schema:about wd:Q247489 ;
+	schema:inLanguage "ar" .
+
+wdata:Q247490 schema:version "233302427"^^xsd:integer ;
+	schema:dateModified "2015-07-20T03:58:47Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q247490 .
+

@@ -1,0 +1,1082 @@
+wd:Q38076 a wikibase:Item ;
+	rdfs:label "麦当劳"@zh ;
+	skos:prefLabel "麦当劳"@zh ;
+	schema:name "麦当劳"@zh ;
+	rdfs:label "McDonald's"@eu ;
+	skos:prefLabel "McDonald's"@eu ;
+	schema:name "McDonald's"@eu ;
+	rdfs:label "McDonald’s"@pl ;
+	skos:prefLabel "McDonald’s"@pl ;
+	schema:name "McDonald’s"@pl ;
+	rdfs:label "McDonald's"@es ;
+	skos:prefLabel "McDonald's"@es ;
+	schema:name "McDonald's"@es ;
+	rdfs:label "மக்டொனால்ட்ஸ்"@ta ;
+	skos:prefLabel "மக்டொனால்ட்ஸ்"@ta ;
+	schema:name "மக்டொனால்ட்ஸ்"@ta ;
+	rdfs:label "McDonald's"@oc ;
+	skos:prefLabel "McDonald's"@oc ;
+	schema:name "McDonald's"@oc ;
+	rdfs:label "McDonald's"@ms ;
+	skos:prefLabel "McDonald's"@ms ;
+	schema:name "McDonald's"@ms ;
+	rdfs:label "McDonald’s"@hu ;
+	skos:prefLabel "McDonald’s"@hu ;
+	schema:name "McDonald’s"@hu ;
+	rdfs:label "McDonald's"@et ;
+	skos:prefLabel "McDonald's"@et ;
+	schema:name "McDonald's"@et ;
+	rdfs:label "ম্যাকডোনাল্ড’স"@bn ;
+	skos:prefLabel "ম্যাকডোনাল্ড’স"@bn ;
+	schema:name "ম্যাকডোনাল্ড’স"@bn ;
+	rdfs:label "McDonald's"@el ;
+	skos:prefLabel "McDonald's"@el ;
+	schema:name "McDonald's"@el ;
+	rdfs:label "میکڈونلڈز"@pnb ;
+	skos:prefLabel "میکڈونلڈز"@pnb ;
+	schema:name "میکڈونلڈز"@pnb ;
+	rdfs:label "ماكدونالدز"@ar ;
+	skos:prefLabel "ماكدونالدز"@ar ;
+	schema:name "ماكدونالدز"@ar ;
+	rdfs:label "McDonald’s"@sv ;
+	skos:prefLabel "McDonald’s"@sv ;
+	schema:name "McDonald’s"@sv ;
+	rdfs:label "McDonald's"@nl ;
+	skos:prefLabel "McDonald's"@nl ;
+	schema:name "McDonald's"@nl ;
+	rdfs:label "McDonald's"@pt ;
+	skos:prefLabel "McDonald's"@pt ;
+	schema:name "McDonald's"@pt ;
+	rdfs:label "McDonald's"@eo ;
+	skos:prefLabel "McDonald's"@eo ;
+	schema:name "McDonald's"@eo ;
+	rdfs:label "McDonald's"@is ;
+	skos:prefLabel "McDonald's"@is ;
+	schema:name "McDonald's"@is ;
+	rdfs:label "מאקדאנעלדס"@yi ;
+	skos:prefLabel "מאקדאנעלדס"@yi ;
+	schema:name "מאקדאנעלדס"@yi ;
+	rdfs:label "McDonald's"@su ;
+	skos:prefLabel "McDonald's"@su ;
+	schema:name "McDonald's"@su ;
+	rdfs:label "McDonald’s"@ru ;
+	skos:prefLabel "McDonald’s"@ru ;
+	schema:name "McDonald’s"@ru ;
+	rdfs:label "McDonald's"@ast ;
+	skos:prefLabel "McDonald's"@ast ;
+	schema:name "McDonald's"@ast ;
+	rdfs:label "Мекдоналдс"@sr ;
+	skos:prefLabel "Мекдоналдс"@sr ;
+	schema:name "Мекдоналдс"@sr ;
+	rdfs:label "McDonald's"@tr ;
+	skos:prefLabel "McDonald's"@tr ;
+	schema:name "McDonald's"@tr ;
+	rdfs:label "Мекдоналдс"@mk ;
+	skos:prefLabel "Мекдоналдс"@mk ;
+	schema:name "Мекдоналдс"@mk ;
+	rdfs:label "Ma̍k-tông-lò Kûng-sṳ̂"@hak ;
+	skos:prefLabel "Ma̍k-tông-lò Kûng-sṳ̂"@hak ;
+	schema:name "Ma̍k-tông-lò Kûng-sṳ̂"@hak ;
+	rdfs:label "McDonald’s"@fi ;
+	skos:prefLabel "McDonald’s"@fi ;
+	schema:name "McDonald’s"@fi ;
+	rdfs:label "McDonald's"@uk ;
+	skos:prefLabel "McDonald's"@uk ;
+	schema:name "McDonald's"@uk ;
+	rdfs:label "McDonald’s"@sah ;
+	skos:prefLabel "McDonald’s"@sah ;
+	schema:name "McDonald’s"@sah ;
+	rdfs:label "McDonald’s"@nn ;
+	skos:prefLabel "McDonald’s"@nn ;
+	schema:name "McDonald’s"@nn ;
+	rdfs:label "McDonald's"@sco ;
+	skos:prefLabel "McDonald's"@sco ;
+	schema:name "McDonald's"@sco ;
+	rdfs:label "McDonald's"@hr ;
+	skos:prefLabel "McDonald's"@hr ;
+	schema:name "McDonald's"@hr ;
+	rdfs:label "McDonald's"@tl ;
+	skos:prefLabel "McDonald's"@tl ;
+	schema:name "McDonald's"@tl ;
+	rdfs:label "McDonald's"@da ;
+	skos:prefLabel "McDonald's"@da ;
+	schema:name "McDonald's"@da ;
+	rdfs:label "McDonalds"@kk ;
+	skos:prefLabel "McDonalds"@kk ;
+	schema:name "McDonalds"@kk ;
+	rdfs:label "Bē-tâng-lô"@nan ;
+	skos:prefLabel "Bē-tâng-lô"@nan ;
+	schema:name "Bē-tâng-lô"@nan ;
+	rdfs:label "McDonald's"@fr ;
+	skos:prefLabel "McDonald's"@fr ;
+	schema:name "McDonald's"@fr ;
+	rdfs:label "맥도날드"@ko ;
+	skos:prefLabel "맥도날드"@ko ;
+	schema:name "맥도날드"@ko ;
+	rdfs:label "מקדונלד'ס"@he ;
+	skos:prefLabel "מקדונלד'ס"@he ;
+	schema:name "מקדונלד'ס"@he ;
+	rdfs:label "ماكدونالدز"@arz ;
+	skos:prefLabel "ماكدونالدز"@arz ;
+	schema:name "ماكدونالدز"@arz ;
+	rdfs:label "McDonald's"@lv ;
+	skos:prefLabel "McDonald's"@lv ;
+	schema:name "McDonald's"@lv ;
+	rdfs:label "McDonald's"@it ;
+	skos:prefLabel "McDonald's"@it ;
+	schema:name "McDonald's"@it ;
+	rdfs:label "McDonald's"@li ;
+	skos:prefLabel "McDonald's"@li ;
+	schema:name "McDonald's"@li ;
+	rdfs:label "مکډونالډز"@ps ;
+	skos:prefLabel "مکډونالډز"@ps ;
+	schema:name "مکډونالډز"@ps ;
+	rdfs:label "McDonald's"@id ;
+	skos:prefLabel "McDonald's"@id ;
+	schema:name "McDonald's"@id ;
+	rdfs:label "McDonald’s"@de ;
+	skos:prefLabel "McDonald’s"@de ;
+	schema:name "McDonald’s"@de ;
+	rdfs:label "മക്ഡൊണാൾഡ്സ്"@ml ;
+	skos:prefLabel "മക്ഡൊണാൾഡ്സ്"@ml ;
+	schema:name "മക്ഡൊണാൾഡ്സ്"@ml ;
+	rdfs:label "マクドナルド"@ja ;
+	skos:prefLabel "マクドナルド"@ja ;
+	schema:name "マクドナルド"@ja ;
+	rdfs:label "McDonald's"@vi ;
+	skos:prefLabel "McDonald's"@vi ;
+	schema:name "McDonald's"@vi ;
+	rdfs:label "McDonald's"@en ;
+	skos:prefLabel "McDonald's"@en ;
+	schema:name "McDonald's"@en ;
+	rdfs:label "麥當勞"@yue ;
+	skos:prefLabel "麥當勞"@yue ;
+	schema:name "麥當勞"@yue ;
+	rdfs:label "McDonald's"@sh ;
+	skos:prefLabel "McDonald's"@sh ;
+	schema:name "McDonald's"@sh ;
+	rdfs:label "मैकडॉनल्ड्स"@hi ;
+	skos:prefLabel "मैकडॉनल्ड्स"@hi ;
+	schema:name "मैकडॉनल्ड्स"@hi ;
+	rdfs:label "McDonald's"@ht ;
+	skos:prefLabel "McDonald's"@ht ;
+	schema:name "McDonald's"@ht ;
+	rdfs:label "McDonald’s"@sk ;
+	skos:prefLabel "McDonald’s"@sk ;
+	schema:name "McDonald’s"@sk ;
+	rdfs:label "Mc Donald's"@ext ;
+	skos:prefLabel "Mc Donald's"@ext ;
+	schema:name "Mc Donald's"@ext ;
+	rdfs:label "ՄաքԴոնալդս"@hy ;
+	skos:prefLabel "ՄաքԴոնալդս"@hy ;
+	schema:name "ՄաքԴոնալդս"@hy ;
+	rdfs:label "McDonald’s"@tt ;
+	skos:prefLabel "McDonald’s"@tt ;
+	schema:name "McDonald’s"@tt ;
+	rdfs:label "ಮ್ಯಾಕ್ ಡೊನಾಲ್ಡ್ಸ್"@kn ;
+	skos:prefLabel "ಮ್ಯಾಕ್ ಡೊನಾಲ್ಡ್ಸ್"@kn ;
+	schema:name "ಮ್ಯಾಕ್ ಡೊನಾಲ್ಡ್ಸ್"@kn ;
+	rdfs:label "McDonald's"@fy ;
+	skos:prefLabel "McDonald's"@fy ;
+	schema:name "McDonald's"@fy ;
+	rdfs:label "แมคโดนัลด์"@th ;
+	skos:prefLabel "แมคโดนัลด์"@th ;
+	schema:name "แมคโดนัลด์"@th ;
+	rdfs:label "McDonald's"@ro ;
+	skos:prefLabel "McDonald's"@ro ;
+	schema:name "McDonald's"@ro ;
+	rdfs:label "McDonald's"@ca ;
+	skos:prefLabel "McDonald's"@ca ;
+	schema:name "McDonald's"@ca ;
+	rdfs:label "McDonald's"@la ;
+	skos:prefLabel "McDonald's"@la ;
+	schema:name "McDonald's"@la ;
+	rdfs:label "McDonald's"@fo ;
+	skos:prefLabel "McDonald's"@fo ;
+	schema:name "McDonald's"@fo ;
+	rdfs:label "McDonald's"@ilo ;
+	skos:prefLabel "McDonald's"@ilo ;
+	schema:name "McDonald's"@ilo ;
+	rdfs:label "McDonald's"@cy ;
+	skos:prefLabel "McDonald's"@cy ;
+	schema:name "McDonald's"@cy ;
+	rdfs:label "McDonald's"@war ;
+	skos:prefLabel "McDonald's"@war ;
+	schema:name "McDonald's"@war ;
+	rdfs:label "McDonald's"@sl ;
+	skos:prefLabel "McDonald's"@sl ;
+	schema:name "McDonald's"@sl ;
+	rdfs:label "McDonald's"@cs ;
+	skos:prefLabel "McDonald's"@cs ;
+	schema:name "McDonald's"@cs ;
+	rdfs:label "مک‌دونالدز"@fa ;
+	skos:prefLabel "مک‌دونالدز"@fa ;
+	schema:name "مک‌دونالدز"@fa ;
+	rdfs:label "Макдоналдс"@bg ;
+	skos:prefLabel "Макдоналдс"@bg ;
+	schema:name "Макдоналдс"@bg ;
+	rdfs:label "McDonald's"@ka ;
+	skos:prefLabel "McDonald's"@ka ;
+	schema:name "McDonald's"@ka ;
+	rdfs:label "McDonald's"@lt ;
+	skos:prefLabel "McDonald's"@lt ;
+	schema:name "McDonald's"@lt ;
+	rdfs:label "McDonald's"@az ;
+	skos:prefLabel "McDonald's"@az ;
+	schema:name "McDonald's"@az ;
+	rdfs:label "McDonald’s"@nb ;
+	skos:prefLabel "McDonald’s"@nb ;
+	schema:name "McDonald’s"@nb ;
+	rdfs:label "McDonald’s"@de-ch ;
+	skos:prefLabel "McDonald’s"@de-ch ;
+	schema:name "McDonald’s"@de-ch ;
+	rdfs:label "McDonald's"@en-ca ;
+	skos:prefLabel "McDonald's"@en-ca ;
+	schema:name "McDonald's"@en-ca ;
+	rdfs:label "McDonald's"@en-gb ;
+	skos:prefLabel "McDonald's"@en-gb ;
+	schema:name "McDonald's"@en-gb ;
+	rdfs:label "McDonald's"@pt-br ;
+	skos:prefLabel "McDonald's"@pt-br ;
+	schema:name "McDonald's"@pt-br ;
+	rdfs:label "McDonald's"@gl ;
+	skos:prefLabel "McDonald's"@gl ;
+	schema:name "McDonald's"@gl ;
+	rdfs:label "麥當勞"@zh-hant ;
+	skos:prefLabel "麥當勞"@zh-hant ;
+	schema:name "麥當勞"@zh-hant ;
+	rdfs:label "Mc Donald's"@bcl ;
+	skos:prefLabel "Mc Donald's"@bcl ;
+	schema:name "Mc Donald's"@bcl ;
+	rdfs:label "McDonald’s"@be ;
+	skos:prefLabel "McDonald’s"@be ;
+	schema:name "McDonald’s"@be ;
+	rdfs:label "McDonald's"@vep ;
+	skos:prefLabel "McDonald's"@vep ;
+	schema:name "McDonald's"@vep ;
+	rdfs:label "麥當勞"@zh-tw ;
+	skos:prefLabel "麥當勞"@zh-tw ;
+	schema:name "麥當勞"@zh-tw ;
+	rdfs:label "麦当劳"@zh-hans ;
+	skos:prefLabel "麦当劳"@zh-hans ;
+	schema:name "麦当劳"@zh-hans ;
+	rdfs:label "麦当劳"@zh-cn ;
+	skos:prefLabel "麦当劳"@zh-cn ;
+	schema:name "麦当劳"@zh-cn ;
+	rdfs:label "McDonald’s"@krc ;
+	skos:prefLabel "McDonald’s"@krc ;
+	schema:name "McDonald’s"@krc ;
+	rdfs:label "Megges"@pfl ;
+	skos:prefLabel "Megges"@pfl ;
+	schema:name "Megges"@pfl ;
+	rdfs:label "McDonald's"@min ;
+	skos:prefLabel "McDonald's"@min ;
+	schema:name "McDonald's"@min ;
+	rdfs:label "McDonald's"@af ;
+	skos:prefLabel "McDonald's"@af ;
+	schema:name "McDonald's"@af ;
+	schema:description "fast food company"@en,
+		"gyorsétterem-lánc"@hu,
+		"US-amerikanischer Betreiber von Schnellrestaurants"@de,
+		"chaîne de restauration rapide américaine"@fr,
+		"американская корпорация, одна из крупнейших в мире сеть ресторанов быстрого питания"@ru,
+		"cadena de restaurantes de comida rápida"@es,
+		"արագ սննդի կետ"@hy,
+		"fastfoodbedrijf"@nl,
+		"catena di ristoranti fast food statunitense"@it ;
+	skos:altLabel "Mcdonalds"@zh,
+		"M記"@zh,
+		"麥當勞公司"@zh,
+		"麥當勞"@zh,
+		"麥當勞餐廳"@zh,
+		"McDonald's"@zh,
+		"MCD"@zh,
+		"麦当劳公司"@zh,
+		"麥當勞股份有限公司"@zh,
+		"麥記"@zh,
+		"McDonalds"@eu,
+		"McDonald´s"@eu,
+		"McDonalds"@pl,
+		"McDonald’s Corporation"@pl,
+		"Mcdonalds"@es,
+		"Mc. Donald's"@es,
+		"McAuto"@es,
+		"Mc Donalds"@es,
+		"Mc Donald's"@es,
+		"மெக்டொனல்ட்ஸ்"@ta,
+		"மெக்டொனால்ட்ஸ்"@ta,
+		"மெக்டானல்ட்ஸ்"@ta,
+		"Mcdonalds"@oc,
+		"Mc donalds"@oc,
+		"McDonald"@ms,
+		"McDonalds"@ms,
+		"McDonalds"@hu,
+		"McDonald's"@hu,
+		"McDonalds"@et,
+		"مكدونالدز"@ar,
+		"McDonald's"@ar,
+		"McDonald"@sv,
+		"Mcrib"@sv,
+		"McFeast"@sv,
+		"McDonald's"@sv,
+		"Flurry"@sv,
+		"Den gyllene måsen"@sv,
+		"Mc Donalds"@sv,
+		"Big Fish"@sv,
+		"Mcdonalds"@sv,
+		"Donken"@sv,
+		"Ronald Mcdonald Barnfond"@sv,
+		"Quarterpounder"@sv,
+		"Quarter Pounder"@sv,
+		"El Maco"@sv,
+		"Mac donalds"@sv,
+		"McDonald´s"@sv,
+		"MacDonald's"@nl,
+		"Mac Donald's"@nl,
+		"MacDonalds"@nl,
+		"Mc Donald's"@nl,
+		"Mc Donalds"@nl,
+		"Mcdonalds"@nl,
+		"Mac Donald"@nl,
+		"Mac donalds"@nl,
+		"Mc kroket"@nl,
+		"MCdonalds"@pt,
+		"Cheddar McMelt"@pt,
+		"Mc Donald's"@pt,
+		"Mc Donalds"@pt,
+		"Mc Donald´s"@pt,
+		"Mcdonald`s"@pt,
+		"Mcdonald´s"@pt,
+		"Makdonaldo"@eo,
+		"McDonalds"@eo,
+		"McDonald’s"@eo,
+		"Mcdonalds"@is,
+		"מאַקדאָנעלדס"@yi,
+		"מעקדאנעלד"@yi,
+		"Макдональдс"@ru,
+		"McDonald’s Corporation"@ru,
+		"McDonald's"@ru,
+		"McDonalds"@ru,
+		"McDonald`s"@ru,
+		"Макдоналдс"@ru,
+		"McDonalds"@sr,
+		"Макдоналдс"@sr,
+		"Мек Доналдс"@sr,
+		"McDonald's"@sr,
+		"McDonalds"@tr,
+		"McDonald"@tr,
+		"Mc donalds"@tr,
+		"Mc donalts"@tr,
+		"Ma̍k-tông-lò"@hak,
+		"Mcdonalds"@fi,
+		"Mäkkäri"@fi,
+		"McFeast"@fi,
+		"Mäkki"@fi,
+		"McDonald's"@fi,
+		"McFlurry"@fi,
+		"McDonald´s"@fi,
+		"McDonald's Corporation"@uk,
+		"Макдональдс"@uk,
+		"МкДональдс"@uk,
+		"Макдональдз"@uk,
+		"Макдоналдс"@uk,
+		"МакДональдс"@sah,
+		"McDonald's"@sah,
+		"McDonalds"@nn,
+		"Big Mac"@nn,
+		"McDonald's"@nn,
+		"Mcdonalds"@sco,
+		"McDonalds"@hr,
+		"Korporasyong McDonald's"@tl,
+		"McDonald's Corporation"@tl,
+		"McDonald’s"@tl,
+		"Mcd"@da,
+		"McDonalds"@da,
+		"Mickey d"@da,
+		"McDonald’s"@da,
+		"Макдональдс"@kk,
+		"賣銅鑼"@nan,
+		"McDonald's"@nan,
+		"Mc Donald’s"@fr,
+		"McDonald's Corporation"@fr,
+		"McDonald’s"@fr,
+		"MacDonald's"@fr,
+		"Mc donald"@fr,
+		"Mac Donald's"@fr,
+		"Mcdo"@fr,
+		"Mc Donalds"@fr,
+		"Mc Donald's"@fr,
+		"Mac Donalds"@fr,
+		"MacDo"@fr,
+		"McDonalds"@fr,
+		"Mac do"@fr,
+		"Mac Donald"@fr,
+		"맥도널드"@ko,
+		"맥도널드사"@ko,
+		"מקדונלדס"@he,
+		"מק'דונלדס"@he,
+		"McDonalds"@it,
+		"Mcdonald"@it,
+		"Mc donald"@it,
+		"MacDonald"@it,
+		"Mac Donald"@it,
+		"Mc donald restaurants"@id,
+		"Mcdonalds"@id,
+		"McDonald’s"@id,
+		"McD"@id,
+		"Mc Donalds"@id,
+		"Mac Donald"@id,
+		"Mc Donald’s"@de,
+		"McDonald's Corporation"@de,
+		"McDrive"@de,
+		"Mickey D's"@de,
+		"McDonald's"@de,
+		"Mickey D’s"@de,
+		"McDonalds"@de,
+		"Maccas"@de,
+		"Mc Donald's"@de,
+		"Mc Donalds"@de,
+		"McDonald's"@ml,
+		"McD"@ja,
+		"マクドナルド店舗"@ja,
+		"McDonald's"@ja,
+		"えびフィレオ"@ja,
+		"マクド"@ja,
+		"マクダーナルズ"@ja,
+		"マクドナルドドライブスルー"@ja,
+		"McDonalds"@vi,
+		"麦当劳"@yue,
+		"McDonald's Corporation"@yue,
+		"McDonald's Restaurant"@yue,
+		"麥當勞餐廳"@yue,
+		"McDonald's"@yue,
+		"McDonalds"@sh,
+		"Mekdonalds"@sh,
+		"Макдоналдс"@tt,
+		"Макдональдс"@tt,
+		"McDonalds"@fy,
+		"แมคโดแนลด์"@th,
+		"แม็คโดนัลด์"@th,
+		"McDonald's"@th,
+		"McDonalds"@ro,
+		"Mc Donald's"@ro,
+		"Mc Donalds"@ro,
+		"Mcdonalds"@ca,
+		"McDonald’s"@ca,
+		"Mac Donald's"@ca,
+		"Taberna McDonaldis"@la,
+		"Mcdonalds"@cy,
+		"McDonalds"@cs,
+		"McDonald´s"@cs,
+		"McDonald’s"@cs,
+		"مک‌دونالد"@fa,
+		"مک دونالدز"@fa,
+		"مکدونالدز"@fa,
+		"مک دونالد"@fa,
+		"مکدونالد"@fa,
+		"Mcdonalds"@bg,
+		"McDonald’s"@bg,
+		"Мак Доналдс"@bg,
+		"McDonald's"@bg,
+		"მაკდონალდსი"@ka,
+		"McDonald’s"@lt,
+		"Mickey D's"@en,
+		"McDonald's Restaurant"@en,
+		"McDonald’s Corporation"@en,
+		"McDonalds"@en,
+		"McDonald’s Corporation"@nb,
+		"McDonalds"@nb,
+		"McDonald's"@nb,
+		"McDonald's Corporation"@nb ;
+	wdt:P1151 wd:Q17306461 ;
+	wdt:P805 wd:Q738662 ;
+	wdt:P31 wd:Q783794,
+		wd:Q18509232 ;
+	wdt:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/McDonald%27s%20Golden%20Arches.svg> ;
+	wdt:P373 "McDonald's" ;
+	wdt:P214 "136891459" ;
+	wdt:P910 wd:Q7853227 ;
+	wdt:P452 wd:Q1442415,
+		wd:Q11707 ;
+	wdt:P856 <http://www.mcdonalds.com> ;
+	wdt:P571 "1940-05-15T00:00:00Z"^^xsd:dateTime,
+		"1955-04-15T00:00:00Z"^^xsd:dateTime ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P159 wd:Q935479 ;
+	wdt:P935 "McDonald's" ;
+	wdt:P169 wd:Q1239543 ;
+	wdt:P488 wd:Q1239543 ;
+	wdt:P112 wd:Q1029178,
+		wd:Q319648 ;
+	wdt:P268 "121150481" ;
+	wdt:P269 "029547199" ;
+	wdt:P213 "0000 0000 9322 4855" ;
+	wdt:P227 "4070034-3" ;
+	p:P1151 wds:Q38076-ab477d42-4fc7-bd20-033e-1c54a321f257 .
+
+wds:Q38076-ab477d42-4fc7-bd20-033e-1c54a321f257 a wikibase:Statement ;
+	ps:P1151 wd:Q17306461 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q38076 p:P805 wds:Q38076-b9c39330-448f-6d25-b25e-c60c9047931f .
+
+wds:Q38076-b9c39330-448f-6d25-b25e-c60c9047931f a wikibase:Statement ;
+	ps:P805 wd:Q738662 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q38076 p:P31 wds:q38076-52C39F98-5A62-4C94-96F9-7D5CA58FE383 .
+
+wds:q38076-52C39F98-5A62-4C94-96F9-7D5CA58FE383 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q38076 p:P31 wds:Q38076-4a205bbb-44fd-1a71-2ab4-a4aae0ca238c .
+
+wds:Q38076-4a205bbb-44fd-1a71-2ab4-a4aae0ca238c a wikibase:Statement ;
+	ps:P31 wd:Q18509232 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q38076 p:P154 wds:q38076-D17D4A91-090F-4EEC-8E55-5B04B31694AE .
+
+wds:q38076-D17D4A91-090F-4EEC-8E55-5B04B31694AE a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/McDonald%27s%20Golden%20Arches.svg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q38076 p:P373 wds:q38076-081FB3B1-59C1-4A56-9864-AF06A5BC5C6C .
+
+wds:q38076-081FB3B1-59C1-4A56-9864-AF06A5BC5C6C a wikibase:Statement ;
+	ps:P373 "McDonald's" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q38076 p:P214 wds:q38076-34739ef8-479f-5bd5-695f-99f1f2adeb0c .
+
+wds:q38076-34739ef8-479f-5bd5-695f-99f1f2adeb0c a wikibase:Statement ;
+	ps:P214 "136891459" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q38076 p:P910 wds:Q38076-E5A3C414-D65D-49DF-AA36-0B5F45F45516 .
+
+wds:Q38076-E5A3C414-D65D-49DF-AA36-0B5F45F45516 a wikibase:Statement ;
+	ps:P910 wd:Q7853227 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q38076 p:P452 wds:Q38076-04554390-44ac-ca7e-3c4f-0192aa399981 .
+
+wds:Q38076-04554390-44ac-ca7e-3c4f-0192aa399981 a wikibase:Statement ;
+	ps:P452 wd:Q1442415 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q38076 p:P452 wds:Q38076-7dd526c0-4e11-0a4e-6647-ec74d41a8435 .
+
+wds:Q38076-7dd526c0-4e11-0a4e-6647-ec74d41a8435 a wikibase:Statement ;
+	ps:P452 wd:Q11707 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q38076 p:P856 wds:Q38076-236ec043-43b5-732f-a838-e555b195bbce .
+
+wds:Q38076-236ec043-43b5-732f-a838-e555b195bbce a wikibase:Statement ;
+	ps:P856 <http://www.mcdonalds.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q38076 p:P571 wds:Q38076-a2bdc239-4da2-612e-a949-04efb62868ff .
+
+wds:Q38076-a2bdc239-4da2-612e-a949-04efb62868ff a wikibase:Statement ;
+	ps:P571 "1940-05-15T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:7836e79383dcd07db47b05d3bcda0952 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q38076 p:P571 wds:Q38076-0742bf61-4df2-2c1c-a56a-f1114f5d8efb .
+
+wds:Q38076-0742bf61-4df2-2c1c-a56a-f1114f5d8efb a wikibase:Statement ;
+	ps:P571 "1955-04-15T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:9667565f7b1c52bcb492985e905309a5 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q38076 p:P414 wds:Q38076-3ee0fe51-44f1-d0dd-b2f3-5e90ce7c3710 .
+
+wds:Q38076-3ee0fe51-44f1-d0dd-b2f3-5e90ce7c3710 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "MCD" .
+
+wd:Q38076 p:P159 wds:Q38076-d430d003-45d0-7e61-4a76-d3f5d34ec295 .
+
+wds:Q38076-d430d003-45d0-7e61-4a76-d3f5d34ec295 a wikibase:Statement ;
+	ps:P159 wd:Q935479 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(41.835 -87.944444444444)"^^geo:wktLiteral ;
+	pqv:P625 wdv:f325ac76931fce7439e9a0650f8bfeaf .
+
+wd:Q38076 p:P935 wds:Q38076-08EC0462-3972-4EA8-B17C-B655BEA7CA48 .
+
+wds:Q38076-08EC0462-3972-4EA8-B17C-B655BEA7CA48 a wikibase:Statement ;
+	ps:P935 "McDonald's" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:2f183743080f8e1970847d13a04fde9a796f1476 .
+
+wd:Q38076 p:P169 wds:Q38076-7045c79b-4f90-fae7-2abd-ef907d2c9533 .
+
+wds:Q38076-7045c79b-4f90-fae7-2abd-ef907d2c9533 a wikibase:Statement ;
+	ps:P169 wd:Q1239543 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q38076 p:P488 wds:Q38076-77d5e7ba-44b9-85fa-3aac-dd09719b4532 .
+
+wds:Q38076-77d5e7ba-44b9-85fa-3aac-dd09719b4532 a wikibase:Statement ;
+	ps:P488 wd:Q1239543 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q38076 p:P112 wds:Q38076-bfcac8c1-4f16-b4bc-6841-8c6f7d8bdb64 .
+
+wds:Q38076-bfcac8c1-4f16-b4bc-6841-8c6f7d8bdb64 a wikibase:Statement ;
+	ps:P112 wd:Q1029178 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q38076 p:P112 wds:Q38076-3341fe65-4c02-ce31-8bfb-0f42468c70ca .
+
+wds:Q38076-3341fe65-4c02-ce31-8bfb-0f42468c70ca a wikibase:Statement ;
+	ps:P112 wd:Q319648 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q38076 p:P268 wds:Q38076-B5C02A4D-8850-47C3-9E93-D33F4565D722 .
+
+wds:Q38076-B5C02A4D-8850-47C3-9E93-D33F4565D722 a wikibase:Statement ;
+	ps:P268 "121150481" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:a51d6594fee36c7452eaed2db35a4833613a7078 .
+
+wd:Q38076 p:P269 wds:Q38076-542ED4C3-A308-4015-83D0-1261A9D84869 .
+
+wds:Q38076-542ED4C3-A308-4015-83D0-1261A9D84869 a wikibase:Statement ;
+	ps:P269 "029547199" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:a51d6594fee36c7452eaed2db35a4833613a7078 .
+
+wd:Q38076 p:P213 wds:Q38076-B2F9E03C-2449-405F-805C-541C0D0A75E8 .
+
+wds:Q38076-B2F9E03C-2449-405F-805C-541C0D0A75E8 a wikibase:Statement ;
+	ps:P213 "0000 0000 9322 4855" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:c50f3ea5306e96fdf99d25deea697b095eae1c47 .
+
+wd:Q38076 p:P227 wds:Q38076-95455E00-E0AC-458C-B589-820C4638F199 .
+
+wds:Q38076-95455E00-E0AC-458C-B589-820C4638F199 a wikibase:Statement ;
+	ps:P227 "4070034-3" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+<https://zh.wikipedia.org/wiki/%E9%BA%A6%E5%BD%93%E5%8A%B3> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "zh" .
+
+<https://eu.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "eu" .
+
+<https://es.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "es" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%9F%E0%AF%8A%E0%AE%A9%E0%AE%BE%E0%AE%B2%E0%AF%8D%E0%AE%9F%E0%AF%8D%E0%AE%B8%E0%AF%8D> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "ta" .
+
+<https://oc.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "oc" .
+
+<https://ms.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "ms" .
+
+<https://et.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "et" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%A1%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%A1%E2%80%99%E0%A6%B8> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "bn" .
+
+<https://el.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "el" .
+
+<https://pnb.wikipedia.org/wiki/%D9%85%DB%8C%DA%A9%DA%88%D9%88%D9%86%D9%84%DA%88%D8%B2> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "pnb" .
+
+<https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D9%83%D8%AF%D9%88%D9%86%D8%A7%D9%84%D8%AF%D8%B2> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "ar" .
+
+<https://sv.wikipedia.org/wiki/McDonald%E2%80%99s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "sv" .
+
+<https://nl.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "nl" .
+
+<https://pt.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "pt" .
+
+<https://eo.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "eo" .
+
+<https://is.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "is" .
+
+<https://yi.wikipedia.org/wiki/%D7%9E%D7%90%D7%A7%D7%93%D7%90%D7%A0%D7%A2%D7%9C%D7%93%D7%A1> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "yi" .
+
+<https://su.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "su" .
+
+<https://ru.wikipedia.org/wiki/McDonald%E2%80%99s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "ru" .
+
+<https://ast.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "ast" .
+
+<https://sr.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BA%D0%B4%D0%BE%D0%BD%D0%B0%D0%BB%D0%B4%D1%81> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "sr" .
+
+<https://tr.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "tr" .
+
+<https://mk.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BA%D0%B4%D0%BE%D0%BD%D0%B0%D0%BB%D0%B4%D1%81> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "mk" .
+
+<https://hak.wikipedia.org/wiki/Ma%CC%8Dk-t%C3%B4ng-l%C3%B2%20K%C3%BBng-s%E1%B9%B3%CC%82> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "hak" .
+
+<https://fi.wikipedia.org/wiki/McDonald%E2%80%99s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "fi" .
+
+<https://uk.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "uk" .
+
+<https://sah.wikipedia.org/wiki/McDonald%E2%80%99s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "sah" .
+
+<https://nn.wikipedia.org/wiki/McDonald%E2%80%99s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "nn" .
+
+<https://sco.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "sco" .
+
+<https://az.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "az" .
+
+<https://hr.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "hr" .
+
+<https://tl.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "tl" .
+
+<https://da.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "da" .
+
+<https://kk.wikipedia.org/wiki/McDonalds> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "kk" .
+
+<https://fr.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "fr" .
+
+<https://ko.wikipedia.org/wiki/%EB%A7%A5%EB%8F%84%EB%82%A0%EB%93%9C> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "ko" .
+
+<https://he.wikipedia.org/wiki/%D7%9E%D7%A7%D7%93%D7%95%D7%A0%D7%9C%D7%93%27%D7%A1> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "he" .
+
+<https://arz.wikipedia.org/wiki/%D9%85%D8%A7%D9%83%D8%AF%D9%88%D9%86%D8%A7%D9%84%D8%AF%D8%B2> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "arz" .
+
+<https://lv.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "lv" .
+
+<https://it.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "it" .
+
+<https://li.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "li" .
+
+<https://ps.wikipedia.org/wiki/%D9%85%DA%A9%DA%89%D9%88%D9%86%D8%A7%D9%84%DA%89%D8%B2> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "ps" .
+
+<https://id.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "id" .
+
+<https://de.wikipedia.org/wiki/McDonald%E2%80%99s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "de" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%AE%E0%B4%95%E0%B5%8D%E0%B4%A1%E0%B5%8A%E0%B4%A3%E0%B4%BE%E0%B5%BE%E0%B4%A1%E0%B5%8D%E0%B4%B8%E0%B5%8D> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "ml" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "ja" .
+
+<https://vi.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "vi" .
+
+<https://simple.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "simple" .
+
+<https://zh-yue.wikipedia.org/wiki/%E9%BA%A5%E7%95%B6%E5%8B%9E> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "zh-yue" .
+
+<https://sh.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "sh" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%88%E0%A4%95%E0%A4%A1%E0%A5%89%E0%A4%A8%E0%A4%B2%E0%A5%8D%E0%A4%A1%E0%A5%8D%E0%A4%B8> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "hi" .
+
+<https://ht.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "ht" .
+
+<https://sk.wikipedia.org/wiki/McDonald%E2%80%99s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "sk" .
+
+<https://ext.wikipedia.org/wiki/Mc%20Donald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "ext" .
+
+<https://hy.wikipedia.org/wiki/%D5%84%D5%A1%D6%84%D4%B4%D5%B8%D5%B6%D5%A1%D5%AC%D5%A4%D5%BD> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "hy" .
+
+<https://tt.wikipedia.org/wiki/McDonald%E2%80%99s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "tt" .
+
+<https://en.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "en" .
+
+<https://kn.wikipedia.org/wiki/%E0%B2%AE%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%95%E0%B3%8D%E2%80%8C%E0%B2%A1%E0%B3%8A%E0%B2%A8%E0%B2%BE%E0%B2%B2%E0%B3%8D%E0%B2%A1%E0%B3%8D%E0%B2%B8%E0%B3%8D%E2%80%8C%20%28%E0%B2%AA%E0%B2%BE%E0%B2%B8%E0%B3%8D%E0%B2%9F%E0%B3%8D%E2%80%8C%E0%B2%AB%E0%B3%81%E0%B2%A1%E0%B3%8D%20%E0%B2%B0%E0%B3%86%E0%B2%B8%E0%B3%8D%E0%B2%9F%E0%B3%8B%E0%B2%B0%E0%B2%82%E0%B2%9F%E0%B3%8D%29> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "kn" .
+
+<https://fy.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "fy" .
+
+<https://no.wikipedia.org/wiki/McDonald%E2%80%99s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "no" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%A1%E0%B8%84%E0%B9%82%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%A5%E0%B8%94%E0%B9%8C> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "th" .
+
+<https://ro.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "ro" .
+
+<https://ca.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "ca" .
+
+<https://la.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "la" .
+
+<https://fo.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "fo" .
+
+<https://ilo.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "ilo" .
+
+<https://cy.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "cy" .
+
+<https://war.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "war" .
+
+<https://sl.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "sl" .
+
+<https://cs.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "cs" .
+
+<https://bg.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B4%D0%BE%D0%BD%D0%B0%D0%BB%D0%B4%D1%81> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "bg" .
+
+<https://ka.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "ka" .
+
+<https://lt.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "lt" .
+
+<https://gl.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "gl" .
+
+<https://bcl.wikipedia.org/wiki/Mc%20Donald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "bcl" .
+
+<https://be.wikipedia.org/wiki/McDonald%E2%80%99s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "be" .
+
+<https://vep.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "vep" .
+
+<https://min.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "min" .
+
+<https://pfl.wikipedia.org/wiki/Megges> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "pfl" .
+
+<https://commons.wikimedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "en" .
+
+<https://krc.wikipedia.org/wiki/McDonald%E2%80%99s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "krc" .
+
+<https://it.wikiquote.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "it" .
+
+<https://fr.wikiquote.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "fr" .
+
+<https://pl.wikipedia.org/wiki/McDonald%E2%80%99s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "pl" .
+
+<https://ru.wikiquote.org/wiki/McDonald%E2%80%99s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "ru" .
+
+<https://pl.wikiquote.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "pl" .
+
+<https://en.wikiquote.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "en" .
+
+<https://hu.wikipedia.org/wiki/McDonald%E2%80%99s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "hu" .
+
+<https://fa.wikipedia.org/wiki/%D9%85%DA%A9%E2%80%8C%D8%AF%D9%88%D9%86%D8%A7%D9%84%D8%AF> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "fa" .
+
+<https://af.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "af" .
+
+<https://zh-min-nan.wikipedia.org/wiki/McDonald%27s> a schema:Article ;
+	schema:about wd:Q38076 ;
+	schema:inLanguage "zh-min-nan" .
+
+wdv:7836e79383dcd07db47b05d3bcda0952 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "1940-05-15T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:9667565f7b1c52bcb492985e905309a5 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "1955-04-15T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:f325ac76931fce7439e9a0650f8bfeaf a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "41.835"^^xsd:decimal ;
+	wikibase:geoLongitude "-87.944444444444"^^xsd:decimal ;
+	wikibase:geoPrecision "0.00027777777777778"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdata:Q38077 schema:version "211881651"^^xsd:integer ;
+	schema:dateModified "2015-04-20T13:37:56Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q38077 .
+

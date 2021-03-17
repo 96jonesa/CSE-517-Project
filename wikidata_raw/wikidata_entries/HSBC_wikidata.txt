@@ -1,0 +1,714 @@
+wd:Q190464 a wikibase:Item ;
+	rdfs:label "HSBC Holdings"@nan ;
+	skos:prefLabel "HSBC Holdings"@nan ;
+	schema:name "HSBC Holdings"@nan ;
+	rdfs:label "汇丰控股"@zh-hans ;
+	skos:prefLabel "汇丰控股"@zh-hans ;
+	schema:name "汇丰控股"@zh-hans ;
+	rdfs:label "滙豐控股"@zh-hant ;
+	skos:prefLabel "滙豐控股"@zh-hant ;
+	schema:name "滙豐控股"@zh-hant ;
+	rdfs:label "滙豐控股"@zh-hk ;
+	skos:prefLabel "滙豐控股"@zh-hk ;
+	schema:name "滙豐控股"@zh-hk ;
+	rdfs:label "汇丰控股"@zh-cn ;
+	skos:prefLabel "汇丰控股"@zh-cn ;
+	schema:name "汇丰控股"@zh-cn ;
+	rdfs:label "汇丰控股"@zh-sg ;
+	skos:prefLabel "汇丰控股"@zh-sg ;
+	schema:name "汇丰控股"@zh-sg ;
+	rdfs:label "滙豐控股"@zh-tw ;
+	skos:prefLabel "滙豐控股"@zh-tw ;
+	schema:name "滙豐控股"@zh-tw ;
+	rdfs:label "HSBC"@eu ;
+	skos:prefLabel "HSBC"@eu ;
+	schema:name "HSBC"@eu ;
+	rdfs:label "HSBC"@pl ;
+	skos:prefLabel "HSBC"@pl ;
+	schema:name "HSBC"@pl ;
+	rdfs:label "HSBC"@ko ;
+	skos:prefLabel "HSBC"@ko ;
+	schema:name "HSBC"@ko ;
+	rdfs:label "HSBC"@he ;
+	skos:prefLabel "HSBC"@he ;
+	schema:name "HSBC"@he ;
+	rdfs:label "HSBC"@fr ;
+	skos:prefLabel "HSBC"@fr ;
+	schema:name "HSBC"@fr ;
+	rdfs:label "HSBC"@es ;
+	skos:prefLabel "HSBC"@es ;
+	schema:name "HSBC"@es ;
+	rdfs:label "HSBC"@af ;
+	skos:prefLabel "HSBC"@af ;
+	schema:name "HSBC"@af ;
+	rdfs:label "HSBC"@lv ;
+	skos:prefLabel "HSBC"@lv ;
+	schema:name "HSBC"@lv ;
+	rdfs:label "HSBC"@it ;
+	skos:prefLabel "HSBC"@it ;
+	schema:name "HSBC"@it ;
+	rdfs:label "HSBC"@id ;
+	skos:prefLabel "HSBC"@id ;
+	schema:name "HSBC"@id ;
+	rdfs:label "HSBC"@de ;
+	skos:prefLabel "HSBC"@de ;
+	schema:name "HSBC"@de ;
+	rdfs:label "HSBCホールディングス"@ja ;
+	skos:prefLabel "HSBCホールディングス"@ja ;
+	schema:name "HSBCホールディングス"@ja ;
+	rdfs:label "HSBC"@vi ;
+	skos:prefLabel "HSBC"@vi ;
+	schema:name "HSBC"@vi ;
+	rdfs:label "HSBC Holdings"@en ;
+	skos:prefLabel "HSBC Holdings"@en ;
+	schema:name "HSBC Holdings"@en ;
+	rdfs:label "إتش إس بي سي"@ar ;
+	skos:prefLabel "إتش إس بي سي"@ar ;
+	schema:name "إتش إس بي سي"@ar ;
+	rdfs:label "HSBC"@nl ;
+	skos:prefLabel "HSBC"@nl ;
+	schema:name "HSBC"@nl ;
+	rdfs:label "HSBC"@sv ;
+	skos:prefLabel "HSBC"@sv ;
+	schema:name "HSBC"@sv ;
+	rdfs:label "HSBC"@pt ;
+	skos:prefLabel "HSBC"@pt ;
+	schema:name "HSBC"@pt ;
+	rdfs:label "HSBC"@is ;
+	skos:prefLabel "HSBC"@is ;
+	schema:name "HSBC"@is ;
+	rdfs:label "HSBC"@ru ;
+	skos:prefLabel "HSBC"@ru ;
+	schema:name "HSBC"@ru ;
+	rdfs:label "Էյչ-Էս-Բի-Սի"@hy ;
+	skos:prefLabel "Էյչ-Էս-Բի-Սի"@hy ;
+	schema:name "Էյչ-Էս-Բի-Սի"@hy ;
+	rdfs:label "HSBC"@tr ;
+	skos:prefLabel "HSBC"@tr ;
+	schema:name "HSBC"@tr ;
+	rdfs:label "HSBC"@ro ;
+	skos:prefLabel "HSBC"@ro ;
+	schema:name "HSBC"@ro ;
+	rdfs:label "HSBC"@fi ;
+	skos:prefLabel "HSBC"@fi ;
+	schema:name "HSBC"@fi ;
+	rdfs:label "اچ‌اس‌بی‌سی"@fa ;
+	skos:prefLabel "اچ‌اس‌بی‌سی"@fa ;
+	schema:name "اچ‌اس‌بی‌سی"@fa ;
+	rdfs:label "एचएसबीसी"@mr ;
+	skos:prefLabel "एचएसबीसी"@mr ;
+	schema:name "एचएसबीसी"@mr ;
+	rdfs:label "HSBC"@az ;
+	skos:prefLabel "HSBC"@az ;
+	schema:name "HSBC"@az ;
+	rdfs:label "HSBC"@lt ;
+	skos:prefLabel "HSBC"@lt ;
+	schema:name "HSBC"@lt ;
+	rdfs:label "HSBC"@kk-arab ;
+	skos:prefLabel "HSBC"@kk-arab ;
+	schema:name "HSBC"@kk-arab ;
+	rdfs:label "HSBC"@kk-cn ;
+	skos:prefLabel "HSBC"@kk-cn ;
+	schema:name "HSBC"@kk-cn ;
+	rdfs:label "HSBC"@kk-tr ;
+	skos:prefLabel "HSBC"@kk-tr ;
+	schema:name "HSBC"@kk-tr ;
+	rdfs:label "ҺСБЦ"@kk-kz ;
+	skos:prefLabel "ҺСБЦ"@kk-kz ;
+	schema:name "ҺСБЦ"@kk-kz ;
+	rdfs:label "ҺСБЦ"@kk-cyrl ;
+	skos:prefLabel "ҺСБЦ"@kk-cyrl ;
+	schema:name "ҺСБЦ"@kk-cyrl ;
+	rdfs:label "HSBC"@kk-latn ;
+	skos:prefLabel "HSBC"@kk-latn ;
+	schema:name "HSBC"@kk-latn ;
+	rdfs:label "HSBC"@da ;
+	skos:prefLabel "HSBC"@da ;
+	schema:name "HSBC"@da ;
+	rdfs:label "滙豐控股"@zh ;
+	skos:prefLabel "滙豐控股"@zh ;
+	schema:name "滙豐控股"@zh ;
+	rdfs:label "HSBC"@kk ;
+	skos:prefLabel "HSBC"@kk ;
+	schema:name "HSBC"@kk ;
+	rdfs:label "HSBC"@simple ;
+	skos:prefLabel "HSBC"@simple ;
+	schema:name "HSBC"@simple ;
+	rdfs:label "HSBC Holdings"@cs ;
+	skos:prefLabel "HSBC Holdings"@cs ;
+	schema:name "HSBC Holdings"@cs ;
+	rdfs:label "HSBC"@ur ;
+	skos:prefLabel "HSBC"@ur ;
+	schema:name "HSBC"@ur ;
+	rdfs:label "HSBC"@de-ch ;
+	skos:prefLabel "HSBC"@de-ch ;
+	schema:name "HSBC"@de-ch ;
+	rdfs:label "HSBC"@en-ca ;
+	skos:prefLabel "HSBC"@en-ca ;
+	schema:name "HSBC"@en-ca ;
+	rdfs:label "HSBC"@en-gb ;
+	skos:prefLabel "HSBC"@en-gb ;
+	schema:name "HSBC"@en-gb ;
+	rdfs:label "HSBC"@nb ;
+	skos:prefLabel "HSBC"@nb ;
+	schema:name "HSBC"@nb ;
+	rdfs:label "HSBC"@pt-br ;
+	skos:prefLabel "HSBC"@pt-br ;
+	schema:name "HSBC"@pt-br ;
+	rdfs:label "滙豐控股"@yue ;
+	skos:prefLabel "滙豐控股"@yue ;
+	schema:name "滙豐控股"@yue ;
+	rdfs:label "এইচএসবিসি"@bn ;
+	skos:prefLabel "এইচএসবিসি"@bn ;
+	schema:name "এইচএসবিসি"@bn ;
+	rdfs:label "HSBC"@uk ;
+	skos:prefLabel "HSBC"@uk ;
+	schema:name "HSBC"@uk ;
+	rdfs:label "HSBC"@bg ;
+	skos:prefLabel "HSBC"@bg ;
+	schema:name "HSBC"@bg ;
+	rdfs:label "HSBC"@fo ;
+	skos:prefLabel "HSBC"@fo ;
+	schema:name "HSBC"@fo ;
+	rdfs:label "HSBC"@kl ;
+	skos:prefLabel "HSBC"@kl ;
+	schema:name "HSBC"@kl ;
+	rdfs:label "HSBC"@nn ;
+	skos:prefLabel "HSBC"@nn ;
+	schema:name "HSBC"@nn ;
+	rdfs:label "HSBC"@eo ;
+	skos:prefLabel "HSBC"@eo ;
+	schema:name "HSBC"@eo ;
+	schema:description "British multinational banking and financial services"@en,
+		"banque"@fr,
+		"مقاله درخصوص بانک اچ اس بی سی"@fa,
+		"英國跨國銀行和金融服務企業"@zh ;
+	skos:altLabel "HSBC"@nan,
+		"HSBC"@zh,
+		"汇丰"@zh,
+		"汇丰控股"@zh,
+		"匯豐控股有限公司"@zh,
+		"匯豐"@zh,
+		"滙豐控股"@zh,
+		"滙豐集團"@zh,
+		"匯豐集團"@zh,
+		"匯控"@zh,
+		"滙控"@zh,
+		"HSBC Holdings"@pl,
+		"HSBC코리아"@ko,
+		"홍콩상하이은행"@ko,
+		"홍콩은행"@ko,
+		"회풍은행"@ko,
+		"Hong Kong and Shanghai Banking Corporation"@fr,
+		"HSBC Holdings"@fr,
+		"HSBC Bank Argentina"@fr,
+		"HSBC Bank USA"@es,
+		"Bital"@es,
+		"HSBC Holdings plc"@es,
+		"The HongKong and Shanghai Banking Corporation"@es,
+		"HSBC Holdings"@es,
+		"HSBC Holdings"@it,
+		"HSBC Bank"@id,
+		"The Hongkong and Shanghai Banking Corporation"@id,
+		"HSBC Private Bank"@de,
+		"Hongkong and Shanghai Banking Corporation"@de,
+		"Hongkong and Shanghai Bank"@de,
+		"HSBC"@ja,
+		"HSBCグループ"@ja,
+		"بنك اتش اس بي سي"@ar,
+		"HSBC"@ar,
+		"اتش اس بي سي"@ar,
+		"البنك البريطاني للشرق الأوسط"@ar,
+		"بنك اتش اس بى سى"@ar,
+		"HSBC Holding plc"@nl,
+		"Hsbc holdings plc"@pt,
+		"Banco HSBC"@pt,
+		"滙豐控股有限公司"@is,
+		"HSBC Holdings plc"@is,
+		"The world's local bank"@is,
+		"HSBC Bank"@ru,
+		"Hongkong and Shanghai Banking Corporation"@ru,
+		"HSBC Holdings Plc"@ru,
+		"HSBA"@ru,
+		"HSBC Bank"@tr,
+		"بانک اچ اس بی سی"@fa,
+		"اچ اس بی سی"@fa,
+		"بانک اچ‌اس‌بی‌سی"@fa,
+		"Hsbc"@mr,
+		"HSBC Bank plc"@lt,
+		"Hongkong and Shanghai Banking Corporation"@kk,
+		"HSBC Group"@kk,
+		"Hongkong and Shanghai Banking Corporation"@da,
+		"HSBC Holdings plc"@en,
+		"HSBC"@en,
+		"Hong Kong and Shanghai Banking Corporation"@en ;
+	wdt:P571 "1991-01-01T00:00:00Z"^^xsd:dateTime ;
+	wdt:P112 wd:Q701438 ;
+	wdt:P17 wd:Q145 ;
+	wdt:P31 wd:Q5225895 ;
+	wdt:P373 "HSBC" ;
+	wdt:P414 wd:Q171240,
+		wd:Q496672,
+		wd:Q13677 ;
+	wdt:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/HSBC.svg> ;
+	wdt:P452 wd:Q22687,
+		wd:Q837171 ;
+	wdt:P131 wd:Q208152 ;
+	wdt:P169 wd:Q1666888 ;
+	wdt:P159 wd:Q572887,
+		wd:Q84 ;
+	wdt:P199 wd:Q5635876,
+		wd:Q5635867,
+		wd:Q5635881,
+		wd:Q5635877,
+		wd:Q5635853 ;
+	wdt:P355 wd:Q600178,
+		wd:Q5635869,
+		wd:Q5413890,
+		wd:Q5635855 ;
+	wdt:P488 wd:Q553390 ;
+	wdt:P910 wd:Q8503559 ;
+	wdt:P856 <http://www.hsbc.com/> ;
+	wdt:P646 "/m/01vq1f" ;
+	wdt:P227 "5166170-6" ;
+	wdt:P1448 "滙豐控股有限公司"@zh-hant,
+		"HSBC Holdings plc"@en ;
+	wdt:P138 wd:Q600178 ;
+	wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Canary%20Wharf%20HSBC.jpg> ;
+	p:P571 wds:Q190464-29b0cad3-41bd-2afc-2366-6669a4d06628 .
+
+wds:Q190464-29b0cad3-41bd-2afc-2366-6669a4d06628 a wikibase:Statement ;
+	ps:P571 "1991-01-01T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:381f386d5f2303f296df7a0f1034b45e ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:d2c45599a60c3297feb86774171089beba7ad886 .
+
+wd:Q190464 p:P112 wds:q190464-7DEE37E9-E99A-45FD-9019-5F20750ABD21 .
+
+wds:q190464-7DEE37E9-E99A-45FD-9019-5F20750ABD21 a wikibase:Statement ;
+	ps:P112 wd:Q701438 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P17 wds:q190464-0DF283BA-306E-4F3D-9CE9-599D4A6E378F .
+
+wds:q190464-0DF283BA-306E-4F3D-9CE9-599D4A6E378F a wikibase:Statement ;
+	ps:P17 wd:Q145 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P31 wds:q190464-37C6FA45-DED4-480A-A74C-AF98DB35A0FF .
+
+wds:q190464-37C6FA45-DED4-480A-A74C-AF98DB35A0FF a wikibase:Statement ;
+	ps:P31 wd:Q5225895 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P373 wds:q190464-E3CF5497-DBFA-4690-A5BE-8C6B5B0153B3 .
+
+wds:q190464-E3CF5497-DBFA-4690-A5BE-8C6B5B0153B3 a wikibase:Statement ;
+	ps:P373 "HSBC" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P414 wds:q190464-f4f32c74-4a7a-f89b-3369-505995d65d45 .
+
+wds:q190464-f4f32c74-4a7a-f89b-3369-505995d65d45 a wikibase:Statement ;
+	ps:P414 wd:Q171240 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "HSBA" .
+
+wd:Q190464 p:P414 wds:q190464-d52aa13b-4d69-cd37-a889-f387bb16a3b8 .
+
+wds:q190464-d52aa13b-4d69-cd37-a889-f387bb16a3b8 a wikibase:Statement ;
+	ps:P414 wd:Q496672 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "0005" .
+
+wd:Q190464 p:P414 wds:q190464-fd7402e5-4ace-1555-d86c-cfd0f057a03d .
+
+wds:q190464-fd7402e5-4ace-1555-d86c-cfd0f057a03d a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "HBC" .
+
+wd:Q190464 p:P154 wds:q190464-80c778fd-4e10-e33e-bf79-33665a39f8ef .
+
+wds:q190464-80c778fd-4e10-e33e-bf79-33665a39f8ef a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/HSBC.svg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P452 wds:q190464-f8f1b591-4c35-0a49-f0f5-decc5a78f946 .
+
+wds:q190464-f8f1b591-4c35-0a49-f0f5-decc5a78f946 a wikibase:Statement ;
+	ps:P452 wd:Q22687 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P452 wds:q190464-b3cf5c37-4030-188d-5917-b7426c928671 .
+
+wds:q190464-b3cf5c37-4030-188d-5917-b7426c928671 a wikibase:Statement ;
+	ps:P452 wd:Q837171 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P131 wds:q190464-82cddefc-427f-7946-9521-41b11edd0e93 .
+
+wds:q190464-82cddefc-427f-7946-9521-41b11edd0e93 a wikibase:Statement ;
+	ps:P131 wd:Q208152 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P169 wds:q190464-303f641a-40d4-c43d-7d42-6c1a2977fdd1 .
+
+wds:q190464-303f641a-40d4-c43d-7d42-6c1a2977fdd1 a wikibase:Statement ;
+	ps:P169 wd:Q1666888 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P159 wds:q190464-a310f6ae-4888-fbee-d53a-d4d14dff72c8 .
+
+wds:q190464-a310f6ae-4888-fbee-d53a-d4d14dff72c8 a wikibase:Statement ;
+	ps:P159 wd:Q572887 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P159 wds:Q190464-2276C4B4-99D5-499E-8377-3D427006DE87 .
+
+wds:Q190464-2276C4B4-99D5-499E-8377-3D427006DE87 a wikibase:Statement ;
+	ps:P159 wd:Q84 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P199 wds:q190464-01a283e3-4c36-5d4e-f96e-391ad60bc00b .
+
+wds:q190464-01a283e3-4c36-5d4e-f96e-391ad60bc00b a wikibase:Statement ;
+	ps:P199 wd:Q5635876 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P199 wds:q190464-038e22c5-4496-f407-200d-6a7d9f904fac .
+
+wds:q190464-038e22c5-4496-f407-200d-6a7d9f904fac a wikibase:Statement ;
+	ps:P199 wd:Q5635867 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P199 wds:q190464-13adeb33-47ab-95b1-f834-e8ab6b84d991 .
+
+wds:q190464-13adeb33-47ab-95b1-f834-e8ab6b84d991 a wikibase:Statement ;
+	ps:P199 wd:Q5635881 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P199 wds:q190464-9d035964-4f20-390d-1133-401afdec48ed .
+
+wds:q190464-9d035964-4f20-390d-1133-401afdec48ed a wikibase:Statement ;
+	ps:P199 wd:Q5635877 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P199 wds:q190464-bafe4655-4aa5-cbab-723a-c5bfe706c8ca .
+
+wds:q190464-bafe4655-4aa5-cbab-723a-c5bfe706c8ca a wikibase:Statement ;
+	ps:P199 wd:Q5635853 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P355 wds:q190464-a02cf30c-4ea0-747a-470d-5bbd4ef9c317 .
+
+wds:q190464-a02cf30c-4ea0-747a-470d-5bbd4ef9c317 a wikibase:Statement ;
+	ps:P355 wd:Q600178 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P355 wds:q190464-cc9a35d6-46a6-ab8d-d11b-e0afba8cc4ca .
+
+wds:q190464-cc9a35d6-46a6-ab8d-d11b-e0afba8cc4ca a wikibase:Statement ;
+	ps:P355 wd:Q5635869 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P355 wds:Q190464-9d995765-4243-fa30-429b-8d0bdb36be58 .
+
+wds:Q190464-9d995765-4243-fa30-429b-8d0bdb36be58 a wikibase:Statement ;
+	ps:P355 wd:Q5413890 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P355 wds:Q190464-ab127a1a-4c23-ff5f-ea41-b42f86a4e40a .
+
+wds:Q190464-ab127a1a-4c23-ff5f-ea41-b42f86a4e40a a wikibase:Statement ;
+	ps:P355 wd:Q5635855 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P488 wds:q190464-84c9de7f-4c87-569c-fb2a-76a170ae2291 .
+
+wds:q190464-84c9de7f-4c87-569c-fb2a-76a170ae2291 a wikibase:Statement ;
+	ps:P488 wd:Q553390 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P910 wds:Q190464-42B01A2D-7F12-4550-A47E-ECB8C629D86C .
+
+wds:Q190464-42B01A2D-7F12-4550-A47E-ECB8C629D86C a wikibase:Statement ;
+	ps:P910 wd:Q8503559 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P856 wds:Q190464-9DC9B0F0-FC00-4977-A76E-48088A24778C .
+
+wds:Q190464-9DC9B0F0-FC00-4977-A76E-48088A24778C a wikibase:Statement ;
+	ps:P856 <http://www.hsbc.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q190464 p:P646 wds:Q190464-1F413B49-80B6-4C03-8B0A-9BEF1EC6C3CA .
+
+wds:Q190464-1F413B49-80B6-4C03-8B0A-9BEF1EC6C3CA a wikibase:Statement ;
+	ps:P646 "/m/01vq1f" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q190464 p:P227 wds:Q190464-37EA27C4-8D58-485E-AAFB-F6F5554DFEFC .
+
+wds:Q190464-37EA27C4-8D58-485E-AAFB-F6F5554DFEFC a wikibase:Statement ;
+	ps:P227 "5166170-6" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q190464 p:P1448 wds:Q190464-c9436863-4736-0b52-3abf-5447386dbddb .
+
+wds:Q190464-c9436863-4736-0b52-3abf-5447386dbddb a wikibase:Statement ;
+	ps:P1448 "滙豐控股有限公司"@zh-hant ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P1448 wds:Q190464-9defb4f5-4e32-b522-4ee8-06adbc3ca529 .
+
+wds:Q190464-9defb4f5-4e32-b522-4ee8-06adbc3ca529 a wikibase:Statement ;
+	ps:P1448 "HSBC Holdings plc"@en ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q190464 p:P138 wds:Q190464-985cc0cb-4606-94e5-5bcc-00db5aef5f81 .
+
+wds:Q190464-985cc0cb-4606-94e5-5bcc-00db5aef5f81 a wikibase:Statement ;
+	ps:P138 wd:Q600178 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f475d9301626df86c03e800da89fcd639f893167 .
+
+wd:Q190464 p:P18 wds:Q190464-5e7621e2-4883-78bc-4582-69bf0212c5d3 .
+
+wds:Q190464-5e7621e2-4883-78bc-4582-69bf0212c5d3 a wikibase:Statement ;
+	ps:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Canary%20Wharf%20HSBC.jpg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://zh-min-nan.wikipedia.org/wiki/HSBC%20Holdings> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "zh-min-nan" .
+
+<https://zh.wikipedia.org/wiki/%E6%BB%99%E8%B1%90> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "zh" .
+
+<https://eu.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "eu" .
+
+<https://pl.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "pl" .
+
+<https://ko.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "ko" .
+
+<https://he.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "he" .
+
+<https://fr.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "fr" .
+
+<https://es.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "es" .
+
+<https://af.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "af" .
+
+<https://lv.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "lv" .
+
+<https://it.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "it" .
+
+<https://id.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "id" .
+
+<https://de.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/HSBC%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "ja" .
+
+<https://vi.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "vi" .
+
+<https://simple.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "simple" .
+
+<https://ar.wikipedia.org/wiki/%D8%A5%D8%AA%D8%B4%20%D8%A5%D8%B3%20%D8%A8%D9%8A%20%D8%B3%D9%8A> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "ar" .
+
+<https://nl.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "nl" .
+
+<https://sv.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "sv" .
+
+<https://pt.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "pt" .
+
+<https://is.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "is" .
+
+<https://ru.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "ru" .
+
+<https://hy.wikipedia.org/wiki/%D4%B7%D5%B5%D5%B9-%D4%B7%D5%BD-%D4%B2%D5%AB-%D5%8D%D5%AB> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "hy" .
+
+<https://en.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "en" .
+
+<https://tr.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "tr" .
+
+<https://no.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "no" .
+
+<https://ro.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "ro" .
+
+<https://fi.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "fi" .
+
+<https://fa.wikipedia.org/wiki/%D8%A7%DA%86%E2%80%8C%D8%A7%D8%B3%E2%80%8C%D8%A8%DB%8C%E2%80%8C%D8%B3%DB%8C> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "fa" .
+
+<https://mr.wikipedia.org/wiki/%E0%A4%8F%E0%A4%9A%E0%A4%8F%E0%A4%B8%E0%A4%AC%E0%A5%80%E0%A4%B8%E0%A5%80> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "mr" .
+
+<https://az.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "az" .
+
+<https://lt.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "lt" .
+
+<https://kk.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "kk" .
+
+<https://da.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "da" .
+
+<https://cs.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "cs" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%8F%E0%A6%B8%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "bn" .
+
+<https://uk.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "uk" .
+
+<https://zh-yue.wikipedia.org/wiki/%E6%BB%99%E8%B1%90%E6%8E%A7%E8%82%A1> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "zh-yue" .
+
+<https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3AHSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "ru" .
+
+<https://ur.wikipedia.org/wiki/%D8%A7%DB%8C%DA%86%20%D8%A7%DB%8C%D8%B3%20%D8%A8%DB%8C%20%D8%B3%DB%8C> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "ur" .
+
+<https://bg.wikipedia.org/wiki/HSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "bg" .
+
+<https://en.wikinews.org/wiki/Category%3AHSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "en" .
+
+<https://eo.wikinews.org/wiki/Kategorio%3AHSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "eo" .
+
+<https://fr.wikinews.org/wiki/Cat%C3%A9gorie%3AHSBC> a schema:Article ;
+	schema:about wd:Q190464 ;
+	schema:inLanguage "fr" .
+
+wdref:d2c45599a60c3297feb86774171089beba7ad886 a wikibase:Reference ;
+	pr:P1476 "HSBC's history"@en ;
+	pr:P123 wd:Q190464 ;
+	pr:P854 <http://www.hsbc.com/about-hsbc/company-history/hsbc-history> ;
+	pr:P813 "2014-12-15T00:00:00Z"^^xsd:dateTime ;
+	prv:P813 wdv:8fd4ad12b5f24d12e4c607f92960e3b4 ;
+	pr:P407 wd:Q1860 .
+
+wdref:f475d9301626df86c03e800da89fcd639f893167 a wikibase:Reference ;
+	pr:P1476 "HSBC's history"@en ;
+	pr:P407 wd:Q1860 ;
+	pr:P123 wd:Q190464 ;
+	pr:P854 <https://www.hsbc.com/about-hsbc/company-history/hsbc-history> ;
+	pr:P813 "2014-12-15T00:00:00Z"^^xsd:dateTime ;
+	prv:P813 wdv:8fd4ad12b5f24d12e4c607f92960e3b4 .
+
+wdata:Q190476 schema:version "104979545"^^xsd:integer ;
+	schema:dateModified "2014-01-25T11:34:50Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q190476 .
+

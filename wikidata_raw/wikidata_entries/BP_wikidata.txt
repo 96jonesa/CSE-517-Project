@@ -1,0 +1,679 @@
+wd:Q152057 a wikibase:Item ;
+	rdfs:label "BP"@zh-hans ;
+	skos:prefLabel "BP"@zh-hans ;
+	schema:name "BP"@zh-hans ;
+	rdfs:label "BP"@zh-hant ;
+	skos:prefLabel "BP"@zh-hant ;
+	schema:name "BP"@zh-hant ;
+	rdfs:label "BP"@zh-hk ;
+	skos:prefLabel "BP"@zh-hk ;
+	schema:name "BP"@zh-hk ;
+	rdfs:label "BP"@zh-cn ;
+	skos:prefLabel "BP"@zh-cn ;
+	schema:name "BP"@zh-cn ;
+	rdfs:label "BP"@zh-sg ;
+	skos:prefLabel "BP"@zh-sg ;
+	schema:name "BP"@zh-sg ;
+	rdfs:label "BP"@zh-tw ;
+	skos:prefLabel "BP"@zh-tw ;
+	schema:name "BP"@zh-tw ;
+	rdfs:label "BP"@pl ;
+	skos:prefLabel "BP"@pl ;
+	schema:name "BP"@pl ;
+	rdfs:label "British Petroleum"@eu ;
+	skos:prefLabel "British Petroleum"@eu ;
+	schema:name "British Petroleum"@eu ;
+	rdfs:label "BP"@he ;
+	skos:prefLabel "BP"@he ;
+	schema:name "BP"@he ;
+	rdfs:label "BP"@fr ;
+	skos:prefLabel "BP"@fr ;
+	schema:name "BP"@fr ;
+	rdfs:label "BP"@ko ;
+	skos:prefLabel "BP"@ko ;
+	schema:name "BP"@ko ;
+	rdfs:label "BP"@es ;
+	skos:prefLabel "BP"@es ;
+	schema:name "BP"@es ;
+	rdfs:label "பீ.பி"@ta ;
+	skos:prefLabel "பீ.பி"@ta ;
+	schema:name "பீ.பி"@ta ;
+	rdfs:label "BP"@hu ;
+	skos:prefLabel "BP"@hu ;
+	schema:name "BP"@hu ;
+	rdfs:label "BP"@lv ;
+	skos:prefLabel "BP"@lv ;
+	schema:name "BP"@lv ;
+	rdfs:label "BP"@it ;
+	skos:prefLabel "BP"@it ;
+	schema:name "BP"@it ;
+	rdfs:label "BP"@et ;
+	skos:prefLabel "BP"@et ;
+	schema:name "BP"@et ;
+	rdfs:label "Bp"@id ;
+	skos:prefLabel "Bp"@id ;
+	schema:name "Bp"@id ;
+	rdfs:label "BP"@de ;
+	skos:prefLabel "BP"@de ;
+	schema:name "BP"@de ;
+	rdfs:label "BP"@ja ;
+	skos:prefLabel "BP"@ja ;
+	schema:name "BP"@ja ;
+	rdfs:label "BP"@el ;
+	skos:prefLabel "BP"@el ;
+	schema:name "BP"@el ;
+	rdfs:label "BP"@vi ;
+	skos:prefLabel "BP"@vi ;
+	schema:name "BP"@vi ;
+	rdfs:label "بي بي"@ar ;
+	skos:prefLabel "بي بي"@ar ;
+	schema:name "بي بي"@ar ;
+	rdfs:label "BP"@sv ;
+	skos:prefLabel "BP"@sv ;
+	schema:name "BP"@sv ;
+	rdfs:label "BP"@nl ;
+	skos:prefLabel "BP"@nl ;
+	schema:name "BP"@nl ;
+	rdfs:label "BP"@pt ;
+	skos:prefLabel "BP"@pt ;
+	schema:name "BP"@pt ;
+	rdfs:label "BP"@eo ;
+	skos:prefLabel "BP"@eo ;
+	schema:name "BP"@eo ;
+	rdfs:label "BP"@is ;
+	skos:prefLabel "BP"@is ;
+	schema:name "BP"@is ;
+	rdfs:label "BP"@sk ;
+	skos:prefLabel "BP"@sk ;
+	schema:name "BP"@sk ;
+	rdfs:label "BP"@yi ;
+	skos:prefLabel "BP"@yi ;
+	schema:name "BP"@yi ;
+	rdfs:label "BP"@ru ;
+	skos:prefLabel "BP"@ru ;
+	schema:name "BP"@ru ;
+	rdfs:label "BP"@en ;
+	skos:prefLabel "BP"@en ;
+	schema:name "BP"@en ;
+	rdfs:label "BP"@tr ;
+	skos:prefLabel "BP"@tr ;
+	schema:name "BP"@tr ;
+	rdfs:label "BP"@ro ;
+	skos:prefLabel "BP"@ro ;
+	schema:name "BP"@ro ;
+	rdfs:label "บีพี"@th ;
+	skos:prefLabel "บีพี"@th ;
+	schema:name "บีพี"@th ;
+	rdfs:label "BP"@ca ;
+	skos:prefLabel "BP"@ca ;
+	schema:name "BP"@ca ;
+	rdfs:label "BP"@fi ;
+	skos:prefLabel "BP"@fi ;
+	schema:name "BP"@fi ;
+	rdfs:label "British Petroleum"@uk ;
+	skos:prefLabel "British Petroleum"@uk ;
+	schema:name "British Petroleum"@uk ;
+	rdfs:label "Oljeselskapet BP"@nn ;
+	skos:prefLabel "Oljeselskapet BP"@nn ;
+	schema:name "Oljeselskapet BP"@nn ;
+	rdfs:label "BP"@cs ;
+	skos:prefLabel "BP"@cs ;
+	schema:name "BP"@cs ;
+	rdfs:label "Бритиш Петролиъм"@bg ;
+	skos:prefLabel "Бритиш Петролиъм"@bg ;
+	schema:name "Бритиш Петролиъм"@bg ;
+	rdfs:label "بی‌پی"@fa ;
+	skos:prefLabel "بی‌پی"@fa ;
+	schema:name "بی‌پی"@fa ;
+	rdfs:label "बीपी"@mr ;
+	skos:prefLabel "बीपी"@mr ;
+	schema:name "बीपी"@mr ;
+	rdfs:label "బిపి"@te ;
+	skos:prefLabel "బిపి"@te ;
+	schema:name "బిపి"@te ;
+	rdfs:label "BP"@az ;
+	skos:prefLabel "BP"@az ;
+	schema:name "BP"@az ;
+	rdfs:label "BP"@lt ;
+	skos:prefLabel "BP"@lt ;
+	schema:name "BP"@lt ;
+	rdfs:label "برىيتىيش پەترولەۋم"@kk-arab ;
+	skos:prefLabel "برىيتىيش پەترولەۋم"@kk-arab ;
+	schema:name "برىيتىيش پەترولەۋم"@kk-arab ;
+	rdfs:label "برىيتىيش پەترولەۋم"@kk-cn ;
+	skos:prefLabel "برىيتىيش پەترولەۋم"@kk-cn ;
+	schema:name "برىيتىيش پەترولەۋم"@kk-cn ;
+	rdfs:label "Brïtïş Petrolewm"@kk-tr ;
+	skos:prefLabel "Brïtïş Petrolewm"@kk-tr ;
+	schema:name "Brïtïş Petrolewm"@kk-tr ;
+	rdfs:label "Бритиш Петролеум"@kk-kz ;
+	skos:prefLabel "Бритиш Петролеум"@kk-kz ;
+	schema:name "Бритиш Петролеум"@kk-kz ;
+	rdfs:label "Бритиш Петролеум"@kk-cyrl ;
+	skos:prefLabel "Бритиш Петролеум"@kk-cyrl ;
+	schema:name "Бритиш Петролеум"@kk-cyrl ;
+	rdfs:label "Brïtïş Petrolewm"@kk-latn ;
+	skos:prefLabel "Brïtïş Petrolewm"@kk-latn ;
+	schema:name "Brïtïş Petrolewm"@kk-latn ;
+	rdfs:label "BP"@da ;
+	skos:prefLabel "BP"@da ;
+	schema:name "BP"@da ;
+	rdfs:label "Бритиш Петролеум"@kk ;
+	skos:prefLabel "Бритиш Петролеум"@kk ;
+	schema:name "Бритиш Петролеум"@kk ;
+	rdfs:label "BP"@zh ;
+	skos:prefLabel "BP"@zh ;
+	schema:name "BP"@zh ;
+	rdfs:label "BP"@nb ;
+	skos:prefLabel "BP"@nb ;
+	schema:name "BP"@nb ;
+	rdfs:label "BP"@kl ;
+	skos:prefLabel "BP"@kl ;
+	schema:name "BP"@kl ;
+	rdfs:label "BP"@fo ;
+	skos:prefLabel "BP"@fo ;
+	schema:name "BP"@fo ;
+	rdfs:label "BP"@sco ;
+	skos:prefLabel "BP"@sco ;
+	schema:name "BP"@sco ;
+	rdfs:label "BP"@hak ;
+	skos:prefLabel "BP"@hak ;
+	schema:name "BP"@hak ;
+	rdfs:label "BP"@yue ;
+	skos:prefLabel "BP"@yue ;
+	schema:name "BP"@yue ;
+	rdfs:label "BP"@la ;
+	skos:prefLabel "BP"@la ;
+	schema:name "BP"@la ;
+	rdfs:label "British petroleum"@uz ;
+	skos:prefLabel "British petroleum"@uz ;
+	schema:name "British petroleum"@uz ;
+	schema:description "oliemaatschappij"@nl,
+		"British multinational oil and gas company"@en,
+		"compañía de energía, dedicada principalmente al petróleo y al gas natural"@es,
+		"compagnie britannique du secteur pétrolier"@fr,
+		"società del Regno Unito operante nel settore energetico"@it,
+		"olieselskab"@da ;
+	skos:altLabel "英國石油"@zh,
+		"英国石油公司"@zh,
+		"英國石油公司"@zh,
+		"British Petroleum"@pl,
+		"BP"@eu,
+		"בריטיש פטרוליום"@he,
+		"בי.פי"@he,
+		"Beyond Petroleum"@fr,
+		"British Petroleum"@fr,
+		"Britsh Petroleum"@fr,
+		"BPAmoco"@fr,
+		"Anglo-Persian Oil Company"@fr,
+		"Anglo-Iranian Oil Company"@fr,
+		"British Petroleum Company"@fr,
+		"영국석유회사"@ko,
+		"영국 석유 회사"@ko,
+		"British-Petroleum"@es,
+		"British Petroleum"@es,
+		"The British Petroleum Company"@es,
+		"Anglo Persian Oil Company"@es,
+		"Anglo-Persian Oil Company"@es,
+		"British Petroleum Company"@es,
+		"BP plc"@es,
+		"British Petroleum"@lv,
+		"British Petroleum"@it,
+		"BP plc"@it,
+		"Am"@it,
+		"O"@it,
+		"Co"@it,
+		"British Petroleum"@et,
+		"AIOC"@et,
+		"British Petroleum Company"@et,
+		"Inglise-Iraani Naftakompanii"@et,
+		"Inglise-Pärsia Naftakompanii"@et,
+		"BPAmoco"@et,
+		"Iraani Riiklik Naftakompanii"@et,
+		"British Petroleum"@de,
+		"Deutsche BP AG"@de,
+		"British Petrol"@de,
+		"Beyond petroleum"@de,
+		"ブリティッシュ・ペトロリアム"@ja,
+		"ブリティッシュ・ペトロレアム"@ja,
+		"بريتيش بتروليوم"@ar,
+		"BP"@ar,
+		"British Petroleum"@sv,
+		"BP Amoco"@nl,
+		"British Petroleum"@nl,
+		"British Petroleum"@pt,
+		"British Petroleum"@eo,
+		"British Petroleum"@is,
+		"בריטיש פעטראליום"@yi,
+		"Англо-айрейниан ойл компани"@ru,
+		"British Petroleum"@ru,
+		"Би-Пи"@ru,
+		"Би Пи"@ru,
+		"Бритиш Петролеум"@ru,
+		"Бритиш петролеум компани"@ru,
+		"British Petroleum"@tr,
+		"British Petrol"@tr,
+		"Bp"@th,
+		"British Petroleum"@ca,
+		"British Petroleum Company"@ca,
+		"British Petroleum Company Limited"@ca,
+		"British Petroleum"@fi,
+		"Брітіш петролеум компані"@uk,
+		"Брітіш Петролеум"@uk,
+		"BP"@uk,
+		"British Petroleum Comp."@nn,
+		"British Petroleum"@nn,
+		"BP"@nn,
+		"British Petroleum"@cs,
+		"Бритиш петролиум"@bg,
+		"بریتیش پترولیوم"@fa,
+		"بی پی"@fa,
+		"شرکت نفت بریتانیا"@fa,
+		"ब्रिटिश पेट्रोलियम"@mr,
+		"British Petroleum"@az,
+		"Britiş Petroleum"@az,
+		"BP"@kk,
+		"BP-Amoco"@da,
+		"British Petroleum"@da,
+		"BP plc,"@en,
+		"British Petroleum"@en,
+		"British Petroleum Comp."@nb,
+		"British Petroleum"@nb,
+		"Bp Norge"@nb,
+		"BP plc"@nb,
+		"BP p. l. c."@nb,
+		"British Petroleum Company"@nb,
+		"British Gas Corporation"@nb ;
+	wdt:P373 "BP" ;
+	wdt:P414 wd:Q13677,
+		wd:Q171240,
+		wd:Q151139 ;
+	wdt:P31 wd:Q11997659,
+		wd:Q5225895 ;
+	wdt:P452 wd:Q1059843,
+		wd:Q862571 ;
+	wdt:P166 wd:Q184253 ;
+	wdt:P856 <http://www.bp.com/> ;
+	wdt:P910 wd:Q8285252 ;
+	wdt:P159 wd:Q84 ;
+	wdt:P646 "/m/0k5b5" ;
+	wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20BP%20Delft.jpg> ;
+	wdt:P1343 wd:Q17290934 ;
+	wdt:P488 wd:Q963421 ;
+	wdt:P169 wd:Q421864 ;
+	wdt:P155 wd:Q865030 ;
+	wdt:P1320 "gb/00102498" ;
+	p:P373 wds:q152057-5B54942D-33A5-4A8F-BFE7-B2D4BBF39361 .
+
+wds:q152057-5B54942D-33A5-4A8F-BFE7-B2D4BBF39361 a wikibase:Statement ;
+	ps:P373 "BP" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q152057 p:P414 wds:q152057-15DA14AE-39D2-4AD2-9652-E44F11463753 .
+
+wds:q152057-15DA14AE-39D2-4AD2-9652-E44F11463753 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "BP" .
+
+wd:Q152057 p:P414 wds:q152057-ACA03E3C-7D6E-468C-BFC0-EF2505C1F5A1 .
+
+wds:q152057-ACA03E3C-7D6E-468C-BFC0-EF2505C1F5A1 a wikibase:Statement ;
+	ps:P414 wd:Q171240 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "BP" .
+
+wd:Q152057 p:P414 wds:Q152057-ff8cb1ae-4dc2-60f8-c35c-a4e5343de417 .
+
+wds:Q152057-ff8cb1ae-4dc2-60f8-c35c-a4e5343de417 a wikibase:Statement ;
+	ps:P414 wd:Q151139 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "BPE" .
+
+wd:Q152057 p:P31 wds:Q152057-e536547c-4746-e075-60ea-4e01c8bf5799 .
+
+wds:Q152057-e536547c-4746-e075-60ea-4e01c8bf5799 a wikibase:Statement ;
+	ps:P31 wd:Q11997659 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q152057 p:P31 wds:Q152057-40035931-4746-9b08-167d-5b979b7c6785 .
+
+wds:Q152057-40035931-4746-9b08-167d-5b979b7c6785 a wikibase:Statement ;
+	ps:P31 wd:Q5225895 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q152057 p:P452 wds:Q152057-97f0d2cf-4f16-971c-798d-5d118a562573 .
+
+wds:Q152057-97f0d2cf-4f16-971c-798d-5d118a562573 a wikibase:Statement ;
+	ps:P452 wd:Q1059843 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q152057 p:P452 wds:Q152057-c90ed9ee-4261-d020-e360-aad68713252a .
+
+wds:Q152057-c90ed9ee-4261-d020-e360-aad68713252a a wikibase:Statement ;
+	ps:P452 wd:Q862571 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q152057 p:P166 wds:Q152057-1011787e-4d50-f783-fc98-c8b0003ed0d3 .
+
+wds:Q152057-1011787e-4d50-f783-fc98-c8b0003ed0d3 a wikibase:Statement ;
+	ps:P166 wd:Q184253 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P585 "2010-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P585 wdv:e4feaf84dff082bd6fbae53c881faff6 ;
+	pq:P101 wd:Q2329 .
+
+wd:Q152057 p:P856 wds:Q152057-DDD15417-B163-4801-B809-8960E8A26D2C .
+
+wds:Q152057-DDD15417-B163-4801-B809-8960E8A26D2C a wikibase:Statement ;
+	ps:P856 <http://www.bp.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q152057 p:P910 wds:Q152057-DE1BD000-98EA-474F-A077-5489545604DD .
+
+wds:Q152057-DE1BD000-98EA-474F-A077-5489545604DD a wikibase:Statement ;
+	ps:P910 wd:Q8285252 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q152057 p:P159 wds:Q152057-6FF4B874-FBF1-4048-825E-17204470A28D .
+
+wds:Q152057-6FF4B874-FBF1-4048-825E-17204470A28D a wikibase:Statement ;
+	ps:P159 wd:Q84 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(51.5079 -0.1343)"^^geo:wktLiteral ;
+	pqv:P625 wdv:cd063b41255113131aab55224b70736c ;
+	prov:wasDerivedFrom wdref:2f183743080f8e1970847d13a04fde9a796f1476 .
+
+wd:Q152057 p:P646 wds:Q152057-35464DC7-A709-4FA8-8C12-5CA15AACF776 .
+
+wds:Q152057-35464DC7-A709-4FA8-8C12-5CA15AACF776 a wikibase:Statement ;
+	ps:P646 "/m/0k5b5" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q152057 p:P18 wds:Q152057-F8C90B90-DD35-4356-8A93-8E16BCA58854 .
+
+wds:Q152057-F8C90B90-DD35-4356-8A93-8E16BCA58854 a wikibase:Statement ;
+	ps:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20BP%20Delft.jpg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7a07c248d59b68eba79e5c5c2a59c6d07cf2cec5 .
+
+wd:Q152057 p:P1343 wds:Q152057-563128D6-67C6-42B0-93DF-68DF65E25A93 .
+
+wds:Q152057-563128D6-67C6-42B0-93DF-68DF65E25A93 a wikibase:Statement ;
+	ps:P1343 wd:Q17290934 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P357 "BP" ;
+	pq:P248 wd:Q17315761 .
+
+wd:Q152057 p:P488 wds:Q152057-d6d16252-43af-f401-cbd1-7539726db6fc .
+
+wds:Q152057-d6d16252-43af-f401-cbd1-7539726db6fc a wikibase:Statement ;
+	ps:P488 wd:Q963421 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P580 "2010-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:bc0280e44c3dddc3dc6cbd2d6bb0df0a .
+
+wd:Q152057 p:P169 wds:Q152057-b3d27ba4-4874-1560-df18-360d54211693 .
+
+wds:Q152057-b3d27ba4-4874-1560-df18-360d54211693 a wikibase:Statement ;
+	ps:P169 wd:Q421864 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P580 "2010-10-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:0b46c57b67ea4ba6f0a5badcb7585f6b .
+
+wd:Q152057 p:P155 wds:Q152057-6170FAF7-0416-410E-97AC-7329FB37CDE4 .
+
+wds:Q152057-6170FAF7-0416-410E-97AC-7329FB37CDE4 a wikibase:Statement ;
+	ps:P155 wd:Q865030 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q152057 p:P1320 wds:Q152057-406959EA-5E75-423C-9A6A-4A4BC9D2C65A .
+
+wds:Q152057-406959EA-5E75-423C-9A6A-4A4BC9D2C65A a wikibase:Statement ;
+	ps:P1320 "gb/00102498" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://zh.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "zh" .
+
+<https://pl.wikipedia.org/wiki/BP%20%28koncern%29> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "pl" .
+
+<https://eu.wikipedia.org/wiki/British%20Petroleum> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "eu" .
+
+<https://he.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "he" .
+
+<https://fr.wikipedia.org/wiki/BP%20%28entreprise%29> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "fr" .
+
+<https://ko.wikipedia.org/wiki/BP%20%28%EA%B8%B0%EC%97%85%29> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "ko" .
+
+<https://es.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "es" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%80.%E0%AE%AA%E0%AE%BF> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "ta" .
+
+<https://hu.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "hu" .
+
+<https://lv.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "lv" .
+
+<https://it.wikipedia.org/wiki/BP%20%28azienda%29> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "it" .
+
+<https://et.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "et" .
+
+<https://id.wikipedia.org/wiki/Bp> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "id" .
+
+<https://de.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/BP%20%28%E4%BC%81%E6%A5%AD%29> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "ja" .
+
+<https://el.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "el" .
+
+<https://vi.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "vi" .
+
+<https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%20%D8%A8%D9%8A> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "ar" .
+
+<https://nl.wikipedia.org/wiki/BP%20%28oliemaatschappij%29> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "nl" .
+
+<https://pt.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "pt" .
+
+<https://eo.wikipedia.org/wiki/BP%20%28firmao%29> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "eo" .
+
+<https://is.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "is" .
+
+<https://sk.wikipedia.org/wiki/BP%20%28ropn%C3%BD%20podnik%29> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "sk" .
+
+<https://yi.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "yi" .
+
+<https://ru.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "ru" .
+
+<https://en.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "en" .
+
+<https://ro.wikipedia.org/wiki/BP%20%28companie%29> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "ro" .
+
+<https://th.wikipedia.org/wiki/%E0%B8%9A%E0%B8%B5%E0%B8%9E%E0%B8%B5> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "th" .
+
+<https://no.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "no" .
+
+<https://ca.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "ca" .
+
+<https://fi.wikipedia.org/wiki/BP%20%28yritys%29> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "fi" .
+
+<https://uk.wikipedia.org/wiki/British%20Petroleum> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "uk" .
+
+<https://nn.wikipedia.org/wiki/Oljeselskapet%20BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "nn" .
+
+<https://cs.wikipedia.org/wiki/BP%20%28firma%29> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "cs" .
+
+<https://bg.wikipedia.org/wiki/%D0%91%D1%80%D0%B8%D1%82%D0%B8%D1%88%20%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BB%D0%B8%D1%8A%D0%BC> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "bg" .
+
+<https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%E2%80%8C%D9%BE%DB%8C> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "fa" .
+
+<https://mr.wikipedia.org/wiki/%E0%A4%AC%E0%A5%80%E0%A4%AA%E0%A5%80> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "mr" .
+
+<https://te.wikipedia.org/wiki/%E0%B0%AC%E0%B0%BF%E0%B0%AA%E0%B0%BF> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "te" .
+
+<https://az.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "az" .
+
+<https://lt.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "lt" .
+
+<https://kk.wikipedia.org/wiki/%D0%91%D1%80%D0%B8%D1%82%D0%B8%D1%88%20%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BB%D0%B5%D1%83%D0%BC> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "kk" .
+
+<https://da.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "da" .
+
+<https://hak.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "hak" .
+
+<https://zh-yue.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "zh-yue" .
+
+<https://sco.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "sco" .
+
+<https://la.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "la" .
+
+<https://uz.wikipedia.org/wiki/British%20petroleum> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "uz" .
+
+<https://en.wikinews.org/wiki/Category%3ABP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "en" .
+
+<https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3ABP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "ru" .
+
+<https://tr.wikipedia.org/wiki/BP> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "tr" .
+
+<https://sv.wikipedia.org/wiki/BP%20%28petroleumbolag%29> a schema:Article ;
+	schema:about wd:Q152057 ;
+	schema:inLanguage "sv" .
+
+wdv:cd063b41255113131aab55224b70736c a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "51.5079"^^xsd:decimal ;
+	wikibase:geoLongitude "-0.1343"^^xsd:decimal ;
+	wikibase:geoPrecision "2.7777777777778E-6"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdv:0b46c57b67ea4ba6f0a5badcb7585f6b a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2010-10-01T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdata:Q152061 schema:version "137149743"^^xsd:integer ;
+	schema:dateModified "2014-06-09T00:53:53Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q152061 .
+

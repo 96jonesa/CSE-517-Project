@@ -1,0 +1,404 @@
+wd:Q507154 a wikibase:Item ;
+	rdfs:label "诺华公司"@zh-hans ;
+	skos:prefLabel "诺华公司"@zh-hans ;
+	schema:name "诺华公司"@zh-hans ;
+	rdfs:label "諾華公司"@zh-hant ;
+	skos:prefLabel "諾華公司"@zh-hant ;
+	schema:name "諾華公司"@zh-hant ;
+	rdfs:label "諾華公司"@zh-hk ;
+	skos:prefLabel "諾華公司"@zh-hk ;
+	schema:name "諾華公司"@zh-hk ;
+	rdfs:label "Novartis"@gsw ;
+	skos:prefLabel "Novartis"@gsw ;
+	schema:name "Novartis"@gsw ;
+	rdfs:label "Novartis"@pl ;
+	skos:prefLabel "Novartis"@pl ;
+	schema:name "Novartis"@pl ;
+	rdfs:label "Novartis"@fr ;
+	skos:prefLabel "Novartis"@fr ;
+	schema:name "Novartis"@fr ;
+	rdfs:label "נוברטיס"@he ;
+	skos:prefLabel "נוברטיס"@he ;
+	schema:name "נוברטיס"@he ;
+	rdfs:label "노바티스"@ko ;
+	skos:prefLabel "노바티스"@ko ;
+	schema:name "노바티스"@ko ;
+	rdfs:label "Novartis"@es ;
+	skos:prefLabel "Novartis"@es ;
+	schema:name "Novartis"@es ;
+	rdfs:label "Novartis"@hu ;
+	skos:prefLabel "Novartis"@hu ;
+	schema:name "Novartis"@hu ;
+	rdfs:label "Novartis"@it ;
+	skos:prefLabel "Novartis"@it ;
+	schema:name "Novartis"@it ;
+	rdfs:label "Novartis"@id ;
+	skos:prefLabel "Novartis"@id ;
+	schema:name "Novartis"@id ;
+	rdfs:label "Novartis"@de ;
+	skos:prefLabel "Novartis"@de ;
+	schema:name "Novartis"@de ;
+	rdfs:label "ノバルティス"@ja ;
+	skos:prefLabel "ノバルティス"@ja ;
+	schema:name "ノバルティス"@ja ;
+	rdfs:label "Novartis"@en ;
+	skos:prefLabel "Novartis"@en ;
+	schema:name "Novartis"@en ;
+	rdfs:label "Novartis"@nl ;
+	skos:prefLabel "Novartis"@nl ;
+	schema:name "Novartis"@nl ;
+	rdfs:label "Novartis"@pt ;
+	skos:prefLabel "Novartis"@pt ;
+	schema:name "Novartis"@pt ;
+	rdfs:label "Novartis"@ru ;
+	skos:prefLabel "Novartis"@ru ;
+	schema:name "Novartis"@ru ;
+	rdfs:label "Novartis"@sr-el ;
+	skos:prefLabel "Novartis"@sr-el ;
+	schema:name "Novartis"@sr-el ;
+	rdfs:label "Новартис"@sr-ec ;
+	skos:prefLabel "Новартис"@sr-ec ;
+	schema:name "Новартис"@sr-ec ;
+	rdfs:label "Novartis"@tr ;
+	skos:prefLabel "Novartis"@tr ;
+	schema:name "Novartis"@tr ;
+	rdfs:label "Novartis"@ro ;
+	skos:prefLabel "Novartis"@ro ;
+	schema:name "Novartis"@ro ;
+	rdfs:label "โนวาร์ติส"@th ;
+	skos:prefLabel "โนวาร์ติส"@th ;
+	schema:name "โนวาร์ติส"@th ;
+	rdfs:label "Novartis"@ca ;
+	skos:prefLabel "Novartis"@ca ;
+	schema:name "Novartis"@ca ;
+	rdfs:label "Novartis"@cs ;
+	skos:prefLabel "Novartis"@cs ;
+	schema:name "Novartis"@cs ;
+	rdfs:label "Новартис"@bg ;
+	skos:prefLabel "Новартис"@bg ;
+	schema:name "Новартис"@bg ;
+	rdfs:label "نوارتیس"@fa ;
+	skos:prefLabel "نوارتیس"@fa ;
+	schema:name "نوارتیس"@fa ;
+	rdfs:label "Новартис"@sr ;
+	skos:prefLabel "Новартис"@sr ;
+	schema:name "Новартис"@sr ;
+	rdfs:label "诺华公司"@zh ;
+	skos:prefLabel "诺华公司"@zh ;
+	schema:name "诺华公司"@zh ;
+	rdfs:label "நோவார்ட்டீசு"@ta ;
+	skos:prefLabel "நோவார்ட்டீசு"@ta ;
+	schema:name "நோவார்ட்டீசு"@ta ;
+	rdfs:label "Novartis"@nb ;
+	skos:prefLabel "Novartis"@nb ;
+	schema:name "Novartis"@nb ;
+	rdfs:label "نوفارتس"@ar ;
+	skos:prefLabel "نوفارتس"@ar ;
+	schema:name "نوفارتس"@ar ;
+	rdfs:label "Novartis"@fi ;
+	skos:prefLabel "Novartis"@fi ;
+	schema:name "Novartis"@fi ;
+	rdfs:label "Novartis"@da ;
+	skos:prefLabel "Novartis"@da ;
+	schema:name "Novartis"@da ;
+	rdfs:label "Novartis"@sh ;
+	skos:prefLabel "Novartis"@sh ;
+	schema:name "Novartis"@sh ;
+	rdfs:label "Novartis"@de-ch ;
+	skos:prefLabel "Novartis"@de-ch ;
+	schema:name "Novartis"@de-ch ;
+	rdfs:label "Novartis"@en-ca ;
+	skos:prefLabel "Novartis"@en-ca ;
+	schema:name "Novartis"@en-ca ;
+	rdfs:label "Novartis"@en-gb ;
+	skos:prefLabel "Novartis"@en-gb ;
+	schema:name "Novartis"@en-gb ;
+	rdfs:label "Novartis"@pt-br ;
+	skos:prefLabel "Novartis"@pt-br ;
+	schema:name "Novartis"@pt-br ;
+	rdfs:label "Novartis"@sv ;
+	skos:prefLabel "Novartis"@sv ;
+	schema:name "Novartis"@sv ;
+	schema:description "Swiss multinational pharmaceutical company"@en,
+		"Arzneimittelhersteller"@de ;
+	skos:altLabel "诺华"@zh,
+		"诺华制药"@zh,
+		"Sandoz"@pl,
+		"노바르티스"@ko,
+		"Ciba"@es,
+		"Ciba-Geigy"@es,
+		"Geigy"@es,
+		"Ciba Geigy"@es,
+		"Ciba-Geigy"@it,
+		"CIBA"@it,
+		"Sandoz"@it,
+		"Novartis Pharmaceuticals"@it,
+		"Novartis Vaccines"@de,
+		"Ciba-Geigy"@de,
+		"Novartis AG"@de,
+		"ガイギー"@ja,
+		"Novartis"@ja,
+		"日本チバガイギー"@ja,
+		"ガイギー社"@ja,
+		"ノヴァルティス"@ja,
+		"チバガイギー"@ja,
+		"ノバルティスファーマ"@ja,
+		"Geigy"@nl,
+		"Sandoz"@nl,
+		"Ciba-Geigy"@nl,
+		"Ciba-Geiby"@pt,
+		"Новартис"@ru,
+		"NVS"@sr,
+		"Novartis"@bg,
+		"شرکت داروسازی نوارتیس"@fa,
+		"Novartis International AG"@en ;
+	wdt:P452 wd:Q507443 ;
+	wdt:P373 "Novartis" ;
+	wdt:P856 <http://www.novartis.com/> ;
+	wdt:P910 wd:Q7444591 ;
+	wdt:P646 "/m/0150cn" ;
+	wdt:P902 "43678" ;
+	wdt:P159 wd:Q78 ;
+	wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Industria%20Novartis.jpg> ;
+	wdt:P31 wd:Q693737 ;
+	wdt:P414 wd:Q661834,
+		wd:Q13677 ;
+	wdt:P571 "1996-01-01T00:00:00Z"^^xsd:dateTime ;
+	wdt:P355 wd:Q1074758 ;
+	wdt:P227 "2163228-5" ;
+	p:P452 wds:Q507154-5d25a958-4ac5-a987-dd32-dd3609222190 .
+
+wds:Q507154-5d25a958-4ac5-a987-dd32-dd3609222190 a wikibase:Statement ;
+	ps:P452 wd:Q507443 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q507154 p:P373 wds:q507154-9DDA4C3F-C8FC-4BA1-B943-1DC42BA337C6 .
+
+wds:q507154-9DDA4C3F-C8FC-4BA1-B943-1DC42BA337C6 a wikibase:Statement ;
+	ps:P373 "Novartis" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q507154 p:P856 wds:Q507154-E31D3B4D-8C75-447B-AA1E-45AB79427A6D .
+
+wds:Q507154-E31D3B4D-8C75-447B-AA1E-45AB79427A6D a wikibase:Statement ;
+	ps:P856 <http://www.novartis.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q507154 p:P910 wds:Q507154-0B5F6978-C434-4E24-9C44-9C9E36045D0D .
+
+wds:Q507154-0B5F6978-C434-4E24-9C44-9C9E36045D0D a wikibase:Statement ;
+	ps:P910 wd:Q7444591 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q507154 p:P646 wds:Q507154-11D3F18B-AFFF-4714-8083-5E060D07356D .
+
+wds:Q507154-11D3F18B-AFFF-4714-8083-5E060D07356D a wikibase:Statement ;
+	ps:P646 "/m/0150cn" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q507154 p:P902 wds:Q507154-61CC59EC-FB08-4F73-83DA-1FC97305EA20 .
+
+wds:Q507154-61CC59EC-FB08-4F73-83DA-1FC97305EA20 a wikibase:Statement ;
+	ps:P902 "43678" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:85e85ee7e4bc105f609c4e38d850f05512d7e014 .
+
+wd:Q507154 p:P159 wds:Q507154-F2175622-3C97-4330-B729-8ABB76BC075D .
+
+wds:Q507154-F2175622-3C97-4330-B729-8ABB76BC075D a wikibase:Statement ;
+	ps:P159 wd:Q78 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q507154 p:P18 wds:Q507154-84E9DB45-2AFC-46A3-A888-1573D7FE52AC .
+
+wds:Q507154-84E9DB45-2AFC-46A3-A888-1573D7FE52AC a wikibase:Statement ;
+	ps:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Industria%20Novartis.jpg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7a07c248d59b68eba79e5c5c2a59c6d07cf2cec5 .
+
+wd:Q507154 p:P31 wds:Q507154-5354073a-4ea3-ba79-7826-4464c7645bf5 .
+
+wds:Q507154-5354073a-4ea3-ba79-7826-4464c7645bf5 a wikibase:Statement ;
+	ps:P31 wd:Q693737 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q507154 p:P414 wds:Q507154-41952d0a-4e91-a1c1-121d-151763c42f25 .
+
+wds:Q507154-41952d0a-4e91-a1c1-121d-151763c42f25 a wikibase:Statement ;
+	ps:P414 wd:Q661834 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "NOVN" .
+
+wd:Q507154 p:P414 wds:Q507154-e1d9d8d8-450d-8b46-460e-9423e9cb0c38 .
+
+wds:Q507154-e1d9d8d8-450d-8b46-460e-9423e9cb0c38 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "NVS" .
+
+wd:Q507154 p:P571 wds:Q507154-ac56306f-4531-4f1d-1c29-20988972bb48 .
+
+wds:Q507154-ac56306f-4531-4f1d-1c29-20988972bb48 a wikibase:Statement ;
+	ps:P571 "1996-01-01T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:e1f28dafe18efe99a187a348d0740ee4 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q507154 p:P355 wds:Q507154-65234948-4d87-3809-f6c5-33448d92309d .
+
+wds:Q507154-65234948-4d87-3809-f6c5-33448d92309d a wikibase:Statement ;
+	ps:P355 wd:Q1074758 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q507154 p:P227 wds:Q507154-862477EB-43EF-4403-86CD-E7F96DD3660C .
+
+wds:Q507154-862477EB-43EF-4403-86CD-E7F96DD3660C a wikibase:Statement ;
+	ps:P227 "2163228-5" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+<https://zh.wikipedia.org/wiki/%E8%AF%BA%E5%8D%8E%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "zh" .
+
+<https://als.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "als" .
+
+<https://pl.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "pl" .
+
+<https://fr.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "fr" .
+
+<https://he.wikipedia.org/wiki/%D7%A0%D7%95%D7%91%D7%A8%D7%98%D7%99%D7%A1> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "he" .
+
+<https://ko.wikipedia.org/wiki/%EB%85%B8%EB%B0%94%ED%8B%B0%EC%8A%A4> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "ko" .
+
+<https://es.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "es" .
+
+<https://hu.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "hu" .
+
+<https://it.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "it" .
+
+<https://id.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "id" .
+
+<https://de.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%90%E3%83%AB%E3%83%86%E3%82%A3%E3%82%B9> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "ja" .
+
+<https://nl.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "nl" .
+
+<https://pt.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "pt" .
+
+<https://ru.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "ru" .
+
+<https://sr.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%81> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "sr" .
+
+<https://en.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "en" .
+
+<https://tr.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "tr" .
+
+<https://ro.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "ro" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B4%E0%B8%AA> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "th" .
+
+<https://no.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "no" .
+
+<https://ca.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "ca" .
+
+<https://cs.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "cs" .
+
+<https://bg.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%81> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "bg" .
+
+<https://fa.wikipedia.org/wiki/%D9%86%D9%88%D8%A7%D8%B1%D8%AA%DB%8C%D8%B3> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "fa" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AF%8B%E0%AE%B5%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%80%E0%AE%9A%E0%AF%81> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "ta" .
+
+<https://fi.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "fi" .
+
+<https://ar.wikipedia.org/wiki/%D9%86%D9%88%D9%81%D8%A7%D8%B1%D8%AA%D8%B3> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "ar" .
+
+<https://sh.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "sh" .
+
+<https://da.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "da" .
+
+<https://sv.wikipedia.org/wiki/Novartis> a schema:Article ;
+	schema:about wd:Q507154 ;
+	schema:inLanguage "sv" .
+
+wdata:Q507155 schema:version "230386812"^^xsd:integer ;
+	schema:dateModified "2015-07-14T08:15:09Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q507155 .
+

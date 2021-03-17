@@ -1,0 +1,91 @@
+wd:Q2882085 a wikibase:Item ;
+	rdfs:label "Banco de Chile"@ru ;
+	skos:prefLabel "Banco de Chile"@ru ;
+	schema:name "Banco de Chile"@ru ;
+	rdfs:label "Banco de Chile"@fr ;
+	skos:prefLabel "Banco de Chile"@fr ;
+	schema:name "Banco de Chile"@fr ;
+	rdfs:label "Banco de Chile"@en ;
+	skos:prefLabel "Banco de Chile"@en ;
+	schema:name "Banco de Chile"@en ;
+	rdfs:label "Banco de Chile"@es ;
+	skos:prefLabel "Banco de Chile"@es ;
+	schema:name "Banco de Chile"@es ;
+	rdfs:label "Banco de Chile"@nl ;
+	skos:prefLabel "Banco de Chile"@nl ;
+	schema:name "Banco de Chile"@nl ;
+	rdfs:label "بانکو دی شیلی"@fa ;
+	skos:prefLabel "بانکو دی شیلی"@fa ;
+	schema:name "بانکو دی شیلی"@fa ;
+	skos:altLabel "Sociedad Matríz del Banco de Chile"@es,
+		"Banco de chile"@es,
+		"Banco CrediChile"@es,
+		"Sociedad Matriz del Banco de Chile"@es ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P373 "Banco de Chile" ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P646 "/m/0kqql3" ;
+	wdt:P17 wd:Q298 ;
+	p:P414 wds:q2882085-FBF50267-77CA-441D-B40A-9D9F094F8BD4 .
+
+wds:q2882085-FBF50267-77CA-441D-B40A-9D9F094F8BD4 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2882085 p:P373 wds:q2882085-3DA6031B-7667-43D6-A5FB-9BF8ACCE10A7 .
+
+wds:q2882085-3DA6031B-7667-43D6-A5FB-9BF8ACCE10A7 a wikibase:Statement ;
+	ps:P373 "Banco de Chile" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:dbe2189e7b0d3953de6f69cc1cc88109a79605a4 .
+
+wd:Q2882085 p:P31 wds:q2882085-D3B1F9FB-7D72-4BC4-96F9-1D548EAA8205 .
+
+wds:q2882085-D3B1F9FB-7D72-4BC4-96F9-1D548EAA8205 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q2882085 p:P646 wds:Q2882085-A8FE8CC8-D073-41AC-BA20-87D339853834 .
+
+wds:Q2882085-A8FE8CC8-D073-41AC-BA20-87D339853834 a wikibase:Statement ;
+	ps:P646 "/m/0kqql3" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q2882085 p:P17 wds:Q2882085-B38B9438-8FE7-4944-9A61-A5892E429414 .
+
+wds:Q2882085-B38B9438-8FE7-4944-9A61-A5892E429414 a wikibase:Statement ;
+	ps:P17 wd:Q298 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://ru.wikipedia.org/wiki/Banco%20de%20Chile> a schema:Article ;
+	schema:about wd:Q2882085 ;
+	schema:inLanguage "ru" .
+
+<https://fr.wikipedia.org/wiki/Banco%20de%20Chile> a schema:Article ;
+	schema:about wd:Q2882085 ;
+	schema:inLanguage "fr" .
+
+<https://en.wikipedia.org/wiki/Banco%20de%20Chile> a schema:Article ;
+	schema:about wd:Q2882085 ;
+	schema:inLanguage "en" .
+
+<https://es.wikipedia.org/wiki/Banco%20de%20Chile> a schema:Article ;
+	schema:about wd:Q2882085 ;
+	schema:inLanguage "es" .
+
+<https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86%DA%A9%D9%88%20%D8%AF%DB%8C%20%D8%B4%DB%8C%D9%84%DB%8C> a schema:Article ;
+	schema:about wd:Q2882085 ;
+	schema:inLanguage "fa" .
+
+wdata:Q2882086 schema:version "4066785"^^xsd:integer ;
+	schema:dateModified "2013-01-11T17:37:49Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q2882086 .
+

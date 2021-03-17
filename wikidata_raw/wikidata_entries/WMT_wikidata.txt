@@ -1,0 +1,775 @@
+wd:Q483551 a wikibase:Item ;
+	rdfs:label "沃尔玛"@zh-hans ;
+	skos:prefLabel "沃尔玛"@zh-hans ;
+	schema:name "沃尔玛"@zh-hans ;
+	rdfs:label "沃爾瑪"@zh-hant ;
+	skos:prefLabel "沃爾瑪"@zh-hant ;
+	schema:name "沃爾瑪"@zh-hant ;
+	rdfs:label "沃爾瑪"@zh-hk ;
+	skos:prefLabel "沃爾瑪"@zh-hk ;
+	schema:name "沃爾瑪"@zh-hk ;
+	rdfs:label "ཝལ་མར།"@bo ;
+	skos:prefLabel "ཝལ་མར།"@bo ;
+	schema:name "ཝལ་མར།"@bo ;
+	rdfs:label "Wal-Mart"@pl ;
+	skos:prefLabel "Wal-Mart"@pl ;
+	schema:name "Wal-Mart"@pl ;
+	rdfs:label "Wal-Mart"@uz ;
+	skos:prefLabel "Wal-Mart"@uz ;
+	schema:name "Wal-Mart"@uz ;
+	rdfs:label "Walmart"@es ;
+	skos:prefLabel "Walmart"@es ;
+	schema:name "Walmart"@es ;
+	rdfs:label "வோல் மார்ட்"@ta ;
+	skos:prefLabel "வோல் மார்ட்"@ta ;
+	schema:name "வோல் மார்ட்"@ta ;
+	rdfs:label "Walmart"@hu ;
+	skos:prefLabel "Walmart"@hu ;
+	schema:name "Walmart"@hu ;
+	rdfs:label "Wal-Mart"@et ;
+	skos:prefLabel "Wal-Mart"@et ;
+	schema:name "Wal-Mart"@et ;
+	rdfs:label "ওয়ালমার্ট"@bn ;
+	skos:prefLabel "ওয়ালমার্ট"@bn ;
+	schema:name "ওয়ালমার্ট"@bn ;
+	rdfs:label "Wal-Mart"@ga ;
+	skos:prefLabel "Wal-Mart"@ga ;
+	schema:name "Wal-Mart"@ga ;
+	rdfs:label "والمارٹ"@pnb ;
+	skos:prefLabel "والمارٹ"@pnb ;
+	schema:name "والمارٹ"@pnb ;
+	rdfs:label "Walmart"@nl ;
+	skos:prefLabel "Walmart"@nl ;
+	schema:name "Walmart"@nl ;
+	rdfs:label "Walmart"@sv ;
+	skos:prefLabel "Walmart"@sv ;
+	schema:name "Walmart"@sv ;
+	rdfs:label "وول مارت"@ar ;
+	skos:prefLabel "وول مارت"@ar ;
+	schema:name "وول مارت"@ar ;
+	rdfs:label "Walmart"@pt ;
+	skos:prefLabel "Walmart"@pt ;
+	schema:name "Walmart"@pt ;
+	rdfs:label "Wal-Mart"@eo ;
+	skos:prefLabel "Wal-Mart"@eo ;
+	schema:name "Wal-Mart"@eo ;
+	rdfs:label "וואל-מארט"@yi ;
+	skos:prefLabel "וואל-מארט"@yi ;
+	schema:name "וואל-מארט"@yi ;
+	rdfs:label "Wal-Mart Stores"@ru ;
+	skos:prefLabel "Wal-Mart Stores"@ru ;
+	schema:name "Wal-Mart Stores"@ru ;
+	rdfs:label "Wal-Mart"@tr ;
+	skos:prefLabel "Wal-Mart"@tr ;
+	schema:name "Wal-Mart"@tr ;
+	rdfs:label "Wal-Mart Kûng-sṳ̂"@hak ;
+	skos:prefLabel "Wal-Mart Kûng-sṳ̂"@hak ;
+	schema:name "Wal-Mart Kûng-sṳ̂"@hak ;
+	rdfs:label "WalMart"@fi ;
+	skos:prefLabel "WalMart"@fi ;
+	schema:name "WalMart"@fi ;
+	rdfs:label "Wal-Mart"@uk ;
+	skos:prefLabel "Wal-Mart"@uk ;
+	schema:name "Wal-Mart"@uk ;
+	rdfs:label "Walmart"@sco ;
+	skos:prefLabel "Walmart"@sco ;
+	schema:name "Walmart"@sco ;
+	rdfs:label "Walmart"@da ;
+	skos:prefLabel "Walmart"@da ;
+	schema:name "Walmart"@da ;
+	rdfs:label "Wal-Mart"@nah ;
+	skos:prefLabel "Wal-Mart"@nah ;
+	schema:name "Wal-Mart"@nah ;
+	rdfs:label "וול-מארט"@he ;
+	skos:prefLabel "וול-מארט"@he ;
+	schema:name "וול-מארט"@he ;
+	rdfs:label "월마트"@ko ;
+	skos:prefLabel "월마트"@ko ;
+	schema:name "월마트"@ko ;
+	rdfs:label "Walmart"@fr ;
+	skos:prefLabel "Walmart"@fr ;
+	schema:name "Walmart"@fr ;
+	rdfs:label "Walmart"@lv ;
+	skos:prefLabel "Walmart"@lv ;
+	schema:name "Walmart"@lv ;
+	rdfs:label "Walmart"@it ;
+	skos:prefLabel "Walmart"@it ;
+	schema:name "Walmart"@it ;
+	rdfs:label "Walmart"@de ;
+	skos:prefLabel "Walmart"@de ;
+	schema:name "Walmart"@de ;
+	rdfs:label "Wal-Mart"@id ;
+	skos:prefLabel "Wal-Mart"@id ;
+	schema:name "Wal-Mart"@id ;
+	rdfs:label "വാൾ-മാർട്ട്"@ml ;
+	skos:prefLabel "വാൾ-മാർട്ട്"@ml ;
+	schema:name "വാൾ-മാർട്ട്"@ml ;
+	rdfs:label "ウォルマート"@ja ;
+	skos:prefLabel "ウォルマート"@ja ;
+	schema:name "ウォルマート"@ja ;
+	rdfs:label "Wal-Mart"@vi ;
+	skos:prefLabel "Wal-Mart"@vi ;
+	schema:name "Wal-Mart"@vi ;
+	rdfs:label "Walmart"@en ;
+	skos:prefLabel "Walmart"@en ;
+	schema:name "Walmart"@en ;
+	rdfs:label "वॉल मार्ट"@hi ;
+	skos:prefLabel "वॉल मार्ट"@hi ;
+	schema:name "वॉल मार्ट"@hi ;
+	rdfs:label "Walmart"@sk ;
+	skos:prefLabel "Walmart"@sk ;
+	schema:name "Walmart"@sk ;
+	rdfs:label "ವಾಲ್ ಮಾರ್ಟ್"@kn ;
+	skos:prefLabel "ವಾಲ್ ಮಾರ್ಟ್"@kn ;
+	schema:name "ವಾಲ್ ಮಾರ್ಟ್"@kn ;
+	rdfs:label "Wal-Mart"@ro ;
+	skos:prefLabel "Wal-Mart"@ro ;
+	schema:name "Wal-Mart"@ro ;
+	rdfs:label "วอลมาร์ต"@th ;
+	skos:prefLabel "วอลมาร์ต"@th ;
+	schema:name "วอลมาร์ต"@th ;
+	rdfs:label "Wal-Mart"@ca ;
+	skos:prefLabel "Wal-Mart"@ca ;
+	schema:name "Wal-Mart"@ca ;
+	rdfs:label "Walmart"@war ;
+	skos:prefLabel "Walmart"@war ;
+	schema:name "Walmart"@war ;
+	rdfs:label "Wal-Mart"@cs ;
+	skos:prefLabel "Wal-Mart"@cs ;
+	schema:name "Wal-Mart"@cs ;
+	rdfs:label "Wal-Mart"@sgs ;
+	skos:prefLabel "Wal-Mart"@sgs ;
+	schema:name "Wal-Mart"@sgs ;
+	rdfs:label "وال‌مارت"@fa ;
+	skos:prefLabel "وال‌مارت"@fa ;
+	schema:name "وال‌مارت"@fa ;
+	rdfs:label "Уол-Март"@bg ;
+	skos:prefLabel "Уол-Март"@bg ;
+	schema:name "Уол-Март"@bg ;
+	rdfs:label "वॉल-मार्ट"@mr ;
+	skos:prefLabel "वॉल-मार्ट"@mr ;
+	schema:name "वॉल-मार्ट"@mr ;
+	rdfs:label "వాల్-మార్ట్"@te ;
+	skos:prefLabel "వాల్-మార్ట్"@te ;
+	schema:name "వాల్-మార్ట్"@te ;
+	rdfs:label "უოლ-მარტი"@ka ;
+	skos:prefLabel "უოლ-მარტი"@ka ;
+	schema:name "უოლ-მარტი"@ka ;
+	rdfs:label "Walmart"@lt ;
+	skos:prefLabel "Walmart"@lt ;
+	schema:name "Walmart"@lt ;
+	rdfs:label "沃尔玛"@zh ;
+	skos:prefLabel "沃尔玛"@zh ;
+	schema:name "沃尔玛"@zh ;
+	rdfs:label "Walmart"@nb ;
+	skos:prefLabel "Walmart"@nb ;
+	schema:name "Walmart"@nb ;
+	rdfs:label "Walmart"@sah ;
+	skos:prefLabel "Walmart"@sah ;
+	schema:name "Walmart"@sah ;
+	rdfs:label "Wal-Mart Stores"@ur ;
+	skos:prefLabel "Wal-Mart Stores"@ur ;
+	schema:name "Wal-Mart Stores"@ur ;
+	rdfs:label "Walmart"@ms ;
+	skos:prefLabel "Walmart"@ms ;
+	schema:name "Walmart"@ms ;
+	rdfs:label "Волмарт"@sr ;
+	skos:prefLabel "Волмарт"@sr ;
+	schema:name "Волмарт"@sr ;
+	rdfs:label "Walmart"@hy ;
+	skos:prefLabel "Walmart"@hy ;
+	schema:name "Walmart"@hy ;
+	schema:description "enterprise"@fr,
+		"discount retailer based in the United States"@en,
+		"Einzelhandelskette"@de ;
+	skos:altLabel "沃尔玛超市"@zh,
+		"Walmart"@zh,
+		"沃尔玛公司"@zh,
+		"沃爾瑪連鎖超市"@zh,
+		"Wal-Mart"@zh,
+		"沃爾瑪"@zh,
+		"ཝལ་མར་"@bo,
+		"Walmart"@pl,
+		"Wал-Март"@uz,
+		"Valmart"@uz,
+		"Wal Mart"@es,
+		"Wal-Mart Stores"@es,
+		"Wal Mart Stores Inc."@es,
+		"Supermercado de Wal-Mart"@es,
+		"Supermercado De Walmart"@es,
+		"Wal Mart Stores Inc"@es,
+		"Wall Mart"@es,
+		"Wal-Mart"@es,
+		"Wal Mart Stores"@es,
+		"Wal-Mart Stores Inc."@es,
+		"Wal-Mart Stores Inc"@es,
+		"Walmart Soundcheck"@es,
+		"வால் மார்ட்"@ta,
+		"Wal-Mart Stores"@et,
+		"Walmart"@et,
+		"Walmart Stores"@et,
+		"List of Wal-Mart articles"@bn,
+		"Wal-Mart Tire & Lube Express"@bn,
+		"Radio Grill"@bn,
+		"Supermercado de Wal-Mart"@bn,
+		"Project Impact"@bn,
+		"Walton Five and Dime"@bn,
+		"Walmart Supercenter"@bn,
+		"Super Walmart"@bn,
+		"Walmart Connect"@bn,
+		"Wal⋆Mart"@bn,
+		"Walmart Stores"@bn,
+		"Wal-Mart Cafe"@bn,
+		"Wally Mart"@bn,
+		"Super Wal-Mart"@bn,
+		"India walmart"@bn,
+		"Wal-Mart Stores Division U.S."@bn,
+		"Wall-Mart"@nl,
+		"Wal-mart"@nl,
+		"Wal-Mart"@sv,
+		"Wal Mart"@sv,
+		"وال مارت"@ar,
+		"Wal-Mart Stores"@pt,
+		"Wal Mart"@pt,
+		"Walmart Soundcheck"@pt,
+		"Mart"@pt,
+		"Wal-mart"@pt,
+		"Wal Mart Stores"@pt,
+		"Wal-Mart Stores Inc."@eo,
+		"וואל מארט"@yi,
+		"Вол-Март"@ru,
+		"Wal Mart"@ru,
+		"Уол-Март"@ru,
+		"Walmart"@ru,
+		"Wal-Mart"@ru,
+		"Walmart"@tr,
+		"Wal Mart"@tr,
+		"Wal-Mart Stores"@fi,
+		"Walmart.com"@fi,
+		"Wal Mart"@fi,
+		"Wal-Mart"@fi,
+		"Уол-Март"@uk,
+		"Вол-Март"@uk,
+		"Wal-Mart"@da,
+		"Wal-Mart Stores Inc"@da,
+		"וול-מרט"@he,
+		"וולמרט"@he,
+		"וול מרט"@he,
+		"וולמארט"@he,
+		"וול מארט"@he,
+		"월-마트 스토어스"@ko,
+		"월 마트"@ko,
+		"월마트 스토어스"@ko,
+		"월-마트"@ko,
+		"Wallmart"@fr,
+		"Wal-Mart Stores"@fr,
+		"Wal Mart"@fr,
+		"Wal-mart"@fr,
+		"Wall-Mart"@fr,
+		"Wall Mart"@fr,
+		"Wal-Mart"@lv,
+		"Wal-Mart Stores"@lv,
+		"Wal-Mart"@it,
+		"Wal-Mart Stores"@it,
+		"Wal-Mart Stores Inc."@de,
+		"Wal-Mart Stores"@de,
+		"Wal Mart"@de,
+		"Wal-Mart"@de,
+		"Wal-Mart"@ml,
+		"വാൾമാർട്ട്"@ml,
+		"Walmart"@ja,
+		"ウォルマート・ストアーズ"@ja,
+		"ウォールマート"@ja,
+		"Wal-Mart Stores Inc."@vi,
+		"वाल मार्ट"@hi,
+		"वालमार्ट"@hi,
+		"वॉल-मार्ट"@hi,
+		"वॉलमार्ट"@hi,
+		"Walmart"@ro,
+		"Wal-Mart Stores"@ro,
+		"Walmart"@th,
+		"วอลมาร์ต"@th,
+		"วอล์มาร์ท"@th,
+		"วอลมาร์ท"@th,
+		"Wal-Mart Stores"@ca,
+		"Wal Mart"@ca,
+		"Wal-Mart"@war,
+		"Wal-Mart Stores"@cs,
+		"Walmart"@cs,
+		"Wal*Mart"@cs,
+		"وال-مارت"@fa,
+		"والمارت"@fa,
+		"وال مارت"@fa,
+		"Wal-Mart"@bg,
+		"Wal Mart"@bg,
+		"Уолмарт"@bg,
+		"वॉलमार्ट"@mr,
+		"వాల్ మార్ట్"@te,
+		"Wal-Mart"@lt,
+		"Wal-Mart Stores"@lt,
+		"Wal-Mart"@en,
+		"Walmart"@nb,
+		"Walmart"@sgs,
+		"TV10"@ms ;
+	wdt:P112 wd:Q497827 ;
+	wdt:P946 "US9311421039" ;
+	wdt:P373 "Wal-Mart" ;
+	wdt:P31 wd:Q783794,
+		wd:Q507619 ;
+	wdt:P856 <http://www.walmart.com/> ;
+	wdt:P910 wd:Q6383259 ;
+	wdt:P159 wd:Q818364 ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P355 wd:Q1972120,
+		wd:Q3297791,
+		wd:Q1645718,
+		wd:Q5283104,
+		wd:Q1064887,
+		wd:Q3108542,
+		wd:Q297410 ;
+	wdt:P127 wd:Q17343056,
+		wd:Q4008579,
+		wd:Q2037125 ;
+	wdt:P214 "128951275" ;
+	wdt:P646 "/m/0841v" ;
+	p:P112 wds:q483551-07EB4FC0-378E-455F-BADD-BB1E0A9F9FE3 .
+
+wds:q483551-07EB4FC0-378E-455F-BADD-BB1E0A9F9FE3 a wikibase:Statement ;
+	ps:P112 wd:Q497827 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q483551 p:P946 wds:Q483551-7825eeec-426c-a675-811a-a54d31070a15 .
+
+wds:Q483551-7825eeec-426c-a675-811a-a54d31070a15 a wikibase:Statement ;
+	ps:P946 "US9311421039" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q483551 p:P373 wds:q483551-10FE3B57-0A34-44F5-BBB7-157A248A2F1A .
+
+wds:q483551-10FE3B57-0A34-44F5-BBB7-157A248A2F1A a wikibase:Statement ;
+	ps:P373 "Wal-Mart" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q483551 p:P31 wds:q483551-435C79CE-134B-4975-B1B4-3903A0BC2588 .
+
+wds:q483551-435C79CE-134B-4975-B1B4-3903A0BC2588 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q483551 p:P31 wds:q483551-08068E5B-011A-4418-B880-E6F3F1DC8439 .
+
+wds:q483551-08068E5B-011A-4418-B880-E6F3F1DC8439 a wikibase:Statement ;
+	ps:P31 wd:Q507619 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:223f43a7229297bd67ffab922174f80c722fff1a .
+
+wd:Q483551 p:P856 wds:Q483551-6B53C1E6-9ED8-4DF8-BE61-CD09AD093C57 .
+
+wds:Q483551-6B53C1E6-9ED8-4DF8-BE61-CD09AD093C57 a wikibase:Statement ;
+	ps:P856 <http://www.walmart.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q483551 p:P910 wds:Q483551-60409CB5-8E0A-4A57-BFF4-2191314B0B30 .
+
+wds:Q483551-60409CB5-8E0A-4A57-BFF4-2191314B0B30 a wikibase:Statement ;
+	ps:P910 wd:Q6383259 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q483551 p:P159 wds:Q483551-0de123f8-4257-ae5f-1f4f-67cd45f52e15 .
+
+wds:Q483551-0de123f8-4257-ae5f-1f4f-67cd45f52e15 a wikibase:Statement ;
+	ps:P159 wd:Q818364 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(36.364166666667 -94.216388888889)"^^geo:wktLiteral ;
+	pqv:P625 wdv:be4b3abfd13489d724af709556db7c26 .
+
+wd:Q483551 p:P414 wds:Q483551-19e8d769-4c08-0762-2a93-c243b1cabc79 .
+
+wds:Q483551-19e8d769-4c08-0762-2a93-c243b1cabc79 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "WMT" .
+
+wd:Q483551 p:P355 wds:Q483551-ee14bc9b-4fda-30ec-28f5-c41ed0a0a1e7 .
+
+wds:Q483551-ee14bc9b-4fda-30ec-28f5-c41ed0a0a1e7 a wikibase:Statement ;
+	ps:P355 wd:Q1972120 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q483551 p:P355 wds:Q483551-cfde6606-46db-6c9c-fa5c-ba536651313f .
+
+wds:Q483551-cfde6606-46db-6c9c-fa5c-ba536651313f a wikibase:Statement ;
+	ps:P355 wd:Q3297791 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P1107 "+0.51"^^xsd:decimal ;
+	pqv:P1107 wdv:a01a42eccc1426ab53abb0bfdba25acf .
+
+wd:Q483551 p:P355 wds:Q483551-05f7185e-4c28-a5d6-98de-719cfdaf99f0 .
+
+wds:Q483551-05f7185e-4c28-a5d6-98de-719cfdaf99f0 a wikibase:Statement ;
+	ps:P355 wd:Q1645718 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q483551 p:P355 wds:Q483551-87411199-4595-0d8a-cea7-dad4225f2393 .
+
+wds:Q483551-87411199-4595-0d8a-cea7-dad4225f2393 a wikibase:Statement ;
+	ps:P355 wd:Q5283104 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q483551 p:P355 wds:Q483551-750809af-4f98-3120-eaab-8dada65b56f5 .
+
+wds:Q483551-750809af-4f98-3120-eaab-8dada65b56f5 a wikibase:Statement ;
+	ps:P355 wd:Q1064887 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P1107 "+0.6"^^xsd:decimal ;
+	pqv:P1107 wdv:9abed08b6f7f4ae32fa808c0bdd45adc .
+
+wd:Q483551 p:P355 wds:Q483551-7597ddb5-413b-6601-fdce-600ef872c752 .
+
+wds:Q483551-7597ddb5-413b-6601-fdce-600ef872c752 a wikibase:Statement ;
+	ps:P355 wd:Q3108542 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q483551 p:P355 wds:Q483551-5b09c92d-4afa-b85f-6e65-1db94e650291 .
+
+wds:Q483551-5b09c92d-4afa-b85f-6e65-1db94e650291 a wikibase:Statement ;
+	ps:P355 wd:Q297410 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q483551 p:P127 wds:Q483551-f81971e3-40c1-89a8-7b4b-d55156d638fc .
+
+wds:Q483551-f81971e3-40c1-89a8-7b4b-d55156d638fc a wikibase:Statement ;
+	ps:P127 wd:Q17343056 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P1107 "+0.4975"^^xsd:decimal ;
+	pqv:P1107 wdv:41aef8291666b302bb51bd4a9821d1fe .
+
+wd:Q483551 p:P127 wds:Q483551-182f300d-43cb-2ade-edc7-f41668ce41fb .
+
+wds:Q483551-182f300d-43cb-2ade-edc7-f41668ce41fb a wikibase:Statement ;
+	ps:P127 wd:Q4008579 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P1107 "+0.0289"^^xsd:decimal ;
+	pqv:P1107 wdv:cd00a5ec9708dae155cadc8f4d5aa23c .
+
+wd:Q483551 p:P127 wds:Q483551-4bb179af-4810-0239-f7df-4cfe46314abd .
+
+wds:Q483551-4bb179af-4810-0239-f7df-4cfe46314abd a wikibase:Statement ;
+	ps:P127 wd:Q2037125 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P1107 "+0.0215"^^xsd:decimal ;
+	pqv:P1107 wdv:3062d75a44ea3298bdb08da41bb19c7d .
+
+wd:Q483551 p:P214 wds:Q483551-65EF8DA5-D8DB-44D2-BC9F-7BB326258F9D .
+
+wds:Q483551-65EF8DA5-D8DB-44D2-BC9F-7BB326258F9D a wikibase:Statement ;
+	ps:P214 "128951275" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q483551 p:P646 wds:Q483551-f56f1190-42f6-46a9-9fa8-9da0a6acd145 .
+
+wds:Q483551-f56f1190-42f6-46a9-9fa8-9da0a6acd145 a wikibase:Statement ;
+	ps:P646 "/m/0841v" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://zh.wikipedia.org/wiki/%E6%B2%83%E5%B0%94%E7%8E%9B> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "zh" .
+
+<https://bo.wikipedia.org/wiki/%E0%BD%9D%E0%BD%A3%E0%BC%8B%E0%BD%98%E0%BD%A2%E0%BC%8D> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "bo" .
+
+<https://pl.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "pl" .
+
+<https://uz.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "uz" .
+
+<https://es.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "es" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AF%8B%E0%AE%B2%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%9F%E0%AF%8D> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "ta" .
+
+<https://hu.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "hu" .
+
+<https://et.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "et" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B2%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "bn" .
+
+<https://ga.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "ga" .
+
+<https://pnb.wikipedia.org/wiki/%D9%88%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D9%B9> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "pnb" .
+
+<https://nl.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "nl" .
+
+<https://sv.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "sv" .
+
+<https://ar.wikipedia.org/wiki/%D9%88%D9%88%D9%84%20%D9%85%D8%A7%D8%B1%D8%AA> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "ar" .
+
+<https://pt.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "pt" .
+
+<https://eo.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "eo" .
+
+<https://yi.wikipedia.org/wiki/%D7%95%D7%95%D7%90%D7%9C-%D7%9E%D7%90%D7%A8%D7%98> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "yi" .
+
+<https://ru.wikipedia.org/wiki/Wal-Mart%20Stores> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "ru" .
+
+<https://tr.wikipedia.org/wiki/Wal-Mart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "tr" .
+
+<https://hak.wikipedia.org/wiki/Wal-Mart%20K%C3%BBng-s%E1%B9%B3%CC%82> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "hak" .
+
+<https://uk.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "uk" .
+
+<https://sco.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "sco" .
+
+<https://da.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "da" .
+
+<https://nah.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "nah" .
+
+<https://he.wikipedia.org/wiki/%D7%95%D7%95%D7%9C-%D7%9E%D7%90%D7%A8%D7%98> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "he" .
+
+<https://ko.wikipedia.org/wiki/%EC%9B%94%EB%A7%88%ED%8A%B8> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "ko" .
+
+<https://fr.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "fr" .
+
+<https://lv.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "lv" .
+
+<https://it.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "it" .
+
+<https://de.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "de" .
+
+<https://id.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "id" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BE%E0%B5%BE-%E0%B4%AE%E0%B4%BE%E0%B5%BC%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "ml" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%9E%E3%83%BC%E3%83%88> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "ja" .
+
+<https://vi.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "vi" .
+
+<https://simple.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "simple" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A5%89%E0%A4%B2%20%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "hi" .
+
+<https://sk.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "sk" .
+
+<https://en.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "en" .
+
+<https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B2%BE%E0%B2%B2%E0%B3%8D%20%E0%B2%AE%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%9F%E0%B3%8D> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "kn" .
+
+<https://ro.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "ro" .
+
+<https://no.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "no" .
+
+<https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "th" .
+
+<https://ca.wikipedia.org/wiki/Wal-Mart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "ca" .
+
+<https://war.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "war" .
+
+<https://cs.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "cs" .
+
+<https://fa.wikipedia.org/wiki/%D9%88%D8%A7%D9%84%E2%80%8C%D9%85%D8%A7%D8%B1%D8%AA> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "fa" .
+
+<https://bg.wikipedia.org/wiki/%D0%A3%D0%BE%D0%BB-%D0%9C%D0%B0%D1%80%D1%82> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "bg" .
+
+<https://mr.wikipedia.org/wiki/%E0%A4%B5%E0%A5%89%E0%A4%B2-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "mr" .
+
+<https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%BE%E0%B0%B2%E0%B1%8D-%E0%B0%AE%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%9F%E0%B1%8D> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "te" .
+
+<https://lt.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "lt" .
+
+<https://bat-smg.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "bat-smg" .
+
+<https://sah.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "sah" .
+
+<https://fi.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "fi" .
+
+<https://ur.wikipedia.org/wiki/%D9%88%D8%A7%D9%84%20%D9%85%D8%A7%D8%B1%D9%B9%20%D8%B3%D9%B9%D9%88%D8%B1%D8%B2> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "ur" .
+
+<https://ms.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "ms" .
+
+<https://ka.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "ka" .
+
+<https://hy.wikipedia.org/wiki/Walmart> a schema:Article ;
+	schema:about wd:Q483551 ;
+	schema:inLanguage "hy" .
+
+wdv:be4b3abfd13489d724af709556db7c26 a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "36.364166666667"^^xsd:decimal ;
+	wikibase:geoLongitude "-94.216388888889"^^xsd:decimal ;
+	wikibase:geoPrecision "0.00027777777777778"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdv:a01a42eccc1426ab53abb0bfdba25acf a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+0.51"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+0.52"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+0.50"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdv:9abed08b6f7f4ae32fa808c0bdd45adc a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+0.6"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+0.7"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+0.5"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdv:41aef8291666b302bb51bd4a9821d1fe a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+0.4975"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+0.4976"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+0.4974"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdv:cd00a5ec9708dae155cadc8f4d5aa23c a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+0.0289"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+0.0290"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+0.0288"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdv:3062d75a44ea3298bdb08da41bb19c7d a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+0.0215"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+0.0216"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+0.0214"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdata:Q483562 schema:version "233119686"^^xsd:integer ;
+	schema:dateModified "2015-07-20T02:28:43Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q483562 .
+

@@ -1,0 +1,472 @@
+wd:Q219508 a wikibase:Item ;
+	rdfs:label "花旗集团"@zh-hans ;
+	skos:prefLabel "花旗集团"@zh-hans ;
+	schema:name "花旗集团"@zh-hans ;
+	rdfs:label "花旗集團"@zh-hant ;
+	skos:prefLabel "花旗集團"@zh-hant ;
+	schema:name "花旗集團"@zh-hant ;
+	rdfs:label "花旗集團"@zh-hk ;
+	skos:prefLabel "花旗集團"@zh-hk ;
+	schema:name "花旗集團"@zh-hk ;
+	rdfs:label "花旗集团"@zh-cn ;
+	skos:prefLabel "花旗集团"@zh-cn ;
+	schema:name "花旗集团"@zh-cn ;
+	rdfs:label "花旗集团"@zh-sg ;
+	skos:prefLabel "花旗集团"@zh-sg ;
+	schema:name "花旗集团"@zh-sg ;
+	rdfs:label "花旗集團"@zh-tw ;
+	skos:prefLabel "花旗集團"@zh-tw ;
+	schema:name "花旗集團"@zh-tw ;
+	rdfs:label "Citigroup"@eu ;
+	skos:prefLabel "Citigroup"@eu ;
+	schema:name "Citigroup"@eu ;
+	rdfs:label "Citigroup"@pl ;
+	skos:prefLabel "Citigroup"@pl ;
+	schema:name "Citigroup"@pl ;
+	rdfs:label "Citigroup"@fr ;
+	skos:prefLabel "Citigroup"@fr ;
+	schema:name "Citigroup"@fr ;
+	rdfs:label "סיטיגרופ"@he ;
+	skos:prefLabel "סיטיגרופ"@he ;
+	schema:name "סיטיגרופ"@he ;
+	rdfs:label "시티그룹"@ko ;
+	skos:prefLabel "시티그룹"@ko ;
+	schema:name "시티그룹"@ko ;
+	rdfs:label "Citigroup"@es ;
+	skos:prefLabel "Citigroup"@es ;
+	schema:name "Citigroup"@es ;
+	rdfs:label "Citigroup"@ms ;
+	skos:prefLabel "Citigroup"@ms ;
+	schema:name "Citigroup"@ms ;
+	rdfs:label "Citigroup"@it ;
+	skos:prefLabel "Citigroup"@it ;
+	schema:name "Citigroup"@it ;
+	rdfs:label "Citigroup"@et ;
+	skos:prefLabel "Citigroup"@et ;
+	schema:name "Citigroup"@et ;
+	rdfs:label "Citigroup"@de ;
+	skos:prefLabel "Citigroup"@de ;
+	schema:name "Citigroup"@de ;
+	rdfs:label "Citigroup"@id ;
+	skos:prefLabel "Citigroup"@id ;
+	schema:name "Citigroup"@id ;
+	rdfs:label "シティグループ"@ja ;
+	skos:prefLabel "シティグループ"@ja ;
+	schema:name "シティグループ"@ja ;
+	rdfs:label "Citigroup"@nl ;
+	skos:prefLabel "Citigroup"@nl ;
+	schema:name "Citigroup"@nl ;
+	rdfs:label "سيتي غروب"@ar ;
+	skos:prefLabel "سيتي غروب"@ar ;
+	schema:name "سيتي غروب"@ar ;
+	rdfs:label "Citigroup"@sv ;
+	skos:prefLabel "Citigroup"@sv ;
+	schema:name "Citigroup"@sv ;
+	rdfs:label "सिटीग्रुप"@hi ;
+	skos:prefLabel "सिटीग्रुप"@hi ;
+	schema:name "सिटीग्रुप"@hi ;
+	rdfs:label "Citigroup"@pt ;
+	skos:prefLabel "Citigroup"@pt ;
+	schema:name "Citigroup"@pt ;
+	rdfs:label "Citigroup"@ru ;
+	skos:prefLabel "Citigroup"@ru ;
+	schema:name "Citigroup"@ru ;
+	rdfs:label "ಸಿಟಿಗ್ರೂಪ್‌"@kn ;
+	skos:prefLabel "ಸಿಟಿಗ್ರೂಪ್‌"@kn ;
+	schema:name "ಸಿಟಿಗ್ರೂಪ್‌"@kn ;
+	rdfs:label "Citigroup"@en ;
+	skos:prefLabel "Citigroup"@en ;
+	schema:name "Citigroup"@en ;
+	rdfs:label "Citigroup"@tr ;
+	skos:prefLabel "Citigroup"@tr ;
+	schema:name "Citigroup"@tr ;
+	rdfs:label "Citigroup"@ro ;
+	skos:prefLabel "Citigroup"@ro ;
+	schema:name "Citigroup"@ro ;
+	rdfs:label "Citigroup"@fi ;
+	skos:prefLabel "Citigroup"@fi ;
+	schema:name "Citigroup"@fi ;
+	rdfs:label "Citigroup"@uk ;
+	skos:prefLabel "Citigroup"@uk ;
+	schema:name "Citigroup"@uk ;
+	rdfs:label "Citigroup"@cs ;
+	skos:prefLabel "Citigroup"@cs ;
+	schema:name "Citigroup"@cs ;
+	rdfs:label "सिटीग्रुप"@mr ;
+	skos:prefLabel "सिटीग्रुप"@mr ;
+	schema:name "सिटीग्रुप"@mr ;
+	rdfs:label "سیتی‌گروپ"@fa ;
+	skos:prefLabel "سیتی‌گروپ"@fa ;
+	schema:name "سیتی‌گروپ"@fa ;
+	rdfs:label "સિટીગ્રુપ"@gu ;
+	skos:prefLabel "સિટીગ્રુપ"@gu ;
+	schema:name "સિટીગ્રુપ"@gu ;
+	rdfs:label "సిటీ గ్రూప్"@te ;
+	skos:prefLabel "సిటీ గ్రూప్"@te ;
+	schema:name "సిటీ గ్రూప్"@te ;
+	rdfs:label "Citigroup"@lt ;
+	skos:prefLabel "Citigroup"@lt ;
+	schema:name "Citigroup"@lt ;
+	rdfs:label "Citigroup"@da ;
+	skos:prefLabel "Citigroup"@da ;
+	schema:name "Citigroup"@da ;
+	rdfs:label "Citigroup"@war ;
+	skos:prefLabel "Citigroup"@war ;
+	schema:name "Citigroup"@war ;
+	rdfs:label "Citigroup"@vi ;
+	skos:prefLabel "Citigroup"@vi ;
+	schema:name "Citigroup"@vi ;
+	rdfs:label "花旗集团"@zh ;
+	skos:prefLabel "花旗集团"@zh ;
+	schema:name "花旗集团"@zh ;
+	rdfs:label "Citigroup"@nb ;
+	skos:prefLabel "Citigroup"@nb ;
+	schema:name "Citigroup"@nb ;
+	rdfs:label "سٹی گروپ"@ur ;
+	skos:prefLabel "سٹی گروپ"@ur ;
+	schema:name "سٹی گروپ"@ur ;
+	rdfs:label "সিটিগ্রুপ"@bn ;
+	skos:prefLabel "সিটিগ্রুপ"@bn ;
+	schema:name "সিটিগ্রুপ"@bn ;
+	rdfs:label "Bilirəm"@az ;
+	skos:prefLabel "Bilirəm"@az ;
+	schema:name "Bilirəm"@az ;
+	schema:description "enterprise"@fr ;
+	skos:altLabel "Citi"@zh,
+		"花旗公司"@zh,
+		"Citigroup"@zh,
+		"花旗环球金融有限公司"@zh,
+		"花旗銀行集團"@zh,
+		"花旗集團"@zh,
+		"Citicorp"@fr,
+		"Salomon Smith Barney"@fr,
+		"Citigroup Incorporated"@fr,
+		"씨티그룹"@ko,
+		"씨티 그룹"@ko,
+		"씨티그룹 인코퍼레이션"@ko,
+		"시티 그룹"@ko,
+		"Citi"@es,
+		"Banco Citicorp"@es,
+		"Citi"@it,
+		"Citigroup Bank"@it,
+		"Citicorp"@it,
+		"Citi"@de,
+		"シティー・グループ・インク"@ja,
+		"シティーグループ"@ja,
+		"シティーグループ・インク"@ja,
+		"シティ・コープ"@ja,
+		"シティコープ"@ja,
+		"Citi"@ja,
+		"シティ・グループ"@ja,
+		"Citigroup"@ja,
+		"シティグループ・インク"@ja,
+		"シティ・グループ・インク"@ja,
+		"シティー・グループ"@ja,
+		"シティー・コープ"@ja,
+		"シティーコープ"@ja,
+		"Citibank"@nl,
+		"Citi"@ar,
+		"سيتيغروب"@ar,
+		"سيتي جروب"@ar,
+		"مجموعة سيتي غروبٍ"@ar,
+		"سيتيجروب"@ar,
+		"Citi"@ru,
+		"Ситигруп"@ru,
+		"Citicorp"@ru,
+		"Ситикорп"@ru,
+		"Citi"@fi,
+		"National City Bank of New York"@fi,
+		"Citibank"@fi,
+		"City Bank of New York"@fi,
+		"Citi"@uk,
+		"Сітігруп"@uk,
+		"Ситігруп"@uk,
+		"सिटीग्रुप इं."@mr,
+		"सिटीग्रुप इंक"@mr,
+		"سیتی گروپ"@fa,
+		"تراولرز گروپ"@fa,
+		"Citi"@lt,
+		"Citibank"@lt,
+		"Citi"@da,
+		"Citigroup Inc."@da,
+		"Citigroup Inc"@da,
+		"Citi"@nb ;
+	wdt:P1297 "52-1568099" ;
+	wdt:P1278 "6SHGI4ZSSLCXXQSBB395" ;
+	wdt:P373 "Citigroup" ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Citi.svg> ;
+	wdt:P910 wd:Q6423089 ;
+	wdt:P856 <http://www.citigroup.com/> ;
+	wdt:P159 wd:Q4636099 ;
+	wdt:P571 "1812-06-16T00:00:00Z"^^xsd:dateTime ;
+	wdt:P646 "/m/01dfb6" ;
+	wdt:P227 "5337756-4" ;
+	wdt:P214 "158647664" ;
+	p:P1297 wds:Q219508-3add99f2-4831-5527-3955-63f3540f1e8d .
+
+wds:Q219508-3add99f2-4831-5527-3955-63f3540f1e8d a wikibase:Statement ;
+	ps:P1297 "52-1568099" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q219508 p:P1278 wds:Q219508-a487d74b-45ca-01fe-dfe8-ec8f3a7d4cc1 .
+
+wds:Q219508-a487d74b-45ca-01fe-dfe8-ec8f3a7d4cc1 a wikibase:Statement ;
+	ps:P1278 "6SHGI4ZSSLCXXQSBB395" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q219508 p:P373 wds:q219508-219953CF-5396-4C79-BD25-EFA9D738460E .
+
+wds:q219508-219953CF-5396-4C79-BD25-EFA9D738460E a wikibase:Statement ;
+	ps:P373 "Citigroup" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q219508 p:P31 wds:q219508-65D6B9C1-65D9-4D96-A6D4-93301E8E91DC .
+
+wds:q219508-65D6B9C1-65D9-4D96-A6D4-93301E8E91DC a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q219508 p:P414 wds:q219508-AB21BCBF-1E95-40F2-93A7-B726FC04BD71 .
+
+wds:q219508-AB21BCBF-1E95-40F2-93A7-B726FC04BD71 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "C" .
+
+wd:Q219508 p:P154 wds:q219508-783cba7e-4f5e-5e7b-4d91-0a3723a19b1a .
+
+wds:q219508-783cba7e-4f5e-5e7b-4d91-0a3723a19b1a a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Citi.svg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q219508 p:P910 wds:Q219508-150C1923-4662-4429-9FA4-0161D504B566 .
+
+wds:Q219508-150C1923-4662-4429-9FA4-0161D504B566 a wikibase:Statement ;
+	ps:P910 wd:Q6423089 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q219508 p:P856 wds:Q219508-001fbbc3-4cbc-d015-11f1-9c23e65a2cbc .
+
+wds:Q219508-001fbbc3-4cbc-d015-11f1-9c23e65a2cbc a wikibase:Statement ;
+	ps:P856 <http://www.citigroup.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q219508 p:P159 wds:Q219508-281950a2-422e-49ae-0eaf-45e0cf388992 .
+
+wds:Q219508-281950a2-422e-49ae-0eaf-45e0cf388992 a wikibase:Statement ;
+	ps:P159 wd:Q4636099 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q219508 p:P571 wds:Q219508-93cd820b-4028-36b1-1e54-fcc4470804d3 .
+
+wds:Q219508-93cd820b-4028-36b1-1e54-fcc4470804d3 a wikibase:Statement ;
+	ps:P571 "1812-06-16T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:c717808aa322fdd16fe33c458006b316 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q219508 p:P646 wds:Q219508-44DDFBF3-541E-4618-ACDA-A21A0DC1FE26 .
+
+wds:Q219508-44DDFBF3-541E-4618-ACDA-A21A0DC1FE26 a wikibase:Statement ;
+	ps:P646 "/m/01dfb6" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q219508 p:P227 wds:Q219508-AC7DCF8C-15A5-4337-A4EA-9900093FEA4D .
+
+wds:Q219508-AC7DCF8C-15A5-4337-A4EA-9900093FEA4D a wikibase:Statement ;
+	ps:P227 "5337756-4" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q219508 p:P214 wds:Q219508-F5CC8144-587E-41FD-9613-955196115EFC .
+
+wds:Q219508-F5CC8144-587E-41FD-9613-955196115EFC a wikibase:Statement ;
+	ps:P214 "158647664" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+<https://zh.wikipedia.org/wiki/%E8%8A%B1%E6%97%97%E9%9B%86%E5%9B%A2> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "zh" .
+
+<https://eu.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "eu" .
+
+<https://pl.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "pl" .
+
+<https://fr.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "fr" .
+
+<https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%98%D7%99%D7%92%D7%A8%D7%95%D7%A4> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "he" .
+
+<https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%8B%B0%EA%B7%B8%EB%A3%B9> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "ko" .
+
+<https://es.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "es" .
+
+<https://ms.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "ms" .
+
+<https://it.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "it" .
+
+<https://et.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "et" .
+
+<https://de.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "de" .
+
+<https://id.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "id" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%86%E3%82%A3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "ja" .
+
+<https://nl.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "nl" .
+
+<https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D8%AA%D9%8A%20%D8%BA%D8%B1%D9%88%D8%A8> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "ar" .
+
+<https://sv.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "sv" .
+
+<https://pt.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "pt" .
+
+<https://ru.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "ru" .
+
+<https://kn.wikipedia.org/wiki/%E0%B2%B8%E0%B2%BF%E0%B2%9F%E0%B2%BF%E0%B2%97%E0%B3%8D%E0%B2%B0%E0%B3%82%E0%B2%AA%E0%B3%8D%E2%80%8C> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "kn" .
+
+<https://en.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "en" .
+
+<https://tr.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "tr" .
+
+<https://ro.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "ro" .
+
+<https://no.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "no" .
+
+<https://fi.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "fi" .
+
+<https://uk.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "uk" .
+
+<https://cs.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "cs" .
+
+<https://mr.wikipedia.org/wiki/%E0%A4%B8%E0%A4%BF%E0%A4%9F%E0%A5%80%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%AA> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "mr" .
+
+<https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%AA%DB%8C%E2%80%8C%DA%AF%D8%B1%D9%88%D9%BE> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "fa" .
+
+<https://gu.wikipedia.org/wiki/%E0%AA%B8%E0%AA%BF%E0%AA%9F%E0%AB%80%E0%AA%97%E0%AB%8D%E0%AA%B0%E0%AB%81%E0%AA%AA> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "gu" .
+
+<https://te.wikipedia.org/wiki/%E0%B0%B8%E0%B0%BF%E0%B0%9F%E0%B1%80%20%E0%B0%97%E0%B1%8D%E0%B0%B0%E0%B1%82%E0%B0%AA%E0%B1%8D> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "te" .
+
+<https://lt.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "lt" .
+
+<https://da.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "da" .
+
+<https://vi.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "vi" .
+
+<https://war.wikipedia.org/wiki/Citigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "war" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AA> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "bn" .
+
+<https://ur.wikipedia.org/wiki/%D8%B3%D9%B9%DB%8C%20%DA%AF%D8%B1%D9%88%D9%BE> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "ur" .
+
+<https://az.wikisource.org/wiki/Bilir%C9%99m%20%28Yazd%C4%B1%C4%9F%C4%B1m%20z%C9%99hl%C9%99ni%20t%C3%B6km%C9%99kd%C9%99di%20%C3%A7oxdan%2C%20bilir%C9%99m%29> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "az" .
+
+<https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3ACitigroup> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "ru" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%BF%E0%A4%9F%E0%A5%80%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%82%E0%A4%AA> a schema:Article ;
+	schema:about wd:Q219508 ;
+	schema:inLanguage "hi" .
+
+wdv:c717808aa322fdd16fe33c458006b316 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "1812-06-16T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdata:Q219509 schema:version "172649386"^^xsd:integer ;
+	schema:dateModified "2014-11-10T05:42:55Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q219509 .
+

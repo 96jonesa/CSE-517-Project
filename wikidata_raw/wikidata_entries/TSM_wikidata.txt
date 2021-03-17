@@ -1,0 +1,200 @@
+wd:Q713418 a wikibase:Item ;
+	rdfs:label "台湾积体电路制造公司"@zh-hans ;
+	skos:prefLabel "台湾积体电路制造公司"@zh-hans ;
+	schema:name "台湾积体电路制造公司"@zh-hans ;
+	rdfs:label "台灣積體電路製造公司"@zh-hant ;
+	skos:prefLabel "台灣積體電路製造公司"@zh-hant ;
+	schema:name "台灣積體電路製造公司"@zh-hant ;
+	rdfs:label "台灣積體電路製造公司"@zh-hk ;
+	skos:prefLabel "台灣積體電路製造公司"@zh-hk ;
+	schema:name "台灣積體電路製造公司"@zh-hk ;
+	rdfs:label "台湾集成电路制造公司"@zh-cn ;
+	skos:prefLabel "台湾集成电路制造公司"@zh-cn ;
+	schema:name "台湾集成电路制造公司"@zh-cn ;
+	rdfs:label "TSMC"@pl ;
+	skos:prefLabel "TSMC"@pl ;
+	schema:name "TSMC"@pl ;
+	rdfs:label "TSMC"@ko ;
+	skos:prefLabel "TSMC"@ko ;
+	schema:name "TSMC"@ko ;
+	rdfs:label "Taiwan Semiconductor Manufacturing Company"@fr ;
+	skos:prefLabel "Taiwan Semiconductor Manufacturing Company"@fr ;
+	schema:name "Taiwan Semiconductor Manufacturing Company"@fr ;
+	rdfs:label "TSMC"@ru ;
+	skos:prefLabel "TSMC"@ru ;
+	schema:name "TSMC"@ru ;
+	rdfs:label "TSMC"@en ;
+	skos:prefLabel "TSMC"@en ;
+	schema:name "TSMC"@en ;
+	rdfs:label "TSMC"@es ;
+	skos:prefLabel "TSMC"@es ;
+	schema:name "TSMC"@es ;
+	rdfs:label "TSMC"@it ;
+	skos:prefLabel "TSMC"@it ;
+	schema:name "TSMC"@it ;
+	rdfs:label "TSMC"@id ;
+	skos:prefLabel "TSMC"@id ;
+	schema:name "TSMC"@id ;
+	rdfs:label "TSMC"@de ;
+	skos:prefLabel "TSMC"@de ;
+	schema:name "TSMC"@de ;
+	rdfs:label "TSMC"@ja ;
+	skos:prefLabel "TSMC"@ja ;
+	schema:name "TSMC"@ja ;
+	rdfs:label "TSMC"@cs ;
+	skos:prefLabel "TSMC"@cs ;
+	schema:name "TSMC"@cs ;
+	rdfs:label "تی‌اس‌ام‌سی"@fa ;
+	skos:prefLabel "تی‌اس‌ام‌سی"@fa ;
+	schema:name "تی‌اس‌ام‌سی"@fa ;
+	rdfs:label "TSMC"@my ;
+	skos:prefLabel "TSMC"@my ;
+	schema:name "TSMC"@my ;
+	rdfs:label "Taiwan Semiconductor Manufacturing Company Limited"@sv ;
+	skos:prefLabel "Taiwan Semiconductor Manufacturing Company Limited"@sv ;
+	schema:name "Taiwan Semiconductor Manufacturing Company Limited"@sv ;
+	rdfs:label "شركة تايوان لصناعة أشباه الموصلات المحدودة"@ar ;
+	skos:prefLabel "شركة تايوان لصناعة أشباه الموصلات المحدودة"@ar ;
+	schema:name "شركة تايوان لصناعة أشباه الموصلات المحدودة"@ar ;
+	rdfs:label "台灣積體電路製造公司"@zh ;
+	skos:prefLabel "台灣積體電路製造公司"@zh ;
+	schema:name "台灣積體電路製造公司"@zh ;
+	rdfs:label "TSMC"@nl ;
+	skos:prefLabel "TSMC"@nl ;
+	schema:name "TSMC"@nl ;
+	rdfs:label "TSMC"@sk ;
+	skos:prefLabel "TSMC"@sk ;
+	schema:name "TSMC"@sk ;
+	skos:altLabel "台積電"@zh,
+		"台灣積體電路製造"@zh,
+		"台積電文教基金會"@zh,
+		"台灣積體電路製造股份有限公司"@zh,
+		"臺積電"@zh,
+		"Tsmc"@zh,
+		"台灣積體電路公司"@zh,
+		"臺灣積體電路製造公司"@zh,
+		"台灣積體電路"@zh,
+		"Taiwan Semiconductor Manufacturing Company"@pl,
+		"타이완 세미컨덕터 매뉴팩처링 컴패니"@ko,
+		"TSMC"@fr,
+		"Taiwan Semiconductor Manufacturing Company"@ru,
+		"Taiwan Semiconductor Manufacturing Company"@es,
+		"Taiwan Semiconductor Manufacturing Company Limited"@es,
+		"Taiwan Semiconductor Manufacturing Corporation"@de,
+		"Taiwan Semiconductor Manufacturing Company"@de,
+		"Taiwan Semiconductor Manufacturing"@de,
+		"Taiwan Semiconductor Manufacturing Company"@ja,
+		"台湾セミコンダクター・マニュファクチャリング・カンパニー"@ja,
+		"台湾積体電路製造"@ja,
+		"تی اس ام سی"@fa,
+		"شرکت صنایع نیمه هادی تایوان"@fa,
+		"TSMC"@fa,
+		"TSMC"@ar ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P646 "/m/02clqq" ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P910 wd:Q9417548 ;
+	p:P31 wds:q713418-5E6B7A68-6BAF-4C8A-B8C1-68A37C58B931 .
+
+wds:q713418-5E6B7A68-6BAF-4C8A-B8C1-68A37C58B931 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q713418 p:P646 wds:Q713418-CA2C2E98-6996-4D6F-B716-24CBD1DAE655 .
+
+wds:Q713418-CA2C2E98-6996-4D6F-B716-24CBD1DAE655 a wikibase:Statement ;
+	ps:P646 "/m/02clqq" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q713418 p:P414 wds:Q713418-9546A032-3471-4A11-B00E-D4CF703A31DE .
+
+wds:Q713418-9546A032-3471-4A11-B00E-D4CF703A31DE a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q713418 p:P910 wds:Q713418-5261C025-802D-4B71-8C32-40029FE51EAE .
+
+wds:Q713418-5261C025-802D-4B71-8C32-40029FE51EAE a wikibase:Statement ;
+	ps:P910 wd:Q9417548 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:d6e3ab4045fb3f3feea77895bc6b27e663fc878a .
+
+<https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q713418 ;
+	schema:inLanguage "zh" .
+
+<https://pl.wikipedia.org/wiki/TSMC> a schema:Article ;
+	schema:about wd:Q713418 ;
+	schema:inLanguage "pl" .
+
+<https://ko.wikipedia.org/wiki/TSMC> a schema:Article ;
+	schema:about wd:Q713418 ;
+	schema:inLanguage "ko" .
+
+<https://fr.wikipedia.org/wiki/Taiwan%20Semiconductor%20Manufacturing%20Company> a schema:Article ;
+	schema:about wd:Q713418 ;
+	schema:inLanguage "fr" .
+
+<https://ru.wikipedia.org/wiki/TSMC> a schema:Article ;
+	schema:about wd:Q713418 ;
+	schema:inLanguage "ru" .
+
+<https://en.wikipedia.org/wiki/TSMC> a schema:Article ;
+	schema:about wd:Q713418 ;
+	schema:inLanguage "en" .
+
+<https://es.wikipedia.org/wiki/TSMC> a schema:Article ;
+	schema:about wd:Q713418 ;
+	schema:inLanguage "es" .
+
+<https://it.wikipedia.org/wiki/TSMC> a schema:Article ;
+	schema:about wd:Q713418 ;
+	schema:inLanguage "it" .
+
+<https://id.wikipedia.org/wiki/TSMC> a schema:Article ;
+	schema:about wd:Q713418 ;
+	schema:inLanguage "id" .
+
+<https://de.wikipedia.org/wiki/TSMC> a schema:Article ;
+	schema:about wd:Q713418 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/TSMC> a schema:Article ;
+	schema:about wd:Q713418 ;
+	schema:inLanguage "ja" .
+
+<https://cs.wikipedia.org/wiki/TSMC> a schema:Article ;
+	schema:about wd:Q713418 ;
+	schema:inLanguage "cs" .
+
+<https://fa.wikipedia.org/wiki/%D8%AA%DB%8C%E2%80%8C%D8%A7%D8%B3%E2%80%8C%D8%A7%D9%85%E2%80%8C%D8%B3%DB%8C> a schema:Article ;
+	schema:about wd:Q713418 ;
+	schema:inLanguage "fa" .
+
+<https://my.wikipedia.org/wiki/TSMC> a schema:Article ;
+	schema:about wd:Q713418 ;
+	schema:inLanguage "my" .
+
+<https://sv.wikipedia.org/wiki/Taiwan%20Semiconductor%20Manufacturing%20Company%20Limited> a schema:Article ;
+	schema:about wd:Q713418 ;
+	schema:inLanguage "sv" .
+
+<https://ar.wikipedia.org/wiki/%D8%B4%D8%B1%D9%83%D8%A9%20%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86%20%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9%20%D8%A3%D8%B4%D8%A8%D8%A7%D9%87%20%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%AD%D8%AF%D9%88%D8%AF%D8%A9> a schema:Article ;
+	schema:about wd:Q713418 ;
+	schema:inLanguage "ar" .
+
+<https://sk.wikipedia.org/wiki/TSMC> a schema:Article ;
+	schema:about wd:Q713418 ;
+	schema:inLanguage "sk" .
+
+wdata:Q713419 schema:version "194522368"^^xsd:integer ;
+	schema:dateModified "2015-02-08T04:53:41Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q713419 .
+

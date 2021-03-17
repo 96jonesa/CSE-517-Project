@@ -1,0 +1,295 @@
+wd:Q625713 a wikibase:Item ;
+	rdfs:label "BHP Billiton"@pt ;
+	skos:prefLabel "BHP Billiton"@pt ;
+	schema:name "BHP Billiton"@pt ;
+	rdfs:label "必和必拓矿业公司"@wuu ;
+	skos:prefLabel "必和必拓矿业公司"@wuu ;
+	schema:name "必和必拓矿业公司"@wuu ;
+	rdfs:label "必和必拓"@zh-hans ;
+	skos:prefLabel "必和必拓"@zh-hans ;
+	schema:name "必和必拓"@zh-hans ;
+	rdfs:label "必和必拓"@zh-hant ;
+	skos:prefLabel "必和必拓"@zh-hant ;
+	schema:name "必和必拓"@zh-hant ;
+	rdfs:label "必和必拓"@zh-hk ;
+	skos:prefLabel "必和必拓"@zh-hk ;
+	schema:name "必和必拓"@zh-hk ;
+	rdfs:label "BHP Billiton"@pms ;
+	skos:prefLabel "BHP Billiton"@pms ;
+	schema:name "BHP Billiton"@pms ;
+	rdfs:label "BHP Billiton"@pl ;
+	skos:prefLabel "BHP Billiton"@pl ;
+	schema:name "BHP Billiton"@pl ;
+	rdfs:label "BHP Billiton"@ru ;
+	skos:prefLabel "BHP Billiton"@ru ;
+	schema:name "BHP Billiton"@ru ;
+	rdfs:label "BHP 빌리튼"@ko ;
+	skos:prefLabel "BHP 빌리튼"@ko ;
+	schema:name "BHP 빌리튼"@ko ;
+	rdfs:label "BHP Billiton"@fr ;
+	skos:prefLabel "BHP Billiton"@fr ;
+	schema:name "BHP Billiton"@fr ;
+	rdfs:label "BHP Billiton"@en ;
+	skos:prefLabel "BHP Billiton"@en ;
+	schema:name "BHP Billiton"@en ;
+	rdfs:label "BHP Billiton"@es ;
+	skos:prefLabel "BHP Billiton"@es ;
+	schema:name "BHP Billiton"@es ;
+	rdfs:label "BHP Billiton"@af ;
+	skos:prefLabel "BHP Billiton"@af ;
+	schema:name "BHP Billiton"@af ;
+	rdfs:label "BHP Billiton"@ro ;
+	skos:prefLabel "BHP Billiton"@ro ;
+	schema:name "BHP Billiton"@ro ;
+	rdfs:label "BHP Billiton"@it ;
+	skos:prefLabel "BHP Billiton"@it ;
+	schema:name "BHP Billiton"@it ;
+	rdfs:label "BHP Billiton"@et ;
+	skos:prefLabel "BHP Billiton"@et ;
+	schema:name "BHP Billiton"@et ;
+	rdfs:label "BHP Billiton"@id ;
+	skos:prefLabel "BHP Billiton"@id ;
+	schema:name "BHP Billiton"@id ;
+	rdfs:label "BHP Billiton"@de ;
+	skos:prefLabel "BHP Billiton"@de ;
+	schema:name "BHP Billiton"@de ;
+	rdfs:label "BHPビリトン"@ja ;
+	skos:prefLabel "BHPビリトン"@ja ;
+	schema:name "BHPビリトン"@ja ;
+	rdfs:label "بی‌اچ‌پی بیلیتون"@fa ;
+	skos:prefLabel "بی‌اچ‌پی بیلیتون"@fa ;
+	schema:name "بی‌اچ‌پی بیلیتون"@fa ;
+	rdfs:label "BHP Billiton"@lt ;
+	skos:prefLabel "BHP Billiton"@lt ;
+	schema:name "BHP Billiton"@lt ;
+	rdfs:label "BHP Billiton"@nl ;
+	skos:prefLabel "BHP Billiton"@nl ;
+	schema:name "BHP Billiton"@nl ;
+	rdfs:label "BHP Billiton"@sv ;
+	skos:prefLabel "BHP Billiton"@sv ;
+	schema:name "BHP Billiton"@sv ;
+	rdfs:label "必和必拓"@zh ;
+	skos:prefLabel "必和必拓"@zh ;
+	schema:name "必和必拓"@zh ;
+	rdfs:label "BHP Billiton"@nb ;
+	skos:prefLabel "BHP Billiton"@nb ;
+	schema:name "BHP Billiton"@nb ;
+	rdfs:label "BHP Billiton"@de-ch ;
+	skos:prefLabel "BHP Billiton"@de-ch ;
+	schema:name "BHP Billiton"@de-ch ;
+	rdfs:label "BHP Billiton"@en-ca ;
+	skos:prefLabel "BHP Billiton"@en-ca ;
+	schema:name "BHP Billiton"@en-ca ;
+	rdfs:label "BHP Billiton"@en-gb ;
+	skos:prefLabel "BHP Billiton"@en-gb ;
+	schema:name "BHP Billiton"@en-gb ;
+	rdfs:label "BHP Billiton"@eo ;
+	skos:prefLabel "BHP Billiton"@eo ;
+	schema:name "BHP Billiton"@eo ;
+	rdfs:label "BHP Billiton"@pt-br ;
+	skos:prefLabel "BHP Billiton"@pt-br ;
+	schema:name "BHP Billiton"@pt-br ;
+	rdfs:label "BHP Billiton"@uk ;
+	skos:prefLabel "BHP Billiton"@uk ;
+	schema:name "BHP Billiton"@uk ;
+	rdfs:label "BHP Billiton"@he ;
+	skos:prefLabel "BHP Billiton"@he ;
+	schema:name "BHP Billiton"@he ;
+	schema:description "Anglo-Australian multinational mining and petroleum company"@en ;
+	skos:altLabel "Bhp"@pt,
+		"必和必拓有限公司"@zh,
+		"必和必拓股份有限公司"@zh,
+		"BHP Billiton"@zh,
+		"BHP"@ru,
+		"BHP Biliton"@fr,
+		"Billiton"@fr,
+		"Billiton"@es,
+		"Broken Hill Proprietary Company"@et,
+		"BHP Billiton Group"@et,
+		"Billiton"@et,
+		"BHP Billiton Plc"@et,
+		"BHP Billiton Limited"@et,
+		"BHP"@ja,
+		"Broken Hill Proprietary"@nl,
+		"Billiton plc"@nl,
+		"Broken Hill Proprietary Company"@sv ;
+	wdt:P414 wd:Q13677,
+		wd:Q171240 ;
+	wdt:P856 <http://www.bhpbilliton.com> ;
+	wdt:P910 wd:Q8285062 ;
+	wdt:P646 "/m/01cjf_" ;
+	wdt:P159 wd:Q84,
+		wd:Q3141 ;
+	wdt:P31 wd:Q891723 ;
+	wdt:P169 wd:Q15042554 ;
+	p:P414 wds:q625713-84A23839-794A-44F1-A9E6-BC61127CC44D .
+
+wds:q625713-84A23839-794A-44F1-A9E6-BC61127CC44D a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q625713 p:P414 wds:Q625713-C61FD190-F968-4552-BD47-99173DACF7C5 .
+
+wds:Q625713-C61FD190-F968-4552-BD47-99173DACF7C5 a wikibase:Statement ;
+	ps:P414 wd:Q171240 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q625713 p:P856 wds:Q625713-E1367676-B97B-4398-BC08-B956E6EC4D05 .
+
+wds:Q625713-E1367676-B97B-4398-BC08-B956E6EC4D05 a wikibase:Statement ;
+	ps:P856 <http://www.bhpbilliton.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q625713 p:P910 wds:Q625713-63C761BD-07B0-4C26-832A-601BD6D47284 .
+
+wds:Q625713-63C761BD-07B0-4C26-832A-601BD6D47284 a wikibase:Statement ;
+	ps:P910 wd:Q8285062 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q625713 p:P646 wds:Q625713-2C8BD548-E42D-4693-88A1-8C3BE7E2EAC5 .
+
+wds:Q625713-2C8BD548-E42D-4693-88A1-8C3BE7E2EAC5 a wikibase:Statement ;
+	ps:P646 "/m/01cjf_" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q625713 p:P159 wds:Q625713-0FACA92D-E233-4155-ABBA-FFA1145CAA28 .
+
+wds:Q625713-0FACA92D-E233-4155-ABBA-FFA1145CAA28 a wikibase:Statement ;
+	ps:P159 wd:Q84 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q625713 p:P159 wds:Q625713-be5213fe-43a4-0682-9584-44d40a04fab5 .
+
+wds:Q625713-be5213fe-43a4-0682-9584-44d40a04fab5 a wikibase:Statement ;
+	ps:P159 wd:Q3141 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q625713 p:P31 wds:Q625713-345f76e6-4e5c-6ee6-0f35-9501c09ef769 .
+
+wds:Q625713-345f76e6-4e5c-6ee6-0f35-9501c09ef769 a wikibase:Statement ;
+	ps:P31 wd:Q891723 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q625713 p:P169 wds:Q625713-137d5259-4e82-261d-bcb8-9458d1f6f192 .
+
+wds:Q625713-137d5259-4e82-261d-bcb8-9458d1f6f192 a wikibase:Statement ;
+	ps:P169 wd:Q15042554 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://pt.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "pt" .
+
+<https://wuu.wikipedia.org/wiki/%E5%BF%85%E5%92%8C%E5%BF%85%E6%8B%93%E7%9F%BF%E4%B8%9A%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "wuu" .
+
+<https://zh.wikipedia.org/wiki/%E5%BF%85%E5%92%8C%E5%BF%85%E6%8B%93> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "zh" .
+
+<https://pms.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "pms" .
+
+<https://pl.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "pl" .
+
+<https://ru.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "ru" .
+
+<https://ko.wikipedia.org/wiki/BHP%20%EB%B9%8C%EB%A6%AC%ED%8A%BC> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "ko" .
+
+<https://fr.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "fr" .
+
+<https://en.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "en" .
+
+<https://es.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "es" .
+
+<https://no.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "no" .
+
+<https://af.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "af" .
+
+<https://ro.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "ro" .
+
+<https://it.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "it" .
+
+<https://et.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "et" .
+
+<https://id.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "id" .
+
+<https://de.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/BHP%E3%83%93%E3%83%AA%E3%83%88%E3%83%B3> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "ja" .
+
+<https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%E2%80%8C%D8%A7%DA%86%E2%80%8C%D9%BE%DB%8C%20%D8%A8%DB%8C%D9%84%DB%8C%D8%AA%D9%88%D9%86> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "fa" .
+
+<https://lt.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "lt" .
+
+<https://nl.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "nl" .
+
+<https://sv.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "sv" .
+
+<https://eo.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "eo" .
+
+<https://uk.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "uk" .
+
+<https://he.wikipedia.org/wiki/BHP%20Billiton> a schema:Article ;
+	schema:about wd:Q625713 ;
+	schema:inLanguage "he" .
+
+wdata:Q625717 schema:version "172753301"^^xsd:integer ;
+	schema:dateModified "2014-11-10T12:55:22Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q625717 .
+

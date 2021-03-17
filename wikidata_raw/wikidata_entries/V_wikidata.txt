@@ -1,0 +1,413 @@
+wd:Q328840 a wikibase:Item ;
+	rdfs:label "维萨"@zh-hans ;
+	skos:prefLabel "维萨"@zh-hans ;
+	schema:name "维萨"@zh-hans ;
+	rdfs:label "VISA"@zh-hant ;
+	skos:prefLabel "VISA"@zh-hant ;
+	schema:name "VISA"@zh-hant ;
+	rdfs:label "Visa"@zh-hk ;
+	skos:prefLabel "Visa"@zh-hk ;
+	schema:name "Visa"@zh-hk ;
+	rdfs:label "维萨"@zh-cn ;
+	skos:prefLabel "维萨"@zh-cn ;
+	schema:name "维萨"@zh-cn ;
+	rdfs:label "威士"@zh-sg ;
+	skos:prefLabel "威士"@zh-sg ;
+	schema:name "威士"@zh-sg ;
+	rdfs:label "VISA"@zh-tw ;
+	skos:prefLabel "VISA"@zh-tw ;
+	schema:name "VISA"@zh-tw ;
+	rdfs:label "VISA"@pl ;
+	skos:prefLabel "VISA"@pl ;
+	schema:name "VISA"@pl ;
+	rdfs:label "비자카드"@ko ;
+	skos:prefLabel "비자카드"@ko ;
+	schema:name "비자카드"@ko ;
+	rdfs:label "VISA International Service Association"@fr ;
+	skos:prefLabel "VISA International Service Association"@fr ;
+	schema:name "VISA International Service Association"@fr ;
+	rdfs:label "ויזה"@he ;
+	skos:prefLabel "ויזה"@he ;
+	schema:name "ויזה"@he ;
+	rdfs:label "Visa"@es ;
+	skos:prefLabel "Visa"@es ;
+	schema:name "Visa"@es ;
+	rdfs:label "Visa International Service Association"@it ;
+	skos:prefLabel "Visa International Service Association"@it ;
+	schema:name "Visa International Service Association"@it ;
+	rdfs:label "Visa International Service Association"@de ;
+	skos:prefLabel "Visa International Service Association"@de ;
+	schema:name "Visa International Service Association"@de ;
+	rdfs:label "Visa Inc."@id ;
+	skos:prefLabel "Visa Inc."@id ;
+	schema:name "Visa Inc."@id ;
+	rdfs:label "ビザ"@ja ;
+	skos:prefLabel "ビザ"@ja ;
+	schema:name "ビザ"@ja ;
+	rdfs:label "VISA"@vi ;
+	skos:prefLabel "VISA"@vi ;
+	schema:name "VISA"@vi ;
+	rdfs:label "VISA"@nl ;
+	skos:prefLabel "VISA"@nl ;
+	schema:name "VISA"@nl ;
+	rdfs:label "فيزا"@ar ;
+	skos:prefLabel "فيزا"@ar ;
+	schema:name "فيزا"@ar ;
+	rdfs:label "VISA"@sv ;
+	skos:prefLabel "VISA"@sv ;
+	schema:name "VISA"@sv ;
+	rdfs:label "Visa"@pt ;
+	skos:prefLabel "Visa"@pt ;
+	schema:name "Visa"@pt ;
+	rdfs:label "VISA"@ru ;
+	skos:prefLabel "VISA"@ru ;
+	schema:name "VISA"@ru ;
+	rdfs:label "Visa Inc."@en ;
+	skos:prefLabel "Visa Inc."@en ;
+	schema:name "Visa Inc."@en ;
+	rdfs:label "VISA"@tr ;
+	skos:prefLabel "VISA"@tr ;
+	schema:name "VISA"@tr ;
+	rdfs:label "VISA"@ro ;
+	skos:prefLabel "VISA"@ro ;
+	schema:name "VISA"@ro ;
+	rdfs:label "Visa"@fi ;
+	skos:prefLabel "Visa"@fi ;
+	schema:name "Visa"@fi ;
+	rdfs:label "Віза"@uk ;
+	skos:prefLabel "Віза"@uk ;
+	schema:name "Віза"@uk ;
+	rdfs:label "VISA"@cy ;
+	skos:prefLabel "VISA"@cy ;
+	schema:name "VISA"@cy ;
+	rdfs:label "VISA"@sah ;
+	skos:prefLabel "VISA"@sah ;
+	schema:name "VISA"@sah ;
+	rdfs:label "Visa"@cs ;
+	skos:prefLabel "Visa"@cs ;
+	schema:name "Visa"@cs ;
+	rdfs:label "ویزا کارت"@fa ;
+	skos:prefLabel "ویزا کارت"@fa ;
+	schema:name "ویزا کارت"@fa ;
+	rdfs:label "Visa"@lt ;
+	skos:prefLabel "Visa"@lt ;
+	schema:name "Visa"@lt ;
+	rdfs:label "VISA"@da ;
+	skos:prefLabel "VISA"@da ;
+	schema:name "VISA"@da ;
+	rdfs:label "Visa International Service Association"@de-ch ;
+	skos:prefLabel "Visa International Service Association"@de-ch ;
+	schema:name "Visa International Service Association"@de-ch ;
+	rdfs:label "Visa Inc."@en-ca ;
+	skos:prefLabel "Visa Inc."@en-ca ;
+	schema:name "Visa Inc."@en-ca ;
+	rdfs:label "Visa Inc."@en-gb ;
+	skos:prefLabel "Visa Inc."@en-gb ;
+	schema:name "Visa Inc."@en-gb ;
+	rdfs:label "Visa"@pt-br ;
+	skos:prefLabel "Visa"@pt-br ;
+	schema:name "Visa"@pt-br ;
+	rdfs:label "Visa"@zh ;
+	skos:prefLabel "Visa"@zh ;
+	schema:name "Visa"@zh ;
+	rdfs:label "Visa"@ca ;
+	skos:prefLabel "Visa"@ca ;
+	schema:name "Visa"@ca ;
+	rdfs:label "VISA"@ky ;
+	skos:prefLabel "VISA"@ky ;
+	schema:name "VISA"@ky ;
+	rdfs:label "Visa"@nb ;
+	skos:prefLabel "Visa"@nb ;
+	schema:name "Visa"@nb ;
+	rdfs:label "Visacard"@eo ;
+	skos:prefLabel "Visacard"@eo ;
+	schema:name "Visacard"@eo ;
+	rdfs:label "ভিসা ইনকর্পোরেটেড"@bn ;
+	skos:prefLabel "ভিসা ইনকর্পোরেটেড"@bn ;
+	schema:name "ভিসা ইনকর্পোরেটেড"@bn ;
+	rdfs:label "वीज़ा इंक."@hi ;
+	skos:prefLabel "वीज़ा इंक."@hi ;
+	schema:name "वीज़ा इंक."@hi ;
+	rdfs:label "వీసా(VISA)"@te ;
+	skos:prefLabel "వీసా(VISA)"@te ;
+	schema:name "వీసా(VISA)"@te ;
+	rdfs:label "വീസ ഇൻകോർപ്പറേഷൻ"@ml ;
+	skos:prefLabel "വീസ ഇൻകോർപ്പറേഷൻ"@ml ;
+	schema:name "വീസ ഇൻകോർപ്പറേഷൻ"@ml ;
+	rdfs:label "Visa"@is ;
+	skos:prefLabel "Visa"@is ;
+	schema:name "Visa"@is ;
+	rdfs:label "Visa"@sk ;
+	skos:prefLabel "Visa"@sk ;
+	schema:name "Visa"@sk ;
+	schema:description "creditcard"@nl,
+		"multinational financial company best known for credit and debit cards"@en,
+		"visa"@hr ;
+	skos:altLabel "VISA"@zh,
+		"维萨卡"@zh,
+		"维萨"@zh,
+		"威士卡"@zh,
+		"Visa卡"@zh,
+		"威士"@zh,
+		"비자 카드"@ko,
+		"VISA"@it,
+		"Visa International"@it,
+		"V PAY"@it,
+		"Visa electron"@de,
+		"Visacard"@de,
+		"Visa international service associaton"@id,
+		"Visa International Service Association"@id,
+		"Visa Wave"@ja,
+		"VISAゴールドカード"@ja,
+		"VISAインフィニットカード"@ja,
+		"VISAプラチナカード"@ja,
+		"ビザカード"@ja,
+		"Visa International Service Association"@ja,
+		"ヴィザ"@ja,
+		"VISAクラシックカード"@ja,
+		"VISAカード"@ja,
+		"VISA認証サービス"@ja,
+		"شركة فيزا"@ar,
+		"Visa Inc."@ar,
+		"Visa International Service Association"@pt,
+		"Visa Cash"@pt,
+		"Visa Inc."@pt,
+		"VISA International"@ru,
+		"Виза"@ru,
+		"«Віза»"@uk,
+		"VISA"@uk,
+		"Visa International Service Association"@cs ;
+	wdt:P373 "Visa Inc." ;
+	wdt:P31 wd:Q161726,
+		wd:Q783794 ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P571 "1958-01-01T00:00:00Z"^^xsd:dateTime ;
+	wdt:P452 wd:Q837171 ;
+	wdt:P159 wd:Q988691 ;
+	wdt:P646 "/m/01kqjn" ;
+	wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Creditcard.jpg> ;
+	p:P373 wds:q328840-ACEE9108-71C2-417A-8B23-16D4A00634E5 .
+
+wds:q328840-ACEE9108-71C2-417A-8B23-16D4A00634E5 a wikibase:Statement ;
+	ps:P373 "Visa Inc." ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q328840 p:P31 wds:q328840-9E0C8BC7-FD75-41B9-95C4-71DE1A169D9E .
+
+wds:q328840-9E0C8BC7-FD75-41B9-95C4-71DE1A169D9E a wikibase:Statement ;
+	ps:P31 wd:Q161726 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q328840 p:P31 wds:Q328840-33f5b3f2-45b2-809a-89c6-41e183ab6329 .
+
+wds:Q328840-33f5b3f2-45b2-809a-89c6-41e183ab6329 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q328840 p:P414 wds:q328840-41b1eada-4eec-f659-41ee-19e4b2b61795 .
+
+wds:q328840-41b1eada-4eec-f659-41ee-19e4b2b61795 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "V" .
+
+wd:Q328840 p:P571 wds:q328840-d3b1cf5a-4853-e5e8-f214-ba0584e1d385 .
+
+wds:q328840-d3b1cf5a-4853-e5e8-f214-ba0584e1d385 a wikibase:Statement ;
+	ps:P571 "1958-01-01T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:819313a127fdc0ecdbc568a9a913da21 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q328840 p:P452 wds:q328840-f08afd4a-44fa-97c0-c735-1b7d64ef9cc7 .
+
+wds:q328840-f08afd4a-44fa-97c0-c735-1b7d64ef9cc7 a wikibase:Statement ;
+	ps:P452 wd:Q837171 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q328840 p:P159 wds:q328840-c97a3fba-4e7f-d4e0-bacf-04d1047495ec .
+
+wds:q328840-c97a3fba-4e7f-d4e0-bacf-04d1047495ec a wikibase:Statement ;
+	ps:P159 wd:Q988691 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q328840 p:P646 wds:Q328840-7E7621D4-2C1A-4D46-895C-47B04B0B8F46 .
+
+wds:Q328840-7E7621D4-2C1A-4D46-895C-47B04B0B8F46 a wikibase:Statement ;
+	ps:P646 "/m/01kqjn" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q328840 p:P18 wds:Q328840-5BD522BC-723C-4AF1-805B-A4CCCF8A8EAD .
+
+wds:Q328840-5BD522BC-723C-4AF1-805B-A4CCCF8A8EAD a wikibase:Statement ;
+	ps:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Creditcard.jpg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:223f43a7229297bd67ffab922174f80c722fff1a .
+
+<https://zh.wikipedia.org/wiki/Visa> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "zh" .
+
+<https://pl.wikipedia.org/wiki/Visa> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "pl" .
+
+<https://ko.wikipedia.org/wiki/%EB%B9%84%EC%9E%90%EC%B9%B4%EB%93%9C> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "ko" .
+
+<https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%96%D7%94%20%28%D7%97%D7%91%D7%A8%D7%94%29> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "he" .
+
+<https://es.wikipedia.org/wiki/Visa%20%28tarjeta%20de%20cr%C3%A9dito%29> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "es" .
+
+<https://it.wikipedia.org/wiki/Visa%20International%20Service%20Association> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "it" .
+
+<https://de.wikipedia.org/wiki/Visa%20Inc.> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "de" .
+
+<https://id.wikipedia.org/wiki/Visa%20Inc.> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "id" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%93%E3%82%B6> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "ja" .
+
+<https://vi.wikipedia.org/wiki/VISA%20%28th%E1%BA%BB%20t%C3%ADn%20d%E1%BB%A5ng%29> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "vi" .
+
+<https://nl.wikipedia.org/wiki/VISA%20International> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "nl" .
+
+<https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B2%D8%A7> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "ar" .
+
+<https://sv.wikipedia.org/wiki/VISA> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "sv" .
+
+<https://pt.wikipedia.org/wiki/Visa> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "pt" .
+
+<https://ru.wikipedia.org/wiki/VISA%20%28%D0%BF%D0%BB%D0%B0%D1%82%D1%91%D0%B6%D0%BD%D0%B0%D1%8F%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%29> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "ru" .
+
+<https://en.wikipedia.org/wiki/Visa%20Inc.> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "en" .
+
+<https://tr.wikipedia.org/wiki/VISA> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "tr" .
+
+<https://no.wikipedia.org/wiki/Visa> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "no" .
+
+<https://ro.wikipedia.org/wiki/VISA> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "ro" .
+
+<https://fi.wikipedia.org/wiki/Visa%20%28luottoyritys%29> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "fi" .
+
+<https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%B7%D0%B0%20%28%D0%BF%D0%BB%D0%B0%D1%82%D1%96%D0%B6%D0%BD%D0%B0%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%29> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "uk" .
+
+<https://cy.wikipedia.org/wiki/VISA> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "cy" .
+
+<https://sah.wikipedia.org/wiki/VISA> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "sah" .
+
+<https://cs.wikipedia.org/wiki/Visa> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "cs" .
+
+<https://fa.wikipedia.org/wiki/%D9%88%DB%8C%D8%B2%D8%A7%20%DA%A9%D8%A7%D8%B1%D8%AA> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "fa" .
+
+<https://lt.wikipedia.org/wiki/Visa> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "lt" .
+
+<https://da.wikipedia.org/wiki/VISA> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "da" .
+
+<https://ky.wikipedia.org/wiki/VISA> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "ky" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A5%80%E0%A4%9C%E0%A4%BC%E0%A4%BE%20%E0%A4%87%E0%A4%82%E0%A4%95.> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "hi" .
+
+<https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B1%80%E0%B0%B8%E0%B0%BE%28VISA%29> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "te" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A6%BF%E0%A6%B8%E0%A6%BE%20%E0%A6%87%E0%A6%A8%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%9F%E0%A7%87%E0%A6%A1> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "bn" .
+
+<https://eo.wikipedia.org/wiki/Visacard> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "eo" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%80%E0%B4%B8%20%E0%B4%87%E0%B5%BB%E0%B4%95%E0%B5%8B%E0%B5%BC%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%B1%E0%B5%87%E0%B4%B7%E0%B5%BB> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "ml" .
+
+<https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3AVISA> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "ru" .
+
+<https://sk.wikipedia.org/wiki/Visa> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "sk" .
+
+<https://is.wikipedia.org/wiki/Visa> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "is" .
+
+<https://ca.wikipedia.org/wiki/Visa> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "ca" .
+
+<https://fr.wikipedia.org/wiki/Visa%20%28entreprise%29> a schema:Article ;
+	schema:about wd:Q328840 ;
+	schema:inLanguage "fr" .
+
+wdata:Q328849 schema:version "207822225"^^xsd:integer ;
+	schema:dateModified "2015-03-30T11:03:57Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q328849 .
+

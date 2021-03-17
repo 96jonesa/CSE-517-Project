@@ -1,0 +1,591 @@
+wd:Q192314 a wikibase:Item ;
+	rdfs:label "JPMorgan Chase"@nan ;
+	skos:prefLabel "JPMorgan Chase"@nan ;
+	schema:name "JPMorgan Chase"@nan ;
+	rdfs:label "摩根大通"@zh-hans ;
+	skos:prefLabel "摩根大通"@zh-hans ;
+	schema:name "摩根大通"@zh-hans ;
+	rdfs:label "摩根大通"@zh-hant ;
+	skos:prefLabel "摩根大通"@zh-hant ;
+	schema:name "摩根大通"@zh-hant ;
+	rdfs:label "摩根大通"@zh-hk ;
+	skos:prefLabel "摩根大通"@zh-hk ;
+	schema:name "摩根大通"@zh-hk ;
+	rdfs:label "摩根大通"@zh-cn ;
+	skos:prefLabel "摩根大通"@zh-cn ;
+	schema:name "摩根大通"@zh-cn ;
+	rdfs:label "摩根大通"@zh-sg ;
+	skos:prefLabel "摩根大通"@zh-sg ;
+	schema:name "摩根大通"@zh-sg ;
+	rdfs:label "摩根大通"@zh-tw ;
+	skos:prefLabel "摩根大通"@zh-tw ;
+	schema:name "摩根大通"@zh-tw ;
+	rdfs:label "JPMorgan Chase"@pl ;
+	skos:prefLabel "JPMorgan Chase"@pl ;
+	schema:name "JPMorgan Chase"@pl ;
+	rdfs:label "JPMorgan Chase"@lez ;
+	skos:prefLabel "JPMorgan Chase"@lez ;
+	schema:name "JPMorgan Chase"@lez ;
+	rdfs:label "ג'יי פי מורגן צ'ייס"@he ;
+	skos:prefLabel "ג'יי פי מורגן צ'ייס"@he ;
+	schema:name "ג'יי פי מורגן צ'ייס"@he ;
+	rdfs:label "JPMorgan Chase"@fr ;
+	skos:prefLabel "JPMorgan Chase"@fr ;
+	schema:name "JPMorgan Chase"@fr ;
+	rdfs:label "JP모간 체이스"@ko ;
+	skos:prefLabel "JP모간 체이스"@ko ;
+	schema:name "JP모간 체이스"@ko ;
+	rdfs:label "JP Morgan Chase"@es ;
+	skos:prefLabel "JP Morgan Chase"@es ;
+	schema:name "JP Morgan Chase"@es ;
+	rdfs:label "JPMorgan Chase"@lv ;
+	skos:prefLabel "JPMorgan Chase"@lv ;
+	schema:name "JPMorgan Chase"@lv ;
+	rdfs:label "JPMorgan Chase"@it ;
+	skos:prefLabel "JPMorgan Chase"@it ;
+	schema:name "JPMorgan Chase"@it ;
+	rdfs:label "JPMorgan Chase"@et ;
+	skos:prefLabel "JPMorgan Chase"@et ;
+	schema:name "JPMorgan Chase"@et ;
+	rdfs:label "JPMorgan Chase & Co."@de ;
+	skos:prefLabel "JPMorgan Chase & Co."@de ;
+	schema:name "JPMorgan Chase & Co."@de ;
+	rdfs:label "JPMorgan Chase"@id ;
+	skos:prefLabel "JPMorgan Chase"@id ;
+	schema:name "JPMorgan Chase"@id ;
+	rdfs:label "JPモルガン・チェース"@ja ;
+	skos:prefLabel "JPモルガン・チェース"@ja ;
+	schema:name "JPモルガン・チェース"@ja ;
+	rdfs:label "JPMorgan Chase"@vi ;
+	skos:prefLabel "JPMorgan Chase"@vi ;
+	schema:name "JPMorgan Chase"@vi ;
+	rdfs:label "JPMorgan Chase"@nl ;
+	skos:prefLabel "JPMorgan Chase"@nl ;
+	schema:name "JPMorgan Chase"@nl ;
+	rdfs:label "JPMorgan Chase"@sv ;
+	skos:prefLabel "JPMorgan Chase"@sv ;
+	schema:name "JPMorgan Chase"@sv ;
+	rdfs:label "جي بي مورجان تشايس"@ar ;
+	skos:prefLabel "جي بي مورجان تشايس"@ar ;
+	schema:name "جي بي مورجان تشايس"@ar ;
+	rdfs:label "JPMorgan Chase"@pt ;
+	skos:prefLabel "JPMorgan Chase"@pt ;
+	schema:name "JPMorgan Chase"@pt ;
+	rdfs:label "JPMorgan Chase"@sk ;
+	skos:prefLabel "JPMorgan Chase"@sk ;
+	schema:name "JPMorgan Chase"@sk ;
+	rdfs:label "JPMorgan Chase"@ru ;
+	skos:prefLabel "JPMorgan Chase"@ru ;
+	schema:name "JPMorgan Chase"@ru ;
+	rdfs:label "JPMorgan Chase"@en ;
+	skos:prefLabel "JPMorgan Chase"@en ;
+	schema:name "JPMorgan Chase"@en ;
+	rdfs:label "Morgan"@sr-el ;
+	skos:prefLabel "Morgan"@sr-el ;
+	schema:name "Morgan"@sr-el ;
+	rdfs:label "Морган"@sr-ec ;
+	skos:prefLabel "Морган"@sr-ec ;
+	schema:name "Морган"@sr-ec ;
+	rdfs:label "เจพีมอร์แกนเชส"@th ;
+	skos:prefLabel "เจพีมอร์แกนเชส"@th ;
+	schema:name "เจพีมอร์แกนเชส"@th ;
+	rdfs:label "JPMorgan Chase"@ro ;
+	skos:prefLabel "JPMorgan Chase"@ro ;
+	schema:name "JPMorgan Chase"@ro ;
+	rdfs:label "JPMorgan Chase"@fi ;
+	skos:prefLabel "JPMorgan Chase"@fi ;
+	schema:name "JPMorgan Chase"@fi ;
+	rdfs:label "JPMorgan Chase"@uk ;
+	skos:prefLabel "JPMorgan Chase"@uk ;
+	schema:name "JPMorgan Chase"@uk ;
+	rdfs:label "JPMorgan Chase"@cs ;
+	skos:prefLabel "JPMorgan Chase"@cs ;
+	schema:name "JPMorgan Chase"@cs ;
+	rdfs:label "جی‌پی مورگان چیس"@fa ;
+	skos:prefLabel "جی‌پی مورگان چیس"@fa ;
+	schema:name "جی‌پی مورگان چیس"@fa ;
+	rdfs:label "JPMorgan Chase"@ka ;
+	skos:prefLabel "JPMorgan Chase"@ka ;
+	schema:name "JPMorgan Chase"@ka ;
+	rdfs:label "JPMorgan Chase"@lt ;
+	skos:prefLabel "JPMorgan Chase"@lt ;
+	schema:name "JPMorgan Chase"@lt ;
+	rdfs:label "JPMorgan Chase"@da ;
+	skos:prefLabel "JPMorgan Chase"@da ;
+	schema:name "JPMorgan Chase"@da ;
+	rdfs:label "JPMorgan Chase"@kk-arab ;
+	skos:prefLabel "JPMorgan Chase"@kk-arab ;
+	schema:name "JPMorgan Chase"@kk-arab ;
+	rdfs:label "JPMorgan Chase"@kk-cn ;
+	skos:prefLabel "JPMorgan Chase"@kk-cn ;
+	schema:name "JPMorgan Chase"@kk-cn ;
+	rdfs:label "JPMorgan Chase"@kk-tr ;
+	skos:prefLabel "JPMorgan Chase"@kk-tr ;
+	schema:name "JPMorgan Chase"@kk-tr ;
+	rdfs:label "ЖПМорган Цһасе"@kk-kz ;
+	skos:prefLabel "ЖПМорган Цһасе"@kk-kz ;
+	schema:name "ЖПМорган Цһасе"@kk-kz ;
+	rdfs:label "ЖПМорган Цһасе"@kk-cyrl ;
+	skos:prefLabel "ЖПМорган Цһасе"@kk-cyrl ;
+	schema:name "ЖПМорган Цһасе"@kk-cyrl ;
+	rdfs:label "JPMorgan Chase"@kk-latn ;
+	skos:prefLabel "JPMorgan Chase"@kk-latn ;
+	schema:name "JPMorgan Chase"@kk-latn ;
+	rdfs:label "JPMorgan Chase"@kk ;
+	skos:prefLabel "JPMorgan Chase"@kk ;
+	schema:name "JPMorgan Chase"@kk ;
+	rdfs:label "Морган"@sr ;
+	skos:prefLabel "Морган"@sr ;
+	schema:name "Морган"@sr ;
+	rdfs:label "摩根大通"@zh ;
+	skos:prefLabel "摩根大通"@zh ;
+	schema:name "摩根大通"@zh ;
+	rdfs:label "JPMorgan Chase"@war ;
+	skos:prefLabel "JPMorgan Chase"@war ;
+	schema:name "JPMorgan Chase"@war ;
+	rdfs:label "JPMorgan Chase"@ur ;
+	skos:prefLabel "JPMorgan Chase"@ur ;
+	schema:name "JPMorgan Chase"@ur ;
+	rdfs:label "JPMorgan Chase"@nb ;
+	skos:prefLabel "JPMorgan Chase"@nb ;
+	schema:name "JPMorgan Chase"@nb ;
+	rdfs:label "JP Morgan Chase"@ca ;
+	skos:prefLabel "JP Morgan Chase"@ca ;
+	schema:name "JP Morgan Chase"@ca ;
+	rdfs:label "জেপি মর্গান চেস"@bn ;
+	skos:prefLabel "জেপি মর্গান চেস"@bn ;
+	schema:name "জেপি মর্গান চেস"@bn ;
+	rdfs:label "JPMorgan Chase"@hy ;
+	skos:prefLabel "JPMorgan Chase"@hy ;
+	schema:name "JPMorgan Chase"@hy ;
+	schema:description "enterprise"@fr,
+		"American multinational banking and financial services holding company"@en,
+		"banco"@es,
+		"bank"@fa ;
+	skos:altLabel "JP摩根大通"@zh,
+		"J.P.摩根大通公司"@zh,
+		"JP摩根"@zh,
+		"摩通"@zh,
+		"摩根大通银行"@zh,
+		"小摩"@zh,
+		"JP Morgan Chase"@pl,
+		"JPMorgan Chase & Co."@pl,
+		"JPMorgan"@fr,
+		"JP Morgan"@fr,
+		"JP Morgan France"@fr,
+		"JPMorganChase"@fr,
+		"JP Morgan Securities"@fr,
+		"JPMorgan Chase & Co."@fr,
+		"JP Morgan Chase"@fr,
+		"JP모건 체이스"@ko,
+		"JP MORGAN"@es,
+		"Chase Manhattan"@es,
+		"JP Morgan Chase & Co"@es,
+		"JPMorgan Chase & Co"@es,
+		"JPMorgan Chase"@es,
+		"J.P. Morgan Chase"@it,
+		"J.P. Morgan Chase & Co."@it,
+		"JP Morgan"@it,
+		"JP Morgan Chase"@it,
+		"JPMorgan Chase & Co."@et,
+		"JP Morgan Chase"@et,
+		"JPMorgan Asset Management"@de,
+		"JPMorgan"@de,
+		"J.P. Morgan Chase"@de,
+		"House of Morgan"@de,
+		"JPMorganChase"@de,
+		"J. P. Morgan Chase"@de,
+		"J. P. Morgan & Co."@de,
+		"JP Morgan Chase"@de,
+		"JPMorgan Chase"@de,
+		"JPMorgan Chase Bank"@id,
+		"J.P. Morgan Chase & Co."@id,
+		"JPMorgan Chase & Co."@id,
+		"JPモルガン"@ja,
+		"JPMorgan"@ja,
+		"チェース・マンハッタン銀行"@ja,
+		"ジェー・ピー・モルガン・チェース・バンク・ナショナル・アソシエーション"@ja,
+		"JPモルガン証券"@ja,
+		"JPモルガンチェース"@ja,
+		"J.P.モルガン"@ja,
+		"JPモーガン"@ja,
+		"JPモルガン信託銀行"@ja,
+		"ケミカル銀行"@ja,
+		"チェイス・マンハッタン銀行"@ja,
+		"JPモーガンチェース"@ja,
+		"JPモーガン・チェース"@ja,
+		"JP Morgan & Co."@vi,
+		"JPMorgan"@vi,
+		"J. P. Morgan & Co."@vi,
+		"J.P. Morgan & Co."@vi,
+		"JP Morgan Chase"@nl,
+		"J. P. Morgan Chase and Co."@sv,
+		"JP Morgan"@sv,
+		"JPMorganChase"@sv,
+		"JPMorgan Chase & Co."@sv,
+		"JP Morgan Chase"@sv,
+		"Jp morgan chase"@pt,
+		"JPMorgan"@pt,
+		"J.P. Morgan & Co."@pt,
+		"JPMorgan"@ru,
+		"JPMorgan Chase Bank"@ru,
+		"J.P.Morgan"@ru,
+		"JP Morgan"@ru,
+		"JPMorgan Chase & Co"@ru,
+		"JPMorganChase"@ru,
+		"J. P. Morgan"@ru,
+		"J.P. Morgan"@ru,
+		"JP Morgan Chase"@ru,
+		"เจ.พี. มอร์แกน แอนด์ โค"@th,
+		"Chase"@ro,
+		"JP Morgan"@ro,
+		"Jpmorgan chase & co"@ro,
+		"J. P. Morgan Chase"@ro,
+		"J.P. Morgan"@ro,
+		"JP Morgan Chase"@ro,
+		"J.P. Morgan Chase & Co."@fi,
+		"JP Morgan Chase"@fi,
+		"JPMorgan Chase & Co."@fi,
+		"JPMorgan"@uk,
+		"JPMorgan Chase Bank"@uk,
+		"Chase"@uk,
+		"JP Morgan"@uk,
+		"JPMorganChase"@uk,
+		"ДжейПіМорган Чейз"@uk,
+		"J.P. Morgan"@uk,
+		"J.P. Morgan Chase & Co."@cs,
+		"JPMorgan Chase & Co."@cs,
+		"جی پی مورگان چیس"@fa,
+		"JP Morgan"@lt,
+		"JPMorgan Chase & Co"@lt,
+		"JP Morgan Chase"@lt,
+		"JPMorgan Chase & Co."@lt,
+		"JPMorgan Chase & Co"@da,
+		"J P Morgan Chase"@da,
+		"JPMorgan Chase & Co."@da,
+		"JP Morgan Chase"@da,
+		"JPMorgan Chase & Co."@kk,
+		"JPMorgan Chase & Co."@en,
+		"JPMorgan Chase & Co."@nb,
+		"JP Morgan"@nb,
+		"JP Morgan Chase"@nb,
+		"JPMorgan"@nb ;
+	wdt:P1278 "8I5DZWZKVSZI1NUHU748" ;
+	wdt:P373 "JPMorgan Chase" ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P155 wd:Q524629,
+		wd:Q2633403,
+		wd:Q2882621,
+		wd:Q5090395,
+		wd:Q5277214 ;
+	wdt:P17 wd:Q30 ;
+	wdt:P159 wd:Q1676687 ;
+	wdt:P910 wd:Q8560200 ;
+	wdt:P856 <http://www.jpmorganchase.com/> ;
+	wdt:P646 "/m/01hlwv" ;
+	wdt:P227 "6073167-9" ;
+	wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/270%20Park%20Avenue%20%28WTM%20by%20official-ly%20cool%20100%29.jpg> ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P214 "126697014" ;
+	p:P1278 wds:Q192314-4e6e898c-426e-afaa-4a7b-89411e48b3ac .
+
+wds:Q192314-4e6e898c-426e-afaa-4a7b-89411e48b3ac a wikibase:Statement ;
+	ps:P1278 "8I5DZWZKVSZI1NUHU748" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q192314 p:P373 wds:q192314-8D1127DB-8531-46AE-9186-67E295567803 .
+
+wds:q192314-8D1127DB-8531-46AE-9186-67E295567803 a wikibase:Statement ;
+	ps:P373 "JPMorgan Chase" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q192314 p:P31 wds:q192314-3771831E-7707-47A9-91C3-48EFBC09EB0F .
+
+wds:q192314-3771831E-7707-47A9-91C3-48EFBC09EB0F a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q192314 p:P155 wds:q192314-34425C48-A3AD-424C-BBD4-EAF0773F0327 .
+
+wds:q192314-34425C48-A3AD-424C-BBD4-EAF0773F0327 a wikibase:Statement ;
+	ps:P155 wd:Q524629 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q192314 p:P155 wds:q192314-3A782660-14AF-4D40-9FA9-75DD7EC88BBC .
+
+wds:q192314-3A782660-14AF-4D40-9FA9-75DD7EC88BBC a wikibase:Statement ;
+	ps:P155 wd:Q2633403 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q192314 p:P155 wds:Q192314-8C32724A-5B72-441D-A519-316054667F58 .
+
+wds:Q192314-8C32724A-5B72-441D-A519-316054667F58 a wikibase:Statement ;
+	ps:P155 wd:Q2882621 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q192314 p:P155 wds:Q192314-472BBAD5-50AB-4A12-AE81-78522C612244 .
+
+wds:Q192314-472BBAD5-50AB-4A12-AE81-78522C612244 a wikibase:Statement ;
+	ps:P155 wd:Q5090395 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q192314 p:P155 wds:Q192314-7B675147-4DCE-4D60-BAA1-817422ACE69E .
+
+wds:Q192314-7B675147-4DCE-4D60-BAA1-817422ACE69E a wikibase:Statement ;
+	ps:P155 wd:Q5277214 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q192314 p:P17 wds:Q192314-B5676358-C9FC-4EC2-8A3B-5F5F44A97B1D .
+
+wds:Q192314-B5676358-C9FC-4EC2-8A3B-5F5F44A97B1D a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q192314 p:P159 wds:Q192314-bd06cf94-42df-07f2-630c-448a081049ce .
+
+wds:Q192314-bd06cf94-42df-07f2-630c-448a081049ce a wikibase:Statement ;
+	ps:P159 wd:Q1676687 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(40.7558 -73.9754)"^^geo:wktLiteral ;
+	pqv:P625 wdv:0070e7a251a6679a00e8263cc7915c19 .
+
+wd:Q192314 p:P910 wds:Q192314-7F78FEEB-B702-4289-8F43-A12488446A54 .
+
+wds:Q192314-7F78FEEB-B702-4289-8F43-A12488446A54 a wikibase:Statement ;
+	ps:P910 wd:Q8560200 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q192314 p:P856 wds:Q192314-AE6656B2-11F8-4E0B-9F42-3CC5F8CBEC4B .
+
+wds:Q192314-AE6656B2-11F8-4E0B-9F42-3CC5F8CBEC4B a wikibase:Statement ;
+	ps:P856 <http://www.jpmorganchase.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q192314 p:P646 wds:Q192314-34DDDCB3-E122-4117-821C-3175B41A3B27 .
+
+wds:Q192314-34DDDCB3-E122-4117-821C-3175B41A3B27 a wikibase:Statement ;
+	ps:P646 "/m/01hlwv" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q192314 p:P227 wds:Q192314-0229FEB2-4671-4260-B29B-EEF1A8D05213 .
+
+wds:Q192314-0229FEB2-4671-4260-B29B-EEF1A8D05213 a wikibase:Statement ;
+	ps:P227 "6073167-9" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q192314 p:P18 wds:Q192314-0DDB7489-514A-4042-A2DB-D7CBCA37514B .
+
+wds:Q192314-0DDB7489-514A-4042-A2DB-D7CBCA37514B a wikibase:Statement ;
+	ps:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/270%20Park%20Avenue%20%28WTM%20by%20official-ly%20cool%20100%29.jpg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:223f43a7229297bd67ffab922174f80c722fff1a .
+
+wd:Q192314 p:P414 wds:Q192314-1881D5D8-D3DB-4166-BB2E-7E73BB622355 .
+
+wds:Q192314-1881D5D8-D3DB-4166-BB2E-7E73BB622355 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q192314 p:P214 wds:Q192314-7C02F8B7-60B1-44CB-B1B1-31DDD31AA607 .
+
+wds:Q192314-7C02F8B7-60B1-44CB-B1B1-31DDD31AA607 a wikibase:Statement ;
+	ps:P214 "126697014" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+<https://zh-min-nan.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "zh-min-nan" .
+
+<https://zh.wikipedia.org/wiki/%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9A> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "zh" .
+
+<https://pl.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "pl" .
+
+<https://lez.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "lez" .
+
+<https://he.wikipedia.org/wiki/%D7%92%27%D7%99%D7%99%20%D7%A4%D7%99%20%D7%9E%D7%95%D7%A8%D7%92%D7%9F%20%D7%A6%27%D7%99%D7%99%D7%A1> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "he" .
+
+<https://fr.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "fr" .
+
+<https://ko.wikipedia.org/wiki/JP%EB%AA%A8%EA%B0%84%20%EC%B2%B4%EC%9D%B4%EC%8A%A4> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "ko" .
+
+<https://es.wikipedia.org/wiki/JP%20Morgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "es" .
+
+<https://lv.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "lv" .
+
+<https://it.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "it" .
+
+<https://et.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "et" .
+
+<https://de.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "de" .
+
+<https://id.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "id" .
+
+<https://ja.wikipedia.org/wiki/JP%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%B3%E3%83%BB%E3%83%81%E3%82%A7%E3%83%BC%E3%82%B9> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "ja" .
+
+<https://vi.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "vi" .
+
+<https://nl.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "nl" .
+
+<https://sv.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "sv" .
+
+<https://ar.wikipedia.org/wiki/%D8%AC%D9%8A%20%D8%A8%D9%8A%20%D9%85%D9%88%D8%B1%D8%AC%D8%A7%D9%86%20%D8%AA%D8%B4%D8%A7%D9%8A%D8%B3> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "ar" .
+
+<https://pt.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "pt" .
+
+<https://sk.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "sk" .
+
+<https://ru.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "ru" .
+
+<https://en.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "en" .
+
+<https://sr.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%B3%D0%B0%D0%BD> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "sr" .
+
+<https://no.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "no" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%88%E0%B8%9E%E0%B8%B5%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%81%E0%B8%99%E0%B9%80%E0%B8%8A%E0%B8%AA> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "th" .
+
+<https://ro.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "ro" .
+
+<https://fi.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "fi" .
+
+<https://uk.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "uk" .
+
+<https://cs.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "cs" .
+
+<https://fa.wikipedia.org/wiki/%D8%AC%DB%8C%E2%80%8C%D9%BE%DB%8C%20%D9%85%D9%88%D8%B1%DA%AF%D8%A7%D9%86%20%DA%86%DB%8C%D8%B3> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "fa" .
+
+<https://ka.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "ka" .
+
+<https://lt.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "lt" .
+
+<https://da.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "da" .
+
+<https://kk.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "kk" .
+
+<https://war.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "war" .
+
+<https://ur.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "ur" .
+
+<https://ca.wikipedia.org/wiki/JP%20Morgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "ca" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A7%87%E0%A6%AA%E0%A6%BF%20%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%A8%20%E0%A6%9A%E0%A7%87%E0%A6%B8> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "bn" .
+
+<https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3AJPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "ru" .
+
+<https://hy.wikipedia.org/wiki/JPMorgan%20Chase> a schema:Article ;
+	schema:about wd:Q192314 ;
+	schema:inLanguage "hy" .
+
+wdv:0070e7a251a6679a00e8263cc7915c19 a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "40.7558"^^xsd:decimal ;
+	wikibase:geoLongitude "-73.9754"^^xsd:decimal ;
+	wikibase:geoPrecision "2.7777777777778E-6"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdata:Q192321 schema:version "229895617"^^xsd:integer ;
+	schema:dateModified "2015-07-12T13:07:16Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q192321 .
+

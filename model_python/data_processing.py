@@ -11,7 +11,6 @@ import seaborn as sns
 import json
 import itertools
 import pandas as pd
-import torch
 import pandas_market_calendars as mcal
 import datetime
 from torch.utils.data import Dataset, DataLoader
@@ -42,8 +41,8 @@ def prep_dataset(dataset_filepath, start_date, end_date):
         cache[start_day] = next_day
         return next_day
 
-    raw_prices_filepath = stocknet_dataset_filepath + '/price/raw'
-    preprocessed_tweets_filepath = stocknet_dataset_filepath + '/tweet/preprocessed'
+    raw_prices_filepath = dataset_filepath + '/price/raw'
+    preprocessed_tweets_filepath = dataset_filepath + '/tweet/preprocessed'
 
     company_to_price_df = {}
     company_to_tweets = {}
@@ -127,15 +126,28 @@ def prep_dataset(dataset_filepath, start_date, end_date):
     return company_to_price_df, company_to_tweets, date_universe, n_days, n_stocks, max_tweets
 
 def build_second_order_wikidata_graphs(wikidata_filepath):
+    wikidata_entries_filepath = os.path.join(wikidata_filepath, 'wikidata_entries')
+    # Entity numbers
+    # NOTE: SPLP could not be found on Wikidata
+    name_to_num = {}
+    num_to_name = {}
+    entities = set()
+    with open(os.path.join(wikidata_filepath, 'links.csv')) as file:
+        next(file)
+        for line in file:
+            name, url = line.split(',')
+            entity_num = int(re.sub('\D', '', url.split(',')[-1]))
+            name_to_num[name] = entity_num
+            num_to_name[entity_num] = name
+            entities.add(entity_num)
+        # Building first-order relationships
+        graph = {}
+        for name in name_to_num.keys():
+            graph[name] = []
+        graph['SPLP'] = []
 
-    # Building first-order relationships
-    graph = {}
-    for name in name_to_num.keys():
-        graph[name] = []
-    graph['SPLP'] = []
-
-    for filename in os.listdir(f'{wikidata_filepath}/wikidata_entries/'):
-        with open(f'{wikidata_filepath}/wikidata_entries/' + filename) as file:
+    for filename in os.listdir(wikidata_entries_filepath):
+        with open(os.path.join(wikidata_entries_filepath, filename)) as file:
             if filename == '.DS_Store': continue
                 
             orig_entity = filename.split('_')[0]
@@ -162,8 +174,8 @@ def build_second_order_wikidata_graphs(wikidata_filepath):
         company_to_entities[name] = []
     company_to_entities['SPLP'] = []
 
-    for filename in os.listdir('./wikidata_entries/'):
-        with open('./wikidata_entries/' + filename) as file:
+    for filename in os.listdir(wikidata_entries_filepath):
+        with open(os.path.join(wikidata_entries_filepath, filename)) as file:
             if filename == '.DS_Store': continue
                 
             orig_entity = filename.split('_')[0]
@@ -181,7 +193,8 @@ def build_second_order_wikidata_graphs(wikidata_filepath):
                             if related_entity not in company_to_entities[orig_entity]:
                                 company_to_entities[orig_entity].append(related_entity)
                     except ValueError:
-                        print('substring err')
+                        # print('substring err')
+                        pass
 
     # Build second-order relations
     graph_2 = {}

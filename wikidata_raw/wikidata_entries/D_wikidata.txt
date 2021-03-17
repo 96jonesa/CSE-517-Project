@@ -1,0 +1,82 @@
+wd:Q677464 a wikibase:Item ;
+	rdfs:label "Dominion Resources"@de ;
+	skos:prefLabel "Dominion Resources"@de ;
+	schema:name "Dominion Resources"@de ;
+	rdfs:label "Dominion Resources"@fr ;
+	skos:prefLabel "Dominion Resources"@fr ;
+	schema:name "Dominion Resources"@fr ;
+	rdfs:label "Dominion Resources"@ru ;
+	skos:prefLabel "Dominion Resources"@ru ;
+	schema:name "Dominion Resources"@ru ;
+	rdfs:label "Dominion Resources"@en ;
+	skos:prefLabel "Dominion Resources"@en ;
+	schema:name "Dominion Resources"@en ;
+	rdfs:label "Dominion Resources"@nl ;
+	skos:prefLabel "Dominion Resources"@nl ;
+	schema:name "Dominion Resources"@nl ;
+	rdfs:label "دومینیون"@fa ;
+	skos:prefLabel "دومینیون"@fa ;
+	schema:name "دومینیون"@fa ;
+	rdfs:label "Dominion Resources"@zh-cn ;
+	skos:prefLabel "Dominion Resources"@zh-cn ;
+	schema:name "Dominion Resources"@zh-cn ;
+	schema:description "dominion resources"@es ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P910 wd:Q8387698 ;
+	wdt:P646 "/m/06jkx2" ;
+	p:P414 wds:q677464-F29565FA-AB4B-4562-9F7B-CB45940E0467 .
+
+wds:q677464-F29565FA-AB4B-4562-9F7B-CB45940E0467 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q677464 p:P31 wds:q677464-124020B1-FDA4-417A-943F-EA30A696DF92 .
+
+wds:q677464-124020B1-FDA4-417A-943F-EA30A696DF92 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q677464 p:P910 wds:Q677464-68CA763A-4058-4B31-ACBC-2D3481DA86B4 .
+
+wds:Q677464-68CA763A-4058-4B31-ACBC-2D3481DA86B4 a wikibase:Statement ;
+	ps:P910 wd:Q8387698 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q677464 p:P646 wds:Q677464-A9ABEA64-23E7-4DAB-94D3-483327FC1520 .
+
+wds:Q677464-A9ABEA64-23E7-4DAB-94D3-483327FC1520 a wikibase:Statement ;
+	ps:P646 "/m/06jkx2" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+<https://de.wikipedia.org/wiki/Dominion%20Resources> a schema:Article ;
+	schema:about wd:Q677464 ;
+	schema:inLanguage "de" .
+
+<https://fr.wikipedia.org/wiki/Dominion%20Resources> a schema:Article ;
+	schema:about wd:Q677464 ;
+	schema:inLanguage "fr" .
+
+<https://ru.wikipedia.org/wiki/Dominion%20Resources> a schema:Article ;
+	schema:about wd:Q677464 ;
+	schema:inLanguage "ru" .
+
+<https://en.wikipedia.org/wiki/Dominion%20Resources> a schema:Article ;
+	schema:about wd:Q677464 ;
+	schema:inLanguage "en" .
+
+<https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%86> a schema:Article ;
+	schema:about wd:Q677464 ;
+	schema:inLanguage "fa" .
+
+wdata:Q677468 schema:version "222539020"^^xsd:integer ;
+	schema:dateModified "2015-06-15T14:05:05Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q677468 .
+

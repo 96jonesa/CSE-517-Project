@@ -1,0 +1,526 @@
+wd:Q157062 a wikibase:Item ;
+	rdfs:label "联合利华"@zh-hans ;
+	skos:prefLabel "联合利华"@zh-hans ;
+	schema:name "联合利华"@zh-hans ;
+	rdfs:label "聯合利華"@zh-hant ;
+	skos:prefLabel "聯合利華"@zh-hant ;
+	schema:name "聯合利華"@zh-hant ;
+	rdfs:label "聯合利華"@zh-hk ;
+	skos:prefLabel "聯合利華"@zh-hk ;
+	schema:name "聯合利華"@zh-hk ;
+	rdfs:label "联合利华"@zh-cn ;
+	skos:prefLabel "联合利华"@zh-cn ;
+	schema:name "联合利华"@zh-cn ;
+	rdfs:label "联合利华"@zh-sg ;
+	skos:prefLabel "联合利华"@zh-sg ;
+	schema:name "联合利华"@zh-sg ;
+	rdfs:label "聯合利華"@zh-tw ;
+	skos:prefLabel "聯合利華"@zh-tw ;
+	schema:name "聯合利華"@zh-tw ;
+	rdfs:label "Unilever"@pms ;
+	skos:prefLabel "Unilever"@pms ;
+	schema:name "Unilever"@pms ;
+	rdfs:label "Unilever"@jv ;
+	skos:prefLabel "Unilever"@jv ;
+	schema:name "Unilever"@jv ;
+	rdfs:label "Unilever"@pl ;
+	skos:prefLabel "Unilever"@pl ;
+	schema:name "Unilever"@pl ;
+	rdfs:label "유니레버"@ko ;
+	skos:prefLabel "유니레버"@ko ;
+	schema:name "유니레버"@ko ;
+	rdfs:label "Unilever"@fr ;
+	skos:prefLabel "Unilever"@fr ;
+	schema:name "Unilever"@fr ;
+	rdfs:label "יוניליוור"@he ;
+	skos:prefLabel "יוניליוור"@he ;
+	schema:name "יוניליוור"@he ;
+	rdfs:label "Unilever"@es ;
+	skos:prefLabel "Unilever"@es ;
+	schema:name "Unilever"@es ;
+	rdfs:label "Unilever"@ms ;
+	skos:prefLabel "Unilever"@ms ;
+	schema:name "Unilever"@ms ;
+	rdfs:label "Unilever"@hu ;
+	skos:prefLabel "Unilever"@hu ;
+	schema:name "Unilever"@hu ;
+	rdfs:label "Unilever"@it ;
+	skos:prefLabel "Unilever"@it ;
+	schema:name "Unilever"@it ;
+	rdfs:label "Unilever"@id ;
+	skos:prefLabel "Unilever"@id ;
+	schema:name "Unilever"@id ;
+	rdfs:label "Unilever"@de ;
+	skos:prefLabel "Unilever"@de ;
+	schema:name "Unilever"@de ;
+	rdfs:label "ユニリーバ"@ja ;
+	skos:prefLabel "ユニリーバ"@ja ;
+	schema:name "ユニリーバ"@ja ;
+	rdfs:label "Unilever"@vi ;
+	skos:prefLabel "Unilever"@vi ;
+	schema:name "Unilever"@vi ;
+	rdfs:label "ينيليفر"@ar ;
+	skos:prefLabel "ينيليفر"@ar ;
+	schema:name "ينيليفر"@ar ;
+	rdfs:label "Unilever"@sv ;
+	skos:prefLabel "Unilever"@sv ;
+	schema:name "Unilever"@sv ;
+	rdfs:label "Unilever"@nl ;
+	skos:prefLabel "Unilever"@nl ;
+	schema:name "Unilever"@nl ;
+	rdfs:label "Unilever"@pt ;
+	skos:prefLabel "Unilever"@pt ;
+	schema:name "Unilever"@pt ;
+	rdfs:label "Unilever"@su ;
+	skos:prefLabel "Unilever"@su ;
+	schema:name "Unilever"@su ;
+	rdfs:label "Unilever"@ru ;
+	skos:prefLabel "Unilever"@ru ;
+	schema:name "Unilever"@ru ;
+	rdfs:label "Unilever"@en ;
+	skos:prefLabel "Unilever"@en ;
+	schema:name "Unilever"@en ;
+	rdfs:label "ಯೂನಿಲಿವರ್"@kn ;
+	skos:prefLabel "ಯೂನಿಲಿವರ್"@kn ;
+	schema:name "ಯೂನಿಲಿವರ್"@kn ;
+	rdfs:label "Unilever"@tr ;
+	skos:prefLabel "Unilever"@tr ;
+	schema:name "Unilever"@tr ;
+	rdfs:label "ยูนิลีเวอร์"@th ;
+	skos:prefLabel "ยูนิลีเวอร์"@th ;
+	schema:name "ยูนิลีเวอร์"@th ;
+	rdfs:label "Unilever"@ro ;
+	skos:prefLabel "Unilever"@ro ;
+	schema:name "Unilever"@ro ;
+	rdfs:label "Unilever"@ca ;
+	skos:prefLabel "Unilever"@ca ;
+	schema:name "Unilever"@ca ;
+	rdfs:label "Unilever"@fi ;
+	skos:prefLabel "Unilever"@fi ;
+	schema:name "Unilever"@fi ;
+	rdfs:label "Unilever"@uk ;
+	skos:prefLabel "Unilever"@uk ;
+	schema:name "Unilever"@uk ;
+	rdfs:label "Unilever"@war ;
+	skos:prefLabel "Unilever"@war ;
+	schema:name "Unilever"@war ;
+	rdfs:label "Unilever"@cs ;
+	skos:prefLabel "Unilever"@cs ;
+	schema:name "Unilever"@cs ;
+	rdfs:label "યુનિલિવર"@gu ;
+	skos:prefLabel "યુનિલિવર"@gu ;
+	schema:name "યુનિલિવર"@gu ;
+	rdfs:label "یونیلور"@fa ;
+	skos:prefLabel "یونیلور"@fa ;
+	schema:name "یونیلور"@fa ;
+	rdfs:label "Юниливър"@bg ;
+	skos:prefLabel "Юниливър"@bg ;
+	schema:name "Юниливър"@bg ;
+	rdfs:label "Unilever"@da ;
+	skos:prefLabel "Unilever"@da ;
+	schema:name "Unilever"@da ;
+	rdfs:label "联合利华"@zh ;
+	skos:prefLabel "联合利华"@zh ;
+	schema:name "联合利华"@zh ;
+	rdfs:label "Unilever"@nb ;
+	skos:prefLabel "Unilever"@nb ;
+	schema:name "Unilever"@nb ;
+	rdfs:label "Unilever"@az ;
+	skos:prefLabel "Unilever"@az ;
+	schema:name "Unilever"@az ;
+	rdfs:label "聯合利華"@yue ;
+	skos:prefLabel "聯合利華"@yue ;
+	schema:name "聯合利華"@yue ;
+	rdfs:label "यूनीलीवर"@hi ;
+	skos:prefLabel "यूनीलीवर"@hi ;
+	schema:name "यूनीलीवर"@hi ;
+	schema:description "multinational consumer goods company"@en,
+		"niederländisch-britischer Konzern, produziert Konsumgüter"@de,
+		"une société néerlando-britannique qui produit des biens de consommation"@fr,
+		"इंग्लैंड की कंपनी"@hi ;
+	skos:altLabel "聯合利華集團股份"@zh,
+		"聯合利華"@zh,
+		"聯合利華集團股份有限公司"@zh,
+		"聯合利華集團"@zh,
+		"Cornetto"@fr,
+		"Unilever NV"@fr,
+		"Déodorants Rexona"@fr,
+		"Bestfoods"@fr,
+		"יוניליבר"@he,
+		"יונילוור"@he,
+		"Unilever Italia"@it,
+		"Unilever de Argentina"@de,
+		"Lever Faberge"@de,
+		"Unilever Austria"@de,
+		"Rexona"@de,
+		"Unilever Bestfoods"@de,
+		"Unilever Bestfoods Deutschland"@de,
+		"Lever Fabergé"@de,
+		"Skip Baukasten"@de,
+		"Omo-Waschmittel"@de,
+		"Skip Baukastensystem"@de,
+		"Omo Waschmittel"@de,
+		"Signal"@de,
+		"ユニレバー"@ja,
+		"ユニリーヴァ"@ja,
+		"يونيلافر"@ar,
+		"Unilever"@ar,
+		"Unilever PLC"@sv,
+		"Unilever NV"@sv,
+		"Sunsilk"@sv,
+		"Chikita"@pt,
+		"Rinso"@pt,
+		"Vasenol"@pt,
+		"Gessy lever"@pt,
+		"Unilever Brasil Ltda"@pt,
+		"Unilever brasil"@pt,
+		"Юнилевер"@ru,
+		"Юниливер"@ru,
+		"Unilever"@th,
+		"Paasivaara"@fi,
+		"Solero"@fi,
+		"Юнилевер"@bg,
+		"Unilever"@bg,
+		"Унилевер"@bg,
+		"Frisko"@da,
+		"Unilever PLC"@en,
+		"Unilever N.V."@en ;
+	wdt:P112 wd:Q2134593,
+		wd:Q1872862,
+		wd:Q5572002 ;
+	wdt:P159 wd:Q2494434,
+		wd:Q1055 ;
+	wdt:P373 "Unilever" ;
+	wdt:P31 wd:Q783794,
+		wd:Q1252971 ;
+	wdt:P910 wd:Q7560448,
+		wd:Q8806849 ;
+	wdt:P856 <http://unilever.com> ;
+	wdt:P646 "/m/01jvjf" ;
+	wdt:P452 wd:Q868404 ;
+	wdt:P1056 wd:Q951964,
+		wd:Q910284,
+		wd:Q131207 ;
+	wdt:P414 wd:Q13677,
+		wd:Q171240 ;
+	wdt:P227 "4258490-5" ;
+	wdt:P1320 "gb/00041424" ;
+	wdt:P276 wd:Q1361890 ;
+	p:P112 wds:q157062-1482CEBD-5A53-497E-8273-B71824FC66B2 .
+
+wds:q157062-1482CEBD-5A53-497E-8273-B71824FC66B2 a wikibase:Statement ;
+	ps:P112 wd:Q2134593 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q157062 p:P112 wds:q157062-B3E848EB-14B1-468C-BF6A-5C240AA6404D .
+
+wds:q157062-B3E848EB-14B1-468C-BF6A-5C240AA6404D a wikibase:Statement ;
+	ps:P112 wd:Q1872862 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q157062 p:P112 wds:q157062-B33C0684-AF19-4B5D-8DD7-419853355E58 .
+
+wds:q157062-B33C0684-AF19-4B5D-8DD7-419853355E58 a wikibase:Statement ;
+	ps:P112 wd:Q5572002 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q157062 p:P159 wds:q157062-06A76236-BAA9-408E-93A0-F1F34FFC58CC .
+
+wds:q157062-06A76236-BAA9-408E-93A0-F1F34FFC58CC a wikibase:Statement ;
+	ps:P159 wd:Q2494434 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q157062 p:P159 wds:Q157062-180ABCA3-8352-43D2-94D8-ABEF91B2B5CA .
+
+wds:Q157062-180ABCA3-8352-43D2-94D8-ABEF91B2B5CA a wikibase:Statement ;
+	ps:P159 wd:Q1055 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q157062 p:P373 wds:q157062-3CE2E7B2-B2D8-4B4B-B793-B6343E9D8F67 .
+
+wds:q157062-3CE2E7B2-B2D8-4B4B-B793-B6343E9D8F67 a wikibase:Statement ;
+	ps:P373 "Unilever" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q157062 p:P31 wds:q157062-FE75EC06-C888-4C71-A494-7FB0866A09AB .
+
+wds:q157062-FE75EC06-C888-4C71-A494-7FB0866A09AB a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q157062 p:P31 wds:Q157062-b6b77933-4e4f-3935-dc27-48dc832ab590 .
+
+wds:Q157062-b6b77933-4e4f-3935-dc27-48dc832ab590 a wikibase:Statement ;
+	ps:P31 wd:Q1252971 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q157062 p:P910 wds:Q157062-BCEDB021-BFCB-4CC1-BCDB-16B75919C684 .
+
+wds:Q157062-BCEDB021-BFCB-4CC1-BCDB-16B75919C684 a wikibase:Statement ;
+	ps:P910 wd:Q7560448 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q157062 p:P910 wds:Q157062-f8713da0-443f-6a54-f19d-fd339d28e41a .
+
+wds:Q157062-f8713da0-443f-6a54-f19d-fd339d28e41a a wikibase:Statement ;
+	ps:P910 wd:Q8806849 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q157062 p:P856 wds:Q157062-1F5035F6-404F-48F2-975B-73A889BF1F49 .
+
+wds:Q157062-1F5035F6-404F-48F2-975B-73A889BF1F49 a wikibase:Statement ;
+	ps:P856 <http://unilever.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q157062 p:P646 wds:Q157062-471ABE6F-163C-4F5D-A84D-A99198E44367 .
+
+wds:Q157062-471ABE6F-163C-4F5D-A84D-A99198E44367 a wikibase:Statement ;
+	ps:P646 "/m/01jvjf" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q157062 p:P452 wds:Q157062-d8f4bf13-4047-8ecd-4f14-c8a2cde72c93 .
+
+wds:Q157062-d8f4bf13-4047-8ecd-4f14-c8a2cde72c93 a wikibase:Statement ;
+	ps:P452 wd:Q868404 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q157062 p:P1056 wds:Q157062-23bdb7f9-4831-5989-36a4-cc3e5d33e5b8 .
+
+wds:Q157062-23bdb7f9-4831-5989-36a4-cc3e5d33e5b8 a wikibase:Statement ;
+	ps:P1056 wd:Q951964 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q157062 p:P1056 wds:Q157062-15292968-4da7-030c-fa0d-506285e69de1 .
+
+wds:Q157062-15292968-4da7-030c-fa0d-506285e69de1 a wikibase:Statement ;
+	ps:P1056 wd:Q910284 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q157062 p:P1056 wds:Q157062-dac0619a-4bb4-d634-3e8a-4ea4885db289 .
+
+wds:Q157062-dac0619a-4bb4-d634-3e8a-4ea4885db289 a wikibase:Statement ;
+	ps:P1056 wd:Q131207 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q157062 p:P414 wds:Q157062-00E18965-F5F5-45D1-9F89-72727E3E2BA3 .
+
+wds:Q157062-00E18965-F5F5-45D1-9F89-72727E3E2BA3 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q157062 p:P414 wds:Q157062-25FCFBA2-3028-46FD-9D3E-95E17DC79098 .
+
+wds:Q157062-25FCFBA2-3028-46FD-9D3E-95E17DC79098 a wikibase:Statement ;
+	ps:P414 wd:Q171240 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q157062 p:P227 wds:Q157062-B53CF7EC-CAC2-44D1-A8E8-AB8BFD28E5A6 .
+
+wds:Q157062-B53CF7EC-CAC2-44D1-A8E8-AB8BFD28E5A6 a wikibase:Statement ;
+	ps:P227 "4258490-5" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q157062 p:P1320 wds:Q157062-631FCAFD-5784-4526-A31B-41B4D4A789DC .
+
+wds:Q157062-631FCAFD-5784-4526-A31B-41B4D4A789DC a wikibase:Statement ;
+	ps:P1320 "gb/00041424" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q157062 p:P276 wds:Q157062-f5eb3b85-4282-de05-f63b-10307bf52280 .
+
+wds:Q157062-f5eb3b85-4282-de05-f63b-10307bf52280 a wikibase:Statement ;
+	ps:P276 wd:Q1361890 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P580 "1929-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:0828f7b5d9ec0cadd33d1b0907fdd7af ;
+	pq:P580 "2005-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:e9fb92a10cba9810496dcd2069ca7a89 ;
+	pq:P582 "2001-12-31T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:5a9587e4992675a82f89696ce0cd609a .
+
+<https://zh.wikipedia.org/wiki/%E8%81%94%E5%90%88%E5%88%A9%E5%8D%8E> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "zh" .
+
+<https://pms.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "pms" .
+
+<https://jv.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "jv" .
+
+<https://pl.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "pl" .
+
+<https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%8B%88%EB%A0%88%EB%B2%84> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "ko" .
+
+<https://fr.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "fr" .
+
+<https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%A0%D7%99%D7%9C%D7%99%D7%95%D7%95%D7%A8> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "he" .
+
+<https://es.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "es" .
+
+<https://ms.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "ms" .
+
+<https://hu.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "hu" .
+
+<https://it.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "it" .
+
+<https://id.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "id" .
+
+<https://de.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%8B%E3%83%AA%E3%83%BC%E3%83%90> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "ja" .
+
+<https://vi.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "vi" .
+
+<https://ar.wikipedia.org/wiki/%D9%8A%D9%88%D9%86%D9%8A%D9%84%D9%8A%D9%81%D8%B1> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "ar" .
+
+<https://sv.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "sv" .
+
+<https://nl.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "nl" .
+
+<https://pt.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "pt" .
+
+<https://su.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "su" .
+
+<https://ru.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "ru" .
+
+<https://en.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "en" .
+
+<https://kn.wikipedia.org/wiki/%E0%B2%AF%E0%B3%82%E0%B2%A8%E0%B2%BF%E0%B2%B2%E0%B2%BF%E0%B2%B5%E0%B2%B0%E0%B3%8D> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "kn" .
+
+<https://tr.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "tr" .
+
+<https://th.wikipedia.org/wiki/%E0%B8%A2%E0%B8%B9%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%B5%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "th" .
+
+<https://ro.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "ro" .
+
+<https://no.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "no" .
+
+<https://ca.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "ca" .
+
+<https://fi.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "fi" .
+
+<https://uk.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "uk" .
+
+<https://war.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "war" .
+
+<https://cs.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "cs" .
+
+<https://gu.wikipedia.org/wiki/%E0%AA%AF%E0%AB%81%E0%AA%A8%E0%AA%BF%E0%AA%B2%E0%AA%BF%E0%AA%B5%E0%AA%B0> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "gu" .
+
+<https://fa.wikipedia.org/wiki/%DB%8C%D9%88%D9%86%DB%8C%D9%84%DB%8C%D9%88%D8%B1> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "fa" .
+
+<https://da.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "da" .
+
+<https://az.wikipedia.org/wiki/Unilever> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "az" .
+
+<https://zh-yue.wikipedia.org/wiki/%E8%81%AF%E5%90%88%E5%88%A9%E8%8F%AF> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "zh-yue" .
+
+<https://bg.wikipedia.org/wiki/%D0%AE%D0%BD%D0%B8%D0%BB%D0%B5%D0%B2%D1%8A%D1%80> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "bg" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A5%80%E0%A4%B5%E0%A4%B0> a schema:Article ;
+	schema:about wd:Q157062 ;
+	schema:inLanguage "hi" .
+
+wdata:Q157065 schema:version "227258759"^^xsd:integer ;
+	schema:dateModified "2015-07-07T17:49:24Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q157065 .
+

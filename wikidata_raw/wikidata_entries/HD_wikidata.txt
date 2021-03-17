@@ -1,0 +1,248 @@
+wd:Q864407 a wikibase:Item ;
+	rdfs:label "家得宝"@zh-hans ;
+	skos:prefLabel "家得宝"@zh-hans ;
+	schema:name "家得宝"@zh-hans ;
+	rdfs:label "家得寶"@zh-hant ;
+	skos:prefLabel "家得寶"@zh-hant ;
+	schema:name "家得寶"@zh-hant ;
+	rdfs:label "家得寶"@zh-hk ;
+	skos:prefLabel "家得寶"@zh-hk ;
+	schema:name "家得寶"@zh-hk ;
+	rdfs:label "Home Depot"@pt ;
+	skos:prefLabel "Home Depot"@pt ;
+	schema:name "Home Depot"@pt ;
+	rdfs:label "Home Depot"@pl ;
+	skos:prefLabel "Home Depot"@pl ;
+	schema:name "Home Depot"@pl ;
+	rdfs:label "הום דיפו"@he ;
+	skos:prefLabel "הום דיפו"@he ;
+	schema:name "הום דיפו"@he ;
+	rdfs:label "The Home Depot"@ru ;
+	skos:prefLabel "The Home Depot"@ru ;
+	schema:name "The Home Depot"@ru ;
+	rdfs:label "Home Depot"@fr ;
+	skos:prefLabel "Home Depot"@fr ;
+	schema:name "Home Depot"@fr ;
+	rdfs:label "홈디포"@ko ;
+	skos:prefLabel "홈디포"@ko ;
+	schema:name "홈디포"@ko ;
+	rdfs:label "The Home Depot"@en ;
+	skos:prefLabel "The Home Depot"@en ;
+	schema:name "The Home Depot"@en ;
+	rdfs:label "Home Depot"@ro ;
+	skos:prefLabel "Home Depot"@ro ;
+	schema:name "Home Depot"@ro ;
+	rdfs:label "The Home Depot"@fi ;
+	skos:prefLabel "The Home Depot"@fi ;
+	schema:name "The Home Depot"@fi ;
+	rdfs:label "Home Depot"@uk ;
+	skos:prefLabel "Home Depot"@uk ;
+	schema:name "Home Depot"@uk ;
+	rdfs:label "Home Depot"@it ;
+	skos:prefLabel "Home Depot"@it ;
+	schema:name "Home Depot"@it ;
+	rdfs:label "The Home Depot"@de ;
+	skos:prefLabel "The Home Depot"@de ;
+	schema:name "The Home Depot"@de ;
+	rdfs:label "The Home Depot"@id ;
+	skos:prefLabel "The Home Depot"@id ;
+	schema:name "The Home Depot"@id ;
+	rdfs:label "ザ・ホーム・デポ"@ja ;
+	skos:prefLabel "ザ・ホーム・デポ"@ja ;
+	schema:name "ザ・ホーム・デポ"@ja ;
+	rdfs:label "هوم دیپو"@fa ;
+	skos:prefLabel "هوم دیپو"@fa ;
+	schema:name "هوم دیپو"@fa ;
+	rdfs:label "The Home Depot"@nl ;
+	skos:prefLabel "The Home Depot"@nl ;
+	schema:name "The Home Depot"@nl ;
+	rdfs:label "The Home Depot"@da ;
+	skos:prefLabel "The Home Depot"@da ;
+	schema:name "The Home Depot"@da ;
+	rdfs:label "Home Depot"@simple ;
+	skos:prefLabel "Home Depot"@simple ;
+	schema:name "Home Depot"@simple ;
+	rdfs:label "家得宝"@zh ;
+	skos:prefLabel "家得宝"@zh ;
+	schema:name "家得宝"@zh ;
+	rdfs:label "The Home Depot"@sah ;
+	skos:prefLabel "The Home Depot"@sah ;
+	schema:name "The Home Depot"@sah ;
+	rdfs:label "Home Depot"@sv ;
+	skos:prefLabel "Home Depot"@sv ;
+	schema:name "Home Depot"@sv ;
+	rdfs:label "The Home Depot"@es ;
+	skos:prefLabel "The Home Depot"@es ;
+	schema:name "The Home Depot"@es ;
+	rdfs:label "The Home Depot"@hy ;
+	skos:prefLabel "The Home Depot"@hy ;
+	schema:name "The Home Depot"@hy ;
+	schema:description "enterprise"@fr ;
+	skos:altLabel "家得寶"@zh,
+		"Home Depot"@ru,
+		"The Home Depot"@fr,
+		"The Home Depot"@es,
+		"Home Depot"@fi,
+		"Хом Депо"@uk,
+		"The Home Depot"@it,
+		"Home Depot"@de,
+		"ホーム・デポ"@ja,
+		"ホームデポ"@ja,
+		"Home Depot"@en,
+		"Home Depot"@da ;
+	wdt:P373 "The Home Depot" ;
+	wdt:P31 wd:Q4830453,
+		wd:Q783794 ;
+	wdt:P910 wd:Q7403465 ;
+	wdt:P646 "/m/01zj1t" ;
+	wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/TheHomeDepot.svg> ;
+	wdt:P414 wd:Q13677 ;
+	p:P373 wds:q864407-D08BF753-7D55-41F6-8CAC-4244033042A2 .
+
+wds:q864407-D08BF753-7D55-41F6-8CAC-4244033042A2 a wikibase:Statement ;
+	ps:P373 "The Home Depot" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q864407 p:P31 wds:q864407-E572F8EE-F2E5-442C-82D5-6B8AE121CCD5 .
+
+wds:q864407-E572F8EE-F2E5-442C-82D5-6B8AE121CCD5 a wikibase:Statement ;
+	ps:P31 wd:Q4830453 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q864407 p:P31 wds:Q864407-dd45167b-487b-341b-eaf1-e7e3f62c0eb3 .
+
+wds:Q864407-dd45167b-487b-341b-eaf1-e7e3f62c0eb3 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q864407 p:P910 wds:Q864407-C38E4D19-870D-4E42-A122-B4DBB02E4149 .
+
+wds:Q864407-C38E4D19-870D-4E42-A122-B4DBB02E4149 a wikibase:Statement ;
+	ps:P910 wd:Q7403465 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q864407 p:P646 wds:Q864407-158F3F5F-FAB1-404D-9D11-A9D49A1050B6 .
+
+wds:Q864407-158F3F5F-FAB1-404D-9D11-A9D49A1050B6 a wikibase:Statement ;
+	ps:P646 "/m/01zj1t" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q864407 p:P18 wds:Q864407-6422D5E8-1275-4514-8F0F-2827125E4CA7 .
+
+wds:Q864407-6422D5E8-1275-4514-8F0F-2827125E4CA7 a wikibase:Statement ;
+	ps:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/TheHomeDepot.svg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:223f43a7229297bd67ffab922174f80c722fff1a .
+
+wd:Q864407 p:P414 wds:Q864407-3A5D93CF-5DDC-49A0-BE32-267A1A71A626 .
+
+wds:Q864407-3A5D93CF-5DDC-49A0-BE32-267A1A71A626 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://zh.wikipedia.org/wiki/%E5%AE%B6%E5%BE%97%E5%AE%9D> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "zh" .
+
+<https://pt.wikipedia.org/wiki/Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "pt" .
+
+<https://pl.wikipedia.org/wiki/Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "pl" .
+
+<https://he.wikipedia.org/wiki/%D7%94%D7%95%D7%9D%20%D7%93%D7%99%D7%A4%D7%95> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "he" .
+
+<https://ru.wikipedia.org/wiki/The%20Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "ru" .
+
+<https://fr.wikipedia.org/wiki/Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "fr" .
+
+<https://ko.wikipedia.org/wiki/%ED%99%88%EB%94%94%ED%8F%AC> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "ko" .
+
+<https://en.wikipedia.org/wiki/The%20Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "en" .
+
+<https://es.wikipedia.org/wiki/The%20Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "es" .
+
+<https://ro.wikipedia.org/wiki/Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "ro" .
+
+<https://fi.wikipedia.org/wiki/The%20Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "fi" .
+
+<https://uk.wikipedia.org/wiki/Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "uk" .
+
+<https://it.wikipedia.org/wiki/Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "it" .
+
+<https://de.wikipedia.org/wiki/The%20Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "de" .
+
+<https://id.wikipedia.org/wiki/The%20Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "id" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%87%E3%83%9D> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "ja" .
+
+<https://fa.wikipedia.org/wiki/%D9%87%D9%88%D9%85%20%D8%AF%DB%8C%D9%BE%D9%88> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "fa" .
+
+<https://simple.wikipedia.org/wiki/Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "simple" .
+
+<https://nl.wikipedia.org/wiki/The%20Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "nl" .
+
+<https://da.wikipedia.org/wiki/The%20Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "da" .
+
+<https://sah.wikipedia.org/wiki/The%20Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "sah" .
+
+<https://sv.wikipedia.org/wiki/Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "sv" .
+
+<https://hy.wikipedia.org/wiki/The%20Home%20Depot> a schema:Article ;
+	schema:about wd:Q864407 ;
+	schema:inLanguage "hy" .
+
+wdata:Q864411 schema:version "231647138"^^xsd:integer ;
+	schema:dateModified "2015-07-16T15:09:25Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q864411 .
+

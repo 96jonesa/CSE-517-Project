@@ -1,0 +1,410 @@
+wd:Q159433 a wikibase:Item ;
+	rdfs:label "3M公司"@zh-hans ;
+	skos:prefLabel "3M公司"@zh-hans ;
+	schema:name "3M公司"@zh-hans ;
+	rdfs:label "3M公司"@zh-hant ;
+	skos:prefLabel "3M公司"@zh-hant ;
+	schema:name "3M公司"@zh-hant ;
+	rdfs:label "3M公司"@zh-hk ;
+	skos:prefLabel "3M公司"@zh-hk ;
+	schema:name "3M公司"@zh-hk ;
+	rdfs:label "3M公司"@zh-cn ;
+	skos:prefLabel "3M公司"@zh-cn ;
+	schema:name "3M公司"@zh-cn ;
+	rdfs:label "3M公司"@zh-sg ;
+	skos:prefLabel "3M公司"@zh-sg ;
+	schema:name "3M公司"@zh-sg ;
+	rdfs:label "3M公司"@zh-tw ;
+	skos:prefLabel "3M公司"@zh-tw ;
+	schema:name "3M公司"@zh-tw ;
+	rdfs:label "3M"@pl ;
+	skos:prefLabel "3M"@pl ;
+	schema:name "3M"@pl ;
+	rdfs:label "3M"@ko ;
+	skos:prefLabel "3M"@ko ;
+	schema:name "3M"@ko ;
+	rdfs:label "3M"@he ;
+	skos:prefLabel "3M"@he ;
+	schema:name "3M"@he ;
+	rdfs:label "3M"@fr ;
+	skos:prefLabel "3M"@fr ;
+	schema:name "3M"@fr ;
+	rdfs:label "3M"@es ;
+	skos:prefLabel "3M"@es ;
+	schema:name "3M"@es ;
+	rdfs:label "3M"@hu ;
+	skos:prefLabel "3M"@hu ;
+	schema:name "3M"@hu ;
+	rdfs:label "3M"@ms ;
+	skos:prefLabel "3M"@ms ;
+	schema:name "3M"@ms ;
+	rdfs:label "3M"@it ;
+	skos:prefLabel "3M"@it ;
+	schema:name "3M"@it ;
+	rdfs:label "3M"@de ;
+	skos:prefLabel "3M"@de ;
+	schema:name "3M"@de ;
+	rdfs:label "3M"@id ;
+	skos:prefLabel "3M"@id ;
+	schema:name "3M"@id ;
+	rdfs:label "3M"@ja ;
+	skos:prefLabel "3M"@ja ;
+	schema:name "3M"@ja ;
+	rdfs:label "3M"@sv ;
+	skos:prefLabel "3M"@sv ;
+	schema:name "3M"@sv ;
+	rdfs:label "3M"@nl ;
+	skos:prefLabel "3M"@nl ;
+	schema:name "3M"@nl ;
+	rdfs:label "३एम"@hi ;
+	skos:prefLabel "३एम"@hi ;
+	schema:name "३एम"@hi ;
+	rdfs:label "3M"@pt ;
+	skos:prefLabel "3M"@pt ;
+	schema:name "3M"@pt ;
+	rdfs:label "3M"@ru ;
+	skos:prefLabel "3M"@ru ;
+	schema:name "3M"@ru ;
+	rdfs:label "3M"@en ;
+	skos:prefLabel "3M"@en ;
+	schema:name "3M"@en ;
+	rdfs:label "3M"@ro ;
+	skos:prefLabel "3M"@ro ;
+	schema:name "3M"@ro ;
+	rdfs:label "3M"@fi ;
+	skos:prefLabel "3M"@fi ;
+	schema:name "3M"@fi ;
+	rdfs:label "3M"@uk ;
+	skos:prefLabel "3M"@uk ;
+	schema:name "3M"@uk ;
+	rdfs:label "3M"@cs ;
+	skos:prefLabel "3M"@cs ;
+	schema:name "3M"@cs ;
+	rdfs:label "3M"@bg ;
+	skos:prefLabel "3M"@bg ;
+	schema:name "3M"@bg ;
+	rdfs:label "۳ام"@fa ;
+	skos:prefLabel "۳ام"@fa ;
+	schema:name "۳ام"@fa ;
+	rdfs:label "3M Company"@ur ;
+	skos:prefLabel "3M Company"@ur ;
+	schema:name "3M Company"@ur ;
+	rdfs:label "3M"@da ;
+	skos:prefLabel "3M"@da ;
+	schema:name "3M"@da ;
+	rdfs:label "3M"@gl ;
+	skos:prefLabel "3M"@gl ;
+	schema:name "3M"@gl ;
+	rdfs:label "3M公司"@zh ;
+	skos:prefLabel "3M公司"@zh ;
+	schema:name "3M公司"@zh ;
+	rdfs:label "3M"@de-ch ;
+	skos:prefLabel "3M"@de-ch ;
+	schema:name "3M"@de-ch ;
+	rdfs:label "3M"@en-ca ;
+	skos:prefLabel "3M"@en-ca ;
+	schema:name "3M"@en-ca ;
+	rdfs:label "3M"@en-gb ;
+	skos:prefLabel "3M"@en-gb ;
+	schema:name "3M"@en-gb ;
+	rdfs:label "3M"@nb ;
+	skos:prefLabel "3M"@nb ;
+	schema:name "3M"@nb ;
+	rdfs:label "3M"@pt-br ;
+	skos:prefLabel "3M"@pt-br ;
+	schema:name "3M"@pt-br ;
+	rdfs:label "3m company"@ku-arab ;
+	skos:prefLabel "3m company"@ku-arab ;
+	schema:name "3m company"@ku-arab ;
+	rdfs:label "3M \"شركة\""@ar ;
+	skos:prefLabel "3M \"شركة\""@ar ;
+	schema:name "3M \"شركة\""@ar ;
+	schema:description "Multi-Technologiekonzern"@de,
+		"multinacional estadounidense"@es,
+		"enterprise"@fr,
+		"American multinational conglomerate corporation"@en ;
+	skos:altLabel "3M"@zh,
+		"Minnesota Mining and Manufacturing Company"@fr,
+		"Minnesota Mining & Manufacturing"@fr,
+		"Minnesota Mining and Manufacturing"@fr,
+		"Minnesota Mining and Manufacturing Co"@es,
+		"Minnesota Mining and Manufacturing"@es,
+		"Minnesota Mining and Manufacturing Company"@es,
+		"3M Company"@de,
+		"Minnesota Mining & Manufacturing Co."@de,
+		"Minnesota Mining and Manufacturing Company"@sv,
+		"3एम"@hi,
+		"3M"@hi,
+		"थ्री एम"@hi,
+		"Minnesota Mining and Manufacturing Company"@pt,
+		"3M do Brasil"@pt,
+		"Scotchlite"@pt,
+		"Command 3M"@ru,
+		"Scotch-Brite"@ru,
+		"Minnesota Mining and Manufacturing Company"@cs,
+		"3М"@bg,
+		"تری‌ام"@fa,
+		"3M"@fa,
+		"تری ام"@fa,
+		"3ام"@fa,
+		"Minnesota Mining and Manufacturing Company"@da,
+		"Minnesota Mining and Manufacturing Company"@en,
+		"Mmm"@nb ;
+	wdt:P969 "3M Center, St. Paul, MN, 55144-1000" ;
+	wdt:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/3M%20wordmark.svg> ;
+	wdt:P138 wd:Q1527,
+		wd:Q44497 ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P373 "3M" ;
+	wdt:P31 wd:Q783794,
+		wd:Q778575 ;
+	wdt:P361 wd:Q180816 ;
+	wdt:P159 wd:Q990856 ;
+	wdt:P910 wd:Q7056578 ;
+	wdt:P646 "/m/0h1jr" ;
+	wdt:P166 wd:Q937629 ;
+	wdt:P17 wd:Q30 ;
+	wdt:P1128 "+88667"^^xsd:decimal ;
+	p:P969 wds:Q159433-8557c260-46b8-119f-e43c-23a584283518 .
+
+wds:Q159433-8557c260-46b8-119f-e43c-23a584283518 a wikibase:Statement ;
+	ps:P969 "3M Center, St. Paul, MN, 55144-1000" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q159433 p:P154 wds:Q159433-f2dae5b9-4533-0112-ff57-776cae6062ac .
+
+wds:Q159433-f2dae5b9-4533-0112-ff57-776cae6062ac a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/3M%20wordmark.svg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q159433 p:P138 wds:q159433-4ABDA133-D7C8-4B57-8AAD-C069DEAAEF2A .
+
+wds:q159433-4ABDA133-D7C8-4B57-8AAD-C069DEAAEF2A a wikibase:Statement ;
+	ps:P138 wd:Q1527 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q159433 p:P138 wds:q159433-BE7A5303-42D5-4237-9598-9C72340F77D9 .
+
+wds:q159433-BE7A5303-42D5-4237-9598-9C72340F77D9 a wikibase:Statement ;
+	ps:P138 wd:Q44497 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q159433 p:P414 wds:q159433-08570416-69D6-4BC0-BB4D-B8FC9CADE492 .
+
+wds:q159433-08570416-69D6-4BC0-BB4D-B8FC9CADE492 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "MMM" .
+
+wd:Q159433 p:P373 wds:q159433-275322F4-7DE4-40FF-813C-0A53A681F56B .
+
+wds:q159433-275322F4-7DE4-40FF-813C-0A53A681F56B a wikibase:Statement ;
+	ps:P373 "3M" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q159433 p:P31 wds:q159433-A6CEDD07-AF32-40FD-8BEF-D8C5676C2961 .
+
+wds:q159433-A6CEDD07-AF32-40FD-8BEF-D8C5676C2961 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q159433 p:P31 wds:Q159433-87c9e5a5-4e50-d9f8-1a88-738c519a2858 .
+
+wds:Q159433-87c9e5a5-4e50-d9f8-1a88-738c519a2858 a wikibase:Statement ;
+	ps:P31 wd:Q778575 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q159433 p:P361 wds:q159433-34926cb7-4324-126e-0ec6-9a02375b55c0 .
+
+wds:q159433-34926cb7-4324-126e-0ec6-9a02375b55c0 a wikibase:Statement ;
+	ps:P361 wd:Q180816 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q159433 p:P159 wds:q159433-7b585ba8-4a64-ec10-e55f-a650c4e8f738 .
+
+wds:q159433-7b585ba8-4a64-ec10-e55f-a650c4e8f738 a wikibase:Statement ;
+	ps:P159 wd:Q990856 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q159433 p:P910 wds:Q159433-9BD1121E-9D96-400C-B874-61824342FF18 .
+
+wds:Q159433-9BD1121E-9D96-400C-B874-61824342FF18 a wikibase:Statement ;
+	ps:P910 wd:Q7056578 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q159433 p:P646 wds:Q159433-95EECCA6-70CD-41B4-A0FB-97F9A8866BE1 .
+
+wds:Q159433-95EECCA6-70CD-41B4-A0FB-97F9A8866BE1 a wikibase:Statement ;
+	ps:P646 "/m/0h1jr" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q159433 p:P166 wds:Q159433-3CD4BD86-27F8-46CF-8850-45C1DEE3E8E4 .
+
+wds:Q159433-3CD4BD86-27F8-46CF-8850-45C1DEE3E8E4 a wikibase:Statement ;
+	ps:P166 wd:Q937629 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P585 "1995-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P585 wdv:c259e52728c72fb7bf9f41b140e77218 .
+
+wd:Q159433 p:P17 wds:Q159433-C4930E66-185B-4673-87A9-3F710B63F29B .
+
+wds:Q159433-C4930E66-185B-4673-87A9-3F710B63F29B a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q159433 p:P1128 wds:Q159433-c7f5f5c5-4fa6-27cb-a6bc-5c547651656f .
+
+wds:Q159433-c7f5f5c5-4fa6-27cb-a6bc-5c547651656f a wikibase:Statement ;
+	ps:P1128 "+88667"^^xsd:decimal ;
+	psv:P1128 wdv:37b879119cdd4c1c937e29cffdfff397 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:bb4270d0601e3ca136ca1d4514e4b2582dfdf975 .
+
+<https://zh.wikipedia.org/wiki/3M%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "zh" .
+
+<https://pl.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "pl" .
+
+<https://ko.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "ko" .
+
+<https://he.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "he" .
+
+<https://fr.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "fr" .
+
+<https://es.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "es" .
+
+<https://hu.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "hu" .
+
+<https://ms.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "ms" .
+
+<https://it.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "it" .
+
+<https://de.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "de" .
+
+<https://id.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "id" .
+
+<https://ja.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "ja" .
+
+<https://sv.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "sv" .
+
+<https://nl.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "nl" .
+
+<https://hi.wikipedia.org/wiki/%E0%A5%A9%E0%A4%8F%E0%A4%AE> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "hi" .
+
+<https://pt.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "pt" .
+
+<https://ru.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "ru" .
+
+<https://en.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "en" .
+
+<https://ro.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "ro" .
+
+<https://no.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "no" .
+
+<https://fi.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "fi" .
+
+<https://uk.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "uk" .
+
+<https://cs.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "cs" .
+
+<https://bg.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "bg" .
+
+<https://fa.wikipedia.org/wiki/%DB%B3%D8%A7%D9%85> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "fa" .
+
+<https://ur.wikipedia.org/wiki/3%20%D8%A7%DB%8C%D9%85> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "ur" .
+
+<https://da.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "da" .
+
+<https://gl.wikipedia.org/wiki/3M> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "gl" .
+
+<https://ar.wikipedia.org/wiki/%D8%AB%D8%B1%D9%8A%20%D8%A5%D9%85> a schema:Article ;
+	schema:about wd:Q159433 ;
+	schema:inLanguage "ar" .
+
+wdv:37b879119cdd4c1c937e29cffdfff397 a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+88667"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+88667"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+88667"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdref:bb4270d0601e3ca136ca1d4514e4b2582dfdf975 a wikibase:Reference ;
+	pr:P854 <https://www.nyse.com/quote/XNYS:MMM/company> .
+
+wdata:Q159442 schema:version "228361984"^^xsd:integer ;
+	schema:dateModified "2015-07-10T17:03:59Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q159442 .
+

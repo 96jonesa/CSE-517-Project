@@ -1,0 +1,448 @@
+wd:Q52825 a wikibase:Item ;
+	rdfs:label "ABB"@sv ;
+	skos:prefLabel "ABB"@sv ;
+	schema:name "ABB"@sv ;
+	rdfs:label "ABB Group"@en ;
+	skos:prefLabel "ABB Group"@en ;
+	schema:name "ABB Group"@en ;
+	rdfs:label "أي بي بي"@ar ;
+	skos:prefLabel "أي بي بي"@ar ;
+	schema:name "أي بي بي"@ar ;
+	rdfs:label "ABB"@cs ;
+	skos:prefLabel "ABB"@cs ;
+	schema:name "ABB"@cs ;
+	rdfs:label "ABB"@da ;
+	skos:prefLabel "ABB"@da ;
+	schema:name "ABB"@da ;
+	rdfs:label "Asea Brown Boveri"@de ;
+	skos:prefLabel "Asea Brown Boveri"@de ;
+	schema:name "Asea Brown Boveri"@de ;
+	rdfs:label "ABB"@et ;
+	skos:prefLabel "ABB"@et ;
+	schema:name "ABB"@et ;
+	rdfs:label "ABB"@el ;
+	skos:prefLabel "ABB"@el ;
+	schema:name "ABB"@el ;
+	rdfs:label "ABB Group"@en-ca ;
+	skos:prefLabel "ABB Group"@en-ca ;
+	schema:name "ABB Group"@en-ca ;
+	rdfs:label "ABB Group"@en-gb ;
+	skos:prefLabel "ABB Group"@en-gb ;
+	schema:name "ABB Group"@en-gb ;
+	rdfs:label "ABB Group"@es ;
+	skos:prefLabel "ABB Group"@es ;
+	schema:name "ABB Group"@es ;
+	rdfs:label "ABB Ltd"@eo ;
+	skos:prefLabel "ABB Ltd"@eo ;
+	schema:name "ABB Ltd"@eo ;
+	rdfs:label "گروه آ‌ب‌ب"@fa ;
+	skos:prefLabel "گروه آ‌ب‌ب"@fa ;
+	schema:name "گروه آ‌ب‌ب"@fa ;
+	rdfs:label "ABB"@fi ;
+	skos:prefLabel "ABB"@fi ;
+	schema:name "ABB"@fi ;
+	rdfs:label "Groupe ABB"@fr ;
+	skos:prefLabel "Groupe ABB"@fr ;
+	schema:name "Groupe ABB"@fr ;
+	rdfs:label "एबीबी एसिया ब्राउन बॉवेरी"@hi ;
+	skos:prefLabel "एबीबी एसिया ब्राउन बॉवेरी"@hi ;
+	schema:name "एबीबी एसिया ब्राउन बॉवेरी"@hi ;
+	rdfs:label "Asea Brown Boveri"@hr ;
+	skos:prefLabel "Asea Brown Boveri"@hr ;
+	schema:name "Asea Brown Boveri"@hr ;
+	rdfs:label "Asea Brown Boveri"@id ;
+	skos:prefLabel "Asea Brown Boveri"@id ;
+	schema:name "Asea Brown Boveri"@id ;
+	rdfs:label "ABB"@it ;
+	skos:prefLabel "ABB"@it ;
+	schema:name "ABB"@it ;
+	rdfs:label "アセア・ブラウン・ボベリ"@ja ;
+	skos:prefLabel "アセア・ブラウン・ボベリ"@ja ;
+	schema:name "アセア・ブラウン・ボベリ"@ja ;
+	rdfs:label "Asea Brown Boveri"@lt ;
+	skos:prefLabel "Asea Brown Boveri"@lt ;
+	schema:name "Asea Brown Boveri"@lt ;
+	rdfs:label "ABB"@lv ;
+	skos:prefLabel "ABB"@lv ;
+	schema:name "ABB"@lv ;
+	rdfs:label "Asea Brown Boveri"@nl ;
+	skos:prefLabel "Asea Brown Boveri"@nl ;
+	schema:name "Asea Brown Boveri"@nl ;
+	rdfs:label "ABB"@nn ;
+	skos:prefLabel "ABB"@nn ;
+	schema:name "ABB"@nn ;
+	rdfs:label "ABB"@pl ;
+	skos:prefLabel "ABB"@pl ;
+	schema:name "ABB"@pl ;
+	rdfs:label "Asea Brown Boveri"@pt ;
+	skos:prefLabel "Asea Brown Boveri"@pt ;
+	schema:name "Asea Brown Boveri"@pt ;
+	rdfs:label "ABB Group"@ro ;
+	skos:prefLabel "ABB Group"@ro ;
+	schema:name "ABB Group"@ro ;
+	rdfs:label "ABB"@ru ;
+	skos:prefLabel "ABB"@ru ;
+	schema:name "ABB"@ru ;
+	rdfs:label "Asea Brown Boveri"@simple ;
+	skos:prefLabel "Asea Brown Boveri"@simple ;
+	schema:name "Asea Brown Boveri"@simple ;
+	rdfs:label "ஏசியா பிரவுன் பொவெரி"@ta ;
+	skos:prefLabel "ஏசியா பிரவுன் பொவெரி"@ta ;
+	schema:name "ஏசியா பிரவுன் பொவெரி"@ta ;
+	rdfs:label "ABB"@zh ;
+	skos:prefLabel "ABB"@zh ;
+	schema:name "ABB"@zh ;
+	rdfs:label "ABB"@zh-cn ;
+	skos:prefLabel "ABB"@zh-cn ;
+	schema:name "ABB"@zh-cn ;
+	rdfs:label "ABB"@zh-hans ;
+	skos:prefLabel "ABB"@zh-hans ;
+	schema:name "ABB"@zh-hans ;
+	rdfs:label "ABB"@zh-hant ;
+	skos:prefLabel "ABB"@zh-hant ;
+	schema:name "ABB"@zh-hant ;
+	rdfs:label "ABB Grubu"@tr ;
+	skos:prefLabel "ABB Grubu"@tr ;
+	schema:name "ABB Grubu"@tr ;
+	rdfs:label "ABB"@be ;
+	skos:prefLabel "ABB"@be ;
+	schema:name "ABB"@be ;
+	rdfs:label "เอบีบีกรุป"@th ;
+	skos:prefLabel "เอบีบีกรุป"@th ;
+	schema:name "เอบีบีกรุป"@th ;
+	rdfs:label "ABB"@nb ;
+	skos:prefLabel "ABB"@nb ;
+	schema:name "ABB"@nb ;
+	rdfs:label "ABB"@hu ;
+	skos:prefLabel "ABB"@hu ;
+	schema:name "ABB"@hu ;
+	rdfs:label "Tập đoàn ABB"@vi ;
+	skos:prefLabel "Tập đoàn ABB"@vi ;
+	schema:name "Tập đoàn ABB"@vi ;
+	rdfs:label "Asea Brown Boveri"@gsw ;
+	skos:prefLabel "Asea Brown Boveri"@gsw ;
+	schema:name "Asea Brown Boveri"@gsw ;
+	rdfs:label "ABB"@uk ;
+	skos:prefLabel "ABB"@uk ;
+	schema:name "ABB"@uk ;
+	rdfs:label "ABB Group"@ca ;
+	skos:prefLabel "ABB Group"@ca ;
+	schema:name "ABB Group"@ca ;
+	rdfs:label "ABB Group"@gl ;
+	skos:prefLabel "ABB Group"@gl ;
+	schema:name "ABB Group"@gl ;
+	rdfs:label "ABB 그룹"@ko ;
+	skos:prefLabel "ABB 그룹"@ko ;
+	schema:name "ABB 그룹"@ko ;
+	rdfs:label "ABB"@sl ;
+	skos:prefLabel "ABB"@sl ;
+	schema:name "ABB"@sl ;
+	schema:description "Svenskt-Schweiziskt elindustriföretag 1988-"@sv,
+		"multinational corporation operating in robotics, power and automation technology"@en,
+		"Konzern der Energie- und Automatisierungstechnik mit Hauptsitz in Zürich"@de,
+		"corporación multinacional"@es ;
+	skos:altLabel "Asea Brown Boveri"@sv,
+		"ABB Ltd"@sv,
+		"ABB Ltd"@de,
+		"ABB"@de,
+		"Asea Brown Boveri"@es,
+		"ABB"@es,
+		"ABB"@fr,
+		"ABB"@en,
+		"ABB"@nl ;
+	wdt:P31 wd:Q891723 ;
+	wdt:P138 wd:Q52665,
+		wd:Q664420 ;
+	wdt:P373 "ABB Group" ;
+	wdt:P414 wd:Q13677,
+		wd:Q661834,
+		wd:Q638740,
+		wd:Q638398 ;
+	wdt:P159 wd:Q72 ;
+	wdt:P452 wd:Q170978 ;
+	wdt:P856 <http://www.abb.com/> ;
+	wdt:P910 wd:Q7256175 ;
+	wdt:P646 "/m/01bs_z" ;
+	wdt:P902 "41792" ;
+	wdt:P946 "CH0012221716" ;
+	wdt:P749 wd:Q1671804 ;
+	p:P31 wds:q52825-d7f6d7a1-45a5-8e4c-8622-a12f56264537 .
+
+wds:q52825-d7f6d7a1-45a5-8e4c-8622-a12f56264537 a wikibase:Statement ;
+	ps:P31 wd:Q891723 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q52825 p:P138 wds:q52825-6E977E6B-9DFD-4171-98C0-A3CBD151F723 .
+
+wds:q52825-6E977E6B-9DFD-4171-98C0-A3CBD151F723 a wikibase:Statement ;
+	ps:P138 wd:Q52665 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q52825 p:P138 wds:q52825-D4CDEF6B-B61A-44BB-AA03-C1D1995816F1 .
+
+wds:q52825-D4CDEF6B-B61A-44BB-AA03-C1D1995816F1 a wikibase:Statement ;
+	ps:P138 wd:Q664420 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q52825 p:P373 wds:q52825-27440CBC-072F-4303-A5A2-50FC50D82ECD .
+
+wds:q52825-27440CBC-072F-4303-A5A2-50FC50D82ECD a wikibase:Statement ;
+	ps:P373 "ABB Group" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q52825 p:P414 wds:q52825-E8186800-7AAC-4CE2-AAF4-9492FD81B4EF .
+
+wds:q52825-E8186800-7AAC-4CE2-AAF4-9492FD81B4EF a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "ABB" .
+
+wd:Q52825 p:P414 wds:q52825-bea8d48e-4d23-6948-59fd-4b15e98500e4 .
+
+wds:q52825-bea8d48e-4d23-6948-59fd-4b15e98500e4 a wikibase:Statement ;
+	ps:P414 wd:Q661834 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "ABBN" .
+
+wd:Q52825 p:P414 wds:q52825-eb863cf6-49b0-fdc4-b8f6-042038a11d28 .
+
+wds:q52825-eb863cf6-49b0-fdc4-b8f6-042038a11d28 a wikibase:Statement ;
+	ps:P414 wd:Q638740 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "ABB" .
+
+wd:Q52825 p:P414 wds:q52825-ec932211-4e16-30b0-e0ee-ad71a9d8bdab .
+
+wds:q52825-ec932211-4e16-30b0-e0ee-ad71a9d8bdab a wikibase:Statement ;
+	ps:P414 wd:Q638398 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "500002" .
+
+wd:Q52825 p:P159 wds:q52825-5909b57b-4796-41bf-b265-577ae14c70f6 .
+
+wds:q52825-5909b57b-4796-41bf-b265-577ae14c70f6 a wikibase:Statement ;
+	ps:P159 wd:Q72 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q52825 p:P452 wds:Q52825-ac4df88f-43b9-dee3-4e8f-7181693f15d4 .
+
+wds:Q52825-ac4df88f-43b9-dee3-4e8f-7181693f15d4 a wikibase:Statement ;
+	ps:P452 wd:Q170978 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q52825 p:P856 wds:Q52825-17EC2877-046D-46F4-954B-821DEBB00676 .
+
+wds:Q52825-17EC2877-046D-46F4-954B-821DEBB00676 a wikibase:Statement ;
+	ps:P856 <http://www.abb.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q52825 p:P910 wds:Q52825-4A603DC0-9581-4458-A520-B6BA1A8111F5 .
+
+wds:Q52825-4A603DC0-9581-4458-A520-B6BA1A8111F5 a wikibase:Statement ;
+	ps:P910 wd:Q7256175 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q52825 p:P646 wds:Q52825-88FE6F6B-FB38-4FEF-898A-5967C7DF03E0 .
+
+wds:Q52825-88FE6F6B-FB38-4FEF-898A-5967C7DF03E0 a wikibase:Statement ;
+	ps:P646 "/m/01bs_z" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q52825 p:P902 wds:Q52825-2C49C961-1828-4D76-8B17-3EF1D06B4EB7 .
+
+wds:Q52825-2C49C961-1828-4D76-8B17-3EF1D06B4EB7 a wikibase:Statement ;
+	ps:P902 "41792" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:85e85ee7e4bc105f609c4e38d850f05512d7e014 .
+
+wd:Q52825 p:P946 wds:Q52825-10749854-4086-c0a3-351b-d1f1721f1148 .
+
+wds:Q52825-10749854-4086-c0a3-351b-d1f1721f1148 a wikibase:Statement ;
+	ps:P946 "CH0012221716" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q52825 p:P749 wds:Q52825-21845e5e-4dcf-0d85-4001-8b26553ea54a .
+
+wds:Q52825-21845e5e-4dcf-0d85-4001-8b26553ea54a a wikibase:Statement ;
+	ps:P749 wd:Q1671804 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://sv.wikipedia.org/wiki/ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "sv" .
+
+<https://als.wikipedia.org/wiki/Asea%20Brown%20Boveri> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "als" .
+
+<https://cs.wikipedia.org/wiki/ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "cs" .
+
+<https://da.wikipedia.org/wiki/ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "da" .
+
+<https://et.wikipedia.org/wiki/ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "et" .
+
+<https://en.wikipedia.org/wiki/ABB%20Group> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "en" .
+
+<https://es.wikipedia.org/wiki/ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "es" .
+
+<https://eo.wikipedia.org/wiki/ABB%20Ltd> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "eo" .
+
+<https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%88%D9%87%20%D8%A2%D8%A8%E2%80%8C%D8%A8> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "fa" .
+
+<https://fi.wikipedia.org/wiki/ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "fi" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%AC%E0%A5%80%E0%A4%AC%E0%A5%80%20%E0%A4%8F%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%89%E0%A4%A8%20%E0%A4%AC%E0%A5%89%E0%A4%B5%E0%A5%87%E0%A4%B0%E0%A5%80> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "hi" .
+
+<https://hr.wikipedia.org/wiki/Asea%20Brown%20Boveri> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "hr" .
+
+<https://id.wikipedia.org/wiki/ABB%20Group> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "id" .
+
+<https://lt.wikipedia.org/wiki/ABB%20Group> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "lt" .
+
+<https://lv.wikipedia.org/wiki/ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "lv" .
+
+<https://nl.wikipedia.org/wiki/Asea%20Brown%20Boveri> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "nl" .
+
+<https://nn.wikipedia.org/wiki/ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "nn" .
+
+<https://no.wikipedia.org/wiki/ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "no" .
+
+<https://pl.wikipedia.org/wiki/ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "pl" .
+
+<https://pt.wikipedia.org/wiki/Asea%20Brown%20Boveri> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "pt" .
+
+<https://ro.wikipedia.org/wiki/ABB%20Group> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "ro" .
+
+<https://ru.wikipedia.org/wiki/ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "ru" .
+
+<https://simple.wikipedia.org/wiki/Asea%20Brown%20Boveri> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "simple" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%8F%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%BE%20%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%B5%E0%AF%81%E0%AE%A9%E0%AF%8D%20%E0%AE%AA%E0%AF%8A%E0%AE%B5%E0%AF%86%E0%AE%B0%E0%AE%BF> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "ta" .
+
+<https://zh.wikipedia.org/wiki/ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "zh" .
+
+<https://tr.wikipedia.org/wiki/ABB%20Grubu> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "tr" .
+
+<https://be.wikipedia.org/wiki/ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "be" .
+
+<https://vi.wikipedia.org/wiki/T%E1%BA%ADp%20%C4%91o%C3%A0n%20ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "vi" .
+
+<https://hu.wikipedia.org/wiki/ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "hu" .
+
+<https://el.wikipedia.org/wiki/ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "el" .
+
+<https://uk.wikipedia.org/wiki/ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "uk" .
+
+<https://ja.wikipedia.org/wiki/ABB%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "ja" .
+
+<https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D9%87%20%D8%A8%D9%8A%20%D8%A8%D9%8A> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "ar" .
+
+<https://ko.wikipedia.org/wiki/ABB%20%EA%B7%B8%EB%A3%B9> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "ko" .
+
+<https://it.wikipedia.org/wiki/ABB%20%28azienda%29> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "it" .
+
+<https://fr.wikipedia.org/wiki/ABB%20%28entreprise%29> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "fr" .
+
+<https://sl.wikipedia.org/wiki/ABB> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "sl" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AD%E0%B8%9A%E0%B8%B5%E0%B8%9A%E0%B8%B5%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B9%8A%E0%B8%9B> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "th" .
+
+<https://de.wikipedia.org/wiki/ABB%20%28Unternehmen%29> a schema:Article ;
+	schema:about wd:Q52825 ;
+	schema:inLanguage "de" .
+
+wdata:Q52826 schema:version "180206649"^^xsd:integer ;
+	schema:dateModified "2014-12-10T22:09:10Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q52826 .
+

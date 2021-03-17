@@ -1,0 +1,459 @@
+wd:Q319642 a wikibase:Item ;
+	rdfs:label "Chevron"@nan ;
+	skos:prefLabel "Chevron"@nan ;
+	schema:name "Chevron"@nan ;
+	rdfs:label "雪佛龙"@zh-hans ;
+	skos:prefLabel "雪佛龙"@zh-hans ;
+	schema:name "雪佛龙"@zh-hans ;
+	rdfs:label "雪佛龍"@zh-hant ;
+	skos:prefLabel "雪佛龍"@zh-hant ;
+	schema:name "雪佛龍"@zh-hant ;
+	rdfs:label "雪佛龍"@zh-hk ;
+	skos:prefLabel "雪佛龍"@zh-hk ;
+	schema:name "雪佛龍"@zh-hk ;
+	rdfs:label "雪佛龙"@zh-cn ;
+	skos:prefLabel "雪佛龙"@zh-cn ;
+	schema:name "雪佛龙"@zh-cn ;
+	rdfs:label "雪佛龙"@zh-sg ;
+	skos:prefLabel "雪佛龙"@zh-sg ;
+	schema:name "雪佛龙"@zh-sg ;
+	rdfs:label "雪佛龍"@zh-tw ;
+	skos:prefLabel "雪佛龍"@zh-tw ;
+	schema:name "雪佛龍"@zh-tw ;
+	rdfs:label "Chevron Corporation"@pl ;
+	skos:prefLabel "Chevron Corporation"@pl ;
+	schema:name "Chevron Corporation"@pl ;
+	rdfs:label "셰브런"@ko ;
+	skos:prefLabel "셰브런"@ko ;
+	schema:name "셰브런"@ko ;
+	rdfs:label "Chevron"@fr ;
+	skos:prefLabel "Chevron"@fr ;
+	schema:name "Chevron"@fr ;
+	rdfs:label "Chevron Corporation"@es ;
+	skos:prefLabel "Chevron Corporation"@es ;
+	schema:name "Chevron Corporation"@es ;
+	rdfs:label "Chevron Corporation"@it ;
+	skos:prefLabel "Chevron Corporation"@it ;
+	schema:name "Chevron Corporation"@it ;
+	rdfs:label "Chevron"@et ;
+	skos:prefLabel "Chevron"@et ;
+	schema:name "Chevron"@et ;
+	rdfs:label "Chevron Corporation"@de ;
+	skos:prefLabel "Chevron Corporation"@de ;
+	schema:name "Chevron Corporation"@de ;
+	rdfs:label "Chevron Corporation"@id ;
+	skos:prefLabel "Chevron Corporation"@id ;
+	schema:name "Chevron Corporation"@id ;
+	rdfs:label "シェブロン"@ja ;
+	skos:prefLabel "シェブロン"@ja ;
+	schema:name "シェブロン"@ja ;
+	rdfs:label "Chevron Corporation"@nl ;
+	skos:prefLabel "Chevron Corporation"@nl ;
+	schema:name "Chevron Corporation"@nl ;
+	rdfs:label "Chevron"@sv ;
+	skos:prefLabel "Chevron"@sv ;
+	schema:name "Chevron"@sv ;
+	rdfs:label "شيفرون"@ar ;
+	skos:prefLabel "شيفرون"@ar ;
+	schema:name "شيفرون"@ar ;
+	rdfs:label "शेवरॉन कॉर्पोरेशन"@hi ;
+	skos:prefLabel "शेवरॉन कॉर्पोरेशन"@hi ;
+	schema:name "शेवरॉन कॉर्पोरेशन"@hi ;
+	rdfs:label "Chevron"@pt ;
+	skos:prefLabel "Chevron"@pt ;
+	schema:name "Chevron"@pt ;
+	rdfs:label "Chevron"@ru ;
+	skos:prefLabel "Chevron"@ru ;
+	schema:name "Chevron"@ru ;
+	rdfs:label "Chevron Corporation"@en ;
+	skos:prefLabel "Chevron Corporation"@en ;
+	schema:name "Chevron Corporation"@en ;
+	rdfs:label "Chevron"@ro ;
+	skos:prefLabel "Chevron"@ro ;
+	schema:name "Chevron"@ro ;
+	rdfs:label "เชฟรอน"@th ;
+	skos:prefLabel "เชฟรอน"@th ;
+	schema:name "เชฟรอน"@th ;
+	rdfs:label "Chevron Corporation"@ca ;
+	skos:prefLabel "Chevron Corporation"@ca ;
+	schema:name "Chevron Corporation"@ca ;
+	rdfs:label "Chevron"@fi ;
+	skos:prefLabel "Chevron"@fi ;
+	schema:name "Chevron"@fi ;
+	rdfs:label "Chevron"@uk ;
+	skos:prefLabel "Chevron"@uk ;
+	schema:name "Chevron"@uk ;
+	rdfs:label "Chevron Corporation"@war ;
+	skos:prefLabel "Chevron Corporation"@war ;
+	schema:name "Chevron Corporation"@war ;
+	rdfs:label "Chevron"@cs ;
+	skos:prefLabel "Chevron"@cs ;
+	schema:name "Chevron"@cs ;
+	rdfs:label "شورون"@fa ;
+	skos:prefLabel "شورون"@fa ;
+	schema:name "شورون"@fa ;
+	rdfs:label "Chevron"@lt ;
+	skos:prefLabel "Chevron"@lt ;
+	schema:name "Chevron"@lt ;
+	rdfs:label "Chevron"@da ;
+	skos:prefLabel "Chevron"@da ;
+	schema:name "Chevron"@da ;
+	rdfs:label "Chevron Corporation"@kk ;
+	skos:prefLabel "Chevron Corporation"@kk ;
+	schema:name "Chevron Corporation"@kk ;
+	rdfs:label "雪佛龍"@zh ;
+	skos:prefLabel "雪佛龍"@zh ;
+	schema:name "雪佛龍"@zh ;
+	rdfs:label "Chevron"@nb ;
+	skos:prefLabel "Chevron"@nb ;
+	schema:name "Chevron"@nb ;
+	rdfs:label "Tập đoàn Chevron"@vi ;
+	skos:prefLabel "Tập đoàn Chevron"@vi ;
+	schema:name "Tập đoàn Chevron"@vi ;
+	rdfs:label "شيفرون کارپوریشن"@ur ;
+	skos:prefLabel "شيفرون کارپوریشن"@ur ;
+	schema:name "شيفرون کارپوریشن"@ur ;
+	rdfs:label "Şevron Korporasiyası"@az ;
+	skos:prefLabel "Şevron Korporasiyası"@az ;
+	schema:name "Şevron Korporasiyası"@az ;
+	rdfs:label "Chevron Corporation"@tr ;
+	skos:prefLabel "Chevron Corporation"@tr ;
+	schema:name "Chevron Corporation"@tr ;
+	rdfs:label "Шеврон корпорейшън"@bg ;
+	skos:prefLabel "Шеврон корпорейшън"@bg ;
+	schema:name "Шеврон корпорейшън"@bg ;
+	rdfs:label "Chevron Corporation"@sh ;
+	skos:prefLabel "Chevron Corporation"@sh ;
+	schema:name "Chevron Corporation"@sh ;
+	rdfs:label "Chevron Corporation"@la ;
+	skos:prefLabel "Chevron Corporation"@la ;
+	schema:name "Chevron Corporation"@la ;
+	rdfs:label "Chevron"@ba ;
+	skos:prefLabel "Chevron"@ba ;
+	schema:name "Chevron"@ba ;
+	rdfs:label "ഷെവ്രോൺ കോർപ്പറേഷൻ"@ml ;
+	skos:prefLabel "ഷെവ്രോൺ കോർപ്പറേഷൻ"@ml ;
+	schema:name "ഷെവ്രോൺ കോർപ്പറേഷൻ"@ml ;
+	rdfs:label "שברון"@he ;
+	skos:prefLabel "שברון"@he ;
+	schema:name "שברון"@he ;
+	schema:description "enterprise"@fr ;
+	skos:altLabel "雪佛龍股份有限公司"@zh,
+		"雪佛龙"@zh,
+		"雪佛龙公司"@zh,
+		"雪佛龍石油公司"@zh,
+		"雪佛龙石油公司"@zh,
+		"雪佛龍公司"@zh,
+		"ChevronTexaco"@pl,
+		"Chevron"@pl,
+		"셰브론"@ko,
+		"ChevronTexaco"@fr,
+		"Chevron Corporation"@fr,
+		"Chevron-Texaco"@fr,
+		"Standard Oil of California"@es,
+		"Standard Oil of California"@it,
+		"Chevron Corporation"@et,
+		"Chevron-Texaco"@de,
+		"Chevron Brasil"@de,
+		"Chevron Texaco"@de,
+		"ChevronTexaco"@de,
+		"Chevron"@id,
+		"CVX"@id,
+		"Unocal"@id,
+		"シェブロンテキサコ"@ja,
+		"シェブロン・テキサコ"@ja,
+		"ChevronTexaco"@nl,
+		"ChevronTexaco"@sv,
+		"Chevron Corporation"@sv,
+		"Socal"@pt,
+		"Texaco"@pt,
+		"Chevron Corporation"@pt,
+		"Chevrontexaco"@pt,
+		"Standard Oil of California"@pt,
+		"Standard Oil of California"@ru,
+		"Texaco"@ru,
+		"Тексако"@ru,
+		"Chevron Corporation"@ru,
+		"ChevronTexaco"@ru,
+		"Texaco Oil"@ru,
+		"Texaco"@ro,
+		"ChevronTexaco"@ro,
+		"Chevron"@th,
+		"ChevronTexaco"@fi,
+		"ChevronTexaco"@cs,
+		"Chevron Corporation"@cs,
+		"Standard Oil of California"@cs,
+		"شِوران"@fa,
+		"شوران"@fa,
+		"شِورون"@fa,
+		"Chevron Corporation"@lt,
+		"ChevronTexaco"@da,
+		"Chevron Corp"@da,
+		"ChevronTexaco Corp"@da,
+		"ChevronTexaco"@nb,
+		"Chevron Corporation"@nb,
+		"شركة شيفرون"@ar ;
+	wdt:P1320 "us_de/3963043" ;
+	wdt:P1278 "LJOF0JWZSCIUPEC3LQ45" ;
+	wdt:P1297 "94-0890210" ;
+	wdt:P373 "Chevron Corporation" ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P31 wd:Q783794,
+		wd:Q11997659 ;
+	wdt:P910 wd:Q7214195 ;
+	wdt:P646 "/m/01pvx3" ;
+	wdt:P159 wd:Q605472 ;
+	wdt:P452 wd:Q862571 ;
+	wdt:P166 wd:Q838121 ;
+	p:P1320 wds:Q319642-2d0e1e02-4f95-3e6f-b693-041b3e234168 .
+
+wds:Q319642-2d0e1e02-4f95-3e6f-b693-041b3e234168 a wikibase:Statement ;
+	ps:P1320 "us_de/3963043" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q319642 p:P1278 wds:Q319642-6dd06d77-499b-8f1a-99b5-987b0e765f3a .
+
+wds:Q319642-6dd06d77-499b-8f1a-99b5-987b0e765f3a a wikibase:Statement ;
+	ps:P1278 "LJOF0JWZSCIUPEC3LQ45" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q319642 p:P1297 wds:Q319642-d6271c90-4fe4-ca7c-63e1-77b6f1cf29cf .
+
+wds:Q319642-d6271c90-4fe4-ca7c-63e1-77b6f1cf29cf a wikibase:Statement ;
+	ps:P1297 "94-0890210" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q319642 p:P373 wds:q319642-DE79B043-8024-4BA9-BCCF-72221AFCFC57 .
+
+wds:q319642-DE79B043-8024-4BA9-BCCF-72221AFCFC57 a wikibase:Statement ;
+	ps:P373 "Chevron Corporation" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q319642 p:P414 wds:q319642-832F3358-0D21-4990-AE16-3167DB9234A8 .
+
+wds:q319642-832F3358-0D21-4990-AE16-3167DB9234A8 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q319642 p:P31 wds:q319642-BABE0259-5B28-4D84-A098-46CF0368A610 .
+
+wds:q319642-BABE0259-5B28-4D84-A098-46CF0368A610 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q319642 p:P31 wds:Q319642-3e8f10cb-4893-3f98-7fa6-3e2683b09498 .
+
+wds:Q319642-3e8f10cb-4893-3f98-7fa6-3e2683b09498 a wikibase:Statement ;
+	ps:P31 wd:Q11997659 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q319642 p:P910 wds:Q319642-2DAA9817-4ADF-45CC-9AC2-65F8A4D7D514 .
+
+wds:Q319642-2DAA9817-4ADF-45CC-9AC2-65F8A4D7D514 a wikibase:Statement ;
+	ps:P910 wd:Q7214195 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q319642 p:P646 wds:Q319642-EAFCBC37-259E-4D70-A61D-670E6C1A2A8F .
+
+wds:Q319642-EAFCBC37-259E-4D70-A61D-670E6C1A2A8F a wikibase:Statement ;
+	ps:P646 "/m/01pvx3" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q319642 p:P159 wds:Q319642-B995F905-FAC3-417E-AB8B-B02709CABF0F .
+
+wds:Q319642-B995F905-FAC3-417E-AB8B-B02709CABF0F a wikibase:Statement ;
+	ps:P159 wd:Q605472 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q319642 p:P452 wds:Q319642-caaca3aa-4892-38d2-cb35-13bf04da7a96 .
+
+wds:Q319642-caaca3aa-4892-38d2-cb35-13bf04da7a96 a wikibase:Statement ;
+	ps:P452 wd:Q862571 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q319642 p:P166 wds:Q319642-44B69366-D0F3-44DF-A91E-F35246797579 .
+
+wds:Q319642-44B69366-D0F3-44DF-A91E-F35246797579 a wikibase:Statement ;
+	ps:P166 wd:Q838121 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://war.wikipedia.org/wiki/Chevron%20Corporation> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "war" .
+
+<https://ur.wikipedia.org/wiki/%D8%B4%D9%8A%D9%81%D8%B1%D9%88%D9%86%20%DA%A9%D8%A7%D8%B1%D9%BE%D9%88%D8%B1%DB%8C%D8%B4%D9%86> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "ur" .
+
+<https://tr.wikipedia.org/wiki/Chevron%20Corporation> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "tr" .
+
+<https://sv.wikipedia.org/wiki/Chevron> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "sv" .
+
+<https://simple.wikipedia.org/wiki/Chevron%20Corporation> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "simple" .
+
+<https://pt.wikipedia.org/wiki/Chevron> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "pt" .
+
+<https://az.wikipedia.org/wiki/%C5%9Eevron%20Korporasiyas%C4%B1> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "az" .
+
+<https://bg.wikipedia.org/wiki/%D0%A8%D0%B5%D0%B2%D1%80%D0%BE%D0%BD%20%D0%BA%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B5%D0%B9%D1%88%D1%8A%D0%BD> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "bg" .
+
+<https://ca.wikipedia.org/wiki/Chevron%20Corporation> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "ca" .
+
+<https://cs.wikipedia.org/wiki/Chevron> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "cs" .
+
+<https://de.wikipedia.org/wiki/Chevron%20Corporation> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "de" .
+
+<https://en.wikipedia.org/wiki/Chevron%20Corporation> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "en" .
+
+<https://es.wikipedia.org/wiki/Chevron%20Corporation> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "es" .
+
+<https://et.wikipedia.org/wiki/Chevron> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "et" .
+
+<https://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B1%D9%88%D9%86> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "fa" .
+
+<https://fi.wikipedia.org/wiki/Chevron> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "fi" .
+
+<https://fr.wikipedia.org/wiki/Chevron%20%28entreprise%29> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "fr" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%B6%E0%A5%87%E0%A4%B5%E0%A4%B0%E0%A5%89%E0%A4%A8%20%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A4%A8> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "hi" .
+
+<https://id.wikipedia.org/wiki/Chevron%20Corporation> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "id" .
+
+<https://it.wikipedia.org/wiki/Chevron%20Corporation> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "it" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%96%E3%83%AD%E3%83%B3> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "ja" .
+
+<https://kk.wikipedia.org/wiki/Chevron%20Corporation> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "kk" .
+
+<https://ko.wikipedia.org/wiki/%EC%85%B0%EB%B8%8C%EB%9F%B0> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "ko" .
+
+<https://la.wikipedia.org/wiki/Chevron%20Corporation> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "la" .
+
+<https://lt.wikipedia.org/wiki/Chevron> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "lt" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%B7%E0%B5%86%E0%B4%B5%E0%B5%8D%E0%B4%B0%E0%B5%8B%E0%B5%BA%20%E0%B4%95%E0%B5%8B%E0%B5%BC%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%B1%E0%B5%87%E0%B4%B7%E0%B5%BB> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "ml" .
+
+<https://nl.wikipedia.org/wiki/Chevron%20Corporation> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "nl" .
+
+<https://no.wikipedia.org/wiki/Chevron> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "no" .
+
+<https://pl.wikipedia.org/wiki/Chevron%20Corporation> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "pl" .
+
+<https://ro.wikipedia.org/wiki/Chevron> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "ro" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%8A%E0%B8%9F%E0%B8%A3%E0%B8%AD%E0%B8%99> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "th" .
+
+<https://vi.wikipedia.org/wiki/T%E1%BA%ADp%20%C4%91o%C3%A0n%20Chevron> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "vi" .
+
+<https://zh-min-nan.wikipedia.org/wiki/Chevron> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "zh-min-nan" .
+
+<https://uk.wikipedia.org/wiki/Chevron> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "uk" .
+
+<https://zh.wikipedia.org/wiki/%E9%9B%AA%E4%BD%9B%E9%BE%8D> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "zh" .
+
+<https://ar.wikipedia.org/wiki/%D8%B4%D8%B1%D9%83%D8%A9%20%D8%B4%D9%8A%D9%81%D8%B1%D9%88%D9%86> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "ar" .
+
+<https://ru.wikipedia.org/wiki/Chevron> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "ru" .
+
+<https://sh.wikipedia.org/wiki/Chevron%20Corporation> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "sh" .
+
+<https://he.wikipedia.org/wiki/%D7%A9%D7%91%D7%A8%D7%95%D7%9F%20%28%D7%97%D7%91%D7%A8%D7%94%29> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "he" .
+
+<https://da.wikipedia.org/wiki/Chevron%20Corporation> a schema:Article ;
+	schema:about wd:Q319642 ;
+	schema:inLanguage "da" .
+
+wdata:Q319648 schema:version "220946466"^^xsd:integer ;
+	schema:dateModified "2015-06-01T18:43:42Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q319648 .
+

@@ -1,0 +1,74 @@
+wd:Q771865 a wikibase:Item ;
+	rdfs:label "Spectrum Brands"@fr ;
+	skos:prefLabel "Spectrum Brands"@fr ;
+	schema:name "Spectrum Brands"@fr ;
+	rdfs:label "Spectrum Brands"@de ;
+	skos:prefLabel "Spectrum Brands"@de ;
+	schema:name "Spectrum Brands"@de ;
+	rdfs:label "Spectrum Brands"@en ;
+	skos:prefLabel "Spectrum Brands"@en ;
+	schema:name "Spectrum Brands"@en ;
+	rdfs:label "Spectrum Brands"@nl ;
+	skos:prefLabel "Spectrum Brands"@nl ;
+	schema:name "Spectrum Brands"@nl ;
+	rdfs:label "Rayovac"@pt ;
+	skos:prefLabel "Rayovac"@pt ;
+	schema:name "Rayovac"@pt ;
+	rdfs:label "レイオバック"@ja ;
+	skos:prefLabel "レイオバック"@ja ;
+	schema:name "レイオバック"@ja ;
+	skos:altLabel "Rayovac"@fr,
+		"Rayovac"@en,
+		"Rayovac"@nl,
+		"レイ・オ・バック"@ja ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P646 "/m/0fp6dj" ;
+	p:P31 wds:q771865-C3F14295-9482-4C54-AC91-80994568AF17 .
+
+wds:q771865-C3F14295-9482-4C54-AC91-80994568AF17 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q771865 p:P414 wds:Q771865-DD9ABCA1-F23F-4B90-82C5-4EE20B0E1D98 .
+
+wds:Q771865-DD9ABCA1-F23F-4B90-82C5-4EE20B0E1D98 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q771865 p:P646 wds:Q771865-8F2553FC-E274-4DF5-A061-C225AA82CE67 .
+
+wds:Q771865-8F2553FC-E274-4DF5-A061-C225AA82CE67 a wikibase:Statement ;
+	ps:P646 "/m/0fp6dj" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+<https://fr.wikipedia.org/wiki/Spectrum%20Brands> a schema:Article ;
+	schema:about wd:Q771865 ;
+	schema:inLanguage "fr" .
+
+<https://de.wikipedia.org/wiki/Spectrum%20Brands> a schema:Article ;
+	schema:about wd:Q771865 ;
+	schema:inLanguage "de" .
+
+<https://en.wikipedia.org/wiki/Spectrum%20Brands> a schema:Article ;
+	schema:about wd:Q771865 ;
+	schema:inLanguage "en" .
+
+<https://pt.wikipedia.org/wiki/Rayovac> a schema:Article ;
+	schema:about wd:Q771865 ;
+	schema:inLanguage "pt" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%82%AA%E3%83%90%E3%83%83%E3%82%AF> a schema:Article ;
+	schema:about wd:Q771865 ;
+	schema:inLanguage "ja" .
+
+wdata:Q771866 schema:version "137129185"^^xsd:integer ;
+	schema:dateModified "2014-06-08T20:03:54Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q771866 .
+

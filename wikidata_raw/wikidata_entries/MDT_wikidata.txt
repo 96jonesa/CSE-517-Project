@@ -1,0 +1,139 @@
+wd:Q642189 a wikibase:Item ;
+	rdfs:label "美敦力"@zh-hans ;
+	skos:prefLabel "美敦力"@zh-hans ;
+	schema:name "美敦力"@zh-hans ;
+	rdfs:label "美敦力"@zh-hant ;
+	skos:prefLabel "美敦力"@zh-hant ;
+	schema:name "美敦力"@zh-hant ;
+	rdfs:label "美敦力"@zh-hk ;
+	skos:prefLabel "美敦力"@zh-hk ;
+	schema:name "美敦力"@zh-hk ;
+	rdfs:label "Medtronic"@pt ;
+	skos:prefLabel "Medtronic"@pt ;
+	schema:name "Medtronic"@pt ;
+	rdfs:label "Medtronic"@de ;
+	skos:prefLabel "Medtronic"@de ;
+	schema:name "Medtronic"@de ;
+	rdfs:label "Medtronic"@fr ;
+	skos:prefLabel "Medtronic"@fr ;
+	schema:name "Medtronic"@fr ;
+	rdfs:label "Medtronic"@ru ;
+	skos:prefLabel "Medtronic"@ru ;
+	schema:name "Medtronic"@ru ;
+	rdfs:label "Medtronic"@en ;
+	skos:prefLabel "Medtronic"@en ;
+	schema:name "Medtronic"@en ;
+	rdfs:label "Medtronic"@it ;
+	skos:prefLabel "Medtronic"@it ;
+	schema:name "Medtronic"@it ;
+	rdfs:label "Medtronic"@nl ;
+	skos:prefLabel "Medtronic"@nl ;
+	schema:name "Medtronic"@nl ;
+	rdfs:label "美敦力"@zh ;
+	skos:prefLabel "美敦力"@zh ;
+	schema:name "美敦力"@zh ;
+	rdfs:label "مدترونیک"@fa ;
+	skos:prefLabel "مدترونیک"@fa ;
+	schema:name "مدترونیک"@fa ;
+	rdfs:label "Medtronic"@id ;
+	skos:prefLabel "Medtronic"@id ;
+	schema:name "Medtronic"@id ;
+	schema:description "Medizintechnikunternehmen"@de ;
+	skos:altLabel "Медтроник"@ru ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P910 wd:Q8617494 ;
+	wdt:P646 "/m/03z4j3" ;
+	wdt:P159 wd:Q36091 ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P856 <http://www.medtronic.com> ;
+	p:P31 wds:q642189-C5B0515C-24FD-42D7-980A-548CA0088949 .
+
+wds:q642189-C5B0515C-24FD-42D7-980A-548CA0088949 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q642189 p:P910 wds:Q642189-7C3DDB71-53EA-4F56-AF43-AC76F1DEC7DD .
+
+wds:Q642189-7C3DDB71-53EA-4F56-AF43-AC76F1DEC7DD a wikibase:Statement ;
+	ps:P910 wd:Q8617494 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q642189 p:P646 wds:Q642189-E7009907-C9BD-484E-9015-E5B3F0E68DDE .
+
+wds:Q642189-E7009907-C9BD-484E-9015-E5B3F0E68DDE a wikibase:Statement ;
+	ps:P646 "/m/03z4j3" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q642189 p:P159 wds:Q642189-63595BEA-A30C-4E90-9F4D-37F2381F150F .
+
+wds:Q642189-63595BEA-A30C-4E90-9F4D-37F2381F150F a wikibase:Statement ;
+	ps:P159 wd:Q36091 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q642189 p:P414 wds:Q642189-5DED664A-1C31-491C-B724-46785AC4C72D .
+
+wds:Q642189-5DED664A-1C31-491C-B724-46785AC4C72D a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q642189 p:P856 wds:Q642189-09FF6FA8-89DC-48BC-B844-B8FC770B9BDF .
+
+wds:Q642189-09FF6FA8-89DC-48BC-B844-B8FC770B9BDF a wikibase:Statement ;
+	ps:P856 <http://www.medtronic.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+<https://en.wikipedia.org/wiki/Medtronic> a schema:Article ;
+	schema:about wd:Q642189 ;
+	schema:inLanguage "en" .
+
+<https://de.wikipedia.org/wiki/Medtronic> a schema:Article ;
+	schema:about wd:Q642189 ;
+	schema:inLanguage "de" .
+
+<https://fr.wikipedia.org/wiki/Medtronic> a schema:Article ;
+	schema:about wd:Q642189 ;
+	schema:inLanguage "fr" .
+
+<https://it.wikipedia.org/wiki/Medtronic> a schema:Article ;
+	schema:about wd:Q642189 ;
+	schema:inLanguage "it" .
+
+<https://nl.wikipedia.org/wiki/Medtronic> a schema:Article ;
+	schema:about wd:Q642189 ;
+	schema:inLanguage "nl" .
+
+<https://pt.wikipedia.org/wiki/Medtronic> a schema:Article ;
+	schema:about wd:Q642189 ;
+	schema:inLanguage "pt" .
+
+<https://zh.wikipedia.org/wiki/%E7%BE%8E%E6%95%A6%E5%8A%9B> a schema:Article ;
+	schema:about wd:Q642189 ;
+	schema:inLanguage "zh" .
+
+<https://fa.wikipedia.org/wiki/%D9%85%D8%AF%D8%AA%D8%B1%D9%88%D9%86%DB%8C%DA%A9> a schema:Article ;
+	schema:about wd:Q642189 ;
+	schema:inLanguage "fa" .
+
+<https://id.wikipedia.org/wiki/Medtronic> a schema:Article ;
+	schema:about wd:Q642189 ;
+	schema:inLanguage "id" .
+
+<https://ru.wikipedia.org/wiki/Medtronic> a schema:Article ;
+	schema:about wd:Q642189 ;
+	schema:inLanguage "ru" .
+
+wdata:Q642192 schema:version "213352207"^^xsd:integer ;
+	schema:dateModified "2015-04-28T19:09:31Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q642192 .
+

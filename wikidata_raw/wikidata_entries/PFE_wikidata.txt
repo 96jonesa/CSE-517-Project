@@ -1,0 +1,404 @@
+wd:Q206921 a wikibase:Item ;
+	rdfs:label "辉瑞"@zh-hans ;
+	skos:prefLabel "辉瑞"@zh-hans ;
+	schema:name "辉瑞"@zh-hans ;
+	rdfs:label "輝瑞"@zh-hant ;
+	skos:prefLabel "輝瑞"@zh-hant ;
+	schema:name "輝瑞"@zh-hant ;
+	rdfs:label "輝瑞"@zh-hk ;
+	skos:prefLabel "輝瑞"@zh-hk ;
+	schema:name "輝瑞"@zh-hk ;
+	rdfs:label "辉瑞"@zh-cn ;
+	skos:prefLabel "辉瑞"@zh-cn ;
+	schema:name "辉瑞"@zh-cn ;
+	rdfs:label "辉瑞"@zh-sg ;
+	skos:prefLabel "辉瑞"@zh-sg ;
+	schema:name "辉瑞"@zh-sg ;
+	rdfs:label "輝瑞"@zh-tw ;
+	skos:prefLabel "輝瑞"@zh-tw ;
+	schema:name "輝瑞"@zh-tw ;
+	rdfs:label "Pfizer"@pl ;
+	skos:prefLabel "Pfizer"@pl ;
+	schema:name "Pfizer"@pl ;
+	rdfs:label "פייזר"@he ;
+	skos:prefLabel "פייזר"@he ;
+	schema:name "פייזר"@he ;
+	rdfs:label "화이자"@ko ;
+	skos:prefLabel "화이자"@ko ;
+	schema:name "화이자"@ko ;
+	rdfs:label "Pfizer"@bs ;
+	skos:prefLabel "Pfizer"@bs ;
+	schema:name "Pfizer"@bs ;
+	rdfs:label "Pfizer"@fr ;
+	skos:prefLabel "Pfizer"@fr ;
+	schema:name "Pfizer"@fr ;
+	rdfs:label "Pfizer"@es ;
+	skos:prefLabel "Pfizer"@es ;
+	schema:name "Pfizer"@es ;
+	rdfs:label "பைசர்"@ta ;
+	skos:prefLabel "பைசர்"@ta ;
+	schema:name "பைசர்"@ta ;
+	rdfs:label "Pfizer"@hu ;
+	skos:prefLabel "Pfizer"@hu ;
+	schema:name "Pfizer"@hu ;
+	rdfs:label "Pfizer"@it ;
+	skos:prefLabel "Pfizer"@it ;
+	schema:name "Pfizer"@it ;
+	rdfs:label "Pfizer"@id ;
+	skos:prefLabel "Pfizer"@id ;
+	schema:name "Pfizer"@id ;
+	rdfs:label "Pfizer"@de ;
+	skos:prefLabel "Pfizer"@de ;
+	schema:name "Pfizer"@de ;
+	rdfs:label "ファイザー"@ja ;
+	skos:prefLabel "ファイザー"@ja ;
+	schema:name "ファイザー"@ja ;
+	rdfs:label "Pfizer"@en ;
+	skos:prefLabel "Pfizer"@en ;
+	schema:name "Pfizer"@en ;
+	rdfs:label "Pfizer"@nl ;
+	skos:prefLabel "Pfizer"@nl ;
+	schema:name "Pfizer"@nl ;
+	rdfs:label "فايزر"@ar ;
+	skos:prefLabel "فايزر"@ar ;
+	schema:name "فايزر"@ar ;
+	rdfs:label "Pfizer"@sv ;
+	skos:prefLabel "Pfizer"@sv ;
+	schema:name "Pfizer"@sv ;
+	rdfs:label "फाइजर"@hi ;
+	skos:prefLabel "फाइजर"@hi ;
+	schema:name "फाइजर"@hi ;
+	rdfs:label "Pfizer"@pt ;
+	skos:prefLabel "Pfizer"@pt ;
+	schema:name "Pfizer"@pt ;
+	rdfs:label "פייזער"@yi ;
+	skos:prefLabel "פייזער"@yi ;
+	schema:name "פייזער"@yi ;
+	rdfs:label "Pfizer"@ru ;
+	skos:prefLabel "Pfizer"@ru ;
+	schema:name "Pfizer"@ru ;
+	rdfs:label "ಫಿಜೆರ್"@kn ;
+	skos:prefLabel "ಫಿಜೆರ್"@kn ;
+	schema:name "ಫಿಜೆರ್"@kn ;
+	rdfs:label "Pfizer"@sr-el ;
+	skos:prefLabel "Pfizer"@sr-el ;
+	schema:name "Pfizer"@sr-el ;
+	rdfs:label "Пфизер"@sr-ec ;
+	skos:prefLabel "Пфизер"@sr-ec ;
+	schema:name "Пфизер"@sr-ec ;
+	rdfs:label "Pfizer"@tr ;
+	skos:prefLabel "Pfizer"@tr ;
+	schema:name "Pfizer"@tr ;
+	rdfs:label "Pfizer"@ro ;
+	skos:prefLabel "Pfizer"@ro ;
+	schema:name "Pfizer"@ro ;
+	rdfs:label "ไฟเซอร์"@th ;
+	skos:prefLabel "ไฟเซอร์"@th ;
+	schema:name "ไฟเซอร์"@th ;
+	rdfs:label "Pfizer"@ca ;
+	skos:prefLabel "Pfizer"@ca ;
+	schema:name "Pfizer"@ca ;
+	rdfs:label "Pfizer"@fi ;
+	skos:prefLabel "Pfizer"@fi ;
+	schema:name "Pfizer"@fi ;
+	rdfs:label "Pfizer"@uk ;
+	skos:prefLabel "Pfizer"@uk ;
+	schema:name "Pfizer"@uk ;
+	rdfs:label "Pfizer"@sl ;
+	skos:prefLabel "Pfizer"@sl ;
+	schema:name "Pfizer"@sl ;
+	rdfs:label "فایزر"@fa ;
+	skos:prefLabel "فایزر"@fa ;
+	schema:name "فایزر"@fa ;
+	rdfs:label "Pfizer"@lt ;
+	skos:prefLabel "Pfizer"@lt ;
+	schema:name "Pfizer"@lt ;
+	rdfs:label "Pfizer"@da ;
+	skos:prefLabel "Pfizer"@da ;
+	schema:name "Pfizer"@da ;
+	rdfs:label "Pfizer"@sr ;
+	skos:prefLabel "Pfizer"@sr ;
+	schema:name "Pfizer"@sr ;
+	rdfs:label "輝瑞"@zh ;
+	skos:prefLabel "輝瑞"@zh ;
+	schema:name "輝瑞"@zh ;
+	rdfs:label "Pfizer"@nb ;
+	skos:prefLabel "Pfizer"@nb ;
+	schema:name "Pfizer"@nb ;
+	rdfs:label "Pfizer"@sh ;
+	skos:prefLabel "Pfizer"@sh ;
+	schema:name "Pfizer"@sh ;
+	schema:description "enterprise"@fr,
+		"American multinational pharmaceutical corporation"@en,
+		"Pfizer"@te ;
+	skos:altLabel "輝瑞製藥"@zh,
+		"辉瑞制药"@zh,
+		"辉瑞公司"@zh,
+		"Pfizer"@zh,
+		"辉瑞"@zh,
+		"辉瑞制药有限公司"@zh,
+		"Pfizer"@he,
+		"화이자제약"@ko,
+		"파이저"@ko,
+		"Pfizer Inc."@fr,
+		"Pfizer Incorporated"@fr,
+		"Pfizer executive"@fr,
+		"Pfizer France"@fr,
+		"Pfizer Inc."@es,
+		"Sortis"@de,
+		"ファイザー製薬"@ja,
+		"ワーナー・ランバート"@ja,
+		"ファイザー・インク"@ja,
+		"ワーナー・ランバード"@ja,
+		"Pfizer"@ja,
+		"شركة فايزر"@ar,
+		"فيزر"@ar,
+		"Pfizer Inc."@pt,
+		"Pfizer Inc."@ru,
+		"Пфайзер"@ru,
+		"Pfizer Inc."@sr,
+		"Vicuron Pharmaceuticals"@sr,
+		"Fajzer"@sr,
+		"Pfizer Incorporated"@sr,
+		"Pfizer Pharmaceuticals"@sr,
+		"Fizer"@sr,
+		"Warner Lambert"@sr,
+		"Warner-Lambert Pharmaceutical Co."@sr,
+		"Lambert Pharmaceutical Co."@sr,
+		"Pfizer Anonim Şirketi"@tr,
+		"Pfizer AŞ"@tr,
+		"Pfizer A.Ş."@tr,
+		"Fizer"@tr,
+		"Pfizer İlaç"@tr,
+		"Pfizer Şirketi"@tr,
+		"Sitrik Asit"@tr,
+		"Pfizer"@th,
+		"Pfizer Inc."@fi,
+		"Pfizer Inc."@da,
+		"Pfizer Inc"@da,
+		"Pfizer, Inc."@en ;
+	wdt:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Pfizer.svg> ;
+	wdt:P373 "Pfizer" ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P361 wd:Q242345,
+		wd:Q180816 ;
+	wdt:P910 wd:Q8760074 ;
+	wdt:P646 "/m/0gvbw" ;
+	wdt:P159 wd:Q60 ;
+	p:P154 wds:q206921-5971DEC3-A438-4885-9993-F1E68846B18C .
+
+wds:q206921-5971DEC3-A438-4885-9993-F1E68846B18C a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Pfizer.svg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q206921 p:P373 wds:q206921-4EA0EFFF-0B18-45A4-A049-8C375E30332B .
+
+wds:q206921-4EA0EFFF-0B18-45A4-A049-8C375E30332B a wikibase:Statement ;
+	ps:P373 "Pfizer" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q206921 p:P31 wds:q206921-1CD41CFC-0DA1-4E68-8B9C-61A6D173B075 .
+
+wds:q206921-1CD41CFC-0DA1-4E68-8B9C-61A6D173B075 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q206921 p:P414 wds:q206921-43340151-31DD-426B-9F2D-9AA34FCE6B13 .
+
+wds:q206921-43340151-31DD-426B-9F2D-9AA34FCE6B13 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "PFE" .
+
+wd:Q206921 p:P361 wds:q206921-7a7c3098-4901-f304-f817-d9ce9f7a17fc .
+
+wds:q206921-7a7c3098-4901-f304-f817-d9ce9f7a17fc a wikibase:Statement ;
+	ps:P361 wd:Q242345 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q206921 p:P361 wds:q206921-2d21b86e-4f04-ca6f-94fd-930532ad33dc .
+
+wds:q206921-2d21b86e-4f04-ca6f-94fd-930532ad33dc a wikibase:Statement ;
+	ps:P361 wd:Q180816 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q206921 p:P910 wds:Q206921-091AA000-58CA-4246-859C-E2A7A3A9BE50 .
+
+wds:Q206921-091AA000-58CA-4246-859C-E2A7A3A9BE50 a wikibase:Statement ;
+	ps:P910 wd:Q8760074 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q206921 p:P646 wds:Q206921-CB381995-7843-4C43-BA58-3F7CB727757B .
+
+wds:Q206921-CB381995-7843-4C43-BA58-3F7CB727757B a wikibase:Statement ;
+	ps:P646 "/m/0gvbw" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q206921 p:P159 wds:Q206921-F4155B30-E3AD-4933-B2E0-673498F9B3C1 .
+
+wds:Q206921-F4155B30-E3AD-4933-B2E0-673498F9B3C1 a wikibase:Statement ;
+	ps:P159 wd:Q60 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+<https://zh.wikipedia.org/wiki/%E8%BC%9D%E7%91%9E> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "zh" .
+
+<https://pl.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "pl" .
+
+<https://he.wikipedia.org/wiki/%D7%A4%D7%99%D7%99%D7%96%D7%A8> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "he" .
+
+<https://ko.wikipedia.org/wiki/%ED%99%94%EC%9D%B4%EC%9E%90> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "ko" .
+
+<https://bs.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "bs" .
+
+<https://fr.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "fr" .
+
+<https://es.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "es" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%88%E0%AE%9A%E0%AE%B0%E0%AF%8D> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "ta" .
+
+<https://hu.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "hu" .
+
+<https://it.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "it" .
+
+<https://id.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "id" .
+
+<https://de.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%B6%E3%83%BC> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "ja" .
+
+<https://simple.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "simple" .
+
+<https://nl.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "nl" .
+
+<https://ar.wikipedia.org/wiki/%D9%81%D8%A7%D9%8A%D8%B2%D8%B1> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "ar" .
+
+<https://sv.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "sv" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BE%E0%A4%87%E0%A4%9C%E0%A4%B0> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "hi" .
+
+<https://pt.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "pt" .
+
+<https://yi.wikipedia.org/wiki/%D7%A4%D7%99%D7%99%D7%96%D7%A2%D7%A8> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "yi" .
+
+<https://ru.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "ru" .
+
+<https://en.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "en" .
+
+<https://kn.wikipedia.org/wiki/%E0%B2%AB%E0%B2%BF%E0%B2%9C%E0%B3%86%E0%B2%B0%E0%B3%8D> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "kn" .
+
+<https://tr.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "tr" .
+
+<https://ro.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "ro" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%9F%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "th" .
+
+<https://no.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "no" .
+
+<https://ca.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "ca" .
+
+<https://fi.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "fi" .
+
+<https://uk.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "uk" .
+
+<https://sl.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "sl" .
+
+<https://fa.wikipedia.org/wiki/%D9%81%D8%A7%DB%8C%D8%B2%D8%B1> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "fa" .
+
+<https://lt.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "lt" .
+
+<https://da.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "da" .
+
+<https://sh.wikipedia.org/wiki/Pfizer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "sh" .
+
+<https://sr.wikipedia.org/wiki/Fajzer> a schema:Article ;
+	schema:about wd:Q206921 ;
+	schema:inLanguage "sr" .
+
+wdata:Q206924 schema:version "160632404"^^xsd:integer ;
+	schema:dateModified "2014-09-30T03:30:29Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q206924 .
+

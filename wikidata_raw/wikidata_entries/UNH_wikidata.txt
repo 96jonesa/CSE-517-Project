@@ -1,0 +1,114 @@
+wd:Q2103926 a wikibase:Item ;
+	rdfs:label "UnitedHealth"@de ;
+	skos:prefLabel "UnitedHealth"@de ;
+	schema:name "UnitedHealth"@de ;
+	rdfs:label "یونایتدهلت گروپ"@fa ;
+	skos:prefLabel "یونایتدهلت گروپ"@fa ;
+	schema:name "یونایتدهلت گروپ"@fa ;
+	rdfs:label "UnitedHealth"@fr ;
+	skos:prefLabel "UnitedHealth"@fr ;
+	schema:name "UnitedHealth"@fr ;
+	rdfs:label "UnitedHealth Group"@en ;
+	skos:prefLabel "UnitedHealth Group"@en ;
+	schema:name "UnitedHealth Group"@en ;
+	rdfs:label "聯合健康保險"@zh ;
+	skos:prefLabel "聯合健康保險"@zh ;
+	schema:name "聯合健康保險"@zh ;
+	rdfs:label "UnitedHealth Group"@es ;
+	skos:prefLabel "UnitedHealth Group"@es ;
+	schema:name "UnitedHealth Group"@es ;
+	rdfs:label "유나이티드 헬스케어"@ko ;
+	skos:prefLabel "유나이티드 헬스케어"@ko ;
+	schema:name "유나이티드 헬스케어"@ko ;
+	rdfs:label "UnitedHealth Group"@id ;
+	skos:prefLabel "UnitedHealth Group"@id ;
+	schema:name "UnitedHealth Group"@id ;
+	rdfs:label "ユナイテッド・ヘルス"@ja ;
+	skos:prefLabel "ユナイテッド・ヘルス"@ja ;
+	schema:name "ユナイテッド・ヘルス"@ja ;
+	rdfs:label "UnitedHealth Group"@pl ;
+	skos:prefLabel "UnitedHealth Group"@pl ;
+	schema:name "UnitedHealth Group"@pl ;
+	skos:altLabel "UnitedHealth Group"@de,
+		"United Health"@de,
+		"UnitedHealth Group"@fr ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P646 "/m/060jqm" ;
+	wdt:P159 wd:Q923384 ;
+	wdt:P414 wd:Q13677 ;
+	p:P31 wds:q2103926-D926081F-418B-4A4D-9E14-4E6898A6EC46 .
+
+wds:q2103926-D926081F-418B-4A4D-9E14-4E6898A6EC46 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q2103926 p:P646 wds:Q2103926-93EEAC99-EE38-482F-A769-F233D4DE70FC .
+
+wds:Q2103926-93EEAC99-EE38-482F-A769-F233D4DE70FC a wikibase:Statement ;
+	ps:P646 "/m/060jqm" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q2103926 p:P159 wds:Q2103926-1CE3E174-2A18-47D4-9CE9-652E8D40A911 .
+
+wds:Q2103926-1CE3E174-2A18-47D4-9CE9-652E8D40A911 a wikibase:Statement ;
+	ps:P159 wd:Q923384 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q2103926 p:P414 wds:Q2103926-A08A689F-6414-4C0B-A753-1E080F61A9A5 .
+
+wds:Q2103926-A08A689F-6414-4C0B-A753-1E080F61A9A5 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://en.wikipedia.org/wiki/UnitedHealth%20Group> a schema:Article ;
+	schema:about wd:Q2103926 ;
+	schema:inLanguage "en" .
+
+<https://de.wikipedia.org/wiki/UnitedHealth> a schema:Article ;
+	schema:about wd:Q2103926 ;
+	schema:inLanguage "de" .
+
+<https://fr.wikipedia.org/wiki/UnitedHealth> a schema:Article ;
+	schema:about wd:Q2103926 ;
+	schema:inLanguage "fr" .
+
+<https://es.wikipedia.org/wiki/UnitedHealth%20Group> a schema:Article ;
+	schema:about wd:Q2103926 ;
+	schema:inLanguage "es" .
+
+<https://fa.wikipedia.org/wiki/%DB%8C%D9%88%D9%86%D8%A7%DB%8C%D8%AA%D8%AF%D9%87%D9%84%D8%AA%20%DA%AF%D8%B1%D9%88%D9%BE> a schema:Article ;
+	schema:about wd:Q2103926 ;
+	schema:inLanguage "fa" .
+
+<https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%82%98%EC%9D%B4%ED%8B%B0%EB%93%9C%20%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4> a schema:Article ;
+	schema:about wd:Q2103926 ;
+	schema:inLanguage "ko" .
+
+<https://id.wikipedia.org/wiki/UnitedHealth%20Group> a schema:Article ;
+	schema:about wd:Q2103926 ;
+	schema:inLanguage "id" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%E3%83%BB%E3%83%98%E3%83%AB%E3%82%B9> a schema:Article ;
+	schema:about wd:Q2103926 ;
+	schema:inLanguage "ja" .
+
+<https://pl.wikipedia.org/wiki/UnitedHealth%20Group> a schema:Article ;
+	schema:about wd:Q2103926 ;
+	schema:inLanguage "pl" .
+
+<https://zh.wikipedia.org/wiki/%E8%81%AF%E5%90%88%E5%81%A5%E5%BA%B7%E4%BF%9D%E9%9A%AA> a schema:Article ;
+	schema:about wd:Q2103926 ;
+	schema:inLanguage "zh" .
+
+wdata:Q2103927 schema:version "231231383"^^xsd:integer ;
+	schema:dateModified "2015-07-15T14:42:24Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q2103927 .
+

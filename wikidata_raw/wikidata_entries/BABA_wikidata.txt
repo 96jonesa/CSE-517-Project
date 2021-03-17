@@ -1,0 +1,313 @@
+wd:Q1359568 a wikibase:Item ;
+	rdfs:label "阿里巴巴集团"@zh-hans ;
+	skos:prefLabel "阿里巴巴集团"@zh-hans ;
+	schema:name "阿里巴巴集团"@zh-hans ;
+	rdfs:label "阿里巴巴集團"@zh-hant ;
+	skos:prefLabel "阿里巴巴集團"@zh-hant ;
+	schema:name "阿里巴巴集團"@zh-hant ;
+	rdfs:label "阿里巴巴集團"@zh-hk ;
+	skos:prefLabel "阿里巴巴集團"@zh-hk ;
+	schema:name "阿里巴巴集團"@zh-hk ;
+	rdfs:label "Alibaba Group"@de ;
+	skos:prefLabel "Alibaba Group"@de ;
+	schema:name "Alibaba Group"@de ;
+	rdfs:label "阿里巴巴集団"@ja ;
+	skos:prefLabel "阿里巴巴集団"@ja ;
+	schema:name "阿里巴巴集団"@ja ;
+	rdfs:label "Alibaba Group"@fr ;
+	skos:prefLabel "Alibaba Group"@fr ;
+	schema:name "Alibaba Group"@fr ;
+	rdfs:label "알리바바 그룹"@ko ;
+	skos:prefLabel "알리바바 그룹"@ko ;
+	schema:name "알리바바 그룹"@ko ;
+	rdfs:label "Alibaba Group"@en ;
+	skos:prefLabel "Alibaba Group"@en ;
+	schema:name "Alibaba Group"@en ;
+	rdfs:label "Alibaba Group"@ro ;
+	skos:prefLabel "Alibaba Group"@ro ;
+	schema:name "Alibaba Group"@ro ;
+	rdfs:label "Alibaba Group"@ms ;
+	skos:prefLabel "Alibaba Group"@ms ;
+	schema:name "Alibaba Group"@ms ;
+	rdfs:label "Alibaba Group"@sv ;
+	skos:prefLabel "Alibaba Group"@sv ;
+	schema:name "Alibaba Group"@sv ;
+	rdfs:label "alibaba.com"@es ;
+	skos:prefLabel "alibaba.com"@es ;
+	schema:name "alibaba.com"@es ;
+	rdfs:label "Alibaba Group"@nl ;
+	skos:prefLabel "Alibaba Group"@nl ;
+	schema:name "Alibaba Group"@nl ;
+	rdfs:label "گروه علی‌بابا"@fa ;
+	skos:prefLabel "گروه علی‌بابا"@fa ;
+	schema:name "گروه علی‌بابا"@fa ;
+	rdfs:label "阿里巴巴集团"@zh ;
+	skos:prefLabel "阿里巴巴集团"@zh ;
+	schema:name "阿里巴巴集团"@zh ;
+	rdfs:label "gumus"@tr ;
+	skos:prefLabel "gumus"@tr ;
+	schema:name "gumus"@tr ;
+	rdfs:label "Alibaba Group"@it ;
+	skos:prefLabel "Alibaba Group"@it ;
+	schema:name "Alibaba Group"@it ;
+	rdfs:label "Alibaba Group"@de-ch ;
+	skos:prefLabel "Alibaba Group"@de-ch ;
+	schema:name "Alibaba Group"@de-ch ;
+	rdfs:label "Alibaba Group"@en-ca ;
+	skos:prefLabel "Alibaba Group"@en-ca ;
+	schema:name "Alibaba Group"@en-ca ;
+	rdfs:label "Alibaba Group"@en-gb ;
+	skos:prefLabel "Alibaba Group"@en-gb ;
+	schema:name "Alibaba Group"@en-gb ;
+	rdfs:label "Alibaba Group"@ru ;
+	skos:prefLabel "Alibaba Group"@ru ;
+	schema:name "Alibaba Group"@ru ;
+	rdfs:label "קבוצת עליבאבא"@he ;
+	skos:prefLabel "קבוצת עליבאבא"@he ;
+	schema:name "קבוצת עליבאבא"@he ;
+	rdfs:label "Alibaba Group"@pt ;
+	skos:prefLabel "Alibaba Group"@pt ;
+	schema:name "Alibaba Group"@pt ;
+	rdfs:label "Alibaba Group"@cs ;
+	skos:prefLabel "Alibaba Group"@cs ;
+	schema:name "Alibaba Group"@cs ;
+	rdfs:label "مجموعة علي بابا"@ar ;
+	skos:prefLabel "مجموعة علي بابا"@ar ;
+	schema:name "مجموعة علي بابا"@ar ;
+	rdfs:label "Alibaba"@vi ;
+	skos:prefLabel "Alibaba"@vi ;
+	schema:name "Alibaba"@vi ;
+	rdfs:label "Alibaba-gruppen"@nb ;
+	skos:prefLabel "Alibaba-gruppen"@nb ;
+	schema:name "Alibaba-gruppen"@nb ;
+	rdfs:label "अलीबाबा समूह"@hi ;
+	skos:prefLabel "अलीबाबा समूह"@hi ;
+	schema:name "अलीबाबा समूह"@hi ;
+	rdfs:label "Alibaba Group"@uk ;
+	skos:prefLabel "Alibaba Group"@uk ;
+	schema:name "Alibaba Group"@uk ;
+	rdfs:label "Alibaba Group"@fi ;
+	skos:prefLabel "Alibaba Group"@fi ;
+	schema:name "Alibaba Group"@fi ;
+	rdfs:label "அலிபாபா குழுமம்"@ta ;
+	skos:prefLabel "அலிபாபா குழுமம்"@ta ;
+	schema:name "அலிபாபா குழுமம்"@ta ;
+	rdfs:label "Alibaba Group"@kk ;
+	skos:prefLabel "Alibaba Group"@kk ;
+	schema:name "Alibaba Group"@kk ;
+	rdfs:label "Alibaba Group"@az ;
+	skos:prefLabel "Alibaba Group"@az ;
+	schema:name "Alibaba Group"@az ;
+	schema:description "site web"@fr,
+		"Hangzhou-based group of Internet-based e-commerce businesses"@en,
+		"reservdelar till bilar stötdämpare"@sv,
+		"中国网络公司"@zh,
+		"Chinees e-commerce conglomeraat uit Hangzhou"@nl ;
+	skos:altLabel "阿里巴巴集團控股"@zh,
+		"Alibaba"@zh,
+		"Alibaba.com"@zh,
+		"ALIBABA GROUP HOLDING LIMITED"@zh,
+		"ALIBABA GROUP HOLDING"@zh,
+		"阿里巴巴"@zh,
+		"ALIBABA GROUP"@zh,
+		"阿里巴巴公司"@zh,
+		"阿里巴巴集團控股有限公司"@zh,
+		"アリババグループ"@ja,
+		"Alibaba"@ro,
+		"Kumpulan Alibaba"@ms ;
+	wdt:P856 <http://www.alibaba.com/> ;
+	wdt:P910 wd:Q8235242 ;
+	wdt:P646 "/m/07s6ctl" ;
+	wdt:P159 wd:Q4970 ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Alibaba%20group%20Headquarters.jpg> ;
+	wdt:P452 wd:Q484847 ;
+	wdt:P17 wd:Q148 ;
+	wdt:P414 wd:Q13677 ;
+	p:P856 wds:Q1359568-39e59de3-4d82-e3cc-2090-861462a81f0a .
+
+wds:Q1359568-39e59de3-4d82-e3cc-2090-861462a81f0a a wikibase:Statement ;
+	ps:P856 <http://www.alibaba.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1359568 p:P910 wds:Q1359568-AB0BACA6-FB15-4567-AA99-8936BA811D8B .
+
+wds:Q1359568-AB0BACA6-FB15-4567-AA99-8936BA811D8B a wikibase:Statement ;
+	ps:P910 wd:Q8235242 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1359568 p:P646 wds:Q1359568-DCD403AB-CE1B-4FF2-AD8B-B649D6B0D185 .
+
+wds:Q1359568-DCD403AB-CE1B-4FF2-AD8B-B649D6B0D185 a wikibase:Statement ;
+	ps:P646 "/m/07s6ctl" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q1359568 p:P159 wds:Q1359568-11F8AF7C-BA8D-4067-A200-2213A171DD4A .
+
+wds:Q1359568-11F8AF7C-BA8D-4067-A200-2213A171DD4A a wikibase:Statement ;
+	ps:P159 wd:Q4970 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(30.191977777778 120.18605277778)"^^geo:wktLiteral ;
+	pqv:P625 wdv:fd5b6c4e3fc837058f50655f8337c17a ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q1359568 p:P31 wds:Q1359568-CB5BEBDE-85F3-41BE-A1BD-240D4ADB9805 .
+
+wds:Q1359568-CB5BEBDE-85F3-41BE-A1BD-240D4ADB9805 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1359568 p:P18 wds:Q1359568-ED7BD739-E520-4454-8731-6C7EB5FDA719 .
+
+wds:Q1359568-ED7BD739-E520-4454-8731-6C7EB5FDA719 a wikibase:Statement ;
+	ps:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Alibaba%20group%20Headquarters.jpg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1359568 p:P452 wds:Q1359568-a44c5d73-47b6-0830-8c97-287fb852a05c .
+
+wds:Q1359568-a44c5d73-47b6-0830-8c97-287fb852a05c a wikibase:Statement ;
+	ps:P452 wd:Q484847 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1359568 p:P17 wds:Q1359568-FD353A2B-05DF-41C9-9CF2-34F721195056 .
+
+wds:Q1359568-FD353A2B-05DF-41C9-9CF2-34F721195056 a wikibase:Statement ;
+	ps:P17 wd:Q148 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1359568 p:P414 wds:Q1359568-BDE95843-70B9-4631-8DE4-88F24E8E34A2 .
+
+wds:Q1359568-BDE95843-70B9-4631-8DE4-88F24E8E34A2 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9B%86%E5%9B%A2> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "zh" .
+
+<https://de.wikipedia.org/wiki/Alibaba%20Group> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9B%86%E5%9B%A3> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "ja" .
+
+<https://fr.wikipedia.org/wiki/Alibaba%20Group> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "fr" .
+
+<https://ko.wikipedia.org/wiki/%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%20%EA%B7%B8%EB%A3%B9> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "ko" .
+
+<https://en.wikipedia.org/wiki/Alibaba%20Group> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "en" .
+
+<https://ro.wikipedia.org/wiki/Alibaba%20Group> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "ro" .
+
+<https://ms.wikipedia.org/wiki/Alibaba%20Group> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "ms" .
+
+<https://sv.wikipedia.org/wiki/Alibaba%20Group> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "sv" .
+
+<https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%88%D9%87%20%D8%B9%D9%84%DB%8C%E2%80%8C%D8%A8%D8%A7%D8%A8%D8%A7> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "fa" .
+
+<https://it.wikipedia.org/wiki/Alibaba%20Group> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "it" .
+
+<https://ru.wikipedia.org/wiki/Alibaba%20Group> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "ru" .
+
+<https://pt.wikipedia.org/wiki/Alibaba%20Group> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "pt" .
+
+<https://he.wikipedia.org/wiki/%D7%A7%D7%91%D7%95%D7%A6%D7%AA%20%D7%A2%D7%9C%D7%99%D7%91%D7%90%D7%91%D7%90> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "he" .
+
+<https://es.wikipedia.org/wiki/Alibaba%20Group> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "es" .
+
+<https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9%20%D8%B9%D9%84%D9%8A%20%D8%A8%D8%A7%D8%A8%D8%A7%20%28%D8%B4%D8%B1%D9%83%D8%A9%29> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "ar" .
+
+<https://no.wikipedia.org/wiki/Alibaba-gruppen> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "no" .
+
+<https://commons.wikimedia.org/wiki/Category%3AAlibaba%20Group> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "en" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%B2%E0%AE%BF%E0%AE%AA%E0%AE%BE%E0%AE%AA%E0%AE%BE%20%E0%AE%95%E0%AF%81%E0%AE%B4%E0%AF%81%E0%AE%AE%E0%AE%AE%E0%AF%8D> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "ta" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2%E0%A5%80%E0%A4%AC%E0%A4%BE%E0%A4%AC%E0%A4%BE%20%E0%A4%B8%E0%A4%AE%E0%A5%82%E0%A4%B9> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "hi" .
+
+<https://fi.wikipedia.org/wiki/Alibaba%20Group> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "fi" .
+
+<https://vi.wikipedia.org/wiki/Alibaba%20%28t%E1%BA%ADp%20%C4%91o%C3%A0n%29> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "vi" .
+
+<https://nl.wikipedia.org/wiki/Alibaba%20Group> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "nl" .
+
+<https://uk.wikipedia.org/wiki/Alibaba%20Group> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "uk" .
+
+<https://kk.wikipedia.org/wiki/Alibaba%20Group> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "kk" .
+
+<https://az.wikipedia.org/wiki/Alibaba%20Group> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "az" .
+
+<https://tr.wikipedia.org/wiki/Alibaba%20Group> a schema:Article ;
+	schema:about wd:Q1359568 ;
+	schema:inLanguage "tr" .
+
+wdv:fd5b6c4e3fc837058f50655f8337c17a a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "30.191977777778"^^xsd:decimal ;
+	wikibase:geoLongitude "120.18605277778"^^xsd:decimal ;
+	wikibase:geoPrecision "2.7777777777778E-6"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdata:Q1359578 schema:version "2000952"^^xsd:integer ;
+	schema:dateModified "2012-12-21T06:18:41Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q1359578 .
+

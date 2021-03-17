@@ -1,0 +1,524 @@
+wd:Q487907 a wikibase:Item ;
+	rdfs:label "美国银行"@zh-hans ;
+	skos:prefLabel "美国银行"@zh-hans ;
+	schema:name "美国银行"@zh-hans ;
+	rdfs:label "美國銀行"@zh-hant ;
+	skos:prefLabel "美國銀行"@zh-hant ;
+	schema:name "美國銀行"@zh-hant ;
+	rdfs:label "美國銀行"@zh-hk ;
+	skos:prefLabel "美國銀行"@zh-hk ;
+	schema:name "美國銀行"@zh-hk ;
+	rdfs:label "Bank of America"@pl ;
+	skos:prefLabel "Bank of America"@pl ;
+	schema:name "Bank of America"@pl ;
+	rdfs:label "Bank of America"@be ;
+	skos:prefLabel "Bank of America"@be ;
+	schema:name "Bank of America"@be ;
+	rdfs:label "뱅크 오브 아메리카"@ko ;
+	skos:prefLabel "뱅크 오브 아메리카"@ko ;
+	schema:name "뱅크 오브 아메리카"@ko ;
+	rdfs:label "בנק אוף אמריקה"@he ;
+	skos:prefLabel "בנק אוף אמריקה"@he ;
+	schema:name "בנק אוף אמריקה"@he ;
+	rdfs:label "Bank of America"@fr ;
+	skos:prefLabel "Bank of America"@fr ;
+	schema:name "Bank of America"@fr ;
+	rdfs:label "Bank of America"@uz ;
+	skos:prefLabel "Bank of America"@uz ;
+	schema:name "Bank of America"@uz ;
+	rdfs:label "Bank of America"@es ;
+	skos:prefLabel "Bank of America"@es ;
+	schema:name "Bank of America"@es ;
+	rdfs:label "Bank of America"@ms ;
+	skos:prefLabel "Bank of America"@ms ;
+	schema:name "Bank of America"@ms ;
+	rdfs:label "Bank of America"@lv ;
+	skos:prefLabel "Bank of America"@lv ;
+	schema:name "Bank of America"@lv ;
+	rdfs:label "Bank of America"@it ;
+	skos:prefLabel "Bank of America"@it ;
+	schema:name "Bank of America"@it ;
+	rdfs:label "Bank of America"@id ;
+	skos:prefLabel "Bank of America"@id ;
+	schema:name "Bank of America"@id ;
+	rdfs:label "Bank of America"@de ;
+	skos:prefLabel "Bank of America"@de ;
+	schema:name "Bank of America"@de ;
+	rdfs:label "バンク・オブ・アメリカ"@ja ;
+	skos:prefLabel "バンク・オブ・アメリカ"@ja ;
+	schema:name "バンク・オブ・アメリカ"@ja ;
+	rdfs:label "Bank of America"@en ;
+	skos:prefLabel "Bank of America"@en ;
+	schema:name "Bank of America"@en ;
+	rdfs:label "Bank of America"@sv ;
+	skos:prefLabel "Bank of America"@sv ;
+	schema:name "Bank of America"@sv ;
+	rdfs:label "Bank of America"@nl ;
+	skos:prefLabel "Bank of America"@nl ;
+	schema:name "Bank of America"@nl ;
+	rdfs:label "بنك أوف أمريكا"@ar ;
+	skos:prefLabel "بنك أوف أمريكا"@ar ;
+	schema:name "بنك أوف أمريكا"@ar ;
+	rdfs:label "बैंक ऑफ अमेरिका"@hi ;
+	skos:prefLabel "बैंक ऑफ अमेरिका"@hi ;
+	schema:name "बैंक ऑफ अमेरिका"@hi ;
+	rdfs:label "Bank of America"@pt ;
+	skos:prefLabel "Bank of America"@pt ;
+	schema:name "Bank of America"@pt ;
+	rdfs:label "Bank of America"@sk ;
+	skos:prefLabel "Bank of America"@sk ;
+	schema:name "Bank of America"@sk ;
+	rdfs:label "Bank of America"@ru ;
+	skos:prefLabel "Bank of America"@ru ;
+	schema:name "Bank of America"@ru ;
+	rdfs:label "Bank of America"@ro ;
+	skos:prefLabel "Bank of America"@ro ;
+	schema:name "Bank of America"@ro ;
+	rdfs:label "Bank of America"@ca ;
+	skos:prefLabel "Bank of America"@ca ;
+	schema:name "Bank of America"@ca ;
+	rdfs:label "Bank of America"@fi ;
+	skos:prefLabel "Bank of America"@fi ;
+	schema:name "Bank of America"@fi ;
+	rdfs:label "Банк Америки"@uk ;
+	skos:prefLabel "Банк Америки"@uk ;
+	schema:name "Банк Америки"@uk ;
+	rdfs:label "Bank of America"@war ;
+	skos:prefLabel "Bank of America"@war ;
+	schema:name "Bank of America"@war ;
+	rdfs:label "Bank of America"@cs ;
+	skos:prefLabel "Bank of America"@cs ;
+	schema:name "Bank of America"@cs ;
+	rdfs:label "بنک آو امریکا"@fa ;
+	skos:prefLabel "بنک آو امریکا"@fa ;
+	schema:name "بنک آو امریکا"@fa ;
+	rdfs:label "Bank of America"@lt ;
+	skos:prefLabel "Bank of America"@lt ;
+	schema:name "Bank of America"@lt ;
+	rdfs:label "Bank of America"@da ;
+	skos:prefLabel "Bank of America"@da ;
+	schema:name "Bank of America"@da ;
+	rdfs:label "美國銀行"@zh ;
+	skos:prefLabel "美國銀行"@zh ;
+	schema:name "美國銀行"@zh ;
+	rdfs:label "बँक ऑफ अमेरिका"@mr ;
+	skos:prefLabel "बँक ऑफ अमेरिका"@mr ;
+	schema:name "बँक ऑफ अमेरिका"@mr ;
+	rdfs:label "Bank of America"@de-ch ;
+	skos:prefLabel "Bank of America"@de-ch ;
+	schema:name "Bank of America"@de-ch ;
+	rdfs:label "Bank of America"@en-ca ;
+	skos:prefLabel "Bank of America"@en-ca ;
+	schema:name "Bank of America"@en-ca ;
+	rdfs:label "Bank of America"@en-gb ;
+	skos:prefLabel "Bank of America"@en-gb ;
+	schema:name "Bank of America"@en-gb ;
+	rdfs:label "Bank of America"@nb ;
+	skos:prefLabel "Bank of America"@nb ;
+	schema:name "Bank of America"@nb ;
+	rdfs:label "Bank of America"@pt-br ;
+	skos:prefLabel "Bank of America"@pt-br ;
+	schema:name "Bank of America"@pt-br ;
+	rdfs:label "Bank of America"@tr ;
+	skos:prefLabel "Bank of America"@tr ;
+	schema:name "Bank of America"@tr ;
+	rdfs:label "Bank of America"@vi ;
+	skos:prefLabel "Bank of America"@vi ;
+	schema:name "Bank of America"@vi ;
+	rdfs:label "ਬੈਂਕ ਆਫ਼ ਅਮਰੀਕਾ"@pa ;
+	skos:prefLabel "ਬੈਂਕ ਆਫ਼ ਅਮਰੀਕਾ"@pa ;
+	schema:name "ਬੈਂਕ ਆਫ਼ ਅਮਰੀਕਾ"@pa ;
+	rdfs:label "Bank of America"@kk ;
+	skos:prefLabel "Bank of America"@kk ;
+	schema:name "Bank of America"@kk ;
+	schema:description "Banque américaine"@fr,
+		"American multinational banking and financial services corporation"@en,
+		"banco de America"@es ;
+	skos:altLabel "美洲银行"@zh,
+		"美洲银行公司"@zh,
+		"Bank of America"@zh,
+		"아메리카 은행"@ko,
+		"뱅크오브아메리카"@ko,
+		"뱅크 옵 아메리카"@ko,
+		"아메리카은행"@ko,
+		"בנק אמריקה"@he,
+		"Bank of America Corporation"@he,
+		"Countrywide Financial"@fr,
+		"BankAmerica"@fr,
+		"Банк оф Америcа"@uz,
+		"Banco de America"@es,
+		"Banco de América"@es,
+		"BofA"@de,
+		"BofA"@ja,
+		"バンクオブアメリカ"@ja,
+		"バンカメ"@ja,
+		"アメリカ銀行"@ja,
+		"Bank of america"@ja,
+		"バンカメリカ"@ja,
+		"BofA"@sv,
+		"BankAmerica Corp."@nl,
+		"Bank of America Corp."@nl,
+		"Bank of America Corporation"@nl,
+		"بنك اوف اميريكا"@ar,
+		"BofA"@pt,
+		"NationsBank"@pt,
+		"Bank of America Corp."@ru,
+		"NationsBank"@ru,
+		"Банк Америки"@ru,
+		"Бэнк оф Америка"@ru,
+		"Bank of America"@uk,
+		"بانک آو آمریکا"@fa,
+		"بانک آمریکا"@fa,
+		"بنک او امریکا"@fa,
+		"بانک او امریکا"@fa,
+		"بانک آو ایالات متحده"@fa,
+		"بانک او ایالات متحده"@fa,
+		"بانک امریکا"@fa,
+		"بانک ایالات متحده"@fa,
+		"Bank of America Corporation"@en,
+		"BoA"@en ;
+	wdt:P31 wd:Q891723 ;
+	wdt:P452 wd:Q837171 ;
+	wdt:P946 "US0605051046" ;
+	wdt:P969 "100 North Tryon Street, Charlotte, NC, 28255" ;
+	wdt:P373 "Bank of America" ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P159 wd:Q586913 ;
+	wdt:P910 wd:Q8288484 ;
+	wdt:P361 wd:Q242345 ;
+	wdt:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Bank%20of%20America%20logo.svg> ;
+	wdt:P856 <https://www.bankofamerica.com/> ;
+	wdt:P646 "/m/01yx7f" ;
+	wdt:P227 "19010-X" ;
+	wdt:P214 "155048466" ;
+	wdt:P1365 wd:Q3337010 ;
+	wdt:P155 wd:Q3073513,
+		wd:Q4931533,
+		wd:Q5165293,
+		wd:Q5476087,
+		wd:Q6837626 ;
+	p:P31 wds:Q487907-5403cc46-4e7f-39a6-2292-a76579e8b794 .
+
+wds:Q487907-5403cc46-4e7f-39a6-2292-a76579e8b794 a wikibase:Statement ;
+	ps:P31 wd:Q891723 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q487907 p:P452 wds:Q487907-ca2ba303-4d18-5654-3c3e-1d90345c631a .
+
+wds:Q487907-ca2ba303-4d18-5654-3c3e-1d90345c631a a wikibase:Statement ;
+	ps:P452 wd:Q837171 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q487907 p:P946 wds:Q487907-a3f3beff-4455-0d76-e70b-9beb8176f32f .
+
+wds:Q487907-a3f3beff-4455-0d76-e70b-9beb8176f32f a wikibase:Statement ;
+	ps:P946 "US0605051046" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f9dda042859e915c48184b71eb6018bf40d235ba .
+
+wd:Q487907 p:P969 wds:Q487907-840852ec-4043-55db-4629-0c795c692643 .
+
+wds:Q487907-840852ec-4043-55db-4629-0c795c692643 a wikibase:Statement ;
+	ps:P969 "100 North Tryon Street, Charlotte, NC, 28255" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:151c9104b6952d098e69e98bf320f2c647cc20d4 .
+
+wd:Q487907 p:P373 wds:q487907-1334A2BB-E4CC-4B61-A1E8-410D23571B9C .
+
+wds:q487907-1334A2BB-E4CC-4B61-A1E8-410D23571B9C a wikibase:Statement ;
+	ps:P373 "Bank of America" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q487907 p:P414 wds:q487907-FEA20EAE-691D-4519-8B8F-935D42B146CA .
+
+wds:q487907-FEA20EAE-691D-4519-8B8F-935D42B146CA a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "BAC" .
+
+wd:Q487907 p:P159 wds:q487907-28e555c7-4592-8337-7fda-f60d15e2e406 .
+
+wds:q487907-28e555c7-4592-8337-7fda-f60d15e2e406 a wikibase:Statement ;
+	ps:P159 wd:Q586913 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q487907 p:P910 wds:Q487907-06468D5D-5D32-4BCB-8622-EA8256F09311 .
+
+wds:Q487907-06468D5D-5D32-4BCB-8622-EA8256F09311 a wikibase:Statement ;
+	ps:P910 wd:Q8288484 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q487907 p:P361 wds:Q487907-b9e88e7e-426a-9aed-7cac-5f7427e1c7bf .
+
+wds:Q487907-b9e88e7e-426a-9aed-7cac-5f7427e1c7bf a wikibase:Statement ;
+	ps:P361 wd:Q242345 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q487907 p:P154 wds:Q487907-189317dc-409b-27f5-4b56-1419a7957bd0 .
+
+wds:Q487907-189317dc-409b-27f5-4b56-1419a7957bd0 a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Bank%20of%20America%20logo.svg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q487907 p:P856 wds:Q487907-139E4C73-C9A2-4E2C-8B69-288ACE49C5DF .
+
+wds:Q487907-139E4C73-C9A2-4E2C-8B69-288ACE49C5DF a wikibase:Statement ;
+	ps:P856 <https://www.bankofamerica.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q487907 p:P646 wds:Q487907-A348A8AB-4897-40FA-ABE8-70410495E3AF .
+
+wds:Q487907-A348A8AB-4897-40FA-ABE8-70410495E3AF a wikibase:Statement ;
+	ps:P646 "/m/01yx7f" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q487907 p:P227 wds:Q487907-52F3934A-6C0D-4994-B914-6BBC7FC1A3F1 .
+
+wds:Q487907-52F3934A-6C0D-4994-B914-6BBC7FC1A3F1 a wikibase:Statement ;
+	ps:P227 "19010-X" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q487907 p:P214 wds:Q487907-985A779F-3D84-4582-A1FE-F3B5826FC239 .
+
+wds:Q487907-985A779F-3D84-4582-A1FE-F3B5826FC239 a wikibase:Statement ;
+	ps:P214 "155048466" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q487907 p:P1365 wds:Q487907-e504e47f-40cf-390f-cb4d-7315a6a4c03a .
+
+wds:Q487907-e504e47f-40cf-390f-cb4d-7315a6a4c03a a wikibase:Statement ;
+	ps:P1365 wd:Q3337010 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q487907 p:P155 wds:Q487907-10FF0C1A-65F7-4F8E-A4C8-87DA302C91DE .
+
+wds:Q487907-10FF0C1A-65F7-4F8E-A4C8-87DA302C91DE a wikibase:Statement ;
+	ps:P155 wd:Q3073513 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q487907 p:P155 wds:Q487907-E25BFB20-79B5-4F23-AC29-78FBF1BAF0DF .
+
+wds:Q487907-E25BFB20-79B5-4F23-AC29-78FBF1BAF0DF a wikibase:Statement ;
+	ps:P155 wd:Q4931533 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q487907 p:P155 wds:Q487907-FB34D7C5-3684-4A30-BD75-15DF21414DF8 .
+
+wds:Q487907-FB34D7C5-3684-4A30-BD75-15DF21414DF8 a wikibase:Statement ;
+	ps:P155 wd:Q5165293 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q487907 p:P155 wds:Q487907-3ECE466E-72F0-41FC-80CA-F4A4C0BA125D .
+
+wds:Q487907-3ECE466E-72F0-41FC-80CA-F4A4C0BA125D a wikibase:Statement ;
+	ps:P155 wd:Q5476087 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q487907 p:P155 wds:Q487907-8082FB50-6F4B-4A16-870C-43B07D45394F .
+
+wds:Q487907-8082FB50-6F4B-4A16-870C-43B07D45394F a wikibase:Statement ;
+	ps:P155 wd:Q6837626 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E9%8A%80%E8%A1%8C> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "zh" .
+
+<https://pl.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "pl" .
+
+<https://be.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "be" .
+
+<https://ko.wikipedia.org/wiki/%EB%B1%85%ED%81%AC%20%EC%98%A4%EB%B8%8C%20%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "ko" .
+
+<https://he.wikipedia.org/wiki/%D7%91%D7%A0%D7%A7%20%D7%90%D7%95%D7%A3%20%D7%90%D7%9E%D7%A8%D7%99%D7%A7%D7%94> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "he" .
+
+<https://fr.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "fr" .
+
+<https://uz.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "uz" .
+
+<https://es.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "es" .
+
+<https://ms.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "ms" .
+
+<https://lv.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "lv" .
+
+<https://it.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "it" .
+
+<https://id.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "id" .
+
+<https://de.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%AF%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "ja" .
+
+<https://simple.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "simple" .
+
+<https://sv.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "sv" .
+
+<https://nl.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "nl" .
+
+<https://ar.wikipedia.org/wiki/%D8%A8%D9%86%D9%83%20%D8%A3%D9%88%D9%81%20%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "ar" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95%20%E0%A4%91%E0%A4%AB%20%E0%A4%85%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "hi" .
+
+<https://pt.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "pt" .
+
+<https://sk.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "sk" .
+
+<https://ru.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "ru" .
+
+<https://en.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "en" .
+
+<https://ro.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "ro" .
+
+<https://ca.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "ca" .
+
+<https://fi.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "fi" .
+
+<https://war.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "war" .
+
+<https://cs.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "cs" .
+
+<https://fa.wikipedia.org/wiki/%D8%A8%D9%86%DA%A9%20%D8%A2%D9%88%20%D8%A7%D9%85%D8%B1%DB%8C%DA%A9%D8%A7> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "fa" .
+
+<https://lt.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "lt" .
+
+<https://da.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "da" .
+
+<https://no.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "no" .
+
+<https://mr.wikipedia.org/wiki/%E0%A4%AC%E0%A4%81%E0%A4%95%20%E0%A4%91%E0%A4%AB%20%E0%A4%85%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "mr" .
+
+<https://tr.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "tr" .
+
+<https://vi.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "vi" .
+
+<https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3ABank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "ru" .
+
+<https://uk.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "uk" .
+
+<https://pa.wikipedia.org/wiki/%E0%A8%AC%E0%A9%88%E0%A8%82%E0%A8%95%20%E0%A8%86%E0%A8%AB%E0%A8%BC%20%E0%A8%85%E0%A8%AE%E0%A8%B0%E0%A9%80%E0%A8%95%E0%A8%BE> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "pa" .
+
+<https://kk.wikipedia.org/wiki/Bank%20of%20America> a schema:Article ;
+	schema:about wd:Q487907 ;
+	schema:inLanguage "kk" .
+
+wdv:1e26c53e29178f614d783140fae13161 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2014-08-31T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdref:f9dda042859e915c48184b71eb6018bf40d235ba a wikibase:Reference ;
+	pr:P854 <http://www.quotenet.com/stock-price/BAC> ;
+	pr:P813 "2014-08-31T00:00:00Z"^^xsd:dateTime ;
+	prv:P813 wdv:1e26c53e29178f614d783140fae13161 .
+
+wdref:151c9104b6952d098e69e98bf320f2c647cc20d4 a wikibase:Reference ;
+	pr:P854 <https://www.nyse.com/quote/XNYS:BAC/company> ;
+	pr:P813 "2014-08-31T00:00:00Z"^^xsd:dateTime ;
+	prv:P813 wdv:1e26c53e29178f614d783140fae13161 .
+
+wdata:Q487920 schema:version "210282822"^^xsd:integer ;
+	schema:dateModified "2015-04-12T08:35:43Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q487920 .
+

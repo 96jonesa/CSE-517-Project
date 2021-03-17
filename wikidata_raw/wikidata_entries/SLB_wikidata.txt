@@ -1,0 +1,234 @@
+wd:Q1425316 a wikibase:Item ;
+	rdfs:label "Schlumberger"@pt ;
+	skos:prefLabel "Schlumberger"@pt ;
+	schema:name "Schlumberger"@pt ;
+	rdfs:label "斯伦贝谢"@zh-hans ;
+	skos:prefLabel "斯伦贝谢"@zh-hans ;
+	schema:name "斯伦贝谢"@zh-hans ;
+	rdfs:label "斯倫貝謝"@zh-hant ;
+	skos:prefLabel "斯倫貝謝"@zh-hant ;
+	schema:name "斯倫貝謝"@zh-hant ;
+	rdfs:label "施蘭卜吉"@zh-hk ;
+	skos:prefLabel "施蘭卜吉"@zh-hk ;
+	schema:name "施蘭卜吉"@zh-hk ;
+	rdfs:label "Schlumberger"@pl ;
+	skos:prefLabel "Schlumberger"@pl ;
+	schema:name "Schlumberger"@pl ;
+	rdfs:label "Schlumberger"@ru ;
+	skos:prefLabel "Schlumberger"@ru ;
+	schema:name "Schlumberger"@ru ;
+	rdfs:label "Schlumberger"@fr ;
+	skos:prefLabel "Schlumberger"@fr ;
+	schema:name "Schlumberger"@fr ;
+	rdfs:label "Schlumberger"@en ;
+	skos:prefLabel "Schlumberger"@en ;
+	schema:name "Schlumberger"@en ;
+	rdfs:label "Schlumberger"@de ;
+	skos:prefLabel "Schlumberger"@de ;
+	schema:name "Schlumberger"@de ;
+	rdfs:label "シュルンベルジェ"@ja ;
+	skos:prefLabel "シュルンベルジェ"@ja ;
+	schema:name "シュルンベルジェ"@ja ;
+	rdfs:label "شلومبرگر"@fa ;
+	skos:prefLabel "شلومبرگر"@fa ;
+	schema:name "شلومبرگر"@fa ;
+	rdfs:label "ဆလမ်ဘာဂျာ"@my ;
+	skos:prefLabel "ဆလမ်ဘာဂျာ"@my ;
+	schema:name "ဆလမ်ဘာဂျာ"@my ;
+	rdfs:label "Schlumberger"@nl ;
+	skos:prefLabel "Schlumberger"@nl ;
+	schema:name "Schlumberger"@nl ;
+	rdfs:label "شلمبرجير"@ar ;
+	skos:prefLabel "شلمبرجير"@ar ;
+	schema:name "شلمبرجير"@ar ;
+	rdfs:label "شليۋمبەرجە"@kk-arab ;
+	skos:prefLabel "شليۋمبەرجە"@kk-arab ;
+	schema:name "شليۋمبەرجە"@kk-arab ;
+	rdfs:label "Шлюмберже"@kk-cyrl ;
+	skos:prefLabel "Шлюмберже"@kk-cyrl ;
+	schema:name "Шлюмберже"@kk-cyrl ;
+	rdfs:label "Şlyumberje"@kk-latn ;
+	skos:prefLabel "Şlyumberje"@kk-latn ;
+	schema:name "Şlyumberje"@kk-latn ;
+	rdfs:label "Шлюмберже"@kk ;
+	skos:prefLabel "Шлюмберже"@kk ;
+	schema:name "Шлюмберже"@kk ;
+	rdfs:label "施蘭卜吉"@zh ;
+	skos:prefLabel "施蘭卜吉"@zh ;
+	schema:name "施蘭卜吉"@zh ;
+	rdfs:label "Schlumberger"@it ;
+	skos:prefLabel "Schlumberger"@it ;
+	schema:name "Schlumberger"@it ;
+	rdfs:label "Schlumberger"@nb ;
+	skos:prefLabel "Schlumberger"@nb ;
+	schema:name "Schlumberger"@nb ;
+	rdfs:label "Schlumbergerinida"@es ;
+	skos:prefLabel "Schlumbergerinida"@es ;
+	schema:name "Schlumbergerinida"@es ;
+	rdfs:label "Schlumberger Limited"@vi ;
+	skos:prefLabel "Schlumberger Limited"@vi ;
+	schema:name "Schlumberger Limited"@vi ;
+	rdfs:label "שלומברגר"@he ;
+	skos:prefLabel "שלומברגר"@he ;
+	schema:name "שלומברגר"@he ;
+	rdfs:label "Schlumberger"@sv ;
+	skos:prefLabel "Schlumberger"@sv ;
+	schema:name "Schlumberger"@sv ;
+	schema:description "oilfield services company"@en ;
+	skos:altLabel "Schlumberger"@zh,
+		"斯伦贝谢"@zh,
+		"Шлюмберже"@ru,
+		"Шлюмберже, Конрад"@ru,
+		"Schlumberger Limited"@fr,
+		"Schlumberger Limited"@de,
+		"Schlumberger Ltd."@de,
+		"شلمبرجر"@fa,
+		"شلومبرجر"@fa,
+		"اشلومبرگر"@fa,
+		"شلومبرژه"@fa,
+		"Schlumberger"@my,
+		"شلمبرقير"@ar,
+		"شلمبرغير"@ar,
+		"Schlumberger"@kk,
+		"Schlumberger Limited"@nb ;
+	wdt:P571 "1926-01-01T00:00:00Z"^^xsd:dateTime ;
+	wdt:P373 "Schlumberger" ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P910 wd:Q8707371 ;
+	wdt:P646 "/m/02cd4v" ;
+	wdt:P112 wd:Q106736 ;
+	wdt:P414 wd:Q13677 ;
+	p:P571 wds:Q1425316-25f42bc3-4b47-b5ab-751c-5643650a26d7 .
+
+wds:Q1425316-25f42bc3-4b47-b5ab-751c-5643650a26d7 a wikibase:Statement ;
+	ps:P571 "1926-01-01T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:eac99051a6724ccfd64ad57c287b9934 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1425316 p:P373 wds:q1425316-7575F093-EFFF-4CB7-8641-8DCAD47B95BE .
+
+wds:q1425316-7575F093-EFFF-4CB7-8641-8DCAD47B95BE a wikibase:Statement ;
+	ps:P373 "Schlumberger" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q1425316 p:P31 wds:q1425316-F61B96B0-418C-4D63-954E-856EAB9D425F .
+
+wds:q1425316-F61B96B0-418C-4D63-954E-856EAB9D425F a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q1425316 p:P910 wds:Q1425316-E2260988-7049-430B-A8EF-3C00D47EAE4C .
+
+wds:Q1425316-E2260988-7049-430B-A8EF-3C00D47EAE4C a wikibase:Statement ;
+	ps:P910 wd:Q8707371 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1425316 p:P646 wds:Q1425316-FA5334F1-6039-4873-A0F2-015A6EA8BB7D .
+
+wds:Q1425316-FA5334F1-6039-4873-A0F2-015A6EA8BB7D a wikibase:Statement ;
+	ps:P646 "/m/02cd4v" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q1425316 p:P112 wds:Q1425316-d9f313a0-40c6-babe-7772-144363b1e2b7 .
+
+wds:Q1425316-d9f313a0-40c6-babe-7772-144363b1e2b7 a wikibase:Statement ;
+	ps:P112 wd:Q106736 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1425316 p:P414 wds:Q1425316-C409A8E4-1138-428B-9A4C-1AEBE698046E .
+
+wds:Q1425316-C409A8E4-1138-428B-9A4C-1AEBE698046E a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://pt.wikipedia.org/wiki/Schlumberger> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "pt" .
+
+<https://pl.wikipedia.org/wiki/Schlumberger> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "pl" .
+
+<https://ru.wikipedia.org/wiki/Schlumberger> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "ru" .
+
+<https://fr.wikipedia.org/wiki/Schlumberger%20%28entreprise%29> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "fr" .
+
+<https://en.wikipedia.org/wiki/Schlumberger> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "en" .
+
+<https://no.wikipedia.org/wiki/Schlumberger> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "no" .
+
+<https://de.wikipedia.org/wiki/Schlumberger%20%28Unternehmen%29> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%B3%E3%83%99%E3%83%AB%E3%82%B8%E3%82%A7> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "ja" .
+
+<https://fa.wikipedia.org/wiki/%D8%B4%D9%84%D9%88%D9%85%D8%A8%D8%B1%D8%AC%D8%B1> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "fa" .
+
+<https://my.wikipedia.org/wiki/%E1%80%86%E1%80%9C%E1%80%99%E1%80%BA%E1%80%98%E1%80%AC%E1%80%82%E1%80%BB%E1%80%AC> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "my" .
+
+<https://nl.wikipedia.org/wiki/Schlumberger> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "nl" .
+
+<https://ar.wikipedia.org/wiki/%D8%B4%D9%84%D9%85%D8%A8%D8%B1%D8%AC%D9%8A%D8%B1> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "ar" .
+
+<https://kk.wikipedia.org/wiki/%D0%A8%D0%BB%D1%8E%D0%BC%D0%B1%D0%B5%D1%80%D0%B6%D0%B5> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "kk" .
+
+<https://it.wikipedia.org/wiki/Schlumberger> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "it" .
+
+<https://vi.wikipedia.org/wiki/Schlumberger%20Limited> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "vi" .
+
+<https://he.wikipedia.org/wiki/%D7%A9%D7%9C%D7%95%D7%9E%D7%91%D7%A8%D7%92%D7%A8> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "he" .
+
+<https://es.wikipedia.org/wiki/Schlumberger%20Limited> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "es" .
+
+<https://zh.wikipedia.org/wiki/%E6%96%AF%E4%BC%A6%E8%B4%9D%E8%B0%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "zh" .
+
+<https://sv.wikipedia.org/wiki/Schlumberger> a schema:Article ;
+	schema:about wd:Q1425316 ;
+	schema:inLanguage "sv" .
+
+wdata:Q1425320 schema:version "232598029"^^xsd:integer ;
+	schema:dateModified "2015-07-19T22:14:36Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q1425320 .
+

@@ -1,0 +1,63 @@
+wd:Q967868 a wikibase:Item ;
+	rdfs:label "NextEra Energy"@de ;
+	skos:prefLabel "NextEra Energy"@de ;
+	schema:name "NextEra Energy"@de ;
+	rdfs:label "NextEra Energy"@en ;
+	skos:prefLabel "NextEra Energy"@en ;
+	schema:name "NextEra Energy"@en ;
+	rdfs:label "نکست‌ارا انرژی"@fa ;
+	skos:prefLabel "نکست‌ارا انرژی"@fa ;
+	schema:name "نکست‌ارا انرژی"@fa ;
+	rdfs:label "NextEra Energy"@fr ;
+	skos:prefLabel "NextEra Energy"@fr ;
+	schema:name "NextEra Energy"@fr ;
+	wdt:P31 wd:Q891723 ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P910 wd:Q8442049 ;
+	p:P31 wds:Q967868-26CF5E59-E8AC-49DF-BB6D-E72A5353B178 .
+
+wds:Q967868-26CF5E59-E8AC-49DF-BB6D-E72A5353B178 a wikibase:Statement ;
+	ps:P31 wd:Q891723 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q967868 p:P414 wds:Q967868-7C709122-7B58-4646-9DB8-9E60CA55E1A3 .
+
+wds:Q967868-7C709122-7B58-4646-9DB8-9E60CA55E1A3 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q967868 p:P910 wds:Q967868-28ED832A-4157-462A-8AAD-44B381017A2D .
+
+wds:Q967868-28ED832A-4157-462A-8AAD-44B381017A2D a wikibase:Statement ;
+	ps:P910 wd:Q8442049 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+<https://de.wikipedia.org/wiki/NextEra%20Energy> a schema:Article ;
+	schema:about wd:Q967868 ;
+	schema:inLanguage "de" .
+
+<https://en.wikipedia.org/wiki/NextEra%20Energy> a schema:Article ;
+	schema:about wd:Q967868 ;
+	schema:inLanguage "en" .
+
+<https://fa.wikipedia.org/wiki/%D9%86%DA%A9%D8%B3%D8%AA%E2%80%8C%D8%A7%D8%B1%D8%A7%20%D8%A7%D9%86%D8%B1%DA%98%DB%8C> a schema:Article ;
+	schema:about wd:Q967868 ;
+	schema:inLanguage "fa" .
+
+<https://fr.wikipedia.org/wiki/NextEra%20Energy> a schema:Article ;
+	schema:about wd:Q967868 ;
+	schema:inLanguage "fr" .
+
+<https://id.wikipedia.org/wiki/NextEra%20Energy> a schema:Article ;
+	schema:about wd:Q967868 ;
+	schema:inLanguage "id" .
+
+wdata:Q967875 schema:version "215264661"^^xsd:integer ;
+	schema:dateModified "2015-05-12T19:55:54Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q967875 .
+

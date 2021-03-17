@@ -1,0 +1,419 @@
+wd:Q503182 a wikibase:Item ;
+	rdfs:label "中国石油"@zh-hans ;
+	skos:prefLabel "中国石油"@zh-hans ;
+	schema:name "中国石油"@zh-hans ;
+	rdfs:label "中國石油"@zh-hant ;
+	skos:prefLabel "中國石油"@zh-hant ;
+	schema:name "中國石油"@zh-hant ;
+	rdfs:label "中國石油"@zh-hk ;
+	skos:prefLabel "中國石油"@zh-hk ;
+	schema:name "中國石油"@zh-hk ;
+	rdfs:label "PetroChina"@pl ;
+	skos:prefLabel "PetroChina"@pl ;
+	schema:name "PetroChina"@pl ;
+	rdfs:label "PetroChina"@fr ;
+	skos:prefLabel "PetroChina"@fr ;
+	schema:name "PetroChina"@fr ;
+	rdfs:label "פטרוצ'יינה"@he ;
+	skos:prefLabel "פטרוצ'יינה"@he ;
+	schema:name "פטרוצ'יינה"@he ;
+	rdfs:label "PetroChina"@es ;
+	skos:prefLabel "PetroChina"@es ;
+	schema:name "PetroChina"@es ;
+	rdfs:label "PetroChina"@hu ;
+	skos:prefLabel "PetroChina"@hu ;
+	schema:name "PetroChina"@hu ;
+	rdfs:label "PetroChina"@it ;
+	skos:prefLabel "PetroChina"@it ;
+	schema:name "PetroChina"@it ;
+	rdfs:label "PetroChina"@et ;
+	skos:prefLabel "PetroChina"@et ;
+	schema:name "PetroChina"@et ;
+	rdfs:label "PetroChina"@de ;
+	skos:prefLabel "PetroChina"@de ;
+	schema:name "PetroChina"@de ;
+	rdfs:label "中国石油天然気"@ja ;
+	skos:prefLabel "中国石油天然気"@ja ;
+	schema:name "中国石油天然気"@ja ;
+	rdfs:label "PetroChina"@el ;
+	skos:prefLabel "PetroChina"@el ;
+	schema:name "PetroChina"@el ;
+	rdfs:label "Công ty Cổ phần trách nhiệm hữu hạn Dầu khí Trung Quốc"@vi ;
+	skos:prefLabel "Công ty Cổ phần trách nhiệm hữu hạn Dầu khí Trung Quốc"@vi ;
+	schema:name "Công ty Cổ phần trách nhiệm hữu hạn Dầu khí Trung Quốc"@vi ;
+	rdfs:label "中國石油"@yue ;
+	skos:prefLabel "中國石油"@yue ;
+	schema:name "中國石油"@yue ;
+	rdfs:label "PetroChina"@nl ;
+	skos:prefLabel "PetroChina"@nl ;
+	schema:name "PetroChina"@nl ;
+	rdfs:label "Petrochina"@sv ;
+	skos:prefLabel "Petrochina"@sv ;
+	schema:name "Petrochina"@sv ;
+	rdfs:label "PetroChina Company"@pt ;
+	skos:prefLabel "PetroChina Company"@pt ;
+	schema:name "PetroChina Company"@pt ;
+	rdfs:label "PetroChina"@eo ;
+	skos:prefLabel "PetroChina"@eo ;
+	schema:name "PetroChina"@eo ;
+	rdfs:label "PetroChina"@ru ;
+	skos:prefLabel "PetroChina"@ru ;
+	schema:name "PetroChina"@ru ;
+	rdfs:label "PetroChina"@en ;
+	skos:prefLabel "PetroChina"@en ;
+	schema:name "PetroChina"@en ;
+	rdfs:label "PetroChina"@ro ;
+	skos:prefLabel "PetroChina"@ro ;
+	schema:name "PetroChina"@ro ;
+	rdfs:label "PetroChina"@fi ;
+	skos:prefLabel "PetroChina"@fi ;
+	schema:name "PetroChina"@fi ;
+	rdfs:label "PetroChina"@cs ;
+	skos:prefLabel "PetroChina"@cs ;
+	schema:name "PetroChina"@cs ;
+	rdfs:label "پتروچاینا"@fa ;
+	skos:prefLabel "پتروچاینا"@fa ;
+	schema:name "پتروچاینا"@fa ;
+	rdfs:label "PetroChina"@lt ;
+	skos:prefLabel "PetroChina"@lt ;
+	schema:name "PetroChina"@lt ;
+	rdfs:label "PetroChina"@da ;
+	skos:prefLabel "PetroChina"@da ;
+	schema:name "PetroChina"@da ;
+	rdfs:label "中国石油"@zh ;
+	skos:prefLabel "中国石油"@zh ;
+	schema:name "中国石油"@zh ;
+	rdfs:label "PetroChina"@de-ch ;
+	skos:prefLabel "PetroChina"@de-ch ;
+	schema:name "PetroChina"@de-ch ;
+	rdfs:label "PetroChina"@en-ca ;
+	skos:prefLabel "PetroChina"@en-ca ;
+	schema:name "PetroChina"@en-ca ;
+	rdfs:label "PetroChina"@en-gb ;
+	skos:prefLabel "PetroChina"@en-gb ;
+	schema:name "PetroChina"@en-gb ;
+	rdfs:label "PetroChina"@nb ;
+	skos:prefLabel "PetroChina"@nb ;
+	schema:name "PetroChina"@nb ;
+	rdfs:label "PetroChina Company"@pt-br ;
+	skos:prefLabel "PetroChina Company"@pt-br ;
+	schema:name "PetroChina Company"@pt-br ;
+	rdfs:label "PetroChina"@ca ;
+	skos:prefLabel "PetroChina"@ca ;
+	schema:name "PetroChina"@ca ;
+	schema:description "Chinese oil and gas company"@en ;
+	skos:altLabel "中石油"@zh,
+		"中國石油股份"@zh,
+		"中國石油天然氣股份有限公司"@zh,
+		"中国石油天然气"@zh,
+		"中国石油天然气股份有限公司"@zh,
+		"PétroChina"@fr,
+		"Petro China"@it,
+		"Petro-China"@de,
+		"ペトロチャイナ"@ja,
+		"Công ty Cổ phần TNHH Dầu khí Trung Quốc"@vi,
+		"PetroChina"@vi,
+		"中石油"@yue,
+		"PetroChina Company Limited"@yue,
+		"PetroChina"@yue,
+		"PetroChina Company"@yue,
+		"中國石油天然氣股份有限公司"@yue,
+		"中國石油天然氣"@yue,
+		"PetroChina"@pt,
+		"Petro China"@fi,
+		"پترو چین"@fa,
+		"پترو چاینا"@fa,
+		"Petro China"@lt,
+		"PetroChina Company Limited"@en ;
+	wdt:P749 wd:Q588786 ;
+	wdt:P169 wd:Q9631179 ;
+	wdt:P31 wd:Q891723 ;
+	wdt:P373 "PetroChina" ;
+	wdt:P17 wd:Q148 ;
+	wdt:P159 wd:Q394681 ;
+	wdt:P646 "/m/04qxhv" ;
+	wdt:P571 "1999-01-01T00:00:00Z"^^xsd:dateTime ;
+	wdt:P946 "US71646E1001" ;
+	wdt:P856 <http://www.petrochina.com.cn/ptr/> ;
+	wdt:P488 wd:Q9631179,
+		wd:Q981617 ;
+	wdt:P452 wd:Q862571 ;
+	wdt:P414 wd:Q496672,
+		wd:Q739514,
+		wd:Q13677 ;
+	wdt:P1128 "+552810"^^xsd:decimal ;
+	wdt:P1448 "中国石油天然气股份有限公司"@zh,
+		"PetroChina Company Limited"@en ;
+	p:P749 wds:Q503182-6a6abed5-47f6-1895-c6f9-7a33a9cd53bf .
+
+wds:Q503182-6a6abed5-47f6-1895-c6f9-7a33a9cd53bf a wikibase:Statement ;
+	ps:P749 wd:Q588786 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q503182 p:P169 wds:Q503182-50722d19-41be-b01a-f7a1-ac1ab0e5b9c1 .
+
+wds:Q503182-50722d19-41be-b01a-f7a1-ac1ab0e5b9c1 a wikibase:Statement ;
+	ps:P169 wd:Q9631179 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q503182 p:P31 wds:Q503182-a77c1fd1-433e-ee43-eada-b50811832a1d .
+
+wds:Q503182-a77c1fd1-433e-ee43-eada-b50811832a1d a wikibase:Statement ;
+	ps:P31 wd:Q891723 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q503182 p:P373 wds:q503182-7F7DDF3B-1963-410E-840E-12ACF6D1CAE6 .
+
+wds:q503182-7F7DDF3B-1963-410E-840E-12ACF6D1CAE6 a wikibase:Statement ;
+	ps:P373 "PetroChina" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q503182 p:P17 wds:Q503182-ED86BECA-5AC7-46D1-90E7-DADCC6727C7F .
+
+wds:Q503182-ED86BECA-5AC7-46D1-90E7-DADCC6727C7F a wikibase:Statement ;
+	ps:P17 wd:Q148 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q503182 p:P159 wds:Q503182-8d6d2893-4407-e030-ac2f-768f2bf75c7d .
+
+wds:Q503182-8d6d2893-4407-e030-ac2f-768f2bf75c7d a wikibase:Statement ;
+	ps:P159 wd:Q394681 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q503182 p:P646 wds:Q503182-752657EA-DB2A-422B-BBF3-7198FD89F125 .
+
+wds:Q503182-752657EA-DB2A-422B-BBF3-7198FD89F125 a wikibase:Statement ;
+	ps:P646 "/m/04qxhv" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q503182 p:P571 wds:Q503182-22c92d84-4e4b-7707-4a6c-481c2b5c05f7 .
+
+wds:Q503182-22c92d84-4e4b-7707-4a6c-481c2b5c05f7 a wikibase:Statement ;
+	ps:P571 "1999-01-01T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:6507b37009e074036cb6279ec2e50f73 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q503182 p:P946 wds:Q503182-7f91b0c5-4c13-60bf-d73e-db77651ac20b .
+
+wds:Q503182-7f91b0c5-4c13-60bf-d73e-db77651ac20b a wikibase:Statement ;
+	ps:P946 "US71646E1001" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7e66ec232f4f3baab79e1069ce15dba8f1f83156 .
+
+wd:Q503182 p:P856 wds:Q503182-e55e38de-45e1-b2ad-c8c7-76388b330449 .
+
+wds:Q503182-e55e38de-45e1-b2ad-c8c7-76388b330449 a wikibase:Statement ;
+	ps:P856 <http://www.petrochina.com.cn/ptr/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q503182 p:P488 wds:Q503182-2be27443-4ae9-63a9-d2b9-42e24063ed29 .
+
+wds:Q503182-2be27443-4ae9-63a9-d2b9-42e24063ed29 a wikibase:Statement ;
+	ps:P488 wd:Q9631179 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P580 "2013-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:e8f0787e44ff9dd43e5b4af2e7fe2b10 ;
+	prov:wasDerivedFrom wdref:2bcddb0047c16c9be28fd30317e6bd57330fa41f .
+
+wd:Q503182 p:P488 wds:Q503182-9cabf772-48be-64de-f11e-ca7da79799ac .
+
+wds:Q503182-9cabf772-48be-64de-f11e-ca7da79799ac a wikibase:Statement ;
+	ps:P488 wd:Q981617 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q503182 p:P452 wds:Q503182-aaeed8b3-4f07-7806-6753-4cea2779994b .
+
+wds:Q503182-aaeed8b3-4f07-7806-6753-4cea2779994b a wikibase:Statement ;
+	ps:P452 wd:Q862571 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q503182 p:P414 wds:Q503182-6140bc5e-48cb-6460-cf9d-5179a7bcc8f3 .
+
+wds:Q503182-6140bc5e-48cb-6460-cf9d-5179a7bcc8f3 a wikibase:Statement ;
+	ps:P414 wd:Q496672 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "0857" .
+
+wd:Q503182 p:P414 wds:Q503182-27e33add-4a3d-2ac5-0555-a422a05e0361 .
+
+wds:Q503182-27e33add-4a3d-2ac5-0555-a422a05e0361 a wikibase:Statement ;
+	ps:P414 wd:Q739514 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "601857" .
+
+wd:Q503182 p:P414 wds:Q503182-15a518e9-4155-d904-5c75-b7d7633effc0 .
+
+wds:Q503182-15a518e9-4155-d904-5c75-b7d7633effc0 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "PTR" .
+
+wd:Q503182 p:P1128 wds:Q503182-b6029688-4f44-69df-3a9b-4f40d797a74f .
+
+wds:Q503182-b6029688-4f44-69df-3a9b-4f40d797a74f a wikibase:Statement ;
+	ps:P1128 "+552810"^^xsd:decimal ;
+	psv:P1128 wdv:e4d0c17382c42ef660e0404deb5f4d3c ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P585 "2011-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P585 wdv:dafb9cf711b15afe91ec0aa7158e57a6 .
+
+wd:Q503182 p:P1448 wds:Q503182-8a32285f-478d-c17d-72f4-521395caaf60 .
+
+wds:Q503182-8a32285f-478d-c17d-72f4-521395caaf60 a wikibase:Statement ;
+	ps:P1448 "中国石油天然气股份有限公司"@zh ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q503182 p:P1448 wds:Q503182-dbf171e1-4b13-61f4-ff97-37d43b694c7a .
+
+wds:Q503182-dbf171e1-4b13-61f4-ff97-37d43b694c7a a wikibase:Statement ;
+	ps:P1448 "PetroChina Company Limited"@en ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "zh" .
+
+<https://pl.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "pl" .
+
+<https://fr.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "fr" .
+
+<https://he.wikipedia.org/wiki/%D7%A4%D7%98%D7%A8%D7%95%D7%A6%27%D7%99%D7%99%D7%A0%D7%94> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "he" .
+
+<https://es.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "es" .
+
+<https://hu.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "hu" .
+
+<https://it.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "it" .
+
+<https://et.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "et" .
+
+<https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%A4%A9%E7%84%B6%E6%B0%97> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "ja" .
+
+<https://el.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "el" .
+
+<https://vi.wikipedia.org/wiki/C%C3%B4ng%20ty%20C%E1%BB%95%20ph%E1%BA%A7n%20tr%C3%A1ch%20nhi%E1%BB%87m%20h%E1%BB%AFu%20h%E1%BA%A1n%20D%E1%BA%A7u%20kh%C3%AD%20Trung%20Qu%E1%BB%91c> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "vi" .
+
+<https://zh-yue.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E7%9F%B3%E6%B2%B9> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "zh-yue" .
+
+<https://nl.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "nl" .
+
+<https://sv.wikipedia.org/wiki/Petrochina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "sv" .
+
+<https://pt.wikipedia.org/wiki/PetroChina%20Company> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "pt" .
+
+<https://eo.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "eo" .
+
+<https://ru.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "ru" .
+
+<https://en.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "en" .
+
+<https://ro.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "ro" .
+
+<https://no.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "no" .
+
+<https://fi.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "fi" .
+
+<https://cs.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "cs" .
+
+<https://fa.wikipedia.org/wiki/%D9%BE%D8%AA%D8%B1%D9%88%DA%86%D8%A7%DB%8C%D9%86%D8%A7> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "fa" .
+
+<https://lt.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "lt" .
+
+<https://da.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "da" .
+
+<https://ca.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "ca" .
+
+<https://de.wikipedia.org/wiki/PetroChina> a schema:Article ;
+	schema:about wd:Q503182 ;
+	schema:inLanguage "de" .
+
+wdv:e4d0c17382c42ef660e0404deb5f4d3c a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+552810"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+552810"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+552810"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdref:7e66ec232f4f3baab79e1069ce15dba8f1f83156 a wikibase:Reference ;
+	pr:P854 <http://www.advfn.com/exchanges/NYSE/PTR/stock-price> .
+
+wdref:2bcddb0047c16c9be28fd30317e6bd57330fa41f a wikibase:Reference ;
+	pr:P854 <http://www.reuters.com/finance/stocks/companyOfficers?symbol=PTR> ;
+	pr:P813 "2014-11-13T00:00:00Z"^^xsd:dateTime ;
+	prv:P813 wdv:305fe901ee0db065684582562a162890 .
+
+wdata:Q503184 schema:version "223108628"^^xsd:integer ;
+	schema:dateModified "2015-06-21T11:34:34Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q503184 .
+

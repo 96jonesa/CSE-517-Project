@@ -1,0 +1,94 @@
+wd:Q2304693 a wikibase:Item ;
+	rdfs:label "Southern Company"@fr ;
+	skos:prefLabel "Southern Company"@fr ;
+	schema:name "Southern Company"@fr ;
+	rdfs:label "Southern Company"@en ;
+	skos:prefLabel "Southern Company"@en ;
+	schema:name "Southern Company"@en ;
+	rdfs:label "Southern Company"@de ;
+	skos:prefLabel "Southern Company"@de ;
+	schema:name "Southern Company"@de ;
+	rdfs:label "Southern Company"@nl ;
+	skos:prefLabel "Southern Company"@nl ;
+	schema:name "Southern Company"@nl ;
+	rdfs:label "ساترن کمپانی"@fa ;
+	skos:prefLabel "ساترن کمپانی"@fa ;
+	schema:name "ساترن کمپانی"@fa ;
+	rdfs:label "美国南方电力公司"@zh ;
+	skos:prefLabel "美国南方电力公司"@zh ;
+	schema:name "美国南方电力公司"@zh ;
+	rdfs:label "The Southern Company"@id ;
+	skos:prefLabel "The Southern Company"@id ;
+	schema:name "The Southern Company"@id ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P910 wd:Q8781471 ;
+	wdt:P646 "/m/01c48j" ;
+	wdt:P159 wd:Q23556 ;
+	wdt:P414 wd:Q13677 ;
+	p:P31 wds:q2304693-BF360A8B-D41F-4C59-A65F-7DF1A8AF0FC0 .
+
+wds:q2304693-BF360A8B-D41F-4C59-A65F-7DF1A8AF0FC0 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q2304693 p:P910 wds:Q2304693-01D9BF80-24AE-482A-8AFD-B178772DA485 .
+
+wds:Q2304693-01D9BF80-24AE-482A-8AFD-B178772DA485 a wikibase:Statement ;
+	ps:P910 wd:Q8781471 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2304693 p:P646 wds:Q2304693-777F85C1-E22A-4104-8645-B32C2F1F844C .
+
+wds:Q2304693-777F85C1-E22A-4104-8645-B32C2F1F844C a wikibase:Statement ;
+	ps:P646 "/m/01c48j" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q2304693 p:P159 wds:Q2304693-0E067CCA-719B-4772-B4C5-4219E2481179 .
+
+wds:Q2304693-0E067CCA-719B-4772-B4C5-4219E2481179 a wikibase:Statement ;
+	ps:P159 wd:Q23556 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q2304693 p:P414 wds:Q2304693-03C401FB-C8FF-475F-8423-4761022602DF .
+
+wds:Q2304693-03C401FB-C8FF-475F-8423-4761022602DF a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://en.wikipedia.org/wiki/Southern%20Company> a schema:Article ;
+	schema:about wd:Q2304693 ;
+	schema:inLanguage "en" .
+
+<https://de.wikipedia.org/wiki/Southern%20Company> a schema:Article ;
+	schema:about wd:Q2304693 ;
+	schema:inLanguage "de" .
+
+<https://fr.wikipedia.org/wiki/Southern%20Company> a schema:Article ;
+	schema:about wd:Q2304693 ;
+	schema:inLanguage "fr" .
+
+<https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E5%8D%97%E6%96%B9%E7%94%B5%E5%8A%9B%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q2304693 ;
+	schema:inLanguage "zh" .
+
+<https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%AA%D8%B1%D9%86%20%DA%A9%D9%85%D9%BE%D8%A7%D9%86%DB%8C> a schema:Article ;
+	schema:about wd:Q2304693 ;
+	schema:inLanguage "fa" .
+
+<https://id.wikipedia.org/wiki/The%20Southern%20Company> a schema:Article ;
+	schema:about wd:Q2304693 ;
+	schema:inLanguage "id" .
+
+wdata:Q2304698 schema:version "211080438"^^xsd:integer ;
+	schema:dateModified "2015-04-16T21:36:01Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q2304698 .
+

@@ -1,0 +1,88 @@
+wd:Q1094313 a wikibase:Item ;
+	rdfs:label "智利桑坦德银行"@zh-hans ;
+	skos:prefLabel "智利桑坦德银行"@zh-hans ;
+	schema:name "智利桑坦德银行"@zh-hans ;
+	rdfs:label "智利桑坦德銀行"@zh-hant ;
+	skos:prefLabel "智利桑坦德銀行"@zh-hant ;
+	schema:name "智利桑坦德銀行"@zh-hant ;
+	rdfs:label "智利桑坦德銀行"@zh-hk ;
+	skos:prefLabel "智利桑坦德銀行"@zh-hk ;
+	schema:name "智利桑坦德銀行"@zh-hk ;
+	rdfs:label "Banco Santander Chile"@fr ;
+	skos:prefLabel "Banco Santander Chile"@fr ;
+	schema:name "Banco Santander Chile"@fr ;
+	rdfs:label "Banco Santander"@es ;
+	skos:prefLabel "Banco Santander"@es ;
+	schema:name "Banco Santander"@es ;
+	rdfs:label "Banco Santander-Chile"@en ;
+	skos:prefLabel "Banco Santander-Chile"@en ;
+	schema:name "Banco Santander-Chile"@en ;
+	rdfs:label "بانکو سانتاندر-شیلی"@fa ;
+	skos:prefLabel "بانکو سانتاندر-شیلی"@fa ;
+	schema:name "بانکو سانتاندر-شیلی"@fa ;
+	rdfs:label "智利桑坦德銀行"@zh ;
+	skos:prefLabel "智利桑坦德銀行"@zh ;
+	schema:name "智利桑坦德銀行"@zh ;
+	skos:altLabel "Banco Santander Santiago"@es,
+		"Banco Santander Chile"@es,
+		"Banco Santander-Chile"@es,
+		"Banco Osorno"@es ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P646 "/m/0806yf1" ;
+	wdt:P17 wd:Q298 ;
+	p:P414 wds:q1094313-70250F6D-C5A3-4267-9C00-27211FC9007F .
+
+wds:q1094313-70250F6D-C5A3-4267-9C00-27211FC9007F a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1094313 p:P31 wds:q1094313-FC1D9B5A-A4A9-458E-B5E2-41F75E115BBD .
+
+wds:q1094313-FC1D9B5A-A4A9-458E-B5E2-41F75E115BBD a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q1094313 p:P646 wds:Q1094313-1CA67390-2A98-4FF5-B945-CB8392121754 .
+
+wds:Q1094313-1CA67390-2A98-4FF5-B945-CB8392121754 a wikibase:Statement ;
+	ps:P646 "/m/0806yf1" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q1094313 p:P17 wds:Q1094313-067DF68F-C9F0-4AB6-9C52-A0118C787A6D .
+
+wds:Q1094313-067DF68F-C9F0-4AB6-9C52-A0118C787A6D a wikibase:Statement ;
+	ps:P17 wd:Q298 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://zh.wikipedia.org/wiki/%E6%99%BA%E5%88%A9%E6%A1%91%E5%9D%A6%E5%BE%B7%E9%8A%80%E8%A1%8C> a schema:Article ;
+	schema:about wd:Q1094313 ;
+	schema:inLanguage "zh" .
+
+<https://fr.wikipedia.org/wiki/Banco%20Santander%20Chile> a schema:Article ;
+	schema:about wd:Q1094313 ;
+	schema:inLanguage "fr" .
+
+<https://es.wikipedia.org/wiki/Banco%20Santander%20%28Chile%29> a schema:Article ;
+	schema:about wd:Q1094313 ;
+	schema:inLanguage "es" .
+
+<https://en.wikipedia.org/wiki/Banco%20Santander-Chile> a schema:Article ;
+	schema:about wd:Q1094313 ;
+	schema:inLanguage "en" .
+
+<https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86%DA%A9%D9%88%20%D8%B3%D8%A7%D9%86%D8%AA%D8%A7%D9%86%D8%AF%D8%B1-%D8%B4%DB%8C%D9%84%DB%8C> a schema:Article ;
+	schema:about wd:Q1094313 ;
+	schema:inLanguage "fa" .
+
+wdata:Q1094320 schema:version "205134974"^^xsd:integer ;
+	schema:dateModified "2015-03-20T06:18:23Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q1094320 .
+

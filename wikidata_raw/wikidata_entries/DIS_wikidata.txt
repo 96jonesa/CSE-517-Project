@@ -1,0 +1,771 @@
+wd:Q7414 a wikibase:Item ;
+	rdfs:label "The Walt Disney Company"@en ;
+	skos:prefLabel "The Walt Disney Company"@en ;
+	schema:name "The Walt Disney Company"@en ;
+	rdfs:label "월트 디즈니 컴퍼니"@ko ;
+	skos:prefLabel "월트 디즈니 컴퍼니"@ko ;
+	schema:name "월트 디즈니 컴퍼니"@ko ;
+	rdfs:label "The Walt Disney Company"@en-ca ;
+	skos:prefLabel "The Walt Disney Company"@en-ca ;
+	schema:name "The Walt Disney Company"@en-ca ;
+	rdfs:label "The Walt Disney Company"@en-gb ;
+	skos:prefLabel "The Walt Disney Company"@en-gb ;
+	schema:name "The Walt Disney Company"@en-gb ;
+	rdfs:label "شركة والت ديزني"@ar ;
+	skos:prefLabel "شركة والت ديزني"@ar ;
+	schema:name "شركة والت ديزني"@ar ;
+	rdfs:label "Уолт Дисни Къмпани"@bg ;
+	skos:prefLabel "Уолт Дисни Къмпани"@bg ;
+	schema:name "Уолт Дисни Къмпани"@bg ;
+	rdfs:label "The Walt Disney Company"@br ;
+	skos:prefLabel "The Walt Disney Company"@br ;
+	schema:name "The Walt Disney Company"@br ;
+	rdfs:label "The Walt Disney Company"@ca ;
+	skos:prefLabel "The Walt Disney Company"@ca ;
+	schema:name "The Walt Disney Company"@ca ;
+	rdfs:label "کۆمپانیای واڵت دیزنی"@ckb ;
+	skos:prefLabel "کۆمپانیای واڵت دیزنی"@ckb ;
+	schema:name "کۆمپانیای واڵت دیزنی"@ckb ;
+	rdfs:label "The Walt Disney Company"@cs ;
+	skos:prefLabel "The Walt Disney Company"@cs ;
+	schema:name "The Walt Disney Company"@cs ;
+	rdfs:label "The Walt Disney Company"@da ;
+	skos:prefLabel "The Walt Disney Company"@da ;
+	schema:name "The Walt Disney Company"@da ;
+	rdfs:label "The Walt Disney Company"@de ;
+	skos:prefLabel "The Walt Disney Company"@de ;
+	schema:name "The Walt Disney Company"@de ;
+	rdfs:label "Walt Disney Company"@eo ;
+	skos:prefLabel "Walt Disney Company"@eo ;
+	schema:name "Walt Disney Company"@eo ;
+	rdfs:label "The Walt Disney Company"@es ;
+	skos:prefLabel "The Walt Disney Company"@es ;
+	schema:name "The Walt Disney Company"@es ;
+	rdfs:label "Walt Disney Company"@et ;
+	skos:prefLabel "Walt Disney Company"@et ;
+	schema:name "Walt Disney Company"@et ;
+	rdfs:label "The Walt Disney Company"@eu ;
+	skos:prefLabel "The Walt Disney Company"@eu ;
+	schema:name "The Walt Disney Company"@eu ;
+	rdfs:label "شرکت والت دیزنی"@fa ;
+	skos:prefLabel "شرکت والت دیزنی"@fa ;
+	schema:name "شرکت والت دیزنی"@fa ;
+	rdfs:label "The Walt Disney Company"@fi ;
+	skos:prefLabel "The Walt Disney Company"@fi ;
+	schema:name "The Walt Disney Company"@fi ;
+	rdfs:label "The Walt Disney Company"@fo ;
+	skos:prefLabel "The Walt Disney Company"@fo ;
+	schema:name "The Walt Disney Company"@fo ;
+	rdfs:label "The Walt Disney Company"@fr ;
+	skos:prefLabel "The Walt Disney Company"@fr ;
+	schema:name "The Walt Disney Company"@fr ;
+	rdfs:label "Disney"@ga ;
+	skos:prefLabel "Disney"@ga ;
+	schema:name "Disney"@ga ;
+	rdfs:label "The Walt Disney Company"@gl ;
+	skos:prefLabel "The Walt Disney Company"@gl ;
+	schema:name "The Walt Disney Company"@gl ;
+	rdfs:label "חברת וולט דיסני"@he ;
+	skos:prefLabel "חברת וולט דיסני"@he ;
+	schema:name "חברת וולט דיסני"@he ;
+	rdfs:label "द वॉल्ट डिज़्नी कंपनी"@hi ;
+	skos:prefLabel "द वॉल्ट डिज़्नी कंपनी"@hi ;
+	schema:name "द वॉल्ट डिज़्नी कंपनी"@hi ;
+	rdfs:label "The Walt Disney Company"@hr ;
+	skos:prefLabel "The Walt Disney Company"@hr ;
+	schema:name "The Walt Disney Company"@hr ;
+	rdfs:label "The Walt Disney Company"@hu ;
+	skos:prefLabel "The Walt Disney Company"@hu ;
+	schema:name "The Walt Disney Company"@hu ;
+	rdfs:label "The Walt Disney Company"@id ;
+	skos:prefLabel "The Walt Disney Company"@id ;
+	schema:name "The Walt Disney Company"@id ;
+	rdfs:label "Walt Disney-fyrirtækið"@is ;
+	skos:prefLabel "Walt Disney-fyrirtækið"@is ;
+	schema:name "Walt Disney-fyrirtækið"@is ;
+	rdfs:label "The Walt Disney Company"@it ;
+	skos:prefLabel "The Walt Disney Company"@it ;
+	schema:name "The Walt Disney Company"@it ;
+	rdfs:label "ウォルト・ディズニー・カンパニー"@ja ;
+	skos:prefLabel "ウォルト・ディズニー・カンパニー"@ja ;
+	schema:name "ウォルト・ディズニー・カンパニー"@ja ;
+	rdfs:label "The Walt Disney Company"@jv ;
+	skos:prefLabel "The Walt Disney Company"@jv ;
+	schema:name "The Walt Disney Company"@jv ;
+	rdfs:label "უოლტ დისნეის კომპანია"@ka ;
+	skos:prefLabel "უოლტ დისნეის კომპანია"@ka ;
+	schema:name "უოლტ დისნეის კომპანია"@ka ;
+	rdfs:label "Walt Disney Societas"@la ;
+	skos:prefLabel "Walt Disney Societas"@la ;
+	schema:name "Walt Disney Societas"@la ;
+	rdfs:label "The Walt Disney Company"@lt ;
+	skos:prefLabel "The Walt Disney Company"@lt ;
+	schema:name "The Walt Disney Company"@lt ;
+	rdfs:label "The Walt Disney Company"@mk ;
+	skos:prefLabel "The Walt Disney Company"@mk ;
+	schema:name "The Walt Disney Company"@mk ;
+	rdfs:label "ദ വാൾട്ട് ഡിസ്നി കമ്പനി"@ml ;
+	skos:prefLabel "ദ വാൾട്ട് ഡിസ്നി കമ്പനി"@ml ;
+	schema:name "ദ വാൾട്ട് ഡിസ്നി കമ്പനി"@ml ;
+	rdfs:label "Syarikat Walt Disney"@ms ;
+	skos:prefLabel "Syarikat Walt Disney"@ms ;
+	schema:name "Syarikat Walt Disney"@ms ;
+	rdfs:label "The Walt Disney Company"@nl ;
+	skos:prefLabel "The Walt Disney Company"@nl ;
+	schema:name "The Walt Disney Company"@nl ;
+	rdfs:label "The Walt Disney Company"@nn ;
+	skos:prefLabel "The Walt Disney Company"@nn ;
+	schema:name "The Walt Disney Company"@nn ;
+	rdfs:label "The Walt Disney Company"@pl ;
+	skos:prefLabel "The Walt Disney Company"@pl ;
+	schema:name "The Walt Disney Company"@pl ;
+	rdfs:label "The Walt Disney Company"@pt ;
+	skos:prefLabel "The Walt Disney Company"@pt ;
+	schema:name "The Walt Disney Company"@pt ;
+	rdfs:label "The Walt Disney Company"@pt-br ;
+	skos:prefLabel "The Walt Disney Company"@pt-br ;
+	schema:name "The Walt Disney Company"@pt-br ;
+	rdfs:label "The Walt Disney Company"@ro ;
+	skos:prefLabel "The Walt Disney Company"@ro ;
+	schema:name "The Walt Disney Company"@ro ;
+	rdfs:label "The Walt Disney Company"@ru ;
+	skos:prefLabel "The Walt Disney Company"@ru ;
+	schema:name "The Walt Disney Company"@ru ;
+	rdfs:label "The Walt Disney Company"@se ;
+	skos:prefLabel "The Walt Disney Company"@se ;
+	schema:name "The Walt Disney Company"@se ;
+	rdfs:label "The Walt Disney Company"@sk ;
+	skos:prefLabel "The Walt Disney Company"@sk ;
+	schema:name "The Walt Disney Company"@sk ;
+	rdfs:label "The Walt Disney Company"@sq ;
+	skos:prefLabel "The Walt Disney Company"@sq ;
+	schema:name "The Walt Disney Company"@sq ;
+	rdfs:label "Компанија Волт Дизни"@sr ;
+	skos:prefLabel "Компанија Волт Дизни"@sr ;
+	schema:name "Компанија Волт Дизни"@sr ;
+	rdfs:label "Walt Disney Company"@sv ;
+	skos:prefLabel "Walt Disney Company"@sv ;
+	schema:name "Walt Disney Company"@sv ;
+	rdfs:label "The Walt Disney Company"@sw ;
+	skos:prefLabel "The Walt Disney Company"@sw ;
+	schema:name "The Walt Disney Company"@sw ;
+	rdfs:label "வால்ட் டிஸ்னி கம்பனி"@ta ;
+	skos:prefLabel "வால்ட் டிஸ்னி கம்பனி"@ta ;
+	schema:name "வால்ட் டிஸ்னி கம்பனி"@ta ;
+	rdfs:label "వాల్ట్ డిస్నీ సంస్థ"@te ;
+	skos:prefLabel "వాల్ట్ డిస్నీ సంస్థ"@te ;
+	schema:name "వాల్ట్ డిస్నీ సంస్థ"@te ;
+	rdfs:label "เดอะวอลต์ดิสนีย์"@th ;
+	skos:prefLabel "เดอะวอลต์ดิสนีย์"@th ;
+	schema:name "เดอะวอลต์ดิสนีย์"@th ;
+	rdfs:label "The Walt Disney Company"@tl ;
+	skos:prefLabel "The Walt Disney Company"@tl ;
+	schema:name "The Walt Disney Company"@tl ;
+	rdfs:label "The Walt Disney Company"@tr ;
+	skos:prefLabel "The Walt Disney Company"@tr ;
+	schema:name "The Walt Disney Company"@tr ;
+	rdfs:label "Дісней"@uk ;
+	skos:prefLabel "Дісней"@uk ;
+	schema:name "Дісней"@uk ;
+	rdfs:label "Công ty Walt Disney"@vi ;
+	skos:prefLabel "Công ty Walt Disney"@vi ;
+	schema:name "Công ty Walt Disney"@vi ;
+	rdfs:label "华特迪士尼公司"@zh ;
+	skos:prefLabel "华特迪士尼公司"@zh ;
+	schema:name "华特迪士尼公司"@zh ;
+	rdfs:label "The Walt Disney Company"@lv ;
+	skos:prefLabel "The Walt Disney Company"@lv ;
+	schema:name "The Walt Disney Company"@lv ;
+	rdfs:label "The Walt Disney Company"@bs ;
+	skos:prefLabel "The Walt Disney Company"@bs ;
+	schema:name "The Walt Disney Company"@bs ;
+	rdfs:label "The Walt Disney Company"@be ;
+	skos:prefLabel "The Walt Disney Company"@be ;
+	schema:name "The Walt Disney Company"@be ;
+	rdfs:label "华特迪士尼公司"@zh-hans ;
+	skos:prefLabel "华特迪士尼公司"@zh-hans ;
+	schema:name "华特迪士尼公司"@zh-hans ;
+	rdfs:label "華特迪士尼公司"@zh-hant ;
+	skos:prefLabel "華特迪士尼公司"@zh-hant ;
+	schema:name "華特迪士尼公司"@zh-hant ;
+	rdfs:label "The Walt Disney Company"@oc ;
+	skos:prefLabel "The Walt Disney Company"@oc ;
+	schema:name "The Walt Disney Company"@oc ;
+	rdfs:label "The Walt Disney Company"@sco ;
+	skos:prefLabel "The Walt Disney Company"@sco ;
+	schema:name "The Walt Disney Company"@sco ;
+	rdfs:label "Disney"@zea ;
+	skos:prefLabel "Disney"@zea ;
+	schema:name "Disney"@zea ;
+	rdfs:label "The Walt Disney Company"@nb ;
+	skos:prefLabel "The Walt Disney Company"@nb ;
+	schema:name "The Walt Disney Company"@nb ;
+	rdfs:label "দ্য ওয়াল্ট ডিজনি কোম্পানি"@bn ;
+	skos:prefLabel "দ্য ওয়াল্ট ডিজনি কোম্পানি"@bn ;
+	schema:name "দ্য ওয়াল্ট ডিজনি কোম্পানি"@bn ;
+	rdfs:label "Ուոլտ Դիսնեյ ընկերություն"@hy ;
+	skos:prefLabel "Ուոլտ Դիսնեյ ընկերություն"@hy ;
+	schema:name "Ուոլտ Դիսնեյ ընկերություն"@hy ;
+	rdfs:label "Walt Disney Kong-si"@nan ;
+	skos:prefLabel "Walt Disney Kong-si"@nan ;
+	schema:name "Walt Disney Kong-si"@nan ;
+	rdfs:label "迪士尼"@yue ;
+	skos:prefLabel "迪士尼"@yue ;
+	schema:name "迪士尼"@yue ;
+	rdfs:label "Walt Disney Company"@sah ;
+	skos:prefLabel "Walt Disney Company"@sah ;
+	schema:name "Walt Disney Company"@sah ;
+	rdfs:label "Fà-thi̍t Thit-sṳ-nì Kûng-sṳ̂"@hak ;
+	skos:prefLabel "Fà-thi̍t Thit-sṳ-nì Kûng-sṳ̂"@hak ;
+	schema:name "Fà-thi̍t Thit-sṳ-nì Kûng-sṳ̂"@hak ;
+	rdfs:label "The Walt Disney Company"@sh ;
+	skos:prefLabel "The Walt Disney Company"@sh ;
+	schema:name "The Walt Disney Company"@sh ;
+	schema:description "American diversified multinational mass media corporation"@en,
+		"거대 미디어 및 엔터테인먼트 종합 회사이다."@ko,
+		"US-amerikanischer Medienkonzern"@de,
+		"compañía estadounidense de medios de comunicación y entretenimiento"@es,
+		"azienda nel campo dei media e dello spettacolo"@it,
+		"entreprise américaine de média et de divertissements"@fr,
+		"продюсерская компания"@ru ;
+	skos:altLabel "Disney"@en,
+		"Disney Brothers Cartoon Studio"@en,
+		"The Walt Disney Studio"@en,
+		"Walt Disney Productions"@en,
+		"디즈니"@ko,
+		"WDC"@de,
+		"Disney"@it,
+		"Walt Disney Productions"@fr ;
+	wdt:P452 wd:Q11033 ;
+	wdt:P373 "Walt Disney Company" ;
+	wdt:P214 "121982546" ;
+	wdt:P213 "0000 0001 2149 6525" ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P159 wd:Q39561 ;
+	wdt:P112 wd:Q8704,
+		wd:Q347432 ;
+	wdt:P31 wd:Q891723,
+		wd:Q1107679,
+		wd:Q1762059 ;
+	wdt:P910 wd:Q7217192 ;
+	wdt:P227 "4196621-1" ;
+	wdt:P349 "00398586" ;
+	wdt:P244 "n86012698" ;
+	wdt:P856 <http://www.thewaltdisneycompany.com> ;
+	wdt:P966 "604bb1a3-afe6-47ec-9ca2-054e756236d9" ;
+	wdt:P646 "/m/09b3v" ;
+	wdt:P1151 wd:Q11774592 ;
+	wdt:P1273 "a10236442" ;
+	wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Waltdisneyco1.jpg> ;
+	wdt:P434 "66ea0139-149f-4a0c-8fbf-5ea9ec4a6e49" ;
+	wdt:P155 wd:Q2088225 ;
+	wdt:P1711 "100583" ;
+	wdt:P268 "11868138t" ;
+	p:P452 wds:Q7414-cdb82621-4d2d-3b5e-cb69-4256354d9fac .
+
+wds:Q7414-cdb82621-4d2d-3b5e-cb69-4256354d9fac a wikibase:Statement ;
+	ps:P452 wd:Q11033 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7414 p:P373 wds:q7414-2D249B6B-4212-4F4E-A185-33BB5478896E .
+
+wds:q7414-2D249B6B-4212-4F4E-A185-33BB5478896E a wikibase:Statement ;
+	ps:P373 "Walt Disney Company" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q7414 p:P214 wds:q7414-4A464757-DF6F-4725-9D70-10DF3C6FCD31 .
+
+wds:q7414-4A464757-DF6F-4725-9D70-10DF3C6FCD31 a wikibase:Statement ;
+	ps:P214 "121982546" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q7414 p:P213 wds:q7414-83716E24-420E-402C-BDFD-BEEB9F01D731 .
+
+wds:q7414-83716E24-420E-402C-BDFD-BEEB9F01D731 a wikibase:Statement ;
+	ps:P213 "0000 0001 2149 6525" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:500bf0768a4645f1e00ad451f904d3a010fa43ae .
+
+wd:Q7414 p:P414 wds:q7414-5022bc36-4c34-7c9a-8996-ac23f408135a .
+
+wds:q7414-5022bc36-4c34-7c9a-8996-ac23f408135a a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "DIS" .
+
+wd:Q7414 p:P159 wds:q7414-7ce58a0d-4a4c-70c2-0a62-f534d34e0166 .
+
+wds:q7414-7ce58a0d-4a4c-70c2-0a62-f534d34e0166 a wikibase:Statement ;
+	ps:P159 wd:Q39561 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(34.156861111111 -118.32505555556)"^^geo:wktLiteral ;
+	pqv:P625 wdv:c69158a3f011652d68c95e032b813d18 .
+
+wd:Q7414 p:P112 wds:q7414-10a80fcd-4831-c6a8-e8fe-6d57488d1db0 .
+
+wds:q7414-10a80fcd-4831-c6a8-e8fe-6d57488d1db0 a wikibase:Statement ;
+	ps:P112 wd:Q8704 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7414 p:P112 wds:q7414-23ed9bcd-4620-3ccd-a6cb-3abd4c5f1f8f .
+
+wds:q7414-23ed9bcd-4620-3ccd-a6cb-3abd4c5f1f8f a wikibase:Statement ;
+	ps:P112 wd:Q347432 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7414 p:P31 wds:Q7414-a4a397c9-4701-1062-8261-5252136c66e0 .
+
+wds:Q7414-a4a397c9-4701-1062-8261-5252136c66e0 a wikibase:Statement ;
+	ps:P31 wd:Q891723 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7414 p:P31 wds:Q7414-1477F7C9-026D-4B06-8C50-E38D87A32814 .
+
+wds:Q7414-1477F7C9-026D-4B06-8C50-E38D87A32814 a wikibase:Statement ;
+	ps:P31 wd:Q1107679 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7414 p:P31 wds:Q7414-E56B7402-3B83-4A42-8B8C-2DB3A2715B4B .
+
+wds:Q7414-E56B7402-3B83-4A42-8B8C-2DB3A2715B4B a wikibase:Statement ;
+	ps:P31 wd:Q1762059 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7414 p:P910 wds:Q7414-918CADFE-8750-4588-A4C8-8E51E5879ED8 .
+
+wds:Q7414-918CADFE-8750-4588-A4C8-8E51E5879ED8 a wikibase:Statement ;
+	ps:P910 wd:Q7217192 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7414 p:P227 wds:Q7414-E8803883-15B1-45F4-87D8-F0240E41805C .
+
+wds:Q7414-E8803883-15B1-45F4-87D8-F0240E41805C a wikibase:Statement ;
+	ps:P227 "4196621-1" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q7414 p:P349 wds:Q7414-B0B6D354-5623-4875-A4A5-DA02F028AEAE .
+
+wds:Q7414-B0B6D354-5623-4875-A4A5-DA02F028AEAE a wikibase:Statement ;
+	ps:P349 "00398586" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q7414 p:P244 wds:Q7414-4A32425A-4563-41D7-ACD4-C8298754EB52 .
+
+wds:Q7414-4A32425A-4563-41D7-ACD4-C8298754EB52 a wikibase:Statement ;
+	ps:P244 "n86012698" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q7414 p:P856 wds:Q7414-B8B21F51-6BA2-4FE1-9C1E-A47EF52CA0EA .
+
+wds:Q7414-B8B21F51-6BA2-4FE1-9C1E-A47EF52CA0EA a wikibase:Statement ;
+	ps:P856 <http://www.thewaltdisneycompany.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q7414 p:P966 wds:Q7414-7176A9CB-A48D-48D1-ABD5-B564206DBB94 .
+
+wds:Q7414-7176A9CB-A48D-48D1-ABD5-B564206DBB94 a wikibase:Statement ;
+	ps:P966 "604bb1a3-afe6-47ec-9ca2-054e756236d9" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:73057782312f850e2ed69c4c28ad162f57f6d390 .
+
+wd:Q7414 p:P646 wds:Q7414-E5E2515B-AF39-4B8A-99CC-702FD6F12E2B .
+
+wds:Q7414-E5E2515B-AF39-4B8A-99CC-702FD6F12E2B a wikibase:Statement ;
+	ps:P646 "/m/09b3v" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q7414 p:P1151 wds:Q7414-2b0b3e43-471a-b3ae-8ac5-a9c3680a0e37 .
+
+wds:Q7414-2b0b3e43-471a-b3ae-8ac5-a9c3680a0e37 a wikibase:Statement ;
+	ps:P1151 wd:Q11774592 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7414 p:P1273 wds:Q7414-90F46EA0-3101-4FE3-8A23-516E26D914CB .
+
+wds:Q7414-90F46EA0-3101-4FE3-8A23-516E26D914CB a wikibase:Statement ;
+	ps:P1273 "a10236442" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:012d6e50e3e02d297080f64a2925c3ffc66fb76b .
+
+wd:Q7414 p:P18 wds:Q7414-0D7565DE-D2B1-4D36-9E3E-1306A4E60674 .
+
+wds:Q7414-0D7565DE-D2B1-4D36-9E3E-1306A4E60674 a wikibase:Statement ;
+	ps:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Waltdisneyco1.jpg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7a07c248d59b68eba79e5c5c2a59c6d07cf2cec5 .
+
+wd:Q7414 p:P434 wds:Q7414-55077C21-4F12-407E-967E-465DF78177C5 .
+
+wds:Q7414-55077C21-4F12-407E-967E-465DF78177C5 a wikibase:Statement ;
+	ps:P434 "66ea0139-149f-4a0c-8fbf-5ea9ec4a6e49" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:73057782312f850e2ed69c4c28ad162f57f6d390 .
+
+wd:Q7414 p:P155 wds:Q7414-42D2F73C-0BF5-4D16-9841-29D16D70F7F4 .
+
+wds:Q7414-42D2F73C-0BF5-4D16-9841-29D16D70F7F4 a wikibase:Statement ;
+	ps:P155 wd:Q2088225 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7414 p:P1711 wds:Q7414-1B3A6EC1-4CBB-427C-83AE-AEE83F45E1E7 .
+
+wds:Q7414-1B3A6EC1-4CBB-427C-83AE-AEE83F45E1E7 a wikibase:Statement ;
+	ps:P1711 "100583" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q7414 p:P268 wds:Q7414-18594E70-B0B3-46ED-B746-E4300C283E5D .
+
+wds:Q7414-18594E70-B0B3-46ED-B746-E4300C283E5D a wikibase:Statement ;
+	ps:P268 "11868138t" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:c50f3ea5306e96fdf99d25deea697b095eae1c47 .
+
+<https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3AThe%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "ru" .
+
+<https://en.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "en" .
+
+<https://de.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "de" .
+
+<https://fr.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "fr" ;
+	wikibase:badge wd:Q17437796 .
+
+<https://es.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "es" .
+
+<https://ru.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "ru" .
+
+<https://it.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "it" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%88%E3%83%BB%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "ja" .
+
+<https://nl.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "nl" .
+
+<https://pl.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "pl" .
+
+<https://zh.wikipedia.org/wiki/%E5%8D%8E%E7%89%B9%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "zh" .
+
+<https://sv.wikipedia.org/wiki/Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "sv" .
+
+<https://fa.wikipedia.org/wiki/%D8%B4%D8%B1%DA%A9%D8%AA%20%D9%88%D8%A7%D9%84%D8%AA%20%D8%AF%DB%8C%D8%B2%D9%86%DB%8C> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "fa" .
+
+<https://he.wikipedia.org/wiki/%D7%97%D7%91%D7%A8%D7%AA%20%D7%95%D7%95%D7%9C%D7%98%20%D7%93%D7%99%D7%A1%D7%A0%D7%99> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "he" .
+
+<https://tr.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "tr" .
+
+<https://hu.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "hu" .
+
+<https://fi.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "fi" .
+
+<https://ar.wikipedia.org/wiki/%D8%B4%D8%B1%D9%83%D8%A9%20%D9%88%D8%A7%D9%84%D8%AA%20%D8%AF%D9%8A%D8%B2%D9%86%D9%8A> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "ar" .
+
+<https://vi.wikipedia.org/wiki/C%C3%B4ng%20ty%20Walt%20Disney> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "vi" .
+
+<https://no.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "no" .
+
+<https://uk.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "uk" .
+
+<https://ko.wikipedia.org/wiki/%EC%9B%94%ED%8A%B8%20%EB%94%94%EC%A6%88%EB%8B%88%20%EC%BB%B4%ED%8D%BC%EB%8B%88> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "ko" .
+
+<https://ca.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "ca" .
+
+<https://cs.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "cs" .
+
+<https://sr.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%98%D0%B0%20%D0%92%D0%BE%D0%BB%D1%82%20%D0%94%D0%B8%D0%B7%D0%BD%D0%B8> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "sr" .
+
+<https://ro.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "ro" .
+
+<https://id.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "id" .
+
+<https://da.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "da" .
+
+<https://simple.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "simple" .
+
+<https://bg.wikipedia.org/wiki/%D0%A3%D0%BE%D0%BB%D1%82%20%D0%94%D0%B8%D1%81%D0%BD%D0%B8%20%D0%9A%D1%8A%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "bg" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%A6%E0%A7%8D%E0%A6%AF%20%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%20%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%A8%E0%A6%BF%20%E0%A6%95%E0%A7%8B%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "bn" .
+
+<https://br.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "br" .
+
+<https://bs.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "bs" .
+
+<https://ckb.wikipedia.org/wiki/%DA%A9%DB%86%D9%85%D9%BE%D8%A7%D9%86%DB%8C%D8%A7%DB%8C%20%D9%88%D8%A7%DA%B5%D8%AA%20%D8%AF%DB%8C%D8%B2%D9%86%DB%8C> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "ckb" .
+
+<https://eo.wikipedia.org/wiki/Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "eo" .
+
+<https://et.wikipedia.org/wiki/Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "et" .
+
+<https://eu.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "eu" .
+
+<https://fo.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "fo" .
+
+<https://ga.wikipedia.org/wiki/Disney> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "ga" .
+
+<https://gl.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "gl" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%A6%20%E0%A4%B5%E0%A5%89%E0%A4%B2%E0%A5%8D%E0%A4%9F%20%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BC%E0%A5%8D%E0%A4%A8%E0%A5%80%20%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "hi" .
+
+<https://hr.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "hr" .
+
+<https://is.wikipedia.org/wiki/Walt%20Disney-fyrirt%C3%A6ki%C3%B0> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "is" .
+
+<https://jv.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "jv" .
+
+<https://ka.wikipedia.org/wiki/%E1%83%A3%E1%83%9D%E1%83%9A%E1%83%A2%20%E1%83%93%E1%83%98%E1%83%A1%E1%83%9C%E1%83%94%E1%83%98%E1%83%A1%20%E1%83%99%E1%83%9D%E1%83%9B%E1%83%9E%E1%83%90%E1%83%9C%E1%83%98%E1%83%90> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "ka" .
+
+<https://la.wikipedia.org/wiki/Walt%20Disney%20Societas> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "la" .
+
+<https://lt.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "lt" .
+
+<https://lv.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "lv" .
+
+<https://mk.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "mk" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%A6%20%E0%B4%B5%E0%B4%BE%E0%B5%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D%20%E0%B4%A1%E0%B4%BF%E0%B4%B8%E0%B5%8D%E0%B4%A8%E0%B4%BF%20%E0%B4%95%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B4%A8%E0%B4%BF> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "ml" .
+
+<https://ms.wikipedia.org/wiki/Syarikat%20Walt%20Disney> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "ms" .
+
+<https://nn.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "nn" .
+
+<https://oc.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "oc" .
+
+<https://sah.wikipedia.org/wiki/Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "sah" .
+
+<https://sco.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "sco" .
+
+<https://se.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "se" .
+
+<https://sk.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "sk" .
+
+<https://sq.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "sq" .
+
+<https://sw.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "sw" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BE%E0%AE%B2%E0%AF%8D%E0%AE%9F%E0%AF%8D%20%E0%AE%9F%E0%AE%BF%E0%AE%B8%E0%AF%8D%E0%AE%A9%E0%AE%BF%20%E0%AE%95%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%A9%E0%AE%BF> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "ta" .
+
+<https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%BE%E0%B0%B2%E0%B1%8D%E0%B0%9F%E0%B1%8D%20%E0%B0%A1%E0%B0%BF%E0%B0%B8%E0%B1%8D%E0%B0%A8%E0%B1%80%20%E0%B0%B8%E0%B0%82%E0%B0%B8%E0%B1%8D%E0%B0%A5> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "te" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%95%E0%B9%8C%E0%B8%94%E0%B8%B4%E0%B8%AA%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8C> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "th" .
+
+<https://tl.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "tl" .
+
+<https://zea.wikipedia.org/wiki/Disney> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "zea" .
+
+<https://zh-min-nan.wikipedia.org/wiki/Walt%20Disney%20Kong-si> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "zh-min-nan" .
+
+<https://zh-yue.wikipedia.org/wiki/%E8%BF%AA%E5%A3%AB%E5%B0%BC> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "zh-yue" .
+
+<https://hy.wikipedia.org/wiki/%D5%88%D6%82%D5%B8%D5%AC%D5%A9%20%D4%B4%D5%AB%D5%BD%D5%B6%D5%A5%D5%B5%20%D5%A8%D5%B6%D5%AF%D5%A5%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "hy" .
+
+<https://hak.wikipedia.org/wiki/F%C3%A0-thi%CC%8Dt%20Thit-s%E1%B9%B3-n%C3%AC%20K%C3%BBng-s%E1%B9%B3%CC%82> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "hak" .
+
+<https://pt.wikibooks.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "pt" .
+
+<https://sh.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "sh" .
+
+<https://nap.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "nap" .
+
+<https://pt.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "pt" ;
+	wikibase:badge wd:Q17437798 .
+
+<https://yi.wikipedia.org/wiki/%D7%93%D7%99%20%D7%95%D7%95%D7%90%D7%9C%D7%98%20%D7%93%D7%99%D7%96%D7%A0%D7%99%20%D7%A4%D7%99%D7%A8%D7%9E%D7%A2> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "yi" .
+
+<https://fy.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "fy" .
+
+<https://scn.wikipedia.org/wiki/The%20Walt%20Disney%20Company> a schema:Article ;
+	schema:about wd:Q7414 ;
+	schema:inLanguage "scn" .
+
+wdv:c69158a3f011652d68c95e032b813d18 a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "34.156861111111"^^xsd:decimal ;
+	wikibase:geoLongitude "-118.32505555556"^^xsd:decimal ;
+	wikibase:geoPrecision "2.7777777777778E-5"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdref:012d6e50e3e02d297080f64a2925c3ffc66fb76b a wikibase:Reference ;
+	pr:P854 <https://viaf.org/viaf/121982546/> .
+
+wdata:Q7421 schema:version "222125739"^^xsd:integer ;
+	schema:dateModified "2015-06-12T16:37:17Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q7421 .
+

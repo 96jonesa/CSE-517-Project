@@ -1,0 +1,1509 @@
+wd:Q2283 a wikibase:Item ;
+	rdfs:label "Microsoft"@en ;
+	skos:prefLabel "Microsoft"@en ;
+	schema:name "Microsoft"@en ;
+	rdfs:label "Microsoft"@nb ;
+	skos:prefLabel "Microsoft"@nb ;
+	schema:name "Microsoft"@nb ;
+	rdfs:label "Microsoft"@de ;
+	skos:prefLabel "Microsoft"@de ;
+	schema:name "Microsoft"@de ;
+	rdfs:label "Microsoft"@fr ;
+	skos:prefLabel "Microsoft"@fr ;
+	schema:name "Microsoft"@fr ;
+	rdfs:label "Microsoft"@es ;
+	skos:prefLabel "Microsoft"@es ;
+	schema:name "Microsoft"@es ;
+	rdfs:label "Microsoft"@en-ca ;
+	skos:prefLabel "Microsoft"@en-ca ;
+	schema:name "Microsoft"@en-ca ;
+	rdfs:label "Microsoft"@en-gb ;
+	skos:prefLabel "Microsoft"@en-gb ;
+	schema:name "Microsoft"@en-gb ;
+	rdfs:label "Microsoft"@af ;
+	skos:prefLabel "Microsoft"@af ;
+	schema:name "Microsoft"@af ;
+	rdfs:label "Microsoft"@gsw ;
+	skos:prefLabel "Microsoft"@gsw ;
+	schema:name "Microsoft"@gsw ;
+	rdfs:label "ማይክሮሶፍት"@am ;
+	skos:prefLabel "ማይክሮሶፍት"@am ;
+	schema:name "ማይክሮሶፍት"@am ;
+	rdfs:label "Microsoft"@ang ;
+	skos:prefLabel "Microsoft"@ang ;
+	schema:name "Microsoft"@ang ;
+	rdfs:label "مايكروسوفت"@ar ;
+	skos:prefLabel "مايكروسوفت"@ar ;
+	schema:name "مايكروسوفت"@ar ;
+	rdfs:label "Microsoft"@ast ;
+	skos:prefLabel "Microsoft"@ast ;
+	schema:name "Microsoft"@ast ;
+	rdfs:label "Microsoft"@az ;
+	skos:prefLabel "Microsoft"@az ;
+	schema:name "Microsoft"@az ;
+	rdfs:label "Microsoft"@bar ;
+	skos:prefLabel "Microsoft"@bar ;
+	schema:name "Microsoft"@bar ;
+	rdfs:label "Microsoft"@be ;
+	skos:prefLabel "Microsoft"@be ;
+	schema:name "Microsoft"@be ;
+	rdfs:label "Майкрософт"@bg ;
+	skos:prefLabel "Майкрософт"@bg ;
+	schema:name "Майкрософт"@bg ;
+	rdfs:label "মাইক্রোসফট কর্পোরেশন"@bn ;
+	skos:prefLabel "মাইক্রোসফট কর্পোরেশন"@bn ;
+	schema:name "মাইক্রোসফট কর্পোরেশন"@bn ;
+	rdfs:label "Microsoft"@br ;
+	skos:prefLabel "Microsoft"@br ;
+	schema:name "Microsoft"@br ;
+	rdfs:label "Microsoft"@bs ;
+	skos:prefLabel "Microsoft"@bs ;
+	schema:name "Microsoft"@bs ;
+	rdfs:label "Microsoft"@ca ;
+	skos:prefLabel "Microsoft"@ca ;
+	schema:name "Microsoft"@ca ;
+	rdfs:label "مایکرۆسۆفت"@ckb ;
+	skos:prefLabel "مایکرۆسۆفت"@ckb ;
+	schema:name "مایکرۆسۆفت"@ckb ;
+	rdfs:label "Microsoft"@cs ;
+	skos:prefLabel "Microsoft"@cs ;
+	schema:name "Microsoft"@cs ;
+	rdfs:label "Microsoft"@cy ;
+	skos:prefLabel "Microsoft"@cy ;
+	schema:name "Microsoft"@cy ;
+	rdfs:label "Microsoft"@da ;
+	skos:prefLabel "Microsoft"@da ;
+	schema:name "Microsoft"@da ;
+	rdfs:label "Microsoft"@el ;
+	skos:prefLabel "Microsoft"@el ;
+	schema:name "Microsoft"@el ;
+	rdfs:label "Microsoft"@eo ;
+	skos:prefLabel "Microsoft"@eo ;
+	schema:name "Microsoft"@eo ;
+	rdfs:label "Microsoft"@et ;
+	skos:prefLabel "Microsoft"@et ;
+	schema:name "Microsoft"@et ;
+	rdfs:label "Microsoft"@eu ;
+	skos:prefLabel "Microsoft"@eu ;
+	schema:name "Microsoft"@eu ;
+	rdfs:label "مایکروسافت"@fa ;
+	skos:prefLabel "مایکروسافت"@fa ;
+	schema:name "مایکروسافت"@fa ;
+	rdfs:label "Microsoft"@fi ;
+	skos:prefLabel "Microsoft"@fi ;
+	schema:name "Microsoft"@fi ;
+	rdfs:label "Microsoft"@fy ;
+	skos:prefLabel "Microsoft"@fy ;
+	schema:name "Microsoft"@fy ;
+	rdfs:label "Microsoft"@ga ;
+	skos:prefLabel "Microsoft"@ga ;
+	schema:name "Microsoft"@ga ;
+	rdfs:label "微軟"@gan ;
+	skos:prefLabel "微軟"@gan ;
+	schema:name "微軟"@gan ;
+	rdfs:label "Microsoft Corporation"@gl ;
+	skos:prefLabel "Microsoft Corporation"@gl ;
+	schema:name "Microsoft Corporation"@gl ;
+	rdfs:label "Mì-ngiôn Kûng-sṳ̂"@hak ;
+	skos:prefLabel "Mì-ngiôn Kûng-sṳ̂"@hak ;
+	schema:name "Mì-ngiôn Kûng-sṳ̂"@hak ;
+	rdfs:label "מיקרוסופט"@he ;
+	skos:prefLabel "מיקרוסופט"@he ;
+	schema:name "מיקרוסופט"@he ;
+	rdfs:label "माइक्रोसॉफ़्ट"@hi ;
+	skos:prefLabel "माइक्रोसॉफ़्ट"@hi ;
+	schema:name "माइक्रोसॉफ़्ट"@hi ;
+	rdfs:label "Microsoft"@hr ;
+	skos:prefLabel "Microsoft"@hr ;
+	schema:name "Microsoft"@hr ;
+	rdfs:label "Microsoft"@ht ;
+	skos:prefLabel "Microsoft"@ht ;
+	schema:name "Microsoft"@ht ;
+	rdfs:label "Microsoft Corporation"@hu ;
+	skos:prefLabel "Microsoft Corporation"@hu ;
+	schema:name "Microsoft Corporation"@hu ;
+	rdfs:label "Մայքրոսոֆթ"@hy ;
+	skos:prefLabel "Մայքրոսոֆթ"@hy ;
+	schema:name "Մայքրոսոֆթ"@hy ;
+	rdfs:label "Microsoft Corporation"@ia ;
+	skos:prefLabel "Microsoft Corporation"@ia ;
+	schema:name "Microsoft Corporation"@ia ;
+	rdfs:label "Microsoft"@id ;
+	skos:prefLabel "Microsoft"@id ;
+	schema:name "Microsoft"@id ;
+	rdfs:label "Microsoft"@ilo ;
+	skos:prefLabel "Microsoft"@ilo ;
+	schema:name "Microsoft"@ilo ;
+	rdfs:label "Microsoft"@is ;
+	skos:prefLabel "Microsoft"@is ;
+	schema:name "Microsoft"@is ;
+	rdfs:label "Microsoft Corporation"@it ;
+	skos:prefLabel "Microsoft Corporation"@it ;
+	schema:name "Microsoft Corporation"@it ;
+	rdfs:label "マイクロソフト"@ja ;
+	skos:prefLabel "マイクロソフト"@ja ;
+	schema:name "マイクロソフト"@ja ;
+	rdfs:label "maikrosaft"@jbo ;
+	skos:prefLabel "maikrosaft"@jbo ;
+	schema:name "maikrosaft"@jbo ;
+	rdfs:label "Microsoft"@jv ;
+	skos:prefLabel "Microsoft"@jv ;
+	schema:name "Microsoft"@jv ;
+	rdfs:label "Microsoft"@ka ;
+	skos:prefLabel "Microsoft"@ka ;
+	schema:name "Microsoft"@ka ;
+	rdfs:label "Microsoft"@kaa ;
+	skos:prefLabel "Microsoft"@kaa ;
+	schema:name "Microsoft"@kaa ;
+	rdfs:label "Microsoft"@kk ;
+	skos:prefLabel "Microsoft"@kk ;
+	schema:name "Microsoft"@kk ;
+	rdfs:label "Microsoft"@km ;
+	skos:prefLabel "Microsoft"@km ;
+	schema:name "Microsoft"@km ;
+	rdfs:label "마이크로소프트"@ko ;
+	skos:prefLabel "마이크로소프트"@ko ;
+	schema:name "마이크로소프트"@ko ;
+	rdfs:label "Microsoft"@ku ;
+	skos:prefLabel "Microsoft"@ku ;
+	schema:name "Microsoft"@ku ;
+	rdfs:label "Microsoft"@ky ;
+	skos:prefLabel "Microsoft"@ky ;
+	schema:name "Microsoft"@ky ;
+	rdfs:label "Microsoft"@la ;
+	skos:prefLabel "Microsoft"@la ;
+	schema:name "Microsoft"@la ;
+	rdfs:label "Microsoft"@lt ;
+	skos:prefLabel "Microsoft"@lt ;
+	schema:name "Microsoft"@lt ;
+	rdfs:label "Microsoft"@lv ;
+	skos:prefLabel "Microsoft"@lv ;
+	schema:name "Microsoft"@lv ;
+	rdfs:label "Microsoft Corporation"@map-bms ;
+	skos:prefLabel "Microsoft Corporation"@map-bms ;
+	schema:name "Microsoft Corporation"@map-bms ;
+	rdfs:label "Microsoft"@mk ;
+	skos:prefLabel "Microsoft"@mk ;
+	schema:name "Microsoft"@mk ;
+	rdfs:label "മൈക്രോസോഫ്റ്റ്"@ml ;
+	skos:prefLabel "മൈക്രോസോഫ്റ്റ്"@ml ;
+	schema:name "മൈക്രോസോഫ്റ്റ്"@ml ;
+	rdfs:label "Microsoft"@mn ;
+	skos:prefLabel "Microsoft"@mn ;
+	schema:name "Microsoft"@mn ;
+	rdfs:label "मायक्रोसॉफ्ट कॉर्पोरेशन"@mr ;
+	skos:prefLabel "मायक्रोसॉफ्ट कॉर्पोरेशन"@mr ;
+	schema:name "मायक्रोसॉफ्ट कॉर्पोरेशन"@mr ;
+	rdfs:label "Microsoft"@ms ;
+	skos:prefLabel "Microsoft"@ms ;
+	schema:name "Microsoft"@ms ;
+	rdfs:label "Microsoft"@mt ;
+	skos:prefLabel "Microsoft"@mt ;
+	schema:name "Microsoft"@mt ;
+	rdfs:label "မိုက်ခရိုဆော့ဖ်"@my ;
+	skos:prefLabel "မိုက်ခရိုဆော့ဖ်"@my ;
+	schema:name "မိုက်ခရိုဆော့ဖ်"@my ;
+	rdfs:label "Microsoft"@na ;
+	skos:prefLabel "Microsoft"@na ;
+	schema:name "Microsoft"@na ;
+	rdfs:label "Microsoft"@nds ;
+	skos:prefLabel "Microsoft"@nds ;
+	schema:name "Microsoft"@nds ;
+	rdfs:label "माइक्रोसफ्ट"@ne ;
+	skos:prefLabel "माइक्रोसफ्ट"@ne ;
+	schema:name "माइक्रोसफ्ट"@ne ;
+	rdfs:label "Microsoft"@nl ;
+	skos:prefLabel "Microsoft"@nl ;
+	schema:name "Microsoft"@nl ;
+	rdfs:label "Microsoft"@nn ;
+	skos:prefLabel "Microsoft"@nn ;
+	schema:name "Microsoft"@nn ;
+	rdfs:label "Microsoft"@oc ;
+	skos:prefLabel "Microsoft"@oc ;
+	schema:name "Microsoft"@oc ;
+	rdfs:label "ମାଇକ୍ରୋସଫ୍ଟ"@or ;
+	skos:prefLabel "ମାଇକ୍ରୋସଫ୍ଟ"@or ;
+	schema:name "ମାଇକ୍ରୋସଫ୍ଟ"@or ;
+	rdfs:label "Microsoft"@pl ;
+	skos:prefLabel "Microsoft"@pl ;
+	schema:name "Microsoft"@pl ;
+	rdfs:label "Microsoft"@pms ;
+	skos:prefLabel "Microsoft"@pms ;
+	schema:name "Microsoft"@pms ;
+	rdfs:label "مائیکروسوفٹ"@pnb ;
+	skos:prefLabel "مائیکروسوفٹ"@pnb ;
+	schema:name "مائیکروسوفٹ"@pnb ;
+	rdfs:label "مايکروسافټ"@ps ;
+	skos:prefLabel "مايکروسافټ"@ps ;
+	schema:name "مايکروسافټ"@ps ;
+	rdfs:label "Microsoft"@pt ;
+	skos:prefLabel "Microsoft"@pt ;
+	schema:name "Microsoft"@pt ;
+	rdfs:label "Microsoft"@pt-br ;
+	skos:prefLabel "Microsoft"@pt-br ;
+	schema:name "Microsoft"@pt-br ;
+	rdfs:label "Microsoft"@qu ;
+	skos:prefLabel "Microsoft"@qu ;
+	schema:name "Microsoft"@qu ;
+	rdfs:label "Microsoft"@ro ;
+	skos:prefLabel "Microsoft"@ro ;
+	schema:name "Microsoft"@ro ;
+	rdfs:label "Microsoft"@ru ;
+	skos:prefLabel "Microsoft"@ru ;
+	schema:name "Microsoft"@ru ;
+	rdfs:label "Microsoft"@sah ;
+	skos:prefLabel "Microsoft"@sah ;
+	schema:name "Microsoft"@sah ;
+	rdfs:label "Microsoft"@scn ;
+	skos:prefLabel "Microsoft"@scn ;
+	schema:name "Microsoft"@scn ;
+	rdfs:label "Microsoft"@sh ;
+	skos:prefLabel "Microsoft"@sh ;
+	schema:name "Microsoft"@sh ;
+	rdfs:label "මයික්‍රොසොෆ්ට්"@si ;
+	skos:prefLabel "මයික්‍රොසොෆ්ට්"@si ;
+	schema:name "මයික්‍රොසොෆ්ට්"@si ;
+	rdfs:label "Microsoft"@sk ;
+	skos:prefLabel "Microsoft"@sk ;
+	schema:name "Microsoft"@sk ;
+	rdfs:label "Microsoft"@sl ;
+	skos:prefLabel "Microsoft"@sl ;
+	schema:name "Microsoft"@sl ;
+	rdfs:label "Microsoft"@so ;
+	skos:prefLabel "Microsoft"@so ;
+	schema:name "Microsoft"@so ;
+	rdfs:label "Microsoft"@sq ;
+	skos:prefLabel "Microsoft"@sq ;
+	schema:name "Microsoft"@sq ;
+	rdfs:label "Мајкрософт"@sr ;
+	skos:prefLabel "Мајкрософт"@sr ;
+	schema:name "Мајкрософт"@sr ;
+	rdfs:label "Microsoft"@sv ;
+	skos:prefLabel "Microsoft"@sv ;
+	schema:name "Microsoft"@sv ;
+	rdfs:label "Microsoft"@sw ;
+	skos:prefLabel "Microsoft"@sw ;
+	schema:name "Microsoft"@sw ;
+	rdfs:label "Microsoft"@szl ;
+	skos:prefLabel "Microsoft"@szl ;
+	schema:name "Microsoft"@szl ;
+	rdfs:label "மைக்ரோசாப்ட்"@ta ;
+	skos:prefLabel "மைக்ரோசாப்ட்"@ta ;
+	schema:name "மைக்ரோசாப்ட்"@ta ;
+	rdfs:label "మైక్రోసాఫ్ట్"@te ;
+	skos:prefLabel "మైక్రోసాఫ్ట్"@te ;
+	schema:name "మైక్రోసాఫ్ట్"@te ;
+	rdfs:label "Microsoft"@tg ;
+	skos:prefLabel "Microsoft"@tg ;
+	schema:name "Microsoft"@tg ;
+	rdfs:label "ไมโครซอฟท์"@th ;
+	skos:prefLabel "ไมโครซอฟท์"@th ;
+	schema:name "ไมโครซอฟท์"@th ;
+	rdfs:label "Microsoft"@tk ;
+	skos:prefLabel "Microsoft"@tk ;
+	schema:name "Microsoft"@tk ;
+	rdfs:label "Microsoft"@tl ;
+	skos:prefLabel "Microsoft"@tl ;
+	schema:name "Microsoft"@tl ;
+	rdfs:label "Microsoft"@tr ;
+	skos:prefLabel "Microsoft"@tr ;
+	schema:name "Microsoft"@tr ;
+	rdfs:label "Microsoft"@tt ;
+	skos:prefLabel "Microsoft"@tt ;
+	schema:name "Microsoft"@tt ;
+	rdfs:label "مىكروسوفىت شىركىتى"@ug ;
+	skos:prefLabel "مىكروسوفىت شىركىتى"@ug ;
+	schema:name "مىكروسوفىت شىركىتى"@ug ;
+	rdfs:label "Microsoft"@uk ;
+	skos:prefLabel "Microsoft"@uk ;
+	schema:name "Microsoft"@uk ;
+	rdfs:label "مائیکروسافٹ"@ur ;
+	skos:prefLabel "مائیکروسافٹ"@ur ;
+	schema:name "مائیکروسافٹ"@ur ;
+	rdfs:label "Microsoft"@uz ;
+	skos:prefLabel "Microsoft"@uz ;
+	schema:name "Microsoft"@uz ;
+	rdfs:label "Microsoft Corporation"@vec ;
+	skos:prefLabel "Microsoft Corporation"@vec ;
+	schema:name "Microsoft Corporation"@vec ;
+	rdfs:label "Microsoft"@vi ;
+	skos:prefLabel "Microsoft"@vi ;
+	schema:name "Microsoft"@vi ;
+	rdfs:label "Microsoft"@wa ;
+	skos:prefLabel "Microsoft"@wa ;
+	schema:name "Microsoft"@wa ;
+	rdfs:label "Microsoft"@war ;
+	skos:prefLabel "Microsoft"@war ;
+	schema:name "Microsoft"@war ;
+	rdfs:label "微软公司"@wuu ;
+	skos:prefLabel "微软公司"@wuu ;
+	schema:name "微软公司"@wuu ;
+	rdfs:label "מייקראסאפט"@yi ;
+	skos:prefLabel "מייקראסאפט"@yi ;
+	schema:name "מייקראסאפט"@yi ;
+	rdfs:label "Microsoft"@yo ;
+	skos:prefLabel "Microsoft"@yo ;
+	schema:name "Microsoft"@yo ;
+	rdfs:label "微软"@zh ;
+	skos:prefLabel "微软"@zh ;
+	schema:name "微软"@zh ;
+	rdfs:label "微軟"@yue ;
+	skos:prefLabel "微軟"@yue ;
+	schema:name "微軟"@yue ;
+	rdfs:label "މައިކްރޯސޮފްޓް"@dv ;
+	skos:prefLabel "މައިކްރޯސޮފްޓް"@dv ;
+	schema:name "މައިކްރޯސޮފްޓް"@dv ;
+	rdfs:label "माइक्रोसाफ्ट्"@sa ;
+	skos:prefLabel "माइक्रोसाफ्ट्"@sa ;
+	schema:name "माइक्रोसाफ्ट्"@sa ;
+	rdfs:label "ಮೈಕ್ರೋಸಾಫ್ಟ್"@kn ;
+	skos:prefLabel "ಮೈಕ್ರೋಸಾಫ್ಟ್"@kn ;
+	schema:name "ಮೈಕ್ರೋಸಾಫ್ಟ್"@kn ;
+	rdfs:label "微软"@zh-hans ;
+	skos:prefLabel "微软"@zh-hans ;
+	schema:name "微软"@zh-hans ;
+	rdfs:label "微軟"@zh-hant ;
+	skos:prefLabel "微軟"@zh-hant ;
+	schema:name "微軟"@zh-hant ;
+	rdfs:label "Microsoft"@ki ;
+	skos:prefLabel "Microsoft"@ki ;
+	schema:name "Microsoft"@ki ;
+	rdfs:label "માઇક્રોસોફ્ટ"@gu ;
+	skos:prefLabel "માઇક્રોસોફ્ટ"@gu ;
+	schema:name "માઇક્રોસોફ્ટ"@gu ;
+	rdfs:label "Microsoft"@be-tarask ;
+	skos:prefLabel "Microsoft"@be-tarask ;
+	schema:name "Microsoft"@be-tarask ;
+	rdfs:label "Microsoft"@sco ;
+	skos:prefLabel "Microsoft"@sco ;
+	schema:name "Microsoft"@sco ;
+	rdfs:label "微软"@zh-cn ;
+	skos:prefLabel "微软"@zh-cn ;
+	schema:name "微软"@zh-cn ;
+	rdfs:label "微軟"@zh-hk ;
+	skos:prefLabel "微軟"@zh-hk ;
+	schema:name "微軟"@zh-hk ;
+	rdfs:label "Microsoft"@nan ;
+	skos:prefLabel "Microsoft"@nan ;
+	schema:name "Microsoft"@nan ;
+	rdfs:label "Microsoft"@vro ;
+	skos:prefLabel "Microsoft"@vro ;
+	schema:name "Microsoft"@vro ;
+	rdfs:label "微軟"@cdo ;
+	skos:prefLabel "微軟"@cdo ;
+	schema:name "微軟"@cdo ;
+	rdfs:label "Microsoft"@ln ;
+	skos:prefLabel "Microsoft"@ln ;
+	schema:name "Microsoft"@ln ;
+	rdfs:label "ໄມໂຄຼຊອຟທ໌"@lo ;
+	skos:prefLabel "ໄມໂຄຼຊອຟທ໌"@lo ;
+	schema:name "ໄມໂຄຼຊອຟທ໌"@lo ;
+	rdfs:label "Microsoft"@su ;
+	skos:prefLabel "Microsoft"@su ;
+	schema:name "Microsoft"@su ;
+	rdfs:label "微軟"@zh-tw ;
+	skos:prefLabel "微軟"@zh-tw ;
+	schema:name "微軟"@zh-tw ;
+	rdfs:label "微軟"@lzh ;
+	skos:prefLabel "微軟"@lzh ;
+	schema:name "微軟"@lzh ;
+	schema:description "American multinational technology corporation"@en,
+		"programvareselskap i USA"@nb,
+		"US-amerikanisches Technikunternehmen"@de,
+		"multinacional tecnológica estadounidense"@es,
+		"azienda informatica"@it,
+		"multinationale informatique américaine"@fr,
+		"empresa multinacional americana"@pt,
+		"американская компания, крупнейший разработчик программного обеспечения"@ru,
+		"Amerikaans technologiebedrijf"@nl,
+		"美国跨国计算机科技公司"@zh-hans,
+		"Americká softwarová a hardwarová společnost, nejvíc známá díky operačnímu systému Windows"@cs,
+		"美国跨国计算机科技公司"@zh-cn,
+		"美国跨国计算机科技公司"@zh,
+		"美國跨國電腦科技公司"@zh-hk,
+		"美國跨國電腦科技公司"@zh-hant,
+		"美國跨國電腦科技公司"@zh-tw,
+		"Yhdysvaltalainen teknologiayritys"@fi,
+		"americká spoločnosť"@sk,
+		"MICROSOFT"@el,
+		"アメリカのコンピュータ・ソフトウェア会社"@ja,
+		"usona komputika kompanio"@eo ;
+	skos:altLabel "MS"@nb,
+		"Microsoft Corporation"@nb,
+		"MS"@de,
+		"Microsoft Corporation"@en,
+		"Micro-Soft"@en,
+		"MS"@en,
+		"MSFT"@en,
+		"Microsoft Corporation"@pt-br,
+		"Microsoft Corporation"@pt,
+		"Microsoft"@hu ;
+	wdt:P1448 "Microsoft Corporation"@en ;
+	wdt:P1297 "91-1144442" ;
+	wdt:P1278 "INR2EJN1ERAN0W5ZP974" ;
+	wdt:P1151 wd:Q7851739 ;
+	wdt:P946 "US5949181045" ;
+	wdt:P112 wd:Q5284,
+		wd:Q162005 ;
+	wdt:P17 wd:Q30 ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P159 wd:Q6331329 ;
+	wdt:P373 "Microsoft" ;
+	wdt:P214 "148809628" ;
+	wdt:P268 "120673486" ;
+	wdt:P269 "030109434" ;
+	wdt:P244 "n86810571" ;
+	wdt:P213 "0000 0001 2181 3404" ;
+	wdt:P414 wd:Q82059 ;
+	wdt:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Microsoft%20logo%20%281982%29.svg> ;
+	wdt:P169 wd:Q7426870 ;
+	wdt:P488 wd:Q5284 ;
+	wdt:P571 "1975-04-04T00:00:00Z"^^xsd:dateTime ;
+	wdt:P856 <https://www.microsoft.com> ;
+	wdt:P910 wd:Q4515426 ;
+	wdt:P227 "5003949-0" ;
+	wdt:P355 wd:Q16538568,
+		wd:Q246125 ;
+	wdt:P906 "347184" ;
+	wdt:P349 "00322150" ;
+	wdt:P950 "XX121178" ;
+	wdt:P646 "/m/04sv4" ;
+	wdt:P1128 "+127104"^^xsd:decimal ;
+	wdt:P1343 wd:Q17311605,
+		wd:Q17290934 ;
+	wdt:P245 "500333090" ;
+	wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Microsoft%20building%2017%20front%20door.jpg> ;
+	wdt:P553 wd:Q364 ;
+	p:P1448 wds:Q2283-00226bad-41a3-c232-1547-702f9f4b1b6a .
+
+wds:Q2283-00226bad-41a3-c232-1547-702f9f4b1b6a a wikibase:Statement ;
+	ps:P1448 "Microsoft Corporation"@en ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P1297 wds:Q2283-a5582358-4fa7-8d0c-0b60-16b48960b3b4 .
+
+wds:Q2283-a5582358-4fa7-8d0c-0b60-16b48960b3b4 a wikibase:Statement ;
+	ps:P1297 "91-1144442" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P1278 wds:Q2283-950417fd-43dc-2df0-5b4a-4733c5a99406 .
+
+wds:Q2283-950417fd-43dc-2df0-5b4a-4733c5a99406 a wikibase:Statement ;
+	ps:P1278 "INR2EJN1ERAN0W5ZP974" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P1151 wds:Q2283-cdcc05c2-4e7a-672d-a217-0cd489013035 .
+
+wds:Q2283-cdcc05c2-4e7a-672d-a217-0cd489013035 a wikibase:Statement ;
+	ps:P1151 wd:Q7851739 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P946 wds:Q2283-0dabea45-4b1b-fb5e-dd67-027cbc877a61 .
+
+wds:Q2283-0dabea45-4b1b-fb5e-dd67-027cbc877a61 a wikibase:Statement ;
+	ps:P946 "US5949181045" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q2283 p:P112 wds:q2283-4EC8C5DB-1E06-4540-996B-A1886577C59B .
+
+wds:q2283-4EC8C5DB-1E06-4540-996B-A1886577C59B a wikibase:Statement ;
+	ps:P112 wd:Q5284 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P112 wds:q2283-EA2F3CD6-41B8-413F-B7B3-6BE571B63EE1 .
+
+wds:q2283-EA2F3CD6-41B8-413F-B7B3-6BE571B63EE1 a wikibase:Statement ;
+	ps:P112 wd:Q162005 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P17 wds:q2283-8C7D81B4-1432-4A06-810C-85BDFF3126CB .
+
+wds:q2283-8C7D81B4-1432-4A06-810C-85BDFF3126CB a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P31 wds:q2283-A2F00BAE-F82B-49CF-A478-ED935B137053 .
+
+wds:q2283-A2F00BAE-F82B-49CF-A478-ED935B137053 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P159 wds:q2283-CD965C1A-4A65-487E-8848-EDED5B5E08E7 .
+
+wds:q2283-CD965C1A-4A65-487E-8848-EDED5B5E08E7 a wikibase:Statement ;
+	ps:P159 wd:Q6331329 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(47.63861 -122.12861)"^^geo:wktLiteral ;
+	pqv:P625 wdv:b6743d55448a98154a123a4bb96eb79b .
+
+wd:Q2283 p:P373 wds:q2283-F3AFFD2F-3193-4906-9B50-7AFEA869F2F9 .
+
+wds:q2283-F3AFFD2F-3193-4906-9B50-7AFEA869F2F9 a wikibase:Statement ;
+	ps:P373 "Microsoft" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P214 wds:q2283-EB004742-E675-4DF4-9486-BF354F7A47B9 .
+
+wds:q2283-EB004742-E675-4DF4-9486-BF354F7A47B9 a wikibase:Statement ;
+	ps:P214 "148809628" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69,
+		wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q2283 p:P268 wds:q2283-D4A85C48-9F81-48DE-BE02-5A2D0F0C0015 .
+
+wds:q2283-D4A85C48-9F81-48DE-BE02-5A2D0F0C0015 a wikibase:Statement ;
+	ps:P268 "120673486" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q2283 p:P269 wds:q2283-28C659A1-9A4E-45C6-A12D-F16E6862927C .
+
+wds:q2283-28C659A1-9A4E-45C6-A12D-F16E6862927C a wikibase:Statement ;
+	ps:P269 "030109434" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q2283 p:P244 wds:q2283-811504F8-F259-491C-A68F-A7F3335189BD .
+
+wds:q2283-811504F8-F259-491C-A68F-A7F3335189BD a wikibase:Statement ;
+	ps:P244 "n86810571" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q2283 p:P213 wds:q2283-9AB375B9-D30F-4685-8609-C8563C2EEAAE .
+
+wds:q2283-9AB375B9-D30F-4685-8609-C8563C2EEAAE a wikibase:Statement ;
+	ps:P213 "0000 0001 2181 3404" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:500bf0768a4645f1e00ad451f904d3a010fa43ae .
+
+wd:Q2283 p:P414 wds:q2283-2602c62b-45fb-2bf6-6e25-dd208aecb163 .
+
+wds:q2283-2602c62b-45fb-2bf6-6e25-dd208aecb163 a wikibase:Statement ;
+	ps:P414 wd:Q82059 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "MSFT" .
+
+wd:Q2283 p:P154 wds:q2283-93d4fa34-4e49-3750-71aa-2fde2b781436 .
+
+wds:q2283-93d4fa34-4e49-3750-71aa-2fde2b781436 a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Microsoft%20logo%20%282012%29.svg> ;
+	wikibase:rank wikibase:DeprecatedRank ;
+	pq:P580 "2012-08-24T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:eeb206de9310a822d75b3a54a439198d ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b,
+		wdref:974ac05f30fb7cf19a7ee47bc4b061bd7b52bb54 .
+
+wd:Q2283 p:P154 wds:q2283-1499ae82-438b-ae39-2ea6-81ae1f95b583 .
+
+wds:q2283-1499ae82-438b-ae39-2ea6-81ae1f95b583 a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Microsoft%20logo%20%281987%29%20%2B%20slogan%20%281994%29.svg> ;
+	wikibase:rank wikibase:DeprecatedRank ;
+	pq:P580 "1987-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:6dccefc30329336631fc882f30122e1b ;
+	pq:P582 "2006-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:7dd12dc57400f2b2445ce9d0cb9a33f9 ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q2283 p:P154 wds:q2283-efc4586a-47cf-e408-428d-e6bd4b5ddd42 .
+
+wds:q2283-efc4586a-47cf-e408-428d-e6bd4b5ddd42 a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Microsoft%20logo%20%281987%29%20%2B%20slogan%20%282006%29.svg> ;
+	wikibase:rank wikibase:NormalRank ;
+	pq:P580 "2006-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:7dd12dc57400f2b2445ce9d0cb9a33f9 ;
+	pq:P582 "2011-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:dafb9cf711b15afe91ec0aa7158e57a6 ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q2283 p:P154 wds:q2283-889ddb41-426f-570b-b4ec-72fb244bc6f2 .
+
+wds:q2283-889ddb41-426f-570b-b4ec-72fb244bc6f2 a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Microsoft%20logo%20%281987%29%20%2B%20slogan%20%282011%29%20horizontal.png> ;
+	wikibase:rank wikibase:NormalRank ;
+	pq:P580 "2011-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:dafb9cf711b15afe91ec0aa7158e57a6 ;
+	pq:P582 "2012-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:bac6eb51cc0ffa931059db82b8dccc6b ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q2283 p:P154 wds:q2283-411f8379-4f1a-d493-7996-d99a2a0bbdbf .
+
+wds:q2283-411f8379-4f1a-d493-7996-d99a2a0bbdbf a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Microsoft%20logo%20%281982%29.svg> ;
+	wikibase:rank wikibase:PreferredRank,
+		wikibase:BestRank ;
+	pq:P580 "1982-08-26T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:f58974596592b6204acff39135be9c32 ;
+	pq:P582 "1987-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:7f49e2a32a9edc46cf5a8602a5d640c2 ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q2283 p:P154 wds:q2283-d57f9932-4083-ecc5-9beb-b59aff5fc261 .
+
+wds:q2283-d57f9932-4083-ecc5-9beb-b59aff5fc261 a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Microsoft1978.svg> ;
+	wikibase:rank wikibase:NormalRank ;
+	pq:P585 "1978-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P585 wdv:f7fac8b4b52a719d597b8b12d67e7ba5 ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q2283 p:P169 wds:q2283-022683A3-3C93-4F23-998A-699EF27B173E .
+
+wds:q2283-022683A3-3C93-4F23-998A-699EF27B173E a wikibase:Statement ;
+	ps:P169 wd:Q181162 ;
+	wikibase:rank wikibase:NormalRank ;
+	pq:P580 "2000-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:23876297dbcb491380c182a907ab8974 ;
+	pq:P582 "2014-02-04T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:d1a6801863a173af08933db8d0327365 ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q2283 p:P169 wds:Q2283-f994314e-4727-222c-c9ae-4404274f1c9b .
+
+wds:Q2283-f994314e-4727-222c-c9ae-4404274f1c9b a wikibase:Statement ;
+	ps:P169 wd:Q7426870 ;
+	wikibase:rank wikibase:PreferredRank,
+		wikibase:BestRank ;
+	pq:P580 "2014-02-04T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:d1a6801863a173af08933db8d0327365 .
+
+wd:Q2283 p:P488 wds:q2283-e9b74c9d-4bd8-ee88-46fe-370f2b555b1e .
+
+wds:q2283-e9b74c9d-4bd8-ee88-46fe-370f2b555b1e a wikibase:Statement ;
+	ps:P488 wd:Q5284 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P571 wds:q2283-5bcab6d5-452b-5f0b-c38c-5e90bb183e7a .
+
+wds:q2283-5bcab6d5-452b-5f0b-c38c-5e90bb183e7a a wikibase:Statement ;
+	ps:P571 "1975-04-04T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:a53758a1e0a5b16d705ba50ecdc14624 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P856 wds:Q2283-50dd9437-4895-4a60-ddc7-39c713d7e944 .
+
+wds:Q2283-50dd9437-4895-4a60-ddc7-39c713d7e944 a wikibase:Statement ;
+	ps:P856 <https://www.microsoft.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P910 wds:Q2283-C463E15C-673D-4200-8AF6-DBC8EFFE942F .
+
+wds:Q2283-C463E15C-673D-4200-8AF6-DBC8EFFE942F a wikibase:Statement ;
+	ps:P910 wd:Q4515426 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P227 wds:Q2283-8815F39C-1AB5-4ED5-971E-C4C963EDEF7A .
+
+wds:Q2283-8815F39C-1AB5-4ED5-971E-C4C963EDEF7A a wikibase:Statement ;
+	ps:P227 "5003949-0" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q2283 p:P355 wds:Q2283-00c3c246-4be2-0153-2641-a885aec80040 .
+
+wds:Q2283-00c3c246-4be2-0153-2641-a885aec80040 a wikibase:Statement ;
+	ps:P355 wd:Q16538568 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P355 wds:Q2283-d0763f0e-40ea-4939-6048-dd0d59080842 .
+
+wds:Q2283-d0763f0e-40ea-4939-6048-dd0d59080842 a wikibase:Statement ;
+	ps:P355 wd:Q246125 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P906 wds:Q2283-711cef73-4c99-84c9-bbb5-da190cfc7d89 .
+
+wds:Q2283-711cef73-4c99-84c9-bbb5-da190cfc7d89 a wikibase:Statement ;
+	ps:P906 "347184" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P349 wds:Q2283-41af3d7b-45d6-d804-d2a8-ec11dfe4bd15 .
+
+wds:Q2283-41af3d7b-45d6-d804-d2a8-ec11dfe4bd15 a wikibase:Statement ;
+	ps:P349 "00322150" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P950 wds:Q2283-4e69cfaf-4016-ac2a-d390-6c0c1bd85d6f .
+
+wds:Q2283-4e69cfaf-4016-ac2a-d390-6c0c1bd85d6f a wikibase:Statement ;
+	ps:P950 "XX121178" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P646 wds:Q2283-9FFB9F53-41A7-4F5F-B8D1-2576E8704598 .
+
+wds:Q2283-9FFB9F53-41A7-4F5F-B8D1-2576E8704598 a wikibase:Statement ;
+	ps:P646 "/m/04sv4" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q2283 p:P1128 wds:Q2283-71c33fa9-41dc-dee1-e28c-e930ea5a031e .
+
+wds:Q2283-71c33fa9-41dc-dee1-e28c-e930ea5a031e a wikibase:Statement ;
+	ps:P1128 "+127104"^^xsd:decimal ;
+	psv:P1128 wdv:011f55e1bde50424115b4dd82cc1b327 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P585 "2014-06-05T00:00:00Z"^^xsd:dateTime ;
+	pqv:P585 wdv:084a58797d26668931095983c1ebdb58 ;
+	prov:wasDerivedFrom wdref:834a91981b85e589b45061f5e2f854ddc833f641 .
+
+wd:Q2283 p:P1343 wds:Q2283-B0420603-3D45-4999-B088-ADFC8E81B2BB .
+
+wds:Q2283-B0420603-3D45-4999-B088-ADFC8E81B2BB a wikibase:Statement ;
+	ps:P1343 wd:Q17311605 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P248 wd:Q17315778 ;
+	pq:P1476 "Microsoft"@ru .
+
+wd:Q2283 p:P1343 wds:Q2283-5F033122-EB67-4753-B427-E9910A82E286 .
+
+wds:Q2283-5F033122-EB67-4753-B427-E9910A82E286 a wikibase:Statement ;
+	ps:P1343 wd:Q17290934 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P248 wd:Q17315779 ;
+	pq:P1476 "Microsoft"@ru .
+
+wd:Q2283 p:P245 wds:Q2283-597212A0-DE23-4149-8187-7EE985AABA85 .
+
+wds:Q2283-597212A0-DE23-4149-8187-7EE985AABA85 a wikibase:Statement ;
+	ps:P245 "500333090" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:856765e078638abf6f51bb7200ac0ffb3b260f9b .
+
+wd:Q2283 p:P18 wds:Q2283-F2166FE9-CC38-401D-B33A-47CD7F7FDAE6 .
+
+wds:Q2283-F2166FE9-CC38-401D-B33A-47CD7F7FDAE6 a wikibase:Statement ;
+	ps:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Microsoft%20building%2017%20front%20door.jpg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q2283 p:P553 wds:Q2283-74794336-4c53-0d8f-23b6-1fef1c85a7ef .
+
+wds:Q2283-74794336-4c53-0d8f-23b6-1fef1c85a7ef a wikibase:Statement ;
+	ps:P553 wd:Q364 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P554 "Microsoft" .
+
+<https://en.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "en" .
+
+<https://af.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "af" .
+
+<https://als.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "als" .
+
+<https://am.wikipedia.org/wiki/%E1%88%9B%E1%8B%AD%E1%8A%AD%E1%88%AE%E1%88%B6%E1%8D%8D%E1%89%B5> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "am" .
+
+<https://ang.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ang" .
+
+<https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D9%8A%D9%83%D8%B1%D9%88%D8%B3%D9%88%D9%81%D8%AA> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ar" .
+
+<https://ast.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ast" .
+
+<https://az.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "az" .
+
+<https://bar.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "bar" .
+
+<https://be.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "be" .
+
+<https://bg.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B9%D0%BA%D1%80%D0%BE%D1%81%D0%BE%D1%84%D1%82> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "bg" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%AE%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%B8%E0%A6%AB%E0%A6%9F%20%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "bn" .
+
+<https://br.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "br" .
+
+<https://bs.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "bs" .
+
+<https://ca.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ca" .
+
+<https://ckb.wikipedia.org/wiki/%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%DB%86%D8%B3%DB%86%D9%81%D8%AA> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ckb" .
+
+<https://cs.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "cs" .
+
+<https://cy.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "cy" .
+
+<https://da.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "da" .
+
+<https://de.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "de" .
+
+<https://el.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "el" .
+
+<https://eo.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "eo" .
+
+<https://es.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "es" .
+
+<https://et.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "et" .
+
+<https://eu.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "eu" .
+
+<https://fa.wikipedia.org/wiki/%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D8%B3%D8%A7%D9%81%D8%AA> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "fa" .
+
+<https://fi.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "fi" .
+
+<https://fiu-vro.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "fiu-vro" .
+
+<https://fr.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "fr" .
+
+<https://fy.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "fy" .
+
+<https://ga.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ga" .
+
+<https://gan.wikipedia.org/wiki/%E5%BE%AE%E8%BB%9F> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "gan" .
+
+<https://hak.wikipedia.org/wiki/M%C3%AC-ngi%C3%B4n%20K%C3%BBng-s%E1%B9%B3%CC%82> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "hak" .
+
+<https://he.wikipedia.org/wiki/%D7%9E%D7%99%D7%A7%D7%A8%D7%95%D7%A1%D7%95%D7%A4%D7%98> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "he" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%B8%E0%A5%89%E0%A4%AB%E0%A4%BC%E0%A5%8D%E0%A4%9F> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "hi" .
+
+<https://hr.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "hr" .
+
+<https://ht.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ht" .
+
+<https://hu.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "hu" .
+
+<https://hy.wikipedia.org/wiki/%D5%84%D5%A1%D5%B5%D6%84%D6%80%D5%B8%D5%BD%D5%B8%D6%86%D5%A9> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "hy" .
+
+<https://ia.wikipedia.org/wiki/Microsoft%20Corporation> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ia" .
+
+<https://id.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "id" .
+
+<https://ilo.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ilo" .
+
+<https://is.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "is" .
+
+<https://it.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "it" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ja" .
+
+<https://jbo.wikipedia.org/wiki/maikrosaft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "jbo" .
+
+<https://jv.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "jv" .
+
+<https://ka.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ka" .
+
+<https://kaa.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "kaa" .
+
+<https://kk.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "kk" .
+
+<https://km.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "km" .
+
+<https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ko" .
+
+<https://ku.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ku" .
+
+<https://ky.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ky" .
+
+<https://la.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "la" .
+
+<https://lt.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "lt" .
+
+<https://lv.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "lv" .
+
+<https://map-bms.wikipedia.org/wiki/Microsoft%20Corporation> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "map-bms" .
+
+<https://mk.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "mk" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%AE%E0%B5%88%E0%B4%95%E0%B5%8D%E0%B4%B0%E0%B5%8B%E0%B4%B8%E0%B5%8B%E0%B4%AB%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ml" .
+
+<https://mn.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "mn" .
+
+<https://mr.wikipedia.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%B8%E0%A5%89%E0%A4%AB%E0%A5%8D%E0%A4%9F%20%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A4%A8> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "mr" .
+
+<https://ms.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ms" .
+
+<https://mt.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "mt" .
+
+<https://my.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%AF%E1%80%80%E1%80%BA%E1%80%81%E1%80%9B%E1%80%AD%E1%80%AF%E1%80%86%E1%80%B1%E1%80%AC%E1%80%B7%E1%80%96%E1%80%BA> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "my" .
+
+<https://na.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "na" .
+
+<https://nds.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "nds" .
+
+<https://ne.wikipedia.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%B8%E0%A4%AB%E0%A5%8D%E0%A4%9F> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ne" .
+
+<https://nl.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "nl" .
+
+<https://nn.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "nn" .
+
+<https://no.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "no" .
+
+<https://oc.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "oc" .
+
+<https://or.wikipedia.org/wiki/%E0%AC%AE%E0%AC%BE%E0%AC%87%E0%AC%95%E0%AD%8D%E0%AC%B0%E0%AD%8B%E0%AC%B8%E0%AC%AB%E0%AD%8D%E0%AC%9F> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "or" .
+
+<https://pl.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "pl" .
+
+<https://pms.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "pms" .
+
+<https://pnb.wikipedia.org/wiki/%D9%85%D8%A7%D8%A6%DB%8C%DA%A9%D8%B1%D9%88%D8%B3%D9%88%D9%81%D9%B9> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "pnb" .
+
+<https://ps.wikipedia.org/wiki/%D9%85%D8%A7%D9%8A%DA%A9%D8%B1%D9%88%D8%B3%D8%A7%D9%81%D9%BC> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ps" .
+
+<https://pt.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "pt" .
+
+<https://qu.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "qu" .
+
+<https://ro.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ro" .
+
+<https://ru.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ru" .
+
+<https://sah.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "sah" .
+
+<https://scn.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "scn" .
+
+<https://sh.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "sh" .
+
+<https://si.wikipedia.org/wiki/%E0%B6%B8%E0%B6%BA%E0%B7%92%E0%B6%9A%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%9C%E0%B7%83%E0%B7%9C%E0%B7%86%E0%B7%8A%E0%B6%A7%E0%B7%8A> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "si" .
+
+<https://simple.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "simple" .
+
+<https://sk.wikipedia.org/wiki/Microsoft%20Corporation> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "sk" .
+
+<https://sl.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "sl" .
+
+<https://so.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "so" .
+
+<https://sq.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "sq" .
+
+<https://sr.wikipedia.org/wiki/%D0%9C%D0%B0%D1%98%D0%BA%D1%80%D0%BE%D1%81%D0%BE%D1%84%D1%82> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "sr" .
+
+<https://sv.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "sv" .
+
+<https://szl.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "szl" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%B0%E0%AF%8B%E0%AE%9A%E0%AE%BE%E0%AE%AA%E0%AF%8D%E0%AE%9F%E0%AF%8D> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ta" .
+
+<https://te.wikipedia.org/wiki/%E0%B0%AE%E0%B1%88%E0%B0%95%E0%B1%8D%E0%B0%B0%E0%B1%8B%E0%B0%B8%E0%B0%BE%E0%B0%AB%E0%B1%8D%E0%B0%9F%E0%B1%8D> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "te" .
+
+<https://tg.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "tg" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%8B%E0%B8%AD%E0%B8%9F%E0%B8%97%E0%B9%8C> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "th" .
+
+<https://tl.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "tl" .
+
+<https://tr.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "tr" .
+
+<https://tt.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "tt" .
+
+<https://ug.wikipedia.org/wiki/%D9%85%D9%89%D9%83%D8%B1%D9%88%D8%B3%D9%88%D9%81%D9%89%D8%AA%20%D8%B4%D9%89%D8%B1%D9%83%D9%89%D8%AA%D9%89> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ug" .
+
+<https://uk.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "uk" .
+
+<https://ur.wikipedia.org/wiki/%D9%85%D8%A7%D8%A6%DB%8C%DA%A9%D8%B1%D9%88%D8%B3%D8%A7%D9%81%D9%B9> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ur" .
+
+<https://uz.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "uz" .
+
+<https://vec.wikipedia.org/wiki/Microsoft%20Corporation> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "vec" .
+
+<https://vi.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "vi" .
+
+<https://wa.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "wa" .
+
+<https://war.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "war" .
+
+<https://wuu.wikipedia.org/wiki/%E5%BE%AE%E8%BD%AF%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "wuu" .
+
+<https://yi.wikipedia.org/wiki/%D7%9E%D7%99%D7%99%D7%A7%D7%A8%D7%90%D7%A1%D7%90%D7%A4%D7%98> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "yi" .
+
+<https://yo.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "yo" .
+
+<https://zh.wikipedia.org/wiki/%E5%BE%AE%E8%BD%AF> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "zh" .
+
+<https://zh-yue.wikipedia.org/wiki/%E5%BE%AE%E8%BB%9F> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "zh-yue" .
+
+<https://zh-min-nan.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "zh-min-nan" .
+
+<https://be-x-old.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "be-x-old" .
+
+<https://dv.wikipedia.org/wiki/%DE%89%DE%A6%DE%87%DE%A8%DE%86%DE%B0%DE%83%DE%AF%DE%90%DE%AE%DE%8A%DE%B0%DE%93%DE%B0> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "dv" .
+
+<https://sa.wikipedia.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%B8%E0%A4%BE%E0%A4%AB%E0%A5%8D%E0%A4%9F%E0%A5%8D> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "sa" .
+
+<https://kn.wikipedia.org/wiki/%E0%B2%AE%E0%B3%88%E0%B2%95%E0%B3%8D%E0%B2%B0%E0%B3%8B%E0%B2%B8%E0%B2%BE%E0%B2%AB%E0%B3%8D%E0%B2%9F%E0%B3%8D> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "kn" .
+
+<https://ki.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ki" .
+
+<https://gu.wikipedia.org/wiki/%E0%AA%AE%E0%AA%BE%E0%AA%87%E0%AA%95%E0%AB%8D%E0%AA%B0%E0%AB%8B%E0%AA%B8%E0%AB%8B%E0%AA%AB%E0%AB%8D%E0%AA%9F> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "gu" .
+
+<https://sco.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "sco" .
+
+<https://commons.wikimedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "en" .
+
+<https://ln.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ln" .
+
+<https://fr.wikiquote.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "fr" .
+
+<https://pt.wikiquote.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "pt" .
+
+<https://bg.wikiquote.org/wiki/%D0%9C%D0%B0%D0%B9%D0%BA%D1%80%D0%BE%D1%81%D0%BE%D1%84%D1%82> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "bg" .
+
+<https://de.wikiquote.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "de" .
+
+<https://en.wikiquote.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "en" .
+
+<https://pl.wikiquote.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "pl" .
+
+<https://lo.wikipedia.org/wiki/%E0%BB%84%E0%BA%A1%E0%BB%82%E0%BA%84%E0%BA%BC%E0%BA%8A%E0%BA%AD%E0%BA%9F%E0%BA%97%E0%BB%8C> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "lo" .
+
+<https://su.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "su" .
+
+<https://zh-classical.wikipedia.org/wiki/%E5%BE%AE%E8%BB%9F> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "zh-classical" .
+
+<https://bg.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3AMicrosoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "bg" .
+
+<https://ca.wikinews.org/wiki/Categoria%3AMicrosoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ca" .
+
+<https://de.wikinews.org/wiki/Kategorie%3AMicrosoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "de" .
+
+<https://en.wikinews.org/wiki/Category%3AMicrosoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "en" .
+
+<https://eo.wikinews.org/wiki/Kategorio%3AMikrosofto> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "eo" .
+
+<https://es.wikinews.org/wiki/Categor%C3%ADa%3AMicrosoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "es" .
+
+<https://fa.wikinews.org/wiki/%D8%B1%D8%AF%D9%87%3A%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D8%B3%D8%A7%D9%81%D8%AA> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "fa" .
+
+<https://fr.wikinews.org/wiki/Cat%C3%A9gorie%3AMicrosoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "fr" .
+
+<https://hu.wikinews.org/wiki/Kateg%C3%B3ria%3AMicrosoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "hu" .
+
+<https://it.wikinews.org/wiki/Categoria%3AMicrosoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "it" .
+
+<https://pl.wikinews.org/wiki/Kategoria%3AMicrosoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "pl" .
+
+<https://pt.wikinews.org/wiki/Categoria%3AMicrosoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "pt" .
+
+<https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3AMicrosoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "ru" .
+
+<https://sv.wikinews.org/wiki/Kategori%3AMicrosoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "sv" .
+
+<https://tr.wikinews.org/wiki/Kategori%3AMicrosoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "tr" .
+
+<https://zh.wikinews.org/wiki/Category%3A%E5%BE%AE%E8%BB%9F> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "zh" .
+
+<https://sw.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "sw" ;
+	wikibase:badge wd:Q17437796 .
+
+<https://tk.wikipedia.org/wiki/Ma%C3%BDkrosoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "tk" .
+
+<https://gl.wikipedia.org/wiki/Microsoft> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "gl" .
+
+<https://cdo.wikipedia.org/wiki/M%C3%AC-ni%C5%8Dng> a schema:Article ;
+	schema:about wd:Q2283 ;
+	schema:inLanguage "cdo" .
+
+wdv:b6743d55448a98154a123a4bb96eb79b a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "47.63861"^^xsd:decimal ;
+	wikibase:geoLongitude "-122.12861"^^xsd:decimal ;
+	wikibase:geoPrecision "2.7777777777778E-7"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdv:eeb206de9310a822d75b3a54a439198d a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2012-08-24T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:f58974596592b6204acff39135be9c32 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "1982-08-26T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:23876297dbcb491380c182a907ab8974 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2000-01-01T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "9"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:a53758a1e0a5b16d705ba50ecdc14624 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "1975-04-04T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:011f55e1bde50424115b4dd82cc1b327 a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+127104"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+127104"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+127104"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdv:084a58797d26668931095983c1ebdb58 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2014-06-05T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:71516293fdebd66afac6b1930a2b2294 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2014-07-15T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdref:974ac05f30fb7cf19a7ee47bc4b061bd7b52bb54 a wikibase:Reference ;
+	pr:P248 wd:Q1459541 .
+
+wdref:834a91981b85e589b45061f5e2f854ddc833f641 a wikibase:Reference ;
+	pr:P1476 "Microsoft to Announce Job Cuts as Soon as This Week"@en ;
+	pr:P123 wd:Q14270642 ;
+	pr:P577 "2014-07-15T00:00:00Z"^^xsd:dateTime ;
+	prv:P577 wdv:71516293fdebd66afac6b1930a2b2294 ;
+	pr:P854 <http://www.bloomberg.com/news/2014-07-15/microsoft-said-to-announce-job-cuts-as-soon-as-this-week.html> ;
+	pr:P813 "2015-01-14T00:00:00Z"^^xsd:dateTime ;
+	prv:P813 wdv:94a2c93bffef96b733abe780402342d1 .
+
+wdref:856765e078638abf6f51bb7200ac0ffb3b260f9b a wikibase:Reference ;
+	pr:P248 wd:Q54919 ;
+	pr:P813 "2014-12-16T00:00:00Z"^^xsd:dateTime ;
+	prv:P813 wdv:76e897091f8a5423320262325216a9c2 ;
+	pr:P854 <http://viaf.org/viaf/148809628> .
+
+wdata:Q2285 schema:version "221447107"^^xsd:integer ;
+	schema:dateModified "2015-06-07T07:18:05Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q2285 .
+

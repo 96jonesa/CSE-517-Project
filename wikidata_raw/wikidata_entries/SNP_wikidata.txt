@@ -1,0 +1,272 @@
+wd:Q831445 a wikibase:Item ;
+	rdfs:label "中国石化"@zh-hans ;
+	skos:prefLabel "中国石化"@zh-hans ;
+	schema:name "中国石化"@zh-hans ;
+	rdfs:label "中國石化"@zh-hant ;
+	skos:prefLabel "中國石化"@zh-hant ;
+	schema:name "中國石化"@zh-hant ;
+	rdfs:label "中國石化"@zh-hk ;
+	skos:prefLabel "中國石化"@zh-hk ;
+	schema:name "中國石化"@zh-hk ;
+	rdfs:label "Sinopec"@pt ;
+	skos:prefLabel "Sinopec"@pt ;
+	schema:name "Sinopec"@pt ;
+	rdfs:label "Sinopec"@eu ;
+	skos:prefLabel "Sinopec"@eu ;
+	schema:name "Sinopec"@eu ;
+	rdfs:label "Sinopec"@pl ;
+	skos:prefLabel "Sinopec"@pl ;
+	schema:name "Sinopec"@pl ;
+	rdfs:label "Sinopec"@ru ;
+	skos:prefLabel "Sinopec"@ru ;
+	schema:name "Sinopec"@ru ;
+	rdfs:label "Sinopec"@fr ;
+	skos:prefLabel "Sinopec"@fr ;
+	schema:name "Sinopec"@fr ;
+	rdfs:label "중국석유화공"@ko ;
+	skos:prefLabel "중국석유화공"@ko ;
+	schema:name "중국석유화공"@ko ;
+	rdfs:label "Sinopec"@es ;
+	skos:prefLabel "Sinopec"@es ;
+	schema:name "Sinopec"@es ;
+	rdfs:label "Sinopec"@en ;
+	skos:prefLabel "Sinopec"@en ;
+	schema:name "Sinopec"@en ;
+	rdfs:label "Sinopec"@ro ;
+	skos:prefLabel "Sinopec"@ro ;
+	schema:name "Sinopec"@ro ;
+	rdfs:label "Sinopec"@hu ;
+	skos:prefLabel "Sinopec"@hu ;
+	schema:name "Sinopec"@hu ;
+	rdfs:label "Sinopec"@it ;
+	skos:prefLabel "Sinopec"@it ;
+	schema:name "Sinopec"@it ;
+	rdfs:label "Sinopec"@et ;
+	skos:prefLabel "Sinopec"@et ;
+	schema:name "Sinopec"@et ;
+	rdfs:label "Sinopec"@de ;
+	skos:prefLabel "Sinopec"@de ;
+	schema:name "Sinopec"@de ;
+	rdfs:label "Sinopec"@id ;
+	skos:prefLabel "Sinopec"@id ;
+	schema:name "Sinopec"@id ;
+	rdfs:label "中国石油化工"@ja ;
+	skos:prefLabel "中国石油化工"@ja ;
+	schema:name "中国石油化工"@ja ;
+	rdfs:label "ساینوپک"@fa ;
+	skos:prefLabel "ساینوپک"@fa ;
+	schema:name "ساینوپک"@fa ;
+	rdfs:label "सिनोपेक"@mr ;
+	skos:prefLabel "सिनोपेक"@mr ;
+	schema:name "सिनोपेक"@mr ;
+	rdfs:label "中国石化"@zh ;
+	skos:prefLabel "中国石化"@zh ;
+	schema:name "中国石化"@zh ;
+	rdfs:label "Sinopec"@da ;
+	skos:prefLabel "Sinopec"@da ;
+	schema:name "Sinopec"@da ;
+	rdfs:label "Sinopec"@nl ;
+	skos:prefLabel "Sinopec"@nl ;
+	schema:name "Sinopec"@nl ;
+	rdfs:label "Sinopec"@nb ;
+	skos:prefLabel "Sinopec"@nb ;
+	schema:name "Sinopec"@nb ;
+	rdfs:label "Sinopec"@vi ;
+	skos:prefLabel "Sinopec"@vi ;
+	schema:name "Sinopec"@vi ;
+	rdfs:label "Sinopec"@uk ;
+	skos:prefLabel "Sinopec"@uk ;
+	schema:name "Sinopec"@uk ;
+	rdfs:label "Синопек"@sr ;
+	skos:prefLabel "Синопек"@sr ;
+	schema:name "Синопек"@sr ;
+	rdfs:label "Синопек"@sr-ec ;
+	skos:prefLabel "Синопек"@sr-ec ;
+	schema:name "Синопек"@sr-ec ;
+	rdfs:label "Sinopek"@sr-el ;
+	skos:prefLabel "Sinopek"@sr-el ;
+	schema:name "Sinopek"@sr-el ;
+	rdfs:label "סינופק"@he ;
+	skos:prefLabel "סינופק"@he ;
+	schema:name "סינופק"@he ;
+	rdfs:label "سينوبك"@ar ;
+	skos:prefLabel "سينوبك"@ar ;
+	schema:name "سينوبك"@ar ;
+	schema:description "chinesisches Erdgas- und Mineralölunternehmen"@de,
+		"Chinese oil and gas company"@en ;
+	skos:altLabel "中國石油化工股份有限公司"@zh,
+		"中國石油化工股份"@zh,
+		"Sinopec"@zh,
+		"中國石油化工"@zh,
+		"中国石化股份"@zh,
+		"中国石油化工股份有限公司"@zh,
+		"Китайская нефтяная и химическая корпорация"@ru,
+		"China Petroleum and Chemical"@fr,
+		"China Petroleum and Chemical Corporation"@fr,
+		"China Petroleum"@fr,
+		"China Petroleum & Chemical"@fr,
+		"시노펙"@ko,
+		"중국석화"@ko,
+		"중국석유화공주식유한공사"@ko,
+		"Hiina Nafta- ja Keemiakorporatsioon"@et,
+		"China Petroleum & Chemical Corporation"@et,
+		"Sinopec Corp."@et,
+		"China Petroleum & Chemical"@de,
+		"China Petroleum & Chemical Corporation"@de,
+		"中国石油化工股份有限公司"@ja,
+		"中国石化"@ja,
+		"سینوپک"@fa,
+		"China Petroleum & Chemical Corporation"@en,
+		"Sinopec Limited"@en ;
+	wdt:P373 "China Petroleum and Chemical Corporation, Sinopec" ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P910 wd:Q8747817 ;
+	wdt:P646 "/m/04sy2w" ;
+	wdt:P414 wd:Q13677,
+		wd:Q171240 ;
+	p:P373 wds:q831445-6310876E-B46C-42EA-8566-A104FCD251C9 .
+
+wds:q831445-6310876E-B46C-42EA-8566-A104FCD251C9 a wikibase:Statement ;
+	ps:P373 "China Petroleum and Chemical Corporation, Sinopec" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q831445 p:P31 wds:q831445-9E5E73EB-286C-47B0-B760-BC1EE4B7E44D .
+
+wds:q831445-9E5E73EB-286C-47B0-B760-BC1EE4B7E44D a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q831445 p:P910 wds:Q831445-938241EB-0436-4964-A329-0CC830779E17 .
+
+wds:Q831445-938241EB-0436-4964-A329-0CC830779E17 a wikibase:Statement ;
+	ps:P910 wd:Q8747817 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q831445 p:P646 wds:Q831445-1523AD53-15D6-4567-B234-E9598C99CFB1 .
+
+wds:Q831445-1523AD53-15D6-4567-B234-E9598C99CFB1 a wikibase:Statement ;
+	ps:P646 "/m/04sy2w" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q831445 p:P414 wds:Q831445-751466A4-B7B0-47BD-9582-A726EA36EBB7 .
+
+wds:Q831445-751466A4-B7B0-47BD-9582-A726EA36EBB7 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q831445 p:P414 wds:Q831445-1E3F1B78-02FF-4B6A-8381-2DF144E97BF6 .
+
+wds:Q831445-1E3F1B78-02FF-4B6A-8381-2DF144E97BF6 a wikibase:Statement ;
+	ps:P414 wd:Q171240 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%9F%B3%E5%8C%96> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "zh" .
+
+<https://pt.wikipedia.org/wiki/Sinopec> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "pt" .
+
+<https://eu.wikipedia.org/wiki/Sinopec> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "eu" .
+
+<https://pl.wikipedia.org/wiki/Sinopec> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "pl" .
+
+<https://ru.wikipedia.org/wiki/Sinopec> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "ru" .
+
+<https://fr.wikipedia.org/wiki/Sinopec> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "fr" .
+
+<https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AD%EC%84%9D%EC%9C%A0%ED%99%94%EA%B3%B5> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "ko" .
+
+<https://es.wikipedia.org/wiki/Sinopec> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "es" .
+
+<https://en.wikipedia.org/wiki/Sinopec> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "en" .
+
+<https://ro.wikipedia.org/wiki/Sinopec> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "ro" .
+
+<https://no.wikipedia.org/wiki/Sinopec> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "no" .
+
+<https://hu.wikipedia.org/wiki/Sinopec> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "hu" .
+
+<https://it.wikipedia.org/wiki/Sinopec> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "it" .
+
+<https://et.wikipedia.org/wiki/Sinopec> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "et" .
+
+<https://de.wikipedia.org/wiki/Sinopec> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "de" .
+
+<https://id.wikipedia.org/wiki/Sinopec> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "id" .
+
+<https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%8C%96%E5%B7%A5> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "ja" .
+
+<https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%DB%8C%D9%86%D9%88%D9%BE%DA%A9> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "fa" .
+
+<https://mr.wikipedia.org/wiki/%E0%A4%B8%E0%A4%BF%E0%A4%A8%E0%A5%8B%E0%A4%AA%E0%A5%87%E0%A4%95> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "mr" .
+
+<https://da.wikipedia.org/wiki/Sinopec> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "da" .
+
+<https://vi.wikipedia.org/wiki/Sinopec> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "vi" .
+
+<https://uk.wikipedia.org/wiki/Sinopec> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "uk" .
+
+<https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%A0%D7%95%D7%A4%D7%A7> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "he" .
+
+<https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D9%86%D9%88%D8%A8%D9%83> a schema:Article ;
+	schema:about wd:Q831445 ;
+	schema:inLanguage "ar" .
+
+wdata:Q831449 schema:version "194337274"^^xsd:integer ;
+	schema:dateModified "2015-02-07T14:57:58Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q831449 .
+

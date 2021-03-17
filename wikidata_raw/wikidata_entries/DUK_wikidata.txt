@@ -1,0 +1,135 @@
+wd:Q1264404 a wikibase:Item ;
+	rdfs:label "Duke Energy"@fr ;
+	skos:prefLabel "Duke Energy"@fr ;
+	schema:name "Duke Energy"@fr ;
+	rdfs:label "Duke Energy"@en ;
+	skos:prefLabel "Duke Energy"@en ;
+	schema:name "Duke Energy"@en ;
+	rdfs:label "Duke Energy"@pt ;
+	skos:prefLabel "Duke Energy"@pt ;
+	schema:name "Duke Energy"@pt ;
+	rdfs:label "Duke Energy"@cs ;
+	skos:prefLabel "Duke Energy"@cs ;
+	schema:name "Duke Energy"@cs ;
+	rdfs:label "Duke Energy"@de ;
+	skos:prefLabel "Duke Energy"@de ;
+	schema:name "Duke Energy"@de ;
+	rdfs:label "Duke Energy"@sv ;
+	skos:prefLabel "Duke Energy"@sv ;
+	schema:name "Duke Energy"@sv ;
+	rdfs:label "Duke Energy"@nl ;
+	skos:prefLabel "Duke Energy"@nl ;
+	schema:name "Duke Energy"@nl ;
+	rdfs:label "دوک انرژی"@fa ;
+	skos:prefLabel "دوک انرژی"@fa ;
+	schema:name "دوک انرژی"@fa ;
+	rdfs:label "Duke Energy"@id ;
+	skos:prefLabel "Duke Energy"@id ;
+	schema:name "Duke Energy"@id ;
+	skos:altLabel "Duke Power"@fr,
+		"Duke Energy International"@pt ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P373 "Duke Energy" ;
+	wdt:P910 wd:Q8391707 ;
+	wdt:P646 "/m/05qb8k" ;
+	wdt:P159 wd:Q16565 ;
+	wdt:P155 wd:Q5120885 ;
+	wdt:P227 "5331531-5" ;
+	p:P414 wds:q1264404-8A945A55-083A-4A97-A28B-DC92B6D3A8D5 .
+
+wds:q1264404-8A945A55-083A-4A97-A28B-DC92B6D3A8D5 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1264404 p:P31 wds:q1264404-CA51264D-E86A-4A14-BA50-F33A66ABFA07 .
+
+wds:q1264404-CA51264D-E86A-4A14-BA50-F33A66ABFA07 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q1264404 p:P373 wds:q1264404-C63A0847-5F5E-4DF6-B775-978168566E2A .
+
+wds:q1264404-C63A0847-5F5E-4DF6-B775-978168566E2A a wikibase:Statement ;
+	ps:P373 "Duke Energy" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1264404 p:P910 wds:Q1264404-729F5682-5457-412B-B6CA-88239027FCA8 .
+
+wds:Q1264404-729F5682-5457-412B-B6CA-88239027FCA8 a wikibase:Statement ;
+	ps:P910 wd:Q8391707 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1264404 p:P646 wds:Q1264404-632F81CB-AE14-4DA3-AB1F-6B5DF21A7AD8 .
+
+wds:Q1264404-632F81CB-AE14-4DA3-AB1F-6B5DF21A7AD8 a wikibase:Statement ;
+	ps:P646 "/m/05qb8k" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q1264404 p:P159 wds:Q1264404-86EE398F-13A1-4A88-AB0F-169A50E968AD .
+
+wds:Q1264404-86EE398F-13A1-4A88-AB0F-169A50E968AD a wikibase:Statement ;
+	ps:P159 wd:Q16565 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q1264404 p:P155 wds:Q1264404-EE504F77-F2CA-4A46-B407-43D1F5151107 .
+
+wds:Q1264404-EE504F77-F2CA-4A46-B407-43D1F5151107 a wikibase:Statement ;
+	ps:P155 wd:Q5120885 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1264404 p:P227 wds:Q1264404-DFEC6C01-421B-4B8A-9DCF-646A8613D07A .
+
+wds:Q1264404-DFEC6C01-421B-4B8A-9DCF-646A8613D07A a wikibase:Statement ;
+	ps:P227 "5331531-5" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+<https://en.wikipedia.org/wiki/Duke%20Energy> a schema:Article ;
+	schema:about wd:Q1264404 ;
+	schema:inLanguage "en" .
+
+<https://de.wikipedia.org/wiki/Duke%20Energy> a schema:Article ;
+	schema:about wd:Q1264404 ;
+	schema:inLanguage "de" .
+
+<https://fr.wikipedia.org/wiki/Duke%20Energy> a schema:Article ;
+	schema:about wd:Q1264404 ;
+	schema:inLanguage "fr" .
+
+<https://pt.wikipedia.org/wiki/Duke%20Energy> a schema:Article ;
+	schema:about wd:Q1264404 ;
+	schema:inLanguage "pt" .
+
+<https://sv.wikipedia.org/wiki/Duke%20Energy> a schema:Article ;
+	schema:about wd:Q1264404 ;
+	schema:inLanguage "sv" .
+
+<https://fa.wikipedia.org/wiki/%D8%AF%D9%88%DA%A9%20%D8%A7%D9%86%D8%B1%DA%98%DB%8C> a schema:Article ;
+	schema:about wd:Q1264404 ;
+	schema:inLanguage "fa" .
+
+<https://cs.wikipedia.org/wiki/Duke%20Energy> a schema:Article ;
+	schema:about wd:Q1264404 ;
+	schema:inLanguage "cs" .
+
+<https://id.wikipedia.org/wiki/Duke%20Energy> a schema:Article ;
+	schema:about wd:Q1264404 ;
+	schema:inLanguage "id" .
+
+wdata:Q1264405 schema:version "1900983"^^xsd:integer ;
+	schema:dateModified "2012-12-20T05:03:38Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q1264405 .
+

@@ -1,0 +1,103 @@
+wd:Q14662364 a wikibase:Item ;
+	rdfs:label "AbbVie"@en ;
+	skos:prefLabel "AbbVie"@en ;
+	schema:name "AbbVie"@en ;
+	rdfs:label "AbbVie"@sv ;
+	skos:prefLabel "AbbVie"@sv ;
+	schema:name "AbbVie"@sv ;
+	rdfs:label "AbbVie"@de ;
+	skos:prefLabel "AbbVie"@de ;
+	schema:name "AbbVie"@de ;
+	rdfs:label "AbbVie"@fr ;
+	skos:prefLabel "AbbVie"@fr ;
+	schema:name "AbbVie"@fr ;
+	rdfs:label "AbbVie"@it ;
+	skos:prefLabel "AbbVie"@it ;
+	schema:name "AbbVie"@it ;
+	rdfs:label "AbbVie"@id ;
+	skos:prefLabel "AbbVie"@id ;
+	schema:name "AbbVie"@id ;
+	rdfs:label "AbbVie"@kab ;
+	skos:prefLabel "AbbVie"@kab ;
+	schema:name "AbbVie"@kab ;
+	rdfs:label "اب‌وی"@fa ;
+	skos:prefLabel "اب‌وی"@fa ;
+	schema:name "اب‌وی"@fa ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P17 wd:Q30 ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P159 wd:Q338720 ;
+	wdt:P361 wd:Q242345 ;
+	p:P31 wds:Q14662364-4a0741ab-414c-9bdd-90fe-10fb435f3c50 .
+
+wds:Q14662364-4a0741ab-414c-9bdd-90fe-10fb435f3c50 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q14662364 p:P17 wds:Q14662364-F8F3231D-E4D5-4906-9E0F-1546C7BE6BDC .
+
+wds:Q14662364-F8F3231D-E4D5-4906-9E0F-1546C7BE6BDC a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q14662364 p:P414 wds:Q14662364-b6bcc9c2-440f-5f0d-4e56-1ee50c5d5990 .
+
+wds:Q14662364-b6bcc9c2-440f-5f0d-4e56-1ee50c5d5990 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "ABBV" .
+
+wd:Q14662364 p:P159 wds:Q14662364-0728188e-4168-fdca-7c69-dbea6cebb528 .
+
+wds:Q14662364-0728188e-4168-fdca-7c69-dbea6cebb528 a wikibase:Statement ;
+	ps:P159 wd:Q338720 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q14662364 p:P361 wds:Q14662364-82ba7575-4e72-06e7-6c41-1d0512f421a0 .
+
+wds:Q14662364-82ba7575-4e72-06e7-6c41-1d0512f421a0 a wikibase:Statement ;
+	ps:P361 wd:Q242345 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://en.wikipedia.org/wiki/AbbVie> a schema:Article ;
+	schema:about wd:Q14662364 ;
+	schema:inLanguage "en" .
+
+<https://de.wikipedia.org/wiki/AbbVie> a schema:Article ;
+	schema:about wd:Q14662364 ;
+	schema:inLanguage "de" .
+
+<https://fr.wikipedia.org/wiki/AbbVie> a schema:Article ;
+	schema:about wd:Q14662364 ;
+	schema:inLanguage "fr" .
+
+<https://it.wikipedia.org/wiki/AbbVie> a schema:Article ;
+	schema:about wd:Q14662364 ;
+	schema:inLanguage "it" .
+
+<https://sv.wikipedia.org/wiki/AbbVie> a schema:Article ;
+	schema:about wd:Q14662364 ;
+	schema:inLanguage "sv" .
+
+<https://kab.wikipedia.org/wiki/AbbVie> a schema:Article ;
+	schema:about wd:Q14662364 ;
+	schema:inLanguage "kab" .
+
+<https://id.wikipedia.org/wiki/AbbVie> a schema:Article ;
+	schema:about wd:Q14662364 ;
+	schema:inLanguage "id" .
+
+<https://fa.wikipedia.org/wiki/%D8%A7%D8%A8%E2%80%8C%D9%88%DB%8C> a schema:Article ;
+	schema:about wd:Q14662364 ;
+	schema:inLanguage "fa" .
+
+wdata:Q14662367 schema:version "231140645"^^xsd:integer ;
+	schema:dateModified "2015-07-15T11:36:24Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q14662367 .
+

@@ -1,0 +1,571 @@
+wd:Q3295867 a wikibase:Item ;
+	rdfs:label "The Coca-Cola Company"@en ;
+	skos:prefLabel "The Coca-Cola Company"@en ;
+	schema:name "The Coca-Cola Company"@en ;
+	rdfs:label "The Coca-Cola Company"@en-ca ;
+	skos:prefLabel "The Coca-Cola Company"@en-ca ;
+	schema:name "The Coca-Cola Company"@en-ca ;
+	rdfs:label "The Coca-Cola Company"@en-gb ;
+	skos:prefLabel "The Coca-Cola Company"@en-gb ;
+	schema:name "The Coca-Cola Company"@en-gb ;
+	rdfs:label "شركة كوكا كولا"@ar ;
+	skos:prefLabel "شركة كوكا كولا"@ar ;
+	schema:name "شركة كوكا كولا"@ar ;
+	rdfs:label "The Coca-Cola Company"@az ;
+	skos:prefLabel "The Coca-Cola Company"@az ;
+	schema:name "The Coca-Cola Company"@az ;
+	rdfs:label "The Coca-Cola Company"@be ;
+	skos:prefLabel "The Coca-Cola Company"@be ;
+	schema:name "The Coca-Cola Company"@be ;
+	rdfs:label "Кока-Кола"@bg ;
+	skos:prefLabel "Кока-Кола"@bg ;
+	schema:name "Кока-Кола"@bg ;
+	rdfs:label "The Coca-Cola Company"@ca ;
+	skos:prefLabel "The Coca-Cola Company"@ca ;
+	schema:name "The Coca-Cola Company"@ca ;
+	rdfs:label "The Coca-Cola Company"@cs ;
+	skos:prefLabel "The Coca-Cola Company"@cs ;
+	schema:name "The Coca-Cola Company"@cs ;
+	rdfs:label "The Coca-Cola Company"@cy ;
+	skos:prefLabel "The Coca-Cola Company"@cy ;
+	schema:name "The Coca-Cola Company"@cy ;
+	rdfs:label "The Coca Cola Company"@da ;
+	skos:prefLabel "The Coca Cola Company"@da ;
+	schema:name "The Coca Cola Company"@da ;
+	rdfs:label "The Coca-Cola Company"@de ;
+	skos:prefLabel "The Coca-Cola Company"@de ;
+	schema:name "The Coca-Cola Company"@de ;
+	rdfs:label "The Coca-Cola Company"@de-ch ;
+	skos:prefLabel "The Coca-Cola Company"@de-ch ;
+	schema:name "The Coca-Cola Company"@de-ch ;
+	rdfs:label "The Coca-Cola Company"@es ;
+	skos:prefLabel "The Coca-Cola Company"@es ;
+	schema:name "The Coca-Cola Company"@es ;
+	rdfs:label "The Coca-Cola Company"@et ;
+	skos:prefLabel "The Coca-Cola Company"@et ;
+	schema:name "The Coca-Cola Company"@et ;
+	rdfs:label "شرکت کوکاکولا"@fa ;
+	skos:prefLabel "شرکت کوکاکولا"@fa ;
+	schema:name "شرکت کوکاکولا"@fa ;
+	rdfs:label "The Coca-Cola Company"@fi ;
+	skos:prefLabel "The Coca-Cola Company"@fi ;
+	schema:name "The Coca-Cola Company"@fi ;
+	rdfs:label "The Coca-Cola Company"@fr ;
+	skos:prefLabel "The Coca-Cola Company"@fr ;
+	schema:name "The Coca-Cola Company"@fr ;
+	rdfs:label "חברת קוקה-קולה"@he ;
+	skos:prefLabel "חברת קוקה-קולה"@he ;
+	schema:name "חברת קוקה-קולה"@he ;
+	rdfs:label "The Coca-Cola Company"@hr ;
+	skos:prefLabel "The Coca-Cola Company"@hr ;
+	schema:name "The Coca-Cola Company"@hr ;
+	rdfs:label "The Coca-Cola Company"@hu ;
+	skos:prefLabel "The Coca-Cola Company"@hu ;
+	schema:name "The Coca-Cola Company"@hu ;
+	rdfs:label "The Coca-Cola Company"@id ;
+	skos:prefLabel "The Coca-Cola Company"@id ;
+	schema:name "The Coca-Cola Company"@id ;
+	rdfs:label "The Coca-Cola Company"@it ;
+	skos:prefLabel "The Coca-Cola Company"@it ;
+	schema:name "The Coca-Cola Company"@it ;
+	rdfs:label "ザ コカ・コーラ カンパニー"@ja ;
+	skos:prefLabel "ザ コカ・コーラ カンパニー"@ja ;
+	schema:name "ザ コカ・コーラ カンパニー"@ja ;
+	rdfs:label "코카콜라 컴퍼니"@ko ;
+	skos:prefLabel "코카콜라 컴퍼니"@ko ;
+	schema:name "코카콜라 컴퍼니"@ko ;
+	rdfs:label "The Coca-Cola Company"@lt ;
+	skos:prefLabel "The Coca-Cola Company"@lt ;
+	schema:name "The Coca-Cola Company"@lt ;
+	rdfs:label "The Coca-Cola Company"@mg ;
+	skos:prefLabel "The Coca-Cola Company"@mg ;
+	schema:name "The Coca-Cola Company"@mg ;
+	rdfs:label "The Coca-Cola Company"@nl ;
+	skos:prefLabel "The Coca-Cola Company"@nl ;
+	schema:name "The Coca-Cola Company"@nl ;
+	rdfs:label "The Coca-Cola Company"@pl ;
+	skos:prefLabel "The Coca-Cola Company"@pl ;
+	schema:name "The Coca-Cola Company"@pl ;
+	rdfs:label "د کولا کولا شرکت"@ps ;
+	skos:prefLabel "د کولا کولا شرکت"@ps ;
+	schema:name "د کولا کولا شرکت"@ps ;
+	rdfs:label "The Coca-Cola Company"@pt ;
+	skos:prefLabel "The Coca-Cola Company"@pt ;
+	schema:name "The Coca-Cola Company"@pt ;
+	rdfs:label "The Coca-Cola Company"@pt-br ;
+	skos:prefLabel "The Coca-Cola Company"@pt-br ;
+	schema:name "The Coca-Cola Company"@pt-br ;
+	rdfs:label "The Coca-Cola Company"@ro ;
+	skos:prefLabel "The Coca-Cola Company"@ro ;
+	schema:name "The Coca-Cola Company"@ro ;
+	rdfs:label "The Coca-Cola Company"@ru ;
+	skos:prefLabel "The Coca-Cola Company"@ru ;
+	schema:name "The Coca-Cola Company"@ru ;
+	rdfs:label "The Coca-Cola Company"@sk ;
+	skos:prefLabel "The Coca-Cola Company"@sk ;
+	schema:name "The Coca-Cola Company"@sk ;
+	rdfs:label "Podjetje Coca-Cola"@sl ;
+	skos:prefLabel "Podjetje Coca-Cola"@sl ;
+	schema:name "Podjetje Coca-Cola"@sl ;
+	rdfs:label "The Coca-Cola Company"@sv ;
+	skos:prefLabel "The Coca-Cola Company"@sv ;
+	schema:name "The Coca-Cola Company"@sv ;
+	rdfs:label "โคคา-โคลา"@th ;
+	skos:prefLabel "โคคา-โคลา"@th ;
+	schema:name "โคคา-โคลา"@th ;
+	rdfs:label "The Coca-Cola Company"@tr ;
+	skos:prefLabel "The Coca-Cola Company"@tr ;
+	schema:name "The Coca-Cola Company"@tr ;
+	rdfs:label "The Coca-Cola Company"@uk ;
+	skos:prefLabel "The Coca-Cola Company"@uk ;
+	schema:name "The Coca-Cola Company"@uk ;
+	rdfs:label "可口可乐公司"@wuu ;
+	skos:prefLabel "可口可乐公司"@wuu ;
+	schema:name "可口可乐公司"@wuu ;
+	rdfs:label "可口可乐公司"@zh ;
+	skos:prefLabel "可口可乐公司"@zh ;
+	schema:name "可口可乐公司"@zh ;
+	rdfs:label "可口可樂公司"@yue ;
+	skos:prefLabel "可口可樂公司"@yue ;
+	schema:name "可口可樂公司"@yue ;
+	rdfs:label "The Coca-Cola Company"@eu ;
+	skos:prefLabel "The Coca-Cola Company"@eu ;
+	schema:name "The Coca-Cola Company"@eu ;
+	rdfs:label "可口可樂公司"@zh-hant ;
+	skos:prefLabel "可口可樂公司"@zh-hant ;
+	schema:name "可口可樂公司"@zh-hant ;
+	rdfs:label "The Coca-Cola Company"@nb ;
+	skos:prefLabel "The Coca-Cola Company"@nb ;
+	schema:name "The Coca-Cola Company"@nb ;
+	rdfs:label "销售额"@zh-cn ;
+	skos:prefLabel "销售额"@zh-cn ;
+	schema:name "销售额"@zh-cn ;
+	rdfs:label "The Coca-Cola Company"@eo ;
+	skos:prefLabel "The Coca-Cola Company"@eo ;
+	schema:name "The Coca-Cola Company"@eo ;
+	rdfs:label "کوکا کولا کمپنی"@ur ;
+	skos:prefLabel "کوکا کولا کمپنی"@ur ;
+	schema:name "کوکا کولا کمپنی"@ur ;
+	rdfs:label "The Coca-Cola Company"@zea ;
+	skos:prefLabel "The Coca-Cola Company"@zea ;
+	schema:name "The Coca-Cola Company"@zea ;
+	rdfs:label "The Coca-Cola Company"@is ;
+	skos:prefLabel "The Coca-Cola Company"@is ;
+	schema:name "The Coca-Cola Company"@is ;
+	rdfs:label "দ্য কোকা-কোলা কোম্পানি"@bn ;
+	skos:prefLabel "দ্য কোকা-কোলা কোম্পানি"@bn ;
+	schema:name "দ্য কোকা-কোলা কোম্পানি"@bn ;
+	rdfs:label "Կոկա-Կոլա ընկերություն"@hy ;
+	skos:prefLabel "Կոկա-Կոլա ընկերություն"@hy ;
+	schema:name "Կոկա-Կոլա ընկերություն"@hy ;
+	rdfs:label "The Coca-Cola Company"@la ;
+	skos:prefLabel "The Coca-Cola Company"@la ;
+	schema:name "The Coca-Cola Company"@la ;
+	rdfs:label "Кока-кола"@sr ;
+	skos:prefLabel "Кока-кола"@sr ;
+	schema:name "Кока-кола"@sr ;
+	rdfs:label "The Coca-Cola Company"@br ;
+	skos:prefLabel "The Coca-Cola Company"@br ;
+	schema:name "The Coca-Cola Company"@br ;
+	rdfs:label "ကိုကာကိုလာ ကုမ္ပဏီ"@my ;
+	skos:prefLabel "ကိုကာကိုလာ ကုမ္ပဏီ"@my ;
+	schema:name "ကိုကာကိုလာ ကုမ္ပဏီ"@my ;
+	schema:description "enterprise"@fr,
+		"American multinational beverage corporation"@en ;
+	skos:altLabel "Coca-Cola"@en,
+		"Coca Cola"@en,
+		"Coca-Cola Company"@de,
+		"Coca-Cola"@de ;
+	wdt:P244 "n80020347" ;
+	wdt:P214 "144240631" ;
+	wdt:P213 "0000 0001 0668 7948" ;
+	wdt:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/The%20Coca-Cola%20Company%20logo.svg> ;
+	wdt:P373 "The Coca-Cola Company" ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P31 wd:Q783794,
+		wd:Q1252971 ;
+	wdt:P112 wd:Q744866 ;
+	wdt:P166 wd:Q184253 ;
+	wdt:P646 "/m/03phgz" ;
+	wdt:P159 wd:Q23556 ;
+	wdt:P269 "029333814" ;
+	wdt:P1273 "a11039061" ;
+	wdt:P1566 "4226150" ;
+	wdt:P17 wd:Q30 ;
+	wdt:P155 wd:Q1094880 ;
+	wdt:P856 <http://www.coca-cola.com/> ;
+	wdt:P910 wd:Q9139329 ;
+	p:P244 wds:q3295867-6F56184C-3030-4910-8617-6C8C026658DA .
+
+wds:q3295867-6F56184C-3030-4910-8617-6C8C026658DA a wikibase:Statement ;
+	ps:P244 "n80020347" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q3295867 p:P214 wds:q3295867-AC5E7740-4723-4894-ACCE-5C2F327B9BC7 .
+
+wds:q3295867-AC5E7740-4723-4894-ACCE-5C2F327B9BC7 a wikibase:Statement ;
+	ps:P214 "144240631" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q3295867 p:P213 wds:q3295867-B08FF15F-B674-4E56-AD05-7D5A7C80D1B8 .
+
+wds:q3295867-B08FF15F-B674-4E56-AD05-7D5A7C80D1B8 a wikibase:Statement ;
+	ps:P213 "0000 0001 0668 7948" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:500bf0768a4645f1e00ad451f904d3a010fa43ae .
+
+wd:Q3295867 p:P154 wds:q3295867-D5226011-BAE7-44DF-9C1C-3E45CD9F2984 .
+
+wds:q3295867-D5226011-BAE7-44DF-9C1C-3E45CD9F2984 a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/The%20Coca-Cola%20Company%20logo.svg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q3295867 p:P373 wds:q3295867-AF1CD90D-6964-43C3-88CA-33449DA5E055 .
+
+wds:q3295867-AF1CD90D-6964-43C3-88CA-33449DA5E055 a wikibase:Statement ;
+	ps:P373 "The Coca-Cola Company" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q3295867 p:P414 wds:q3295867-0FAB6CAE-26FF-4316-A5A5-ECD1E51F2875 .
+
+wds:q3295867-0FAB6CAE-26FF-4316-A5A5-ECD1E51F2875 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "KO" .
+
+wd:Q3295867 p:P31 wds:q3295867-652051BC-FC2C-44D0-B607-871D699A9C7E .
+
+wds:q3295867-652051BC-FC2C-44D0-B607-871D699A9C7E a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q3295867 p:P31 wds:Q3295867-8BD7F302-8753-490A-824B-549C1BBFA26D .
+
+wds:Q3295867-8BD7F302-8753-490A-824B-549C1BBFA26D a wikibase:Statement ;
+	ps:P31 wd:Q1252971 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q3295867 p:P112 wds:q3295867-CC87B4BF-06BC-4F4A-9FA8-3D7E19174AC2 .
+
+wds:q3295867-CC87B4BF-06BC-4F4A-9FA8-3D7E19174AC2 a wikibase:Statement ;
+	ps:P112 wd:Q744866 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q3295867 p:P166 wds:Q3295867-4f89934c-40d6-88c1-1bde-5f1a9d1a4fbf .
+
+wds:Q3295867-4f89934c-40d6-88c1-1bde-5f1a9d1a4fbf a wikibase:Statement ;
+	ps:P166 wd:Q184253 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P585 "2004-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P585 wdv:849f00455434dc418fb4287a4f2b7638 ;
+	pq:P101 wd:Q2329 ;
+	prov:wasDerivedFrom wdref:622073b6af8b31d8360847121e285b5137d0ec4d .
+
+wd:Q3295867 p:P646 wds:Q3295867-C7706773-A8BB-4CAD-ABD7-7BD35C231095 .
+
+wds:Q3295867-C7706773-A8BB-4CAD-ABD7-7BD35C231095 a wikibase:Statement ;
+	ps:P646 "/m/03phgz" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q3295867 p:P159 wds:Q3295867-BF924D1D-0B2D-4F48-BDAD-283A5412C180 .
+
+wds:Q3295867-BF924D1D-0B2D-4F48-BDAD-283A5412C180 a wikibase:Statement ;
+	ps:P159 wd:Q23556 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(33.771 -84.396553)"^^geo:wktLiteral ;
+	pqv:P625 wdv:6fcbe9dddf54e4f70a7b9eeeb907d903 ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q3295867 p:P269 wds:Q3295867-4886EBBA-E763-47BD-9FD4-598EFE6C8355 .
+
+wds:Q3295867-4886EBBA-E763-47BD-9FD4-598EFE6C8355 a wikibase:Statement ;
+	ps:P269 "029333814" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:a51d6594fee36c7452eaed2db35a4833613a7078 .
+
+wd:Q3295867 p:P1273 wds:Q3295867-9EA16464-5F31-42C2-A2FF-A370908C87C7 .
+
+wds:Q3295867-9EA16464-5F31-42C2-A2FF-A370908C87C7 a wikibase:Statement ;
+	ps:P1273 "a11039061" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:9d8888203ac67cbf9835c2e85d64a3d97873e0dc .
+
+wd:Q3295867 p:P1566 wds:Q3295867-BE17D245-C0DF-43B5-BFEC-0E792FCA0534 .
+
+wds:Q3295867-BE17D245-C0DF-43B5-BFEC-0E792FCA0534 a wikibase:Statement ;
+	ps:P1566 "4226150" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:d6193e4d78598db1a6aaa453fface1553022f1f2 .
+
+wd:Q3295867 p:P17 wds:Q3295867-A6FF5D30-3D6A-4AC1-B98C-CE97E690AC3F .
+
+wds:Q3295867-A6FF5D30-3D6A-4AC1-B98C-CE97E690AC3F a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q3295867 p:P155 wds:Q3295867-1CBC3467-34B9-4DC3-98A0-C7A421A2DB80 .
+
+wds:Q3295867-1CBC3467-34B9-4DC3-98A0-C7A421A2DB80 a wikibase:Statement ;
+	ps:P155 wd:Q1094880 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q3295867 p:P856 wds:Q3295867-E9F438B0-9EA1-4E6F-B42C-B5C315767FF2 .
+
+wds:Q3295867-E9F438B0-9EA1-4E6F-B42C-B5C315767FF2 a wikibase:Statement ;
+	ps:P856 <http://www.coca-cola.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q3295867 p:P910 wds:Q3295867-073E76B5-6A4B-45B8-BF90-5380DDCD43D5 .
+
+wds:Q3295867-073E76B5-6A4B-45B8-BF90-5380DDCD43D5 a wikibase:Statement ;
+	ps:P910 wd:Q9139329 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+<https://en.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "en" .
+
+<https://ar.wikipedia.org/wiki/%D8%B4%D8%B1%D9%83%D8%A9%20%D9%83%D9%88%D9%83%D8%A7%20%D9%83%D9%88%D9%84%D8%A7> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "ar" .
+
+<https://az.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "az" .
+
+<https://be.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "be" .
+
+<https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BA%D0%B0-%D0%9A%D0%BE%D0%BB%D0%B0%20%28%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%29> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "bg" .
+
+<https://ca.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "ca" .
+
+<https://cs.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "cs" .
+
+<https://cy.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "cy" .
+
+<https://da.wikipedia.org/wiki/The%20Coca%20Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "da" .
+
+<https://de.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "de" .
+
+<https://es.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "es" .
+
+<https://et.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "et" .
+
+<https://fa.wikipedia.org/wiki/%D8%B4%D8%B1%DA%A9%D8%AA%20%DA%A9%D9%88%DA%A9%D8%A7%DA%A9%D9%88%D9%84%D8%A7> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "fa" .
+
+<https://fi.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "fi" .
+
+<https://fr.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "fr" .
+
+<https://he.wikipedia.org/wiki/%D7%97%D7%91%D7%A8%D7%AA%20%D7%A7%D7%95%D7%A7%D7%94-%D7%A7%D7%95%D7%9C%D7%94> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "he" .
+
+<https://hr.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "hr" .
+
+<https://hu.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "hu" .
+
+<https://id.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "id" .
+
+<https://it.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "it" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%B6%20%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9%20%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "ja" .
+
+<https://ko.wikipedia.org/wiki/%EC%BD%94%EC%B9%B4%EC%BD%9C%EB%9D%BC%20%EC%BB%B4%ED%8D%BC%EB%8B%88> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "ko" .
+
+<https://lt.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "lt" .
+
+<https://mg.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "mg" .
+
+<https://nl.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "nl" .
+
+<https://no.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "no" .
+
+<https://pl.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "pl" .
+
+<https://pt.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "pt" .
+
+<https://ro.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "ro" .
+
+<https://ru.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "ru" .
+
+<https://simple.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "simple" .
+
+<https://sk.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "sk" .
+
+<https://sl.wikipedia.org/wiki/Podjetje%20Coca-Cola> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "sl" .
+
+<https://sv.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "sv" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%84%E0%B8%84%E0%B8%B2-%E0%B9%82%E0%B8%84%E0%B8%A5%E0%B8%B2%20%28%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97%29> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "th" .
+
+<https://tr.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "tr" .
+
+<https://uk.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "uk" .
+
+<https://wuu.wikipedia.org/wiki/%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "wuu" .
+
+<https://zh.wikipedia.org/wiki/%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "zh" .
+
+<https://zh-yue.wikipedia.org/wiki/%E5%8F%AF%E5%8F%A3%E5%8F%AF%E6%A8%82%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "zh-yue" .
+
+<https://eu.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "eu" .
+
+<https://la.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "la" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%A6%E0%A7%8D%E0%A6%AF%20%E0%A6%95%E0%A7%8B%E0%A6%95%E0%A6%BE-%E0%A6%95%E0%A7%8B%E0%A6%B2%E0%A6%BE%20%E0%A6%95%E0%A7%8B%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "bn" .
+
+<https://is.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "is" .
+
+<https://eo.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "eo" .
+
+<https://ur.wikipedia.org/wiki/%DA%A9%D9%88%DA%A9%D8%A7%20%DA%A9%D9%88%D9%84%D8%A7%20%DA%A9%D9%85%D9%BE%D9%86%DB%8C> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "ur" .
+
+<https://zea.wikipedia.org/wiki/The%20Coca-Cola%20Company> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "zea" .
+
+<https://hy.wikipedia.org/wiki/%D4%BF%D5%B8%D5%AF%D5%A1-%D4%BF%D5%B8%D5%AC%D5%A1%20%D5%A8%D5%B6%D5%AF%D5%A5%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "hy" .
+
+<https://sr.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BB%D0%B0%20%28%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%98%D0%B0%29> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "sr" .
+
+<https://my.wikipedia.org/wiki/%E1%80%80%E1%80%AD%E1%80%AF%E1%80%80%E1%80%AC%E1%80%80%E1%80%AD%E1%80%AF%E1%80%9C%E1%80%AC%20%E1%80%80%E1%80%AF%E1%80%99%E1%80%B9%E1%80%95%E1%80%8F%E1%80%AE> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "my" .
+
+<https://ps.wikipedia.org/wiki/%D8%AF%20%DA%A9%D9%88%DA%A9%D8%A7%20%DA%A9%D9%88%D9%84%D8%A7%20%D8%B4%D8%B1%DA%A9%D8%AA> a schema:Article ;
+	schema:about wd:Q3295867 ;
+	schema:inLanguage "ps" .
+
+wdv:6fcbe9dddf54e4f70a7b9eeeb907d903 a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "33.771"^^xsd:decimal ;
+	wikibase:geoLongitude "-84.396553"^^xsd:decimal ;
+	wikibase:geoPrecision "2.7777777777778E-8"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdref:622073b6af8b31d8360847121e285b5137d0ec4d a wikibase:Reference ;
+	pr:P854 <http://www.improbable.com/ig/winners> .
+
+wdref:9d8888203ac67cbf9835c2e85d64a3d97873e0dc a wikibase:Reference ;
+	pr:P854 <https://viaf.org/viaf/144240631/> .
+
+wdata:Q3295872 schema:version "186924196"^^xsd:integer ;
+	schema:dateModified "2015-01-09T21:23:01Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q3295872 .
+

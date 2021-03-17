@@ -1,0 +1,576 @@
+wd:Q154037 a wikibase:Item ;
+	rdfs:label "道达尔"@zh-hans ;
+	skos:prefLabel "道达尔"@zh-hans ;
+	schema:name "道达尔"@zh-hans ;
+	rdfs:label "道達爾"@zh-hant ;
+	skos:prefLabel "道達爾"@zh-hant ;
+	schema:name "道達爾"@zh-hant ;
+	rdfs:label "道達爾"@zh-hk ;
+	skos:prefLabel "道達爾"@zh-hk ;
+	schema:name "道達爾"@zh-hk ;
+	rdfs:label "道达尔"@zh-cn ;
+	skos:prefLabel "道达尔"@zh-cn ;
+	schema:name "道达尔"@zh-cn ;
+	rdfs:label "道达尔"@zh-sg ;
+	skos:prefLabel "道达尔"@zh-sg ;
+	schema:name "道达尔"@zh-sg ;
+	rdfs:label "道達爾"@zh-tw ;
+	skos:prefLabel "道達爾"@zh-tw ;
+	schema:name "道達爾"@zh-tw ;
+	rdfs:label "Total"@pl ;
+	skos:prefLabel "Total"@pl ;
+	schema:name "Total"@pl ;
+	rdfs:label "토탈"@ko ;
+	skos:prefLabel "토탈"@ko ;
+	schema:name "토탈"@ko ;
+	rdfs:label "Total"@fr ;
+	skos:prefLabel "Total"@fr ;
+	schema:name "Total"@fr ;
+	rdfs:label "Total S.A."@es ;
+	skos:prefLabel "Total S.A."@es ;
+	schema:name "Total S.A."@es ;
+	rdfs:label "Total"@it ;
+	skos:prefLabel "Total"@it ;
+	schema:name "Total"@it ;
+	rdfs:label "Total"@et ;
+	skos:prefLabel "Total"@et ;
+	schema:name "Total"@et ;
+	rdfs:label "Total"@de ;
+	skos:prefLabel "Total"@de ;
+	schema:name "Total"@de ;
+	rdfs:label "Total S.A."@id ;
+	skos:prefLabel "Total S.A."@id ;
+	schema:name "Total S.A."@id ;
+	rdfs:label "トタル"@ja ;
+	skos:prefLabel "トタル"@ja ;
+	schema:name "トタル"@ja ;
+	rdfs:label "Total"@br ;
+	skos:prefLabel "Total"@br ;
+	schema:name "Total"@br ;
+	rdfs:label "Total S.A."@el ;
+	skos:prefLabel "Total S.A."@el ;
+	schema:name "Total S.A."@el ;
+	rdfs:label "Total"@nl ;
+	skos:prefLabel "Total"@nl ;
+	schema:name "Total"@nl ;
+	rdfs:label "Total"@sv ;
+	skos:prefLabel "Total"@sv ;
+	schema:name "Total"@sv ;
+	rdfs:label "توتال"@ar ;
+	skos:prefLabel "توتال"@ar ;
+	schema:name "توتال"@ar ;
+	rdfs:label "Total S.A."@pt ;
+	skos:prefLabel "Total S.A."@pt ;
+	schema:name "Total S.A."@pt ;
+	rdfs:label "Total"@ru ;
+	skos:prefLabel "Total"@ru ;
+	schema:name "Total"@ru ;
+	rdfs:label "Total S.A."@en ;
+	skos:prefLabel "Total S.A."@en ;
+	schema:name "Total S.A."@en ;
+	rdfs:label "Total SA"@tr ;
+	skos:prefLabel "Total SA"@tr ;
+	schema:name "Total SA"@tr ;
+	rdfs:label "โททาล"@th ;
+	skos:prefLabel "โททาล"@th ;
+	schema:name "โททาล"@th ;
+	rdfs:label "Total S.A."@ro ;
+	skos:prefLabel "Total S.A."@ro ;
+	schema:name "Total S.A."@ro ;
+	rdfs:label "Total"@fi ;
+	skos:prefLabel "Total"@fi ;
+	schema:name "Total"@fi ;
+	rdfs:label "Total"@nn ;
+	skos:prefLabel "Total"@nn ;
+	schema:name "Total"@nn ;
+	rdfs:label "Total"@cs ;
+	skos:prefLabel "Total"@cs ;
+	schema:name "Total"@cs ;
+	rdfs:label "توتال"@fa ;
+	skos:prefLabel "توتال"@fa ;
+	schema:name "توتال"@fa ;
+	rdfs:label "Тотал"@bg ;
+	skos:prefLabel "Тотал"@bg ;
+	schema:name "Тотал"@bg ;
+	rdfs:label "Total"@az ;
+	skos:prefLabel "Total"@az ;
+	schema:name "Total"@az ;
+	rdfs:label "Total"@lt ;
+	skos:prefLabel "Total"@lt ;
+	schema:name "Total"@lt ;
+	rdfs:label "Total"@da ;
+	skos:prefLabel "Total"@da ;
+	schema:name "Total"@da ;
+	rdfs:label "Тотал"@kk ;
+	skos:prefLabel "Тотал"@kk ;
+	schema:name "Тотал"@kk ;
+	rdfs:label "道达尔"@zh ;
+	skos:prefLabel "道达尔"@zh ;
+	schema:name "道达尔"@zh ;
+	rdfs:label "Total"@nb ;
+	skos:prefLabel "Total"@nb ;
+	schema:name "Total"@nb ;
+	rdfs:label "Total S.A"@vi ;
+	skos:prefLabel "Total S.A"@vi ;
+	schema:name "Total S.A"@vi ;
+	rdfs:label "Total (societas)"@la ;
+	skos:prefLabel "Total (societas)"@la ;
+	schema:name "Total (societas)"@la ;
+	rdfs:label "Total"@uk ;
+	skos:prefLabel "Total"@uk ;
+	schema:name "Total"@uk ;
+	schema:description "entreprise pétrolière française"@fr,
+		"Französischer Ölkonzern"@de,
+		"French multinational integrated oil and gas company"@en ;
+	skos:altLabel "道达尔石油"@zh,
+		"Total S.A."@pl,
+		"Compagnie française de pétrole"@fr,
+		"Groupe Total"@fr,
+		"Total S.A."@fr,
+		"Total Fina Elf"@fr,
+		"Fondation Total"@fr,
+		"Total S. A."@fr,
+		"Compagnie française des pétroles"@fr,
+		"Total Raffinage Marketing"@fr,
+		"Total S.A"@fr,
+		"TotalFinaElf"@fr,
+		"Total SA"@fr,
+		"Entreprise Total"@fr,
+		"Total S A"@es,
+		"TotalFina"@es,
+		"Total S A."@es,
+		"Total"@es,
+		"Total S.A."@it,
+		"Total SA"@de,
+		"TotalFinaElf"@de,
+		"Total S. A."@de,
+		"Total S.A."@de,
+		"TotalFina"@de,
+		"TOTAL"@ja,
+		"トタール"@ja,
+		"Total S.A."@nl,
+		"TotalFinaElf"@nl,
+		"Elf Aquitaine"@sv,
+		"Total S.A."@ar,
+		"Total S.A."@ru,
+		"Total SA"@ro,
+		"Total"@ro,
+		"Total S.A."@fi,
+		"Total SA"@fi,
+		"Elf Aquitaine"@fi,
+		"Total S.A."@cs,
+		"شرکت نفت فرانسه"@fa,
+		"انرژی توتال"@fa,
+		"شرکت نفت توتال"@fa,
+		"Total neft şirkəti"@az,
+		"Total S.A."@lt,
+		"Total Fina"@nb,
+		"Total S.A."@nb,
+		"TotalFina"@nb,
+		"TOTAL E & P NORGE AS"@nb,
+		"TotalFinaElf"@nb,
+		"Total"@en ;
+	wdt:P373 "Total S.A." ;
+	wdt:P31 wd:Q783794,
+		wd:Q161726 ;
+	wdt:P112 wd:Q1356462 ;
+	wdt:P571 "1924-03-28T00:00:00Z"^^xsd:dateTime ;
+	wdt:P169 wd:Q346081 ;
+	wdt:P646 "/m/03d938" ;
+	wdt:P856 <http://www.total.com> ;
+	wdt:P910 wd:Q8858858 ;
+	wdt:P159 wd:Q189715 ;
+	wdt:P452 wd:Q862571 ;
+	wdt:P1448 "Compagnie française des pétroles"@fr,
+		"Total CFP"@fr,
+		"Total"@fr,
+		"Total Fina"@fr,
+		"TotalFinaElf"@fr,
+		"Total"@fr ;
+	wdt:P156 wd:Q2839213 ;
+	wdt:P414 wd:Q13677,
+		wd:Q2385849 ;
+	wdt:P946 "FR0000120271" ;
+	wdt:P17 wd:Q142 ;
+	p:P373 wds:q154037-BA3D66E4-E494-4F38-BD40-2A36CE976DD5 .
+
+wds:q154037-BA3D66E4-E494-4F38-BD40-2A36CE976DD5 a wikibase:Statement ;
+	ps:P373 "Total S.A." ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q154037 p:P31 wds:q154037-55F85BAD-4E34-4D3A-BABC-C1D7E35353E6 .
+
+wds:q154037-55F85BAD-4E34-4D3A-BABC-C1D7E35353E6 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q154037 p:P31 wds:q154037-b11161a5-4ed3-ec73-d7e9-218112992283 .
+
+wds:q154037-b11161a5-4ed3-ec73-d7e9-218112992283 a wikibase:Statement ;
+	ps:P31 wd:Q161726 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q154037 p:P112 wds:q154037-08F3882B-8F1A-42FE-AF06-ADDEDB779D58 .
+
+wds:q154037-08F3882B-8F1A-42FE-AF06-ADDEDB779D58 a wikibase:Statement ;
+	ps:P112 wd:Q1356462 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q154037 p:P571 wds:q154037-bf30b50a-476c-8e85-2ae4-c784f71dbea3 .
+
+wds:q154037-bf30b50a-476c-8e85-2ae4-c784f71dbea3 a wikibase:Statement ;
+	ps:P571 "1924-03-28T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:499918a5e4f62545d1b725a6b482e446 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q154037 p:P169 wds:q154037-e7263160-4dd9-368b-c5b9-e96ec5110314 .
+
+wds:q154037-e7263160-4dd9-368b-c5b9-e96ec5110314 a wikibase:Statement ;
+	ps:P169 wd:Q346081 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P580 "2007-02-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:eda2bbfe13bdbdea3a49daba75554adc ;
+	pq:P582 "2014-10-21T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:e1b2ff4f950cf2714ef6f93e8008f6c2 ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0,
+		wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q154037 p:P646 wds:q154037-aab86099-40a9-1005-09e1-42e8d88795a6 .
+
+wds:q154037-aab86099-40a9-1005-09e1-42e8d88795a6 a wikibase:Statement ;
+	ps:P646 "/m/03d938" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q154037 p:P856 wds:Q154037-5F868661-1004-4491-B3B7-0996D3D325F6 .
+
+wds:Q154037-5F868661-1004-4491-B3B7-0996D3D325F6 a wikibase:Statement ;
+	ps:P856 <http://www.total.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q154037 p:P910 wds:Q154037-4F7A788C-9301-4BC4-904E-914D263DE2E9 .
+
+wds:Q154037-4F7A788C-9301-4BC4-904E-914D263DE2E9 a wikibase:Statement ;
+	ps:P910 wd:Q8858858 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q154037 p:P159 wds:Q154037-B5B2A84C-083F-4CAC-893D-B2EC1564EF82 .
+
+wds:Q154037-B5B2A84C-083F-4CAC-893D-B2EC1564EF82 a wikibase:Statement ;
+	ps:P159 wd:Q189715 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(48.892392 2.243596)"^^geo:wktLiteral ;
+	pqv:P625 wdv:daf5017d5d5777f9b36bfe52066b7d51 ;
+	prov:wasDerivedFrom wdref:2f183743080f8e1970847d13a04fde9a796f1476 .
+
+wd:Q154037 p:P452 wds:Q154037-96e95812-4ea5-2c16-d81a-5f8e88147d86 .
+
+wds:Q154037-96e95812-4ea5-2c16-d81a-5f8e88147d86 a wikibase:Statement ;
+	ps:P452 wd:Q862571 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q154037 p:P1448 wds:Q154037-e1a58287-48a0-1961-e794-8a74f91f3cec .
+
+wds:Q154037-e1a58287-48a0-1961-e794-8a74f91f3cec a wikibase:Statement ;
+	ps:P1448 "Compagnie française des pétroles"@fr ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P580 "1924-03-28T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:499918a5e4f62545d1b725a6b482e446 ;
+	pq:P582 "1985-06-21T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:447dae493838ce9569fbf7d69b2d1003 ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q154037 p:P1448 wds:Q154037-fe7b09d2-4f42-4899-1c0d-4dfa8f55a1cc .
+
+wds:Q154037-fe7b09d2-4f42-4899-1c0d-4dfa8f55a1cc a wikibase:Statement ;
+	ps:P1448 "Total CFP"@fr ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P580 "1985-06-21T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:447dae493838ce9569fbf7d69b2d1003 ;
+	pq:P582 "1991-06-26T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:ae566089039079430b83cf66fe9fc472 ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q154037 p:P1448 wds:Q154037-f604a2c7-4c83-4f0a-7b92-c7b0ed365120 .
+
+wds:Q154037-f604a2c7-4c83-4f0a-7b92-c7b0ed365120 a wikibase:Statement ;
+	ps:P1448 "Total"@fr ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P580 "1991-06-26T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:ae566089039079430b83cf66fe9fc472 ;
+	pq:P582 "1999-06-14T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:4692701741abab7b6c22bf42bc55860f ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q154037 p:P1448 wds:Q154037-2747117b-4045-2a6c-a3f1-3a305004b400 .
+
+wds:Q154037-2747117b-4045-2a6c-a3f1-3a305004b400 a wikibase:Statement ;
+	ps:P1448 "Total Fina"@fr ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P580 "1999-06-14T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:4692701741abab7b6c22bf42bc55860f ;
+	pq:P582 "2000-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:23876297dbcb491380c182a907ab8974 .
+
+wd:Q154037 p:P1448 wds:Q154037-532f7402-45a2-6c4e-323c-fecb81a2bc98 .
+
+wds:Q154037-532f7402-45a2-6c4e-323c-fecb81a2bc98 a wikibase:Statement ;
+	ps:P1448 "TotalFinaElf"@fr ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P580 "2000-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:23876297dbcb491380c182a907ab8974 ;
+	pq:P582 "2003-05-06T00:00:00Z"^^xsd:dateTime ;
+	pqv:P582 wdv:f3b007f8f0be0c2102557709e293225e ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q154037 p:P1448 wds:Q154037-842ad584-43ab-f7cb-d166-a81d9176f8e2 .
+
+wds:Q154037-842ad584-43ab-f7cb-d166-a81d9176f8e2 a wikibase:Statement ;
+	ps:P1448 "Total"@fr ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P580 "2003-05-06T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 wdv:f3b007f8f0be0c2102557709e293225e ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q154037 p:P156 wds:Q154037-346DC4C8-25B7-4B50-81CA-F27CBC65309A .
+
+wds:Q154037-346DC4C8-25B7-4B50-81CA-F27CBC65309A a wikibase:Statement ;
+	ps:P156 wd:Q2839213 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q154037 p:P414 wds:Q154037-A9BBE102-5757-4C4D-8443-7753CC072C1D .
+
+wds:Q154037-A9BBE102-5757-4C4D-8443-7753CC072C1D a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "TOT" .
+
+wd:Q154037 p:P414 wds:Q154037-4b329839-4919-4201-71f7-c1fe1304869b .
+
+wds:Q154037-4b329839-4919-4201-71f7-c1fe1304869b a wikibase:Statement ;
+	ps:P414 wd:Q2385849 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "FP" ;
+	prov:wasDerivedFrom wdref:5465147fd04dad90702e27d4c25d9e67cdd8bc22 .
+
+wd:Q154037 p:P946 wds:Q154037-ecfe8459-416c-a394-0d6f-0dab9e8a5c19 .
+
+wds:Q154037-ecfe8459-416c-a394-0d6f-0dab9e8a5c19 a wikibase:Statement ;
+	ps:P946 "FR0000120271" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:5465147fd04dad90702e27d4c25d9e67cdd8bc22 .
+
+wd:Q154037 p:P17 wds:Q154037-0071a93d-40b3-14ec-648e-81a36fcc1471 .
+
+wds:Q154037-0071a93d-40b3-14ec-648e-81a36fcc1471 a wikibase:Statement ;
+	ps:P17 wd:Q142 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://zh.wikipedia.org/wiki/%E9%81%93%E8%BE%BE%E5%B0%94> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "zh" .
+
+<https://pl.wikipedia.org/wiki/Total> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "pl" .
+
+<https://ko.wikipedia.org/wiki/%ED%86%A0%ED%83%88%20%28%EA%B8%B0%EC%97%85%29> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "ko" .
+
+<https://es.wikipedia.org/wiki/Total%20S.A.> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "es" .
+
+<https://it.wikipedia.org/wiki/Total%20%28azienda%29> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "it" .
+
+<https://et.wikipedia.org/wiki/Total> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "et" .
+
+<https://de.wikipedia.org/wiki/Total%20%28Unternehmen%29> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "de" .
+
+<https://id.wikipedia.org/wiki/Total%20S.A.> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "id" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%BF%E3%83%AB> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "ja" .
+
+<https://br.wikipedia.org/wiki/Total> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "br" .
+
+<https://el.wikipedia.org/wiki/Total%20S.A.> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "el" .
+
+<https://nl.wikipedia.org/wiki/Total> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "nl" .
+
+<https://sv.wikipedia.org/wiki/Total> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "sv" .
+
+<https://pt.wikipedia.org/wiki/Total%20S.A.> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "pt" .
+
+<https://ru.wikipedia.org/wiki/Total> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "ru" .
+
+<https://en.wikipedia.org/wiki/Total%20S.A.> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "en" .
+
+<https://tr.wikipedia.org/wiki/Total%20SA> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "tr" .
+
+<https://no.wikipedia.org/wiki/Total%20%28oljeselskap%29> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "no" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%97%E0%B8%97%E0%B8%B2%E0%B8%A5> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "th" .
+
+<https://ro.wikipedia.org/wiki/Total%20S.A.> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "ro" .
+
+<https://fi.wikipedia.org/wiki/Total> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "fi" .
+
+<https://nn.wikipedia.org/wiki/Total> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "nn" .
+
+<https://cs.wikipedia.org/wiki/Total> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "cs" .
+
+<https://fa.wikipedia.org/wiki/%D8%AA%D9%88%D8%AA%D8%A7%D9%84> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "fa" .
+
+<https://bg.wikipedia.org/wiki/%D0%A2%D0%BE%D1%82%D0%B0%D0%BB> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "bg" .
+
+<https://az.wikipedia.org/wiki/Total> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "az" .
+
+<https://lt.wikipedia.org/wiki/Total> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "lt" .
+
+<https://kk.wikipedia.org/wiki/%D0%A2%D0%BE%D1%82%D0%B0%D0%BB> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "kk" .
+
+<https://vi.wikipedia.org/wiki/Total%20S.A> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "vi" .
+
+<https://la.wikipedia.org/wiki/Total%20%28societas%29> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "la" .
+
+<https://uk.wikipedia.org/wiki/Total> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "uk" .
+
+<https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3ATotal> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "ru" .
+
+<https://ar.wikipedia.org/wiki/%D8%B7%D9%88%D8%B7%D8%A7%D9%84> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "ar" .
+
+<https://fr.wikipedia.org/wiki/Total%20%28entreprise%29> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "fr" .
+
+<https://da.wikipedia.org/wiki/Total%20S.A.> a schema:Article ;
+	schema:about wd:Q154037 ;
+	schema:inLanguage "da" .
+
+wdv:eda2bbfe13bdbdea3a49daba75554adc a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2007-02-01T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "10"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:daf5017d5d5777f9b36bfe52066b7d51 a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "48.892392"^^xsd:decimal ;
+	wikibase:geoLongitude "2.243596"^^xsd:decimal ;
+	wikibase:geoPrecision "2.7777777777778E-8"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdv:ae566089039079430b83cf66fe9fc472 a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "1991-06-26T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:4692701741abab7b6c22bf42bc55860f a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "1999-06-14T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:f3b007f8f0be0c2102557709e293225e a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "2003-05-06T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdref:5465147fd04dad90702e27d4c25d9e67cdd8bc22 a wikibase:Reference ;
+	pr:P854 <https://www.euronext.com/en/products/equities/FR0000120271-XPAR> .
+
+wdata:Q154041 schema:version "213135157"^^xsd:integer ;
+	schema:dateModified "2015-04-27T09:40:58Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q154041 .
+

@@ -1,0 +1,71 @@
+wd:Q5985017 a wikibase:Item ;
+	rdfs:label "Icahn Enterprises"@en ;
+	skos:prefLabel "Icahn Enterprises"@en ;
+	schema:name "Icahn Enterprises"@en ;
+	rdfs:label "Icahn Enterprises"@en-ca ;
+	skos:prefLabel "Icahn Enterprises"@en-ca ;
+	schema:name "Icahn Enterprises"@en-ca ;
+	rdfs:label "Icahn Enterprises"@en-gb ;
+	skos:prefLabel "Icahn Enterprises"@en-gb ;
+	schema:name "Icahn Enterprises"@en-gb ;
+	rdfs:label "Icahn Enterprises L.P."@id ;
+	skos:prefLabel "Icahn Enterprises L.P."@id ;
+	schema:name "Icahn Enterprises L.P."@id ;
+	schema:description "diversified holding company"@en ;
+	skos:altLabel "Icahn Enterprises L.P."@en ;
+	wdt:P31 wd:Q6785141 ;
+	wdt:P414 wd:Q82059 ;
+	wdt:P159 wd:Q1501652 ;
+	wdt:P17 wd:Q30 ;
+	wdt:P856 <http://www.icahnenterprises.com/> ;
+	p:P31 wds:Q5985017-8710cb41-4304-c355-a3ab-a7419443f105 .
+
+wds:Q5985017-8710cb41-4304-c355-a3ab-a7419443f105 a wikibase:Statement ;
+	ps:P31 wd:Q6785141 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q5985017 p:P414 wds:Q5985017-2F281A36-5E82-4A9A-A3AF-159F28B4FFEB .
+
+wds:Q5985017-2F281A36-5E82-4A9A-A3AF-159F28B4FFEB a wikibase:Statement ;
+	ps:P414 wd:Q82059 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "IEP" ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q5985017 p:P159 wds:Q5985017-df3b358e-4eb0-727a-77c3-95ce067238f7 .
+
+wds:Q5985017-df3b358e-4eb0-727a-77c3-95ce067238f7 a wikibase:Statement ;
+	ps:P159 wd:Q1501652 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q5985017 p:P17 wds:Q5985017-58DB2563-D8C5-46F9-B395-409226AE3021 .
+
+wds:Q5985017-58DB2563-D8C5-46F9-B395-409226AE3021 a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q5985017 p:P856 wds:Q5985017-DB4F9251-454A-420C-B20F-EA1AFF95FB90 .
+
+wds:Q5985017-DB4F9251-454A-420C-B20F-EA1AFF95FB90 a wikibase:Statement ;
+	ps:P856 <http://www.icahnenterprises.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+<https://en.wikipedia.org/wiki/Icahn%20Enterprises> a schema:Article ;
+	schema:about wd:Q5985017 ;
+	schema:inLanguage "en" .
+
+<https://id.wikipedia.org/wiki/Icahn%20Enterprises%20L.P.> a schema:Article ;
+	schema:about wd:Q5985017 ;
+	schema:inLanguage "id" .
+
+wdata:Q5985029 schema:version "8992899"^^xsd:integer ;
+	schema:dateModified "2013-03-03T15:03:37Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q5985029 .
+

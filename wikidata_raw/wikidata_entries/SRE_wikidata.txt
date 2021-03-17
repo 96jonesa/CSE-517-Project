@@ -1,0 +1,39 @@
+wd:Q7449804 a wikibase:Item ;
+	rdfs:label "Sempra Energy"@en ;
+	skos:prefLabel "Sempra Energy"@en ;
+	schema:name "Sempra Energy"@en ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P856 <http://www.sempra.com/> ;
+	wdt:P414 wd:Q13677 ;
+	p:P31 wds:q7449804-002B2B5B-41EF-4EF9-A7FE-3FD44E567AB1 .
+
+wds:q7449804-002B2B5B-41EF-4EF9-A7FE-3FD44E567AB1 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q7449804 p:P856 wds:Q7449804-13862782-AB08-4920-A1FB-E83A5193777B .
+
+wds:Q7449804-13862782-AB08-4920-A1FB-E83A5193777B a wikibase:Statement ;
+	ps:P856 <http://www.sempra.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q7449804 p:P414 wds:Q7449804-3E4C2B32-43E5-456C-933A-25BFA0B17451 .
+
+wds:Q7449804-3E4C2B32-43E5-456C-933A-25BFA0B17451 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://en.wikipedia.org/wiki/Sempra%20Energy> a schema:Article ;
+	schema:about wd:Q7449804 ;
+	schema:inLanguage "en" .
+
+wdata:Q7449811 schema:version "141228887"^^xsd:integer ;
+	schema:dateModified "2014-06-28T21:20:44Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q7449811 .
+

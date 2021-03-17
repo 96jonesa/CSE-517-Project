@@ -1,0 +1,707 @@
+wd:Q156238 a wikibase:Item ;
+	rdfs:label "埃克森美孚"@zh-hans ;
+	skos:prefLabel "埃克森美孚"@zh-hans ;
+	schema:name "埃克森美孚"@zh-hans ;
+	rdfs:label "艾克森美孚"@zh-hant ;
+	skos:prefLabel "艾克森美孚"@zh-hant ;
+	schema:name "艾克森美孚"@zh-hant ;
+	rdfs:label "埃克森美孚"@zh-hk ;
+	skos:prefLabel "埃克森美孚"@zh-hk ;
+	schema:name "埃克森美孚"@zh-hk ;
+	rdfs:label "埃克森美孚"@zh-cn ;
+	skos:prefLabel "埃克森美孚"@zh-cn ;
+	schema:name "埃克森美孚"@zh-cn ;
+	rdfs:label "埃克森美孚"@zh-sg ;
+	skos:prefLabel "埃克森美孚"@zh-sg ;
+	schema:name "埃克森美孚"@zh-sg ;
+	rdfs:label "艾克森美孚"@zh-tw ;
+	skos:prefLabel "艾克森美孚"@zh-tw ;
+	schema:name "艾克森美孚"@zh-tw ;
+	rdfs:label "Exxon"@jv ;
+	skos:prefLabel "Exxon"@jv ;
+	schema:name "Exxon"@jv ;
+	rdfs:label "ExxonMobil"@pl ;
+	skos:prefLabel "ExxonMobil"@pl ;
+	schema:name "ExxonMobil"@pl ;
+	rdfs:label "ExxonMobil"@lez ;
+	skos:prefLabel "ExxonMobil"@lez ;
+	schema:name "ExxonMobil"@lez ;
+	rdfs:label "ExxonMobil"@fr ;
+	skos:prefLabel "ExxonMobil"@fr ;
+	schema:name "ExxonMobil"@fr ;
+	rdfs:label "אקסון מוביל"@he ;
+	skos:prefLabel "אקסון מוביל"@he ;
+	schema:name "אקסון מוביל"@he ;
+	rdfs:label "엑슨모빌"@ko ;
+	skos:prefLabel "엑슨모빌"@ko ;
+	schema:name "엑슨모빌"@ko ;
+	rdfs:label "ExxonMobil"@es ;
+	skos:prefLabel "ExxonMobil"@es ;
+	schema:name "ExxonMobil"@es ;
+	rdfs:label "எக்சான் மோபில்"@ta ;
+	skos:prefLabel "எக்சான் மோபில்"@ta ;
+	schema:name "எக்சான் மோபில்"@ta ;
+	rdfs:label "ExxonMobil"@hu ;
+	skos:prefLabel "ExxonMobil"@hu ;
+	schema:name "ExxonMobil"@hu ;
+	rdfs:label "ExxonMobil"@lv ;
+	skos:prefLabel "ExxonMobil"@lv ;
+	schema:name "ExxonMobil"@lv ;
+	rdfs:label "ExxonMobil"@it ;
+	skos:prefLabel "ExxonMobil"@it ;
+	schema:name "ExxonMobil"@it ;
+	rdfs:label "ExxonMobil"@et ;
+	skos:prefLabel "ExxonMobil"@et ;
+	schema:name "ExxonMobil"@et ;
+	rdfs:label "ExxonMobil"@de ;
+	skos:prefLabel "ExxonMobil"@de ;
+	schema:name "ExxonMobil"@de ;
+	rdfs:label "ExxonMobil"@id ;
+	skos:prefLabel "ExxonMobil"@id ;
+	schema:name "ExxonMobil"@id ;
+	rdfs:label "エクソンモービル"@ja ;
+	skos:prefLabel "エクソンモービル"@ja ;
+	schema:name "エクソンモービル"@ja ;
+	rdfs:label "ExxonMobil"@vi ;
+	skos:prefLabel "ExxonMobil"@vi ;
+	schema:name "ExxonMobil"@vi ;
+	rdfs:label "ExxonMobil"@en ;
+	skos:prefLabel "ExxonMobil"@en ;
+	schema:name "ExxonMobil"@en ;
+	rdfs:label "إكسون موبيل"@ar ;
+	skos:prefLabel "إكسون موبيل"@ar ;
+	schema:name "إكسون موبيل"@ar ;
+	rdfs:label "ExxonMobil"@sv ;
+	skos:prefLabel "ExxonMobil"@sv ;
+	schema:name "ExxonMobil"@sv ;
+	rdfs:label "ExxonMobil"@nl ;
+	skos:prefLabel "ExxonMobil"@nl ;
+	schema:name "ExxonMobil"@nl ;
+	rdfs:label "एक्सॉन मोबिल"@hi ;
+	skos:prefLabel "एक्सॉन मोबिल"@hi ;
+	schema:name "एक्सॉन मोबिल"@hi ;
+	rdfs:label "ExxonMobil"@pt ;
+	skos:prefLabel "ExxonMobil"@pt ;
+	schema:name "ExxonMobil"@pt ;
+	rdfs:label "ExxonMobil"@eo ;
+	skos:prefLabel "ExxonMobil"@eo ;
+	schema:name "ExxonMobil"@eo ;
+	rdfs:label "עקסאן-מאביל"@yi ;
+	skos:prefLabel "עקסאן-מאביל"@yi ;
+	schema:name "עקסאן-מאביל"@yi ;
+	rdfs:label "ExxonMobil"@ru ;
+	skos:prefLabel "ExxonMobil"@ru ;
+	schema:name "ExxonMobil"@ru ;
+	rdfs:label "Ekson mobil"@sr-el ;
+	skos:prefLabel "Ekson mobil"@sr-el ;
+	schema:name "Ekson mobil"@sr-el ;
+	rdfs:label "Ексон мобил"@sr-ec ;
+	skos:prefLabel "Ексон мобил"@sr-ec ;
+	schema:name "Ексон мобил"@sr-ec ;
+	rdfs:label "ExxonMobil"@ro ;
+	skos:prefLabel "ExxonMobil"@ro ;
+	schema:name "ExxonMobil"@ro ;
+	rdfs:label "เอ็กซอนโมบิล"@th ;
+	skos:prefLabel "เอ็กซอนโมบิล"@th ;
+	schema:name "เอ็กซอนโมบิล"@th ;
+	rdfs:label "ExxonMobil"@ca ;
+	skos:prefLabel "ExxonMobil"@ca ;
+	schema:name "ExxonMobil"@ca ;
+	rdfs:label "Exxon Mobil"@fi ;
+	skos:prefLabel "Exxon Mobil"@fi ;
+	schema:name "Exxon Mobil"@fi ;
+	rdfs:label "ExxonMobil"@uk ;
+	skos:prefLabel "ExxonMobil"@uk ;
+	schema:name "ExxonMobil"@uk ;
+	rdfs:label "ExxonMobil"@cy ;
+	skos:prefLabel "ExxonMobil"@cy ;
+	schema:name "ExxonMobil"@cy ;
+	rdfs:label "ExxonMobil"@war ;
+	skos:prefLabel "ExxonMobil"@war ;
+	schema:name "ExxonMobil"@war ;
+	rdfs:label "ExxonMobil"@sah ;
+	skos:prefLabel "ExxonMobil"@sah ;
+	schema:name "ExxonMobil"@sah ;
+	rdfs:label "Exxon Mobil"@nn ;
+	skos:prefLabel "Exxon Mobil"@nn ;
+	schema:name "Exxon Mobil"@nn ;
+	rdfs:label "ExxonMobil"@cs ;
+	skos:prefLabel "ExxonMobil"@cs ;
+	schema:name "ExxonMobil"@cs ;
+	rdfs:label "اکسون‌موبیل"@fa ;
+	skos:prefLabel "اکسون‌موبیل"@fa ;
+	schema:name "اکسون‌موبیل"@fa ;
+	rdfs:label "Exxon Mobil"@lt ;
+	skos:prefLabel "Exxon Mobil"@lt ;
+	schema:name "Exxon Mobil"@lt ;
+	rdfs:label "Exxon Mobil"@da ;
+	skos:prefLabel "Exxon Mobil"@da ;
+	schema:name "Exxon Mobil"@da ;
+	rdfs:label "ExxonMobil"@kk-arab ;
+	skos:prefLabel "ExxonMobil"@kk-arab ;
+	schema:name "ExxonMobil"@kk-arab ;
+	rdfs:label "ExxonMobil"@kk-cn ;
+	skos:prefLabel "ExxonMobil"@kk-cn ;
+	schema:name "ExxonMobil"@kk-cn ;
+	rdfs:label "ExxonMobil"@kk-tr ;
+	skos:prefLabel "ExxonMobil"@kk-tr ;
+	schema:name "ExxonMobil"@kk-tr ;
+	rdfs:label "ЕххонМобіл"@kk-kz ;
+	skos:prefLabel "ЕххонМобіл"@kk-kz ;
+	schema:name "ЕххонМобіл"@kk-kz ;
+	rdfs:label "ЕххонМобіл"@kk-cyrl ;
+	skos:prefLabel "ЕххонМобіл"@kk-cyrl ;
+	schema:name "ЕххонМобіл"@kk-cyrl ;
+	rdfs:label "ExxonMobil"@kk-latn ;
+	skos:prefLabel "ExxonMobil"@kk-latn ;
+	schema:name "ExxonMobil"@kk-latn ;
+	rdfs:label "ExxonMobil"@kk ;
+	skos:prefLabel "ExxonMobil"@kk ;
+	schema:name "ExxonMobil"@kk ;
+	rdfs:label "Ексон Мобил"@bg ;
+	skos:prefLabel "Ексон Мобил"@bg ;
+	schema:name "Ексон Мобил"@bg ;
+	rdfs:label "艾克森美孚"@zh ;
+	skos:prefLabel "艾克森美孚"@zh ;
+	schema:name "艾克森美孚"@zh ;
+	rdfs:label "Ексон мобил"@sr ;
+	skos:prefLabel "Ексон мобил"@sr ;
+	schema:name "Ексон мобил"@sr ;
+	rdfs:label "ئێکسۆن مۆبیل"@ckb ;
+	skos:prefLabel "ئێکسۆن مۆبیل"@ckb ;
+	schema:name "ئێکسۆن مۆبیل"@ckb ;
+	rdfs:label "ExxonMobil"@en-ca ;
+	skos:prefLabel "ExxonMobil"@en-ca ;
+	schema:name "ExxonMobil"@en-ca ;
+	rdfs:label "ExxonMobil"@en-gb ;
+	skos:prefLabel "ExxonMobil"@en-gb ;
+	schema:name "ExxonMobil"@en-gb ;
+	rdfs:label "ExxonMobil"@eu ;
+	skos:prefLabel "ExxonMobil"@eu ;
+	schema:name "ExxonMobil"@eu ;
+	rdfs:label "ExxonMobil"@hr ;
+	skos:prefLabel "ExxonMobil"@hr ;
+	schema:name "ExxonMobil"@hr ;
+	rdfs:label "Exxon Mobil"@nb ;
+	skos:prefLabel "Exxon Mobil"@nb ;
+	schema:name "Exxon Mobil"@nb ;
+	rdfs:label "ExxonMobil"@pt-br ;
+	skos:prefLabel "ExxonMobil"@pt-br ;
+	schema:name "ExxonMobil"@pt-br ;
+	rdfs:label "ExxonMobil"@sh ;
+	skos:prefLabel "ExxonMobil"@sh ;
+	schema:name "ExxonMobil"@sh ;
+	rdfs:label "ExxonMobil"@tr ;
+	skos:prefLabel "ExxonMobil"@tr ;
+	schema:name "ExxonMobil"@tr ;
+	rdfs:label "Exxon Mobil"@rup ;
+	skos:prefLabel "Exxon Mobil"@rup ;
+	schema:name "Exxon Mobil"@rup ;
+	rdfs:label "ExxonMobil"@la ;
+	skos:prefLabel "ExxonMobil"@la ;
+	schema:name "ExxonMobil"@la ;
+	schema:description "American multinational oil and gas corporation"@en ;
+	skos:altLabel "埃克森美孚石油"@zh,
+		"埃克森美孚"@zh,
+		"艾克森"@zh,
+		"美孚化学公司"@zh,
+		"Exxon Mobil"@pl,
+		"Exxon"@fr,
+		"Exxon Mobil Corporation"@fr,
+		"Exxon Mobil"@fr,
+		"Standard Oil of New Jersey"@fr,
+		"Exxon-Mobil Corporation"@fr,
+		"엑손모빌"@ko,
+		"엑존모빌"@ko,
+		"Exxon"@es,
+		"Standard Oil Company"@es,
+		"Exxon Mobil"@es,
+		"ExxonMobil Corporation"@es,
+		"எக்சன் மொபில்"@ta,
+		"Exxon"@lv,
+		"Esso"@lv,
+		"Mobil"@lv,
+		"Exxon"@it,
+		"Standard NJ"@it,
+		"Mobil 1"@it,
+		"Exxon Mobil"@it,
+		"Mobil"@it,
+		"Exxon"@et,
+		"Exxon Mobil Corporation"@et,
+		"Exxon Mobil"@et,
+		"Exxon"@de,
+		"Mobil Oil"@de,
+		"Esso Brasileira de Petróleo"@de,
+		"Standard Oil of New Jersey"@de,
+		"Exxon Mobil"@de,
+		"Exxon"@id,
+		"Mobil"@id,
+		"Exxon Mobil"@id,
+		"エッソ・スタンダード石油"@ja,
+		"エッソ・スタンダード"@ja,
+		"スタンダード・オイル・オブ・ニュージャージー"@ja,
+		"エッソ石油"@ja,
+		"スタンダード・オイル・オブ・ニューヨーク"@ja,
+		"エクソン・モービル"@ja,
+		"Exxon Mobil"@vi,
+		"اكسون موبيل"@ar,
+		"Exxon"@sv,
+		"Vacuum Oil"@sv,
+		"Exxon Mobil"@sv,
+		"Exxon"@nl,
+		"ExxonMobile"@nl,
+		"Exxon-Mobil"@nl,
+		"Exxon Mobil"@nl,
+		"Mobil"@nl,
+		"Exxon Mobile"@nl,
+		"Exxon Mobil Corporation"@nl,
+		"Exxon Chemicals"@nl,
+		"Exxon"@pt,
+		"PLN 010"@pt,
+		"Exxon-Mobil"@pt,
+		"Exxon Mobil"@pt,
+		"Mobil"@pt,
+		"ExxonMobil Corporation"@pt,
+		"Exxon"@ru,
+		"Mobil Oil"@ru,
+		"Exxon Mobil"@ru,
+		"ЕксонМобил"@ru,
+		"Mobil"@ru,
+		"XOM"@ru,
+		"Exxon Mobil Corporation"@ru,
+		"Эксон"@ru,
+		"ExxonMobil Corporation"@ru,
+		"ExxonMobil"@sr,
+		"Ексон Мобил"@sr,
+		"Exxon"@ro,
+		"Esso"@ro,
+		"Exxon Mobil"@ro,
+		"Esso"@ca,
+		"Exxon Mobil"@ca,
+		"ExxonMobil Corporation"@ca,
+		"Exxon"@fi,
+		"ExxonMobil"@fi,
+		"Mobil Oil"@fi,
+		"Exxon-Mobil"@fi,
+		"Mobil"@fi,
+		"Exxon Corp."@uk,
+		"Exxon Corporation"@uk,
+		"Mobil Corp."@uk,
+		"XOM"@uk,
+		"Мобіл"@uk,
+		"Mobil Corporation"@uk,
+		"Exxon Mobil Corporation"@uk,
+		"Exxon Mobil Corp."@uk,
+		"ExxonMobil Corp."@uk,
+		"ExxonMobil Corporation"@uk,
+		"Esso"@cy,
+		"Exxon"@nn,
+		"Exxon Mobil Corporation"@nn,
+		"ExxonMobil"@nn,
+		"Exxon Mobil"@cs,
+		"ExxonMobil Corporation"@cs,
+		"اکسان موبیل"@fa,
+		"اکسون موبیل"@fa,
+		"اکسان‌موبیل"@fa,
+		"اگزان موبیل"@fa,
+		"ExxonMobil"@lt,
+		"Exxon Mobil Corporation"@da,
+		"ExxonMobil"@da,
+		"Exxon Mobil Corporation"@en,
+		"Exxon Mobil Corp."@en,
+		"Exxon Mobile Corporation"@nb,
+		"Exxon"@nb,
+		"Exxon Mobile"@nb,
+		"Exxon Mobil Corporation"@nb,
+		"Exxonmobil Holding Norway"@nb,
+		"Exxonmobil Production Norway Inc"@nb,
+		"Exxonmobil Exploration And Production Norway"@nb,
+		"ExxonMobil"@nb,
+		"Standard Oil Company of New Jersey"@nb,
+		"Mobil Exploration and Production Norway Inc."@nb ;
+	wdt:P31 wd:Q891723,
+		wd:Q783794 ;
+	wdt:P1297 "13-5409005" ;
+	wdt:P1278 "J3WHBG0MTS7O8ZVMDC91" ;
+	wdt:P159 wd:Q51690 ;
+	wdt:P169 wd:Q331401 ;
+	wdt:P373 "ExxonMobil" ;
+	wdt:P155 wd:Q4781944,
+		wd:Q3088656 ;
+	wdt:P910 wd:Q8432566 ;
+	wdt:P646 "/m/02s6x" ;
+	wdt:P17 wd:Q30 ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P946 "US30231G1022" ;
+	wdt:P571 "1999-11-30T00:00:00Z"^^xsd:dateTime ;
+	wdt:P1128 "+75000"^^xsd:decimal ;
+	wdt:P856 <http://www.exxonmobil.com> ;
+	wdt:P127 wd:Q4008579 ;
+	p:P31 wds:Q156238-c7193de7-4364-9348-f57d-ed64e4d7737c .
+
+wds:Q156238-c7193de7-4364-9348-f57d-ed64e4d7737c a wikibase:Statement ;
+	ps:P31 wd:Q891723 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q156238 p:P31 wds:Q156238-1B15E969-61C5-4061-A7A9-8B12351F7E1E .
+
+wds:Q156238-1B15E969-61C5-4061-A7A9-8B12351F7E1E a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q156238 p:P1297 wds:Q156238-c10ca8df-40b5-3728-0150-beb1586e38d9 .
+
+wds:Q156238-c10ca8df-40b5-3728-0150-beb1586e38d9 a wikibase:Statement ;
+	ps:P1297 "13-5409005" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q156238 p:P1278 wds:Q156238-cc5e58ce-4e9f-7821-1ea6-2a752784af32 .
+
+wds:Q156238-cc5e58ce-4e9f-7821-1ea6-2a752784af32 a wikibase:Statement ;
+	ps:P1278 "J3WHBG0MTS7O8ZVMDC91" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q156238 p:P159 wds:q156238-D09CA4DF-45BF-4B17-8CDC-82B8BB96ABBD .
+
+wds:q156238-D09CA4DF-45BF-4B17-8CDC-82B8BB96ABBD a wikibase:Statement ;
+	ps:P159 wd:Q51690 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q156238 p:P169 wds:q156238-617DEDDE-2F40-4B71-B5BC-769819E34379 .
+
+wds:q156238-617DEDDE-2F40-4B71-B5BC-769819E34379 a wikibase:Statement ;
+	ps:P169 wd:Q331401 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q156238 p:P373 wds:q156238-52660A76-7EE0-4E3A-BAD3-7A1CB60C01CB .
+
+wds:q156238-52660A76-7EE0-4E3A-BAD3-7A1CB60C01CB a wikibase:Statement ;
+	ps:P373 "ExxonMobil" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q156238 p:P155 wds:q156238-AD71A81A-DA17-483B-93E9-71D75FF3C675 .
+
+wds:q156238-AD71A81A-DA17-483B-93E9-71D75FF3C675 a wikibase:Statement ;
+	ps:P155 wd:Q4781944 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q156238 p:P155 wds:q156238-40117BBD-325F-44DE-8BA9-8688D55F07C4 .
+
+wds:q156238-40117BBD-325F-44DE-8BA9-8688D55F07C4 a wikibase:Statement ;
+	ps:P155 wd:Q3088656 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q156238 p:P910 wds:Q156238-269F8ABE-C355-4FEC-9190-81B18AB4EDD6 .
+
+wds:Q156238-269F8ABE-C355-4FEC-9190-81B18AB4EDD6 a wikibase:Statement ;
+	ps:P910 wd:Q8432566 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q156238 p:P646 wds:Q156238-182F1C3E-BF31-467E-A47F-5E456D50437E .
+
+wds:Q156238-182F1C3E-BF31-467E-A47F-5E456D50437E a wikibase:Statement ;
+	ps:P646 "/m/02s6x" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q156238 p:P17 wds:Q156238-E06E5ADE-2DE5-4D5B-A798-B4B9D3D9FBE3 .
+
+wds:Q156238-E06E5ADE-2DE5-4D5B-A798-B4B9D3D9FBE3 a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q156238 p:P414 wds:Q156238-ebf98380-4954-8315-a795-f7010d1a71b9 .
+
+wds:Q156238-ebf98380-4954-8315-a795-f7010d1a71b9 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "XOM" .
+
+wd:Q156238 p:P946 wds:Q156238-8454b035-49bf-a0db-db78-9d514fe21e7f .
+
+wds:Q156238-8454b035-49bf-a0db-db78-9d514fe21e7f a wikibase:Statement ;
+	ps:P946 "US30231G1022" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:fde1f5018e28bb0cf9589e3cc47477fac675a92d .
+
+wd:Q156238 p:P571 wds:Q156238-50f5e3c9-424b-075e-e6dc-7f69a627e94d .
+
+wds:Q156238-50f5e3c9-424b-075e-e6dc-7f69a627e94d a wikibase:Statement ;
+	ps:P571 "1999-11-30T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:560626ee4956690e0aec82f74ea7a63a ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q156238 p:P1128 wds:Q156238-d1601b44-46b2-e39f-761e-52d596a4a73c .
+
+wds:Q156238-d1601b44-46b2-e39f-761e-52d596a4a73c a wikibase:Statement ;
+	ps:P1128 "+75000"^^xsd:decimal ;
+	psv:P1128 wdv:9b377352e29924f6705297e60283784e ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P585 "2013-12-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P585 wdv:9daf2b5fdf640c3cefb5e7e35d630de1 .
+
+wd:Q156238 p:P856 wds:Q156238-6D368FEE-0684-4CCA-9C45-4F9717212643 .
+
+wds:Q156238-6D368FEE-0684-4CCA-9C45-4F9717212643 a wikibase:Statement ;
+	ps:P856 <http://www.exxonmobil.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q156238 p:P127 wds:Q156238-851ad5d2-4ebf-e380-ffa2-699093a4e2ee .
+
+wds:Q156238-851ad5d2-4ebf-e380-ffa2-699093a4e2ee a wikibase:Statement ;
+	ps:P127 wd:Q4008579 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P1107 "+0.06"^^xsd:decimal ;
+	pqv:P1107 wdv:18c19a6fe3bfe3af01e1e0de254dabb0 .
+
+<https://zh.wikipedia.org/wiki/%E8%89%BE%E5%85%8B%E6%A3%AE%E7%BE%8E%E5%AD%9A> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "zh" .
+
+<https://jv.wikipedia.org/wiki/Exxon> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "jv" .
+
+<https://pl.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "pl" .
+
+<https://lez.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "lez" .
+
+<https://fr.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "fr" .
+
+<https://he.wikipedia.org/wiki/%D7%90%D7%A7%D7%A1%D7%95%D7%9F%20%D7%9E%D7%95%D7%91%D7%99%D7%9C> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "he" .
+
+<https://ko.wikipedia.org/wiki/%EC%97%91%EC%8A%A8%EB%AA%A8%EB%B9%8C> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "ko" .
+
+<https://es.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "es" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%8E%E0%AE%95%E0%AF%8D%E0%AE%9A%E0%AE%BE%E0%AE%A9%E0%AF%8D%20%E0%AE%AE%E0%AF%8B%E0%AE%AA%E0%AE%BF%E0%AE%B2%E0%AF%8D> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "ta" .
+
+<https://hu.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "hu" .
+
+<https://lv.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "lv" .
+
+<https://it.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "it" .
+
+<https://et.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "et" .
+
+<https://de.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "de" .
+
+<https://id.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "id" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%BD%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%93%E3%83%AB> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "ja" .
+
+<https://vi.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "vi" .
+
+<https://simple.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "simple" .
+
+<https://ar.wikipedia.org/wiki/%D8%A5%D9%83%D8%B3%D9%88%D9%86%20%D9%85%D9%88%D8%A8%D9%8A%D9%84> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "ar" .
+
+<https://sv.wikipedia.org/wiki/Exxon%20Mobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "sv" .
+
+<https://nl.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "nl" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%89%E0%A4%A8%20%E0%A4%AE%E0%A5%8B%E0%A4%AC%E0%A4%BF%E0%A4%B2> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "hi" .
+
+<https://pt.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "pt" .
+
+<https://eo.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "eo" .
+
+<https://yi.wikipedia.org/wiki/%D7%A2%D7%A7%D7%A1%D7%90%D7%9F-%D7%9E%D7%90%D7%91%D7%99%D7%9C> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "yi" .
+
+<https://ru.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "ru" .
+
+<https://sr.wikipedia.org/wiki/%D0%95%D0%BA%D1%81%D0%BE%D0%BD%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "sr" .
+
+<https://en.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "en" .
+
+<https://ro.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "ro" .
+
+<https://no.wikipedia.org/wiki/Exxon%20Mobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "no" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B8%AD%E0%B8%99%E0%B9%82%E0%B8%A1%E0%B8%9A%E0%B8%B4%E0%B8%A5> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "th" .
+
+<https://ca.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "ca" .
+
+<https://fi.wikipedia.org/wiki/Exxon%20Mobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "fi" .
+
+<https://uk.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "uk" .
+
+<https://cy.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "cy" .
+
+<https://war.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "war" .
+
+<https://sah.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "sah" .
+
+<https://nn.wikipedia.org/wiki/Exxon%20Mobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "nn" .
+
+<https://cs.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "cs" .
+
+<https://fa.wikipedia.org/wiki/%D8%A7%DA%A9%D8%B3%D8%A7%D9%86%E2%80%8C%D9%85%D9%88%D8%A8%DB%8C%D9%84> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "fa" .
+
+<https://lt.wikipedia.org/wiki/Exxon%20Mobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "lt" .
+
+<https://da.wikipedia.org/wiki/Exxon%20Mobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "da" .
+
+<https://kk.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "kk" .
+
+<https://bg.wikipedia.org/wiki/%D0%95%D0%BA%D1%81%D0%BE%D0%BD%20%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "bg" .
+
+<https://hr.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "hr" .
+
+<https://tr.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "tr" .
+
+<https://sh.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "sh" .
+
+<https://ckb.wikipedia.org/wiki/%D8%A6%DB%8E%DA%A9%D8%B3%DB%86%D9%86%20%D9%85%DB%86%D8%A8%DB%8C%D9%84> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "ckb" .
+
+<https://eu.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "eu" .
+
+<https://roa-rup.wikipedia.org/wiki/Exxon%20Mobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "roa-rup" .
+
+<https://la.wikipedia.org/wiki/ExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "la" .
+
+<https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3AExxonMobil> a schema:Article ;
+	schema:about wd:Q156238 ;
+	schema:inLanguage "ru" .
+
+wdv:9b377352e29924f6705297e60283784e a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+75000"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+75000"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+75000"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdv:18c19a6fe3bfe3af01e1e0de254dabb0 a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+0.06"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+0.07"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+0.05"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdref:fde1f5018e28bb0cf9589e3cc47477fac675a92d a wikibase:Reference ;
+	pr:P854 <http://www.quotenet.com/stock-price/XOM> .
+
+wdata:Q156239 schema:version "146904092"^^xsd:integer ;
+	schema:dateModified "2014-07-22T20:36:16Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q156239 .
+

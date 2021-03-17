@@ -1,0 +1,154 @@
+wd:Q1815011 a wikibase:Item ;
+	rdfs:label "太平洋瓦电公司"@zh-hans ;
+	skos:prefLabel "太平洋瓦电公司"@zh-hans ;
+	schema:name "太平洋瓦电公司"@zh-hans ;
+	rdfs:label "太平洋瓦電公司"@zh-hant ;
+	skos:prefLabel "太平洋瓦電公司"@zh-hant ;
+	schema:name "太平洋瓦電公司"@zh-hant ;
+	rdfs:label "太平洋瓦電公司"@zh-hk ;
+	skos:prefLabel "太平洋瓦電公司"@zh-hk ;
+	schema:name "太平洋瓦電公司"@zh-hk ;
+	rdfs:label "Pacific Gas and Electric"@de ;
+	skos:prefLabel "Pacific Gas and Electric"@de ;
+	schema:name "Pacific Gas and Electric"@de ;
+	rdfs:label "パシフィック・ガス・アンド・エレクトリック・カンパニー"@ja ;
+	skos:prefLabel "パシフィック・ガス・アンド・エレクトリック・カンパニー"@ja ;
+	schema:name "パシフィック・ガス・アンド・エレクトリック・カンパニー"@ja ;
+	rdfs:label "Pacific Gas and Electric Company"@fr ;
+	skos:prefLabel "Pacific Gas and Electric Company"@fr ;
+	schema:name "Pacific Gas and Electric Company"@fr ;
+	rdfs:label "Pacific Gas and Electric Company"@en ;
+	skos:prefLabel "Pacific Gas and Electric Company"@en ;
+	schema:name "Pacific Gas and Electric Company"@en ;
+	rdfs:label "Pacific Gas and Electric Company"@nl ;
+	skos:prefLabel "Pacific Gas and Electric Company"@nl ;
+	schema:name "Pacific Gas and Electric Company"@nl ;
+	rdfs:label "پی‌جی اند ای"@fa ;
+	skos:prefLabel "پی‌جی اند ای"@fa ;
+	schema:name "پی‌جی اند ای"@fa ;
+	rdfs:label "太平洋瓦電公司"@zh ;
+	skos:prefLabel "太平洋瓦電公司"@zh ;
+	schema:name "太平洋瓦電公司"@zh ;
+	schema:description "American utility company"@en ;
+	skos:altLabel "PG&E"@de,
+		"Pacific Gas and Electric Company"@de,
+		"PG&E"@ja,
+		"パシフィックガスアンドエレクトリック"@ja,
+		"パシフィック・ガス・アンド・エレクトリック"@ja,
+		"PG&E"@fr,
+		"PG&E Corp."@fr,
+		"PG&E Corp"@nl,
+		"PG&E Corporation"@nl,
+		"Pacific Gas & Electric Company"@nl,
+		"PG&E"@en,
+		"PG&E Corporation"@en ;
+	wdt:P159 wd:Q3486922 ;
+	wdt:P373 "Pacific Gas and Electric Company" ;
+	wdt:P31 wd:Q891723 ;
+	wdt:P856 <http://www.pge.com> ;
+	wdt:P646 "/m/033818" ;
+	wdt:P910 wd:Q15284882 ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P17 wd:Q30 ;
+	wdt:P571 "1905-01-01T00:00:00Z"^^xsd:dateTime ;
+	p:P159 wds:Q1815011-49d40227-4b65-e4d6-41ee-3cfc11de681f .
+
+wds:Q1815011-49d40227-4b65-e4d6-41ee-3cfc11de681f a wikibase:Statement ;
+	ps:P159 wd:Q3486922 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1815011 p:P373 wds:q1815011-6C7C142E-6202-48A6-B644-1D301C54239D .
+
+wds:q1815011-6C7C142E-6202-48A6-B644-1D301C54239D a wikibase:Statement ;
+	ps:P373 "Pacific Gas and Electric Company" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1815011 p:P31 wds:Q1815011-4325bbe9-4e50-40c5-6d7f-c82eb9f5a0a5 .
+
+wds:Q1815011-4325bbe9-4e50-40c5-6d7f-c82eb9f5a0a5 a wikibase:Statement ;
+	ps:P31 wd:Q891723 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1815011 p:P856 wds:Q1815011-7BDBBE86-01F1-44D7-90EC-84576105DC94 .
+
+wds:Q1815011-7BDBBE86-01F1-44D7-90EC-84576105DC94 a wikibase:Statement ;
+	ps:P856 <http://www.pge.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q1815011 p:P646 wds:Q1815011-15BDEF33-F772-4915-B8FE-04D563F059A5 .
+
+wds:Q1815011-15BDEF33-F772-4915-B8FE-04D563F059A5 a wikibase:Statement ;
+	ps:P646 "/m/033818" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q1815011 p:P910 wds:Q1815011-A5CB223E-8A37-4552-A661-EF7A75838A21 .
+
+wds:Q1815011-A5CB223E-8A37-4552-A661-EF7A75838A21 a wikibase:Statement ;
+	ps:P910 wd:Q15284882 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q1815011 p:P414 wds:Q1815011-FFE956A8-9F90-4D85-91CD-2A8CAE084D74 .
+
+wds:Q1815011-FFE956A8-9F90-4D85-91CD-2A8CAE084D74 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "PCG" .
+
+wd:Q1815011 p:P17 wds:Q1815011-6DBF0B91-9EBB-43CF-867F-04C1585777F5 .
+
+wds:Q1815011-6DBF0B91-9EBB-43CF-867F-04C1585777F5 a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q1815011 p:P571 wds:Q1815011-287a67c7-48eb-fd9f-5a07-545e22b8473e .
+
+wds:Q1815011-287a67c7-48eb-fd9f-5a07-545e22b8473e a wikibase:Statement ;
+	ps:P571 "1905-01-01T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:da91ba38e8e44c2338435181b50075f5 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E7%93%A6%E9%9B%BB%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q1815011 ;
+	schema:inLanguage "zh" .
+
+<https://de.wikipedia.org/wiki/Pacific%20Gas%20and%20Electric> a schema:Article ;
+	schema:about wd:Q1815011 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%B7%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AC%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC> a schema:Article ;
+	schema:about wd:Q1815011 ;
+	schema:inLanguage "ja" .
+
+<https://fr.wikipedia.org/wiki/Pacific%20Gas%20and%20Electric%20Company> a schema:Article ;
+	schema:about wd:Q1815011 ;
+	schema:inLanguage "fr" .
+
+<https://en.wikipedia.org/wiki/Pacific%20Gas%20and%20Electric%20Company> a schema:Article ;
+	schema:about wd:Q1815011 ;
+	schema:inLanguage "en" .
+
+<https://nl.wikipedia.org/wiki/Pacific%20Gas%20and%20Electric%20Company> a schema:Article ;
+	schema:about wd:Q1815011 ;
+	schema:inLanguage "nl" .
+
+<https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%E2%80%8C%D8%AC%DB%8C%20%D8%A7%D9%86%D8%AF%20%D8%A7%DB%8C> a schema:Article ;
+	schema:about wd:Q1815011 ;
+	schema:inLanguage "fa" .
+
+wdata:Q1815013 schema:version "231654008"^^xsd:integer ;
+	schema:dateModified "2015-07-16T16:15:42Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q1815013 .
+

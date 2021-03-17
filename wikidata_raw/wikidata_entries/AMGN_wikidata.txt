@@ -1,0 +1,143 @@
+wd:Q470517 a wikibase:Item ;
+	rdfs:label "Amgen"@fr ;
+	skos:prefLabel "Amgen"@fr ;
+	schema:name "Amgen"@fr ;
+	rdfs:label "Amgen"@en ;
+	skos:prefLabel "Amgen"@en ;
+	schema:name "Amgen"@en ;
+	rdfs:label "Amgen"@de ;
+	skos:prefLabel "Amgen"@de ;
+	schema:name "Amgen"@de ;
+	rdfs:label "Amgen"@pt ;
+	skos:prefLabel "Amgen"@pt ;
+	schema:name "Amgen"@pt ;
+	rdfs:label "Amgen"@da ;
+	skos:prefLabel "Amgen"@da ;
+	schema:name "Amgen"@da ;
+	rdfs:label "Amgen"@ro ;
+	skos:prefLabel "Amgen"@ro ;
+	schema:name "Amgen"@ro ;
+	rdfs:label "アムジェン"@ja ;
+	skos:prefLabel "アムジェン"@ja ;
+	schema:name "アムジェン"@ja ;
+	rdfs:label "Amgen"@es ;
+	skos:prefLabel "Amgen"@es ;
+	schema:name "Amgen"@es ;
+	rdfs:label "Amgen"@it ;
+	skos:prefLabel "Amgen"@it ;
+	schema:name "Amgen"@it ;
+	rdfs:label "Amgen"@nl ;
+	skos:prefLabel "Amgen"@nl ;
+	schema:name "Amgen"@nl ;
+	rdfs:label "Amgen"@fi ;
+	skos:prefLabel "Amgen"@fi ;
+	schema:name "Amgen"@fi ;
+	rdfs:label "امژن"@fa ;
+	skos:prefLabel "امژن"@fa ;
+	schema:name "امژن"@fa ;
+	rdfs:label "Amgen"@id ;
+	skos:prefLabel "Amgen"@id ;
+	schema:name "Amgen"@id ;
+	rdfs:label "Amgen"@uk ;
+	skos:prefLabel "Amgen"@uk ;
+	schema:name "Amgen"@uk ;
+	rdfs:label "Amgen"@pl ;
+	skos:prefLabel "Amgen"@pl ;
+	schema:name "Amgen"@pl ;
+	skos:altLabel "Amgen Inc."@de,
+		"Micromet"@de,
+		"Amgen Inc."@da,
+		"Amgen"@ja,
+		"Amgen Inc."@es,
+		"Amgen Inc"@es ;
+	wdt:P910 wd:Q8248590 ;
+	wdt:P414 wd:Q82059 ;
+	wdt:P646 "/m/03r820" ;
+	p:P910 wds:Q470517-229FD3AC-A254-49A3-A8C0-7A0522DBE920 .
+
+wds:Q470517-229FD3AC-A254-49A3-A8C0-7A0522DBE920 a wikibase:Statement ;
+	ps:P910 wd:Q8248590 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q470517 p:P414 wds:Q470517-09A3FCB0-2D9C-41BD-8100-D0E1D230A9DC .
+
+wds:Q470517-09A3FCB0-2D9C-41BD-8100-D0E1D230A9DC a wikibase:Statement ;
+	ps:P414 wd:Q82059 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q470517 p:P646 wds:Q470517-CA7B1BBA-5E19-4EF6-A973-1494D2C4B8CB .
+
+wds:Q470517-CA7B1BBA-5E19-4EF6-A973-1494D2C4B8CB a wikibase:Statement ;
+	ps:P646 "/m/03r820" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+<https://en.wikipedia.org/wiki/Amgen> a schema:Article ;
+	schema:about wd:Q470517 ;
+	schema:inLanguage "en" .
+
+<https://de.wikipedia.org/wiki/Amgen> a schema:Article ;
+	schema:about wd:Q470517 ;
+	schema:inLanguage "de" .
+
+<https://fr.wikipedia.org/wiki/Amgen> a schema:Article ;
+	schema:about wd:Q470517 ;
+	schema:inLanguage "fr" .
+
+<https://es.wikipedia.org/wiki/Amgen> a schema:Article ;
+	schema:about wd:Q470517 ;
+	schema:inLanguage "es" .
+
+<https://it.wikipedia.org/wiki/Amgen> a schema:Article ;
+	schema:about wd:Q470517 ;
+	schema:inLanguage "it" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A0%E3%82%B8%E3%82%A7%E3%83%B3> a schema:Article ;
+	schema:about wd:Q470517 ;
+	schema:inLanguage "ja" .
+
+<https://nl.wikipedia.org/wiki/Amgen> a schema:Article ;
+	schema:about wd:Q470517 ;
+	schema:inLanguage "nl" .
+
+<https://pt.wikipedia.org/wiki/Amgen> a schema:Article ;
+	schema:about wd:Q470517 ;
+	schema:inLanguage "pt" .
+
+<https://fa.wikipedia.org/wiki/%D8%A7%D9%85%DA%98%D9%86> a schema:Article ;
+	schema:about wd:Q470517 ;
+	schema:inLanguage "fa" .
+
+<https://fi.wikipedia.org/wiki/Amgen> a schema:Article ;
+	schema:about wd:Q470517 ;
+	schema:inLanguage "fi" .
+
+<https://uk.wikipedia.org/wiki/Amgen> a schema:Article ;
+	schema:about wd:Q470517 ;
+	schema:inLanguage "uk" .
+
+<https://ro.wikipedia.org/wiki/Amgen> a schema:Article ;
+	schema:about wd:Q470517 ;
+	schema:inLanguage "ro" .
+
+<https://da.wikipedia.org/wiki/Amgen> a schema:Article ;
+	schema:about wd:Q470517 ;
+	schema:inLanguage "da" .
+
+<https://id.wikipedia.org/wiki/Amgen> a schema:Article ;
+	schema:about wd:Q470517 ;
+	schema:inLanguage "id" .
+
+<https://pl.wikipedia.org/wiki/Amgen> a schema:Article ;
+	schema:about wd:Q470517 ;
+	schema:inLanguage "pl" .
+
+wdata:Q470518 schema:version "223798016"^^xsd:integer ;
+	schema:dateModified "2015-06-25T08:59:34Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q470518 .
+

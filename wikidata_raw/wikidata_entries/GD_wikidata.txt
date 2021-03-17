@@ -1,0 +1,313 @@
+wd:Q502940 a wikibase:Item ;
+	rdfs:label "通用动力"@zh-hans ;
+	skos:prefLabel "通用动力"@zh-hans ;
+	schema:name "通用动力"@zh-hans ;
+	rdfs:label "通用動力"@zh-hant ;
+	skos:prefLabel "通用動力"@zh-hant ;
+	schema:name "通用動力"@zh-hant ;
+	rdfs:label "通用動力"@zh-hk ;
+	skos:prefLabel "通用動力"@zh-hk ;
+	schema:name "通用動力"@zh-hk ;
+	rdfs:label "General Dynamics"@pl ;
+	skos:prefLabel "General Dynamics"@pl ;
+	schema:name "General Dynamics"@pl ;
+	rdfs:label "제너럴 다이내믹스"@ko ;
+	skos:prefLabel "제너럴 다이내믹스"@ko ;
+	schema:name "제너럴 다이내믹스"@ko ;
+	rdfs:label "General Dynamics"@fr ;
+	skos:prefLabel "General Dynamics"@fr ;
+	schema:name "General Dynamics"@fr ;
+	rdfs:label "General Dynamics"@bs ;
+	skos:prefLabel "General Dynamics"@bs ;
+	schema:name "General Dynamics"@bs ;
+	rdfs:label "ג'נרל דיינמיקס"@he ;
+	skos:prefLabel "ג'נרל דיינמיקס"@he ;
+	schema:name "ג'נרל דיינמיקס"@he ;
+	rdfs:label "General Dynamics"@es ;
+	skos:prefLabel "General Dynamics"@es ;
+	schema:name "General Dynamics"@es ;
+	rdfs:label "General Dynamics"@ms ;
+	skos:prefLabel "General Dynamics"@ms ;
+	schema:name "General Dynamics"@ms ;
+	rdfs:label "General Dynamics"@it ;
+	skos:prefLabel "General Dynamics"@it ;
+	schema:name "General Dynamics"@it ;
+	rdfs:label "General Dynamics"@id ;
+	skos:prefLabel "General Dynamics"@id ;
+	schema:name "General Dynamics"@id ;
+	rdfs:label "General Dynamics"@de ;
+	skos:prefLabel "General Dynamics"@de ;
+	schema:name "General Dynamics"@de ;
+	rdfs:label "ジェネラル・ダイナミクス"@ja ;
+	skos:prefLabel "ジェネラル・ダイナミクス"@ja ;
+	schema:name "ジェネラル・ダイナミクス"@ja ;
+	rdfs:label "General Dynamics"@sv ;
+	skos:prefLabel "General Dynamics"@sv ;
+	schema:name "General Dynamics"@sv ;
+	rdfs:label "General Dynamics"@nl ;
+	skos:prefLabel "General Dynamics"@nl ;
+	schema:name "General Dynamics"@nl ;
+	rdfs:label "جنرل داينمكس"@ar ;
+	skos:prefLabel "جنرل داينمكس"@ar ;
+	schema:name "جنرل داينمكس"@ar ;
+	rdfs:label "General Dynamics"@pt ;
+	skos:prefLabel "General Dynamics"@pt ;
+	schema:name "General Dynamics"@pt ;
+	rdfs:label "General Dynamics"@ru ;
+	skos:prefLabel "General Dynamics"@ru ;
+	schema:name "General Dynamics"@ru ;
+	rdfs:label "General Dynamics"@en ;
+	skos:prefLabel "General Dynamics"@en ;
+	schema:name "General Dynamics"@en ;
+	rdfs:label "General Dynamics"@tr ;
+	skos:prefLabel "General Dynamics"@tr ;
+	schema:name "General Dynamics"@tr ;
+	rdfs:label "General Dynamics"@ro ;
+	skos:prefLabel "General Dynamics"@ro ;
+	schema:name "General Dynamics"@ro ;
+	rdfs:label "General Dynamics"@fi ;
+	skos:prefLabel "General Dynamics"@fi ;
+	schema:name "General Dynamics"@fi ;
+	rdfs:label "General Dynamics"@cs ;
+	skos:prefLabel "General Dynamics"@cs ;
+	schema:name "General Dynamics"@cs ;
+	rdfs:label "جنرال داینامیکس"@fa ;
+	skos:prefLabel "جنرال داینامیکس"@fa ;
+	schema:name "جنرال داینامیکس"@fa ;
+	rdfs:label "General Dynamics"@hr ;
+	skos:prefLabel "General Dynamics"@hr ;
+	schema:name "General Dynamics"@hr ;
+	rdfs:label "General Dynamics"@da ;
+	skos:prefLabel "General Dynamics"@da ;
+	schema:name "General Dynamics"@da ;
+	rdfs:label "通用动力"@zh ;
+	skos:prefLabel "通用动力"@zh ;
+	schema:name "通用动力"@zh ;
+	rdfs:label "General Dynamics"@nb ;
+	skos:prefLabel "General Dynamics"@nb ;
+	schema:name "General Dynamics"@nb ;
+	rdfs:label "General Dynamics"@uk ;
+	skos:prefLabel "General Dynamics"@uk ;
+	schema:name "General Dynamics"@uk ;
+	rdfs:label "جنرل ڈائنامکس"@ur ;
+	skos:prefLabel "جنرل ڈائنامکس"@ur ;
+	schema:name "جنرل ڈائنامکس"@ur ;
+	rdfs:label "General Dynamics"@sl ;
+	skos:prefLabel "General Dynamics"@sl ;
+	schema:name "General Dynamics"@sl ;
+	skos:altLabel "通用動力公司"@zh,
+		"General Dynamics"@zh,
+		"제너럴 다이나믹스"@ko,
+		"제너럴다이내믹스"@ko,
+		"제네럴 다이나믹스"@ko,
+		"General Dynamics Corporation"@fr,
+		"ג'נרל דינאמיקס"@he,
+		"General Dynamics Corporation"@de,
+		"ジェネラルダイナミックス"@ja,
+		"ジェネラルダイナミクス"@ja,
+		"ジェネラル・ダイナミクス・ランド・システムズ"@ja,
+		"ゼネラルダイナミクス"@ja,
+		"ゼネラル・ダイナミクス"@ja,
+		"ジェネラル・ダイナミックス"@ja,
+		"General Dynamics Corporation"@sv,
+		"General Dynamics European Land Combat Systems"@sv,
+		"General Dynamics Corporation"@nl,
+		"جنرل داينامكس"@ar,
+		"جنرال داينمكس"@ar,
+		"جينيرال داينامكس"@ar,
+		"جنرال داينامكس"@ar,
+		"Дженерал Дайнемикс"@ru,
+		"Дженерал Дайнэмикс"@ru,
+		"General Dynamics Corporation"@fi,
+		"جنرال داینامیکز"@fa,
+		"General Dynamics Corporation"@da,
+		"General Dynamics Corporation"@nb ;
+	wdt:P373 "General Dynamics" ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P112 wd:Q960949 ;
+	wdt:P910 wd:Q8218166 ;
+	wdt:P646 "/m/0dq23" ;
+	wdt:P159 wd:Q408744 ;
+	wdt:P452 wd:Q474200 ;
+	wdt:P414 wd:Q13677 ;
+	p:P373 wds:q502940-006BFA2B-E7D9-4410-961D-1DBAB51CB973 .
+
+wds:q502940-006BFA2B-E7D9-4410-961D-1DBAB51CB973 a wikibase:Statement ;
+	ps:P373 "General Dynamics" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q502940 p:P31 wds:q502940-AB5641D0-6E51-4F01-86BE-24E7D73C7228 .
+
+wds:q502940-AB5641D0-6E51-4F01-86BE-24E7D73C7228 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q502940 p:P112 wds:q502940-110F523C-1343-48F7-A345-F6DC92116150 .
+
+wds:q502940-110F523C-1343-48F7-A345-F6DC92116150 a wikibase:Statement ;
+	ps:P112 wd:Q960949 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q502940 p:P910 wds:Q502940-0ABDF72A-0779-4E74-A07A-3493C6D660B5 .
+
+wds:Q502940-0ABDF72A-0779-4E74-A07A-3493C6D660B5 a wikibase:Statement ;
+	ps:P910 wd:Q8218166 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q502940 p:P646 wds:Q502940-1926BD02-88B1-4FD9-B7BD-34C335238FFF .
+
+wds:Q502940-1926BD02-88B1-4FD9-B7BD-34C335238FFF a wikibase:Statement ;
+	ps:P646 "/m/0dq23" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q502940 p:P159 wds:Q502940-C2E3F3FC-938E-448F-B80D-4C9C0CC2E8D8 .
+
+wds:Q502940-C2E3F3FC-938E-448F-B80D-4C9C0CC2E8D8 a wikibase:Statement ;
+	ps:P159 wd:Q408744 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:f70116eac7f49194478b3025330bfd8dcffa3c69 .
+
+wd:Q502940 p:P452 wds:Q502940-8B816E38-2E08-4BCB-8C9F-2FA279D522A0 .
+
+wds:Q502940-8B816E38-2E08-4BCB-8C9F-2FA279D522A0 a wikibase:Statement ;
+	ps:P452 wd:Q474200 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q502940 p:P414 wds:Q502940-31DC54FF-566B-48CC-A6BA-F31F95437F88 .
+
+wds:Q502940-31DC54FF-566B-48CC-A6BA-F31F95437F88 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://zh.wikipedia.org/wiki/%E9%80%9A%E7%94%A8%E5%8A%A8%E5%8A%9B> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "zh" .
+
+<https://pl.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "pl" .
+
+<https://ko.wikipedia.org/wiki/%EC%A0%9C%EB%84%88%EB%9F%B4%20%EB%8B%A4%EC%9D%B4%EB%82%B4%EB%AF%B9%EC%8A%A4> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "ko" .
+
+<https://fr.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "fr" .
+
+<https://bs.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "bs" .
+
+<https://he.wikipedia.org/wiki/%D7%92%27%D7%A0%D7%A8%D7%9C%20%D7%93%D7%99%D7%99%D7%A0%D7%9E%D7%99%D7%A7%D7%A1> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "he" .
+
+<https://es.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "es" .
+
+<https://ms.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "ms" .
+
+<https://it.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "it" .
+
+<https://id.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "id" .
+
+<https://de.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%BB%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%82%AF%E3%82%B9> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "ja" .
+
+<https://sv.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "sv" .
+
+<https://nl.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "nl" .
+
+<https://ar.wikipedia.org/wiki/%D8%AC%D9%86%D8%B1%D8%A7%D9%84%20%D8%AF%D9%8A%D9%86%D8%A7%D9%85%D9%8A%D9%83%D8%B3> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "ar" .
+
+<https://pt.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "pt" .
+
+<https://ru.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "ru" .
+
+<https://en.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "en" .
+
+<https://tr.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "tr" .
+
+<https://ro.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "ro" .
+
+<https://no.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "no" .
+
+<https://fi.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "fi" .
+
+<https://cs.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "cs" .
+
+<https://fa.wikipedia.org/wiki/%D8%AC%D9%86%D8%B1%D8%A7%D9%84%20%D8%AF%D8%A7%DB%8C%D9%86%D8%A7%D9%85%DB%8C%DA%A9%D8%B3> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "fa" .
+
+<https://hr.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "hr" .
+
+<https://da.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "da" .
+
+<https://uk.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "uk" .
+
+<https://ur.wikipedia.org/wiki/%D8%AC%D9%86%D8%B1%D9%84%20%DA%88%D8%A7%D8%A6%D9%86%D8%A7%D9%85%DA%A9%D8%B3> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "ur" .
+
+<https://sl.wikipedia.org/wiki/General%20Dynamics> a schema:Article ;
+	schema:about wd:Q502940 ;
+	schema:inLanguage "sl" .
+
+wdata:Q502943 schema:version "231526196"^^xsd:integer ;
+	schema:dateModified "2015-07-16T11:41:49Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q502943 .
+

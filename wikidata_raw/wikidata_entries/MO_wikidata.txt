@@ -1,0 +1,382 @@
+wd:Q445007 a wikibase:Item ;
+	rdfs:label "Altria Group"@ru ;
+	skos:prefLabel "Altria Group"@ru ;
+	schema:name "Altria Group"@ru ;
+	rdfs:label "Altria"@fr ;
+	skos:prefLabel "Altria"@fr ;
+	schema:name "Altria"@fr ;
+	rdfs:label "Altria"@en ;
+	skos:prefLabel "Altria"@en ;
+	schema:name "Altria"@en ;
+	rdfs:label "Altria Group"@nl ;
+	skos:prefLabel "Altria Group"@nl ;
+	schema:name "Altria Group"@nl ;
+	rdfs:label "Altria"@pt ;
+	skos:prefLabel "Altria"@pt ;
+	schema:name "Altria"@pt ;
+	rdfs:label "Altria Group"@sq ;
+	skos:prefLabel "Altria Group"@sq ;
+	schema:name "Altria Group"@sq ;
+	rdfs:label "Altria Group"@de ;
+	skos:prefLabel "Altria Group"@de ;
+	schema:name "Altria Group"@de ;
+	rdfs:label "알트리아"@ko ;
+	skos:prefLabel "알트리아"@ko ;
+	schema:name "알트리아"@ko ;
+	rdfs:label "Altria Group"@sv ;
+	skos:prefLabel "Altria Group"@sv ;
+	schema:name "Altria Group"@sv ;
+	rdfs:label "アルトリア"@ja ;
+	skos:prefLabel "アルトリア"@ja ;
+	schema:name "アルトリア"@ja ;
+	rdfs:label "گروه آلتریا"@fa ;
+	skos:prefLabel "گروه آلتریا"@fa ;
+	schema:name "گروه آلتریا"@fa ;
+	rdfs:label "Altria Group"@it ;
+	skos:prefLabel "Altria Group"@it ;
+	schema:name "Altria Group"@it ;
+	rdfs:label "Altria"@pl ;
+	skos:prefLabel "Altria"@pl ;
+	schema:name "Altria"@pl ;
+	rdfs:label "Altria Group"@cs ;
+	skos:prefLabel "Altria Group"@cs ;
+	schema:name "Altria Group"@cs ;
+	rdfs:label "Altria Group"@fi ;
+	skos:prefLabel "Altria Group"@fi ;
+	schema:name "Altria Group"@fi ;
+	rdfs:label "Altria Group"@ro ;
+	skos:prefLabel "Altria Group"@ro ;
+	schema:name "Altria Group"@ro ;
+	rdfs:label "Altria Group"@id ;
+	skos:prefLabel "Altria Group"@id ;
+	schema:name "Altria Group"@id ;
+	rdfs:label "Altria Group"@es ;
+	skos:prefLabel "Altria Group"@es ;
+	schema:name "Altria Group"@es ;
+	rdfs:label "Altria"@eu ;
+	skos:prefLabel "Altria"@eu ;
+	schema:name "Altria"@eu ;
+	rdfs:label "Altria Group"@de-ch ;
+	skos:prefLabel "Altria Group"@de-ch ;
+	schema:name "Altria Group"@de-ch ;
+	rdfs:label "Altria"@en-ca ;
+	skos:prefLabel "Altria"@en-ca ;
+	schema:name "Altria"@en-ca ;
+	rdfs:label "Altria"@en-gb ;
+	skos:prefLabel "Altria"@en-gb ;
+	schema:name "Altria"@en-gb ;
+	rdfs:label "Altria"@pt-br ;
+	skos:prefLabel "Altria"@pt-br ;
+	schema:name "Altria"@pt-br ;
+	rdfs:label "奧馳亞"@zh ;
+	skos:prefLabel "奧馳亞"@zh ;
+	schema:name "奧馳亞"@zh ;
+	schema:description "American multinational corporation"@en ;
+	skos:altLabel "Altria"@ru,
+		"Altria group"@ru,
+		"Филипп Моррис"@ru,
+		"Алтриа"@ru,
+		"Алтриа Груп"@ru,
+		"Altria Group"@fr,
+		"Philip Morris Compagnies"@fr,
+		"Philip Morris Companies Inc"@fr,
+		"Altria group"@fr,
+		"General Foods"@fr,
+		"Altria"@nl,
+		"Altria Group Inc"@nl,
+		"Altria Group Inc."@pt,
+		"Altria Group"@pt,
+		"Philip Morris"@pt,
+		"Altria group"@pt,
+		"Altria group inc."@pt,
+		"Philip morris"@pt,
+		"Phillip Morris"@pt,
+		"Grupo Altria"@pt,
+		"Philip Morris."@sq,
+		"Philip Morris"@sq,
+		"Phillip Morris"@de,
+		"Altria"@de,
+		"Philip Morris Companies Inc."@de,
+		"Philip Morris Companies"@de,
+		"알트리아 그룹"@ko,
+		"Altria"@sv,
+		"Philip & Morris"@sv,
+		"گروه التریا"@fa,
+		"Philip Morris"@it,
+		"Altria"@it,
+		"Altria Group"@pl,
+		"Philip Morris"@cs,
+		"Altria"@cs,
+		"Philip Morris ČR"@cs,
+		"Philip Morris"@fi,
+		"Altria"@fi,
+		"Philip Morris Finland"@fi,
+		"Philip Morris"@ro,
+		"Altria group"@ro,
+		"Altria"@ro,
+		"Altria group"@id,
+		"Grupo Altria"@es,
+		"Altria"@es,
+		"Altria Group, Inc."@en,
+		"Philip Morris Companies Inc."@en ;
+	wdt:P1297 "13-3260245" ;
+	wdt:P1278 "XSGZFLO9YTNO9VCQV219" ;
+	wdt:P112 wd:Q1726300,
+		wd:Q327751,
+		wd:Q1545718 ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P856 <http://www.altria.com> ;
+	wdt:P646 "/m/0dv3x" ;
+	wdt:P159 wd:Q341639 ;
+	wdt:P571 "1985-01-01T00:00:00Z"^^xsd:dateTime ;
+	wdt:P17 wd:Q30 ;
+	wdt:P31 wd:Q891723 ;
+	wdt:P155 wd:Q7875793 ;
+	wdt:P1128 "+9900"^^xsd:decimal ;
+	wdt:P355 wd:Q1726300,
+		wd:Q16988206,
+		wd:Q268337,
+		wd:Q5087545 ;
+	wdt:P127 wd:Q505275 ;
+	p:P1297 wds:Q445007-737f14a9-4d33-fadf-2264-09d7650e2f0c .
+
+wds:Q445007-737f14a9-4d33-fadf-2264-09d7650e2f0c a wikibase:Statement ;
+	ps:P1297 "13-3260245" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q445007 p:P1278 wds:Q445007-29c88989-41c0-127f-5522-e7e30590fd21 .
+
+wds:Q445007-29c88989-41c0-127f-5522-e7e30590fd21 a wikibase:Statement ;
+	ps:P1278 "XSGZFLO9YTNO9VCQV219" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q445007 p:P112 wds:q445007-F5746C6E-D075-405C-8075-5127FC1D1824 .
+
+wds:q445007-F5746C6E-D075-405C-8075-5127FC1D1824 a wikibase:Statement ;
+	ps:P112 wd:Q1726300 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q445007 p:P112 wds:q445007-BC09D9BB-C8F8-4A57-BDFC-A414ED2B491F .
+
+wds:q445007-BC09D9BB-C8F8-4A57-BDFC-A414ED2B491F a wikibase:Statement ;
+	ps:P112 wd:Q327751 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q445007 p:P112 wds:q445007-0F81D77D-4B03-45FF-ACB8-4B931AFCE2B6 .
+
+wds:q445007-0F81D77D-4B03-45FF-ACB8-4B931AFCE2B6 a wikibase:Statement ;
+	ps:P112 wd:Q1545718 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q445007 p:P414 wds:q445007-AF6E673E-01F9-4714-BCC7-87A65BE21CC4 .
+
+wds:q445007-AF6E673E-01F9-4714-BCC7-87A65BE21CC4 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "MO" .
+
+wd:Q445007 p:P856 wds:Q445007-86E0DD42-71C0-48EB-AE29-C16B371887D8 .
+
+wds:Q445007-86E0DD42-71C0-48EB-AE29-C16B371887D8 a wikibase:Statement ;
+	ps:P856 <http://www.altria.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q445007 p:P646 wds:Q445007-BAEEFACD-CBBD-4F95-A058-F6646E1E95C6 .
+
+wds:Q445007-BAEEFACD-CBBD-4F95-A058-F6646E1E95C6 a wikibase:Statement ;
+	ps:P646 "/m/0dv3x" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q445007 p:P159 wds:Q445007-a94154ab-4b0f-0b17-c610-7f2736009974 .
+
+wds:Q445007-a94154ab-4b0f-0b17-c610-7f2736009974 a wikibase:Statement ;
+	ps:P159 wd:Q341639 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q445007 p:P571 wds:Q445007-6002198b-4557-768f-ad01-f56ff84b25d9 .
+
+wds:Q445007-6002198b-4557-768f-ad01-f56ff84b25d9 a wikibase:Statement ;
+	ps:P571 "1985-01-01T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:1f23b2bc0ef387c3e4107011f0c0cbc8 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q445007 p:P17 wds:Q445007-162B156E-B735-4054-83C6-C9ACE0E89123 .
+
+wds:Q445007-162B156E-B735-4054-83C6-C9ACE0E89123 a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q445007 p:P31 wds:Q445007-cb744d81-45d9-8a57-a610-82a29bafaabb .
+
+wds:Q445007-cb744d81-45d9-8a57-a610-82a29bafaabb a wikibase:Statement ;
+	ps:P31 wd:Q891723 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q445007 p:P155 wds:Q445007-954E96AA-9681-48F9-B879-212CB4E71526 .
+
+wds:Q445007-954E96AA-9681-48F9-B879-212CB4E71526 a wikibase:Statement ;
+	ps:P155 wd:Q7875793 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q445007 p:P1128 wds:Q445007-f4be42ca-43e5-e986-bce5-77d540d0910f .
+
+wds:Q445007-f4be42ca-43e5-e986-bce5-77d540d0910f a wikibase:Statement ;
+	ps:P1128 "+9900"^^xsd:decimal ;
+	psv:P1128 wdv:076772250bbd19f1a20eeb7db4108813 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q445007 p:P355 wds:Q445007-1c6fd34b-494d-26dc-5497-872f3bd7b96e .
+
+wds:Q445007-1c6fd34b-494d-26dc-5497-872f3bd7b96e a wikibase:Statement ;
+	ps:P355 wd:Q1726300 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q445007 p:P355 wds:Q445007-69a24f6e-480a-5f12-b759-9de15ee41be7 .
+
+wds:Q445007-69a24f6e-480a-5f12-b759-9de15ee41be7 a wikibase:Statement ;
+	ps:P355 wd:Q16988206 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q445007 p:P355 wds:Q445007-74b356be-4e12-f8be-6935-1f2a32e694b0 .
+
+wds:Q445007-74b356be-4e12-f8be-6935-1f2a32e694b0 a wikibase:Statement ;
+	ps:P355 wd:Q268337 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q445007 p:P355 wds:Q445007-62f045a7-43a5-dc7c-e63d-18f5a3f54979 .
+
+wds:Q445007-62f045a7-43a5-dc7c-e63d-18f5a3f54979 a wikibase:Statement ;
+	ps:P355 wd:Q5087545 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q445007 p:P127 wds:Q445007-d1bde379-4997-9e7a-a457-b8a5f04a09c8 .
+
+wds:Q445007-d1bde379-4997-9e7a-a457-b8a5f04a09c8 a wikibase:Statement ;
+	ps:P127 wd:Q505275 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P1107 "+0.0767"^^xsd:decimal ;
+	pqv:P1107 wdv:07095fcc74ad648d25beccd43e994029 .
+
+<https://fi.wikipedia.org/wiki/Altria%20Group> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "fi" .
+
+<https://sv.wikipedia.org/wiki/Altria%20Group> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "sv" .
+
+<https://nl.wikipedia.org/wiki/Altria%20Group> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "nl" .
+
+<https://id.wikipedia.org/wiki/Altria%20Group> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "id" .
+
+<https://pt.wikipedia.org/wiki/Altria> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "pt" .
+
+<https://it.wikipedia.org/wiki/Altria%20Group> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "it" .
+
+<https://cs.wikipedia.org/wiki/Altria%20Group> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "cs" .
+
+<https://fa.wikipedia.org/wiki/%D8%A2%D9%84%D8%AA%D8%B1%DB%8C%D8%A7> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "fa" .
+
+<https://de.wikipedia.org/wiki/Altria%20Group> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "de" .
+
+<https://fr.wikipedia.org/wiki/Altria> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "fr" .
+
+<https://es.wikipedia.org/wiki/Altria%20Group> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "es" .
+
+<https://en.wikipedia.org/wiki/Altria> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "en" .
+
+<https://pl.wikipedia.org/wiki/Altria> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "pl" .
+
+<https://ru.wikipedia.org/wiki/Altria%20Group> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "ru" .
+
+<https://sq.wikipedia.org/wiki/Altria%20Group> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "sq" .
+
+<https://ro.wikipedia.org/wiki/Altria%20Group> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "ro" .
+
+<https://ko.wikipedia.org/wiki/%EC%95%8C%ED%8A%B8%EB%A6%AC%EC%95%84> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "ko" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%88%E3%83%AA%E3%82%A2> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "ja" .
+
+<https://eu.wikipedia.org/wiki/Altria> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "eu" .
+
+<https://zh.wikipedia.org/wiki/%E5%A5%A7%E9%A6%B3%E4%BA%9E> a schema:Article ;
+	schema:about wd:Q445007 ;
+	schema:inLanguage "zh" .
+
+wdv:076772250bbd19f1a20eeb7db4108813 a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+9900"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+9901"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+9899"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdv:07095fcc74ad648d25beccd43e994029 a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+0.0767"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+0.0768"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+0.0766"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdata:Q445014 schema:version "135200715"^^xsd:integer ;
+	schema:dateModified "2014-05-30T13:13:12Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q445014 .
+

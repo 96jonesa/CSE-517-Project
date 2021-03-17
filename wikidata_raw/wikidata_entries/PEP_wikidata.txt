@@ -1,0 +1,448 @@
+wd:Q334800 a wikibase:Item ;
+	rdfs:label "百事公司"@zh-hans ;
+	skos:prefLabel "百事公司"@zh-hans ;
+	schema:name "百事公司"@zh-hans ;
+	rdfs:label "百事公司"@zh-hant ;
+	skos:prefLabel "百事公司"@zh-hant ;
+	schema:name "百事公司"@zh-hant ;
+	rdfs:label "百事公司"@zh-hk ;
+	skos:prefLabel "百事公司"@zh-hk ;
+	schema:name "百事公司"@zh-hk ;
+	rdfs:label "百事公司"@zh-cn ;
+	skos:prefLabel "百事公司"@zh-cn ;
+	schema:name "百事公司"@zh-cn ;
+	rdfs:label "百事公司"@zh-sg ;
+	skos:prefLabel "百事公司"@zh-sg ;
+	schema:name "百事公司"@zh-sg ;
+	rdfs:label "百事公司"@zh-tw ;
+	skos:prefLabel "百事公司"@zh-tw ;
+	schema:name "百事公司"@zh-tw ;
+	rdfs:label "PepsiCo"@pl ;
+	skos:prefLabel "PepsiCo"@pl ;
+	schema:name "PepsiCo"@pl ;
+	rdfs:label "PepsiCo"@es ;
+	skos:prefLabel "PepsiCo"@es ;
+	schema:name "PepsiCo"@es ;
+	rdfs:label "PepsiCo"@hu ;
+	skos:prefLabel "PepsiCo"@hu ;
+	schema:name "PepsiCo"@hu ;
+	rdfs:label "পেপসিকো"@bn ;
+	skos:prefLabel "পেপসিকো"@bn ;
+	schema:name "পেপসিকো"@bn ;
+	rdfs:label "PepsiCo"@nl ;
+	skos:prefLabel "PepsiCo"@nl ;
+	schema:name "PepsiCo"@nl ;
+	rdfs:label "PepsiCo"@sv ;
+	skos:prefLabel "PepsiCo"@sv ;
+	schema:name "PepsiCo"@sv ;
+	rdfs:label "PepsiCo"@pt ;
+	skos:prefLabel "PepsiCo"@pt ;
+	schema:name "PepsiCo"@pt ;
+	rdfs:label "PepsiCo"@ru ;
+	skos:prefLabel "PepsiCo"@ru ;
+	schema:name "PepsiCo"@ru ;
+	rdfs:label "PepsiCo"@fi ;
+	skos:prefLabel "PepsiCo"@fi ;
+	schema:name "PepsiCo"@fi ;
+	rdfs:label "પેપ્સીકો"@gu ;
+	skos:prefLabel "પેપ્સીકો"@gu ;
+	schema:name "પેપ્સીકો"@gu ;
+	rdfs:label "PepsiCo"@sco ;
+	skos:prefLabel "PepsiCo"@sco ;
+	schema:name "PepsiCo"@sco ;
+	rdfs:label "PepsiCo"@da ;
+	skos:prefLabel "PepsiCo"@da ;
+	schema:name "PepsiCo"@da ;
+	rdfs:label "펩시코"@ko ;
+	skos:prefLabel "펩시코"@ko ;
+	schema:name "펩시코"@ko ;
+	rdfs:label "PepsiCo"@fr ;
+	skos:prefLabel "PepsiCo"@fr ;
+	schema:name "PepsiCo"@fr ;
+	rdfs:label "פפסיקו"@he ;
+	skos:prefLabel "פפסיקו"@he ;
+	schema:name "פפסיקו"@he ;
+	rdfs:label "PepsiCo"@it ;
+	skos:prefLabel "PepsiCo"@it ;
+	schema:name "PepsiCo"@it ;
+	rdfs:label "PepsiCo"@de ;
+	skos:prefLabel "PepsiCo"@de ;
+	schema:name "PepsiCo"@de ;
+	rdfs:label "ペプシコ"@ja ;
+	skos:prefLabel "ペプシコ"@ja ;
+	schema:name "ペプシコ"@ja ;
+	rdfs:label "पेप्सिको"@hi ;
+	skos:prefLabel "पेप्सिको"@hi ;
+	schema:name "पेप्सिको"@hi ;
+	rdfs:label "PepsiCo"@en ;
+	skos:prefLabel "PepsiCo"@en ;
+	schema:name "PepsiCo"@en ;
+	rdfs:label "ಪೆಪ್ಸಿಕೋ"@kn ;
+	skos:prefLabel "ಪೆಪ್ಸಿಕೋ"@kn ;
+	schema:name "ಪೆಪ್ಸಿಕೋ"@kn ;
+	rdfs:label "PepsiCo"@ro ;
+	skos:prefLabel "PepsiCo"@ro ;
+	schema:name "PepsiCo"@ro ;
+	rdfs:label "پپسی‌کو"@fa ;
+	skos:prefLabel "پپسی‌کو"@fa ;
+	schema:name "پپسی‌کو"@fa ;
+	rdfs:label "PepsiCo"@bg ;
+	skos:prefLabel "PepsiCo"@bg ;
+	schema:name "PepsiCo"@bg ;
+	rdfs:label "పెప్సికో"@te ;
+	skos:prefLabel "పెప్సికో"@te ;
+	schema:name "పెప్సికో"@te ;
+	rdfs:label "PepsiCo"@ka ;
+	skos:prefLabel "PepsiCo"@ka ;
+	schema:name "PepsiCo"@ka ;
+	rdfs:label "بيبسيكو"@ar ;
+	skos:prefLabel "بيبسيكو"@ar ;
+	schema:name "بيبسيكو"@ar ;
+	rdfs:label "百事公司"@zh ;
+	skos:prefLabel "百事公司"@zh ;
+	schema:name "百事公司"@zh ;
+	rdfs:label "PepsiCo"@de-ch ;
+	skos:prefLabel "PepsiCo"@de-ch ;
+	schema:name "PepsiCo"@de-ch ;
+	rdfs:label "PepsiCo"@en-ca ;
+	skos:prefLabel "PepsiCo"@en-ca ;
+	schema:name "PepsiCo"@en-ca ;
+	rdfs:label "PepsiCo"@en-gb ;
+	skos:prefLabel "PepsiCo"@en-gb ;
+	schema:name "PepsiCo"@en-gb ;
+	rdfs:label "PepsiCo"@nb ;
+	skos:prefLabel "PepsiCo"@nb ;
+	schema:name "PepsiCo"@nb ;
+	rdfs:label "PepsiCo"@pt-br ;
+	skos:prefLabel "PepsiCo"@pt-br ;
+	schema:name "PepsiCo"@pt-br ;
+	rdfs:label "PepsiCo"@is ;
+	skos:prefLabel "PepsiCo"@is ;
+	schema:name "PepsiCo"@is ;
+	rdfs:label "PepsiCo"@ca ;
+	skos:prefLabel "PepsiCo"@ca ;
+	schema:name "PepsiCo"@ca ;
+	rdfs:label "PepsiCo"@hy ;
+	skos:prefLabel "PepsiCo"@hy ;
+	schema:name "PepsiCo"@hy ;
+	rdfs:label "PepsiCo"@uk ;
+	skos:prefLabel "PepsiCo"@uk ;
+	schema:name "PepsiCo"@uk ;
+	rdfs:label "百事公司"@yue ;
+	skos:prefLabel "百事公司"@yue ;
+	schema:name "百事公司"@yue ;
+	rdfs:label "PepsiCo"@tr ;
+	skos:prefLabel "PepsiCo"@tr ;
+	schema:name "PepsiCo"@tr ;
+	rdfs:label "PepsiCo"@zea ;
+	skos:prefLabel "PepsiCo"@zea ;
+	schema:name "PepsiCo"@zea ;
+	rdfs:label "PepsiCo"@gl ;
+	skos:prefLabel "PepsiCo"@gl ;
+	schema:name "PepsiCo"@gl ;
+	rdfs:label "PepsiCo"@id ;
+	skos:prefLabel "PepsiCo"@id ;
+	schema:name "PepsiCo"@id ;
+	schema:description "soft drink company"@en,
+		"multinationale américaine"@fr ;
+	skos:altLabel "百事集团"@zh,
+		"百事可樂公司"@zh,
+		"PepsiCo Inc."@es,
+		"PepsiCo Internacional"@es,
+		"PepsiCo."@es,
+		"PepsiCo Inc"@es,
+		"Pepsi Cola Company"@sv,
+		"Aquafina"@sv,
+		"PepsiCo Inc"@sv,
+		"Pepsi co."@pt,
+		"ПепсиКо"@ru,
+		"PepsiCo Inc."@ru,
+		"Sierra Mist"@fi,
+		"Citrus Blast"@da,
+		"펩시 콜라 컴패니"@ko,
+		"펩시 회사"@ko,
+		"펲시코"@ko,
+		"PepsiCo Incorporated"@fr,
+		"PepsiCo Mexicana"@de,
+		"PepsiCo"@ja,
+		"Pepsi Americas"@ro,
+		"پپسی کو"@fa,
+		"პეპსიკო"@ka,
+		"PepsiCo Inc."@en ;
+	wdt:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Pepsico%20logo.png> ;
+	wdt:P373 "PepsiCo" ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P112 wd:Q5294731,
+		wd:Q3134077 ;
+	wdt:P361 wd:Q242345 ;
+	wdt:P571 "1965-01-01T00:00:00Z"^^xsd:dateTime ;
+	wdt:P910 wd:Q7336294 ;
+	wdt:P856 <http://www.pepsico.com> ;
+	wdt:P646 "/m/04htfd" ;
+	wdt:P227 "5297815-1" ;
+	wdt:P355 wd:Q1221751,
+		wd:Q304992 ;
+	p:P154 wds:q334800-7C626F14-EB1C-46C6-A589-4B8E583D5C4B .
+
+wds:q334800-7C626F14-EB1C-46C6-A589-4B8E583D5C4B a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Pepsico%20logo.png> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q334800 p:P373 wds:q334800-0652B61E-8C1E-4A9A-AE24-E72C7C8C6277 .
+
+wds:q334800-0652B61E-8C1E-4A9A-AE24-E72C7C8C6277 a wikibase:Statement ;
+	ps:P373 "PepsiCo" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q334800 p:P414 wds:q334800-cba696a0-4199-5e7e-86de-4679642a1458 .
+
+wds:q334800-cba696a0-4199-5e7e-86de-4679642a1458 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "PEP" .
+
+wd:Q334800 p:P31 wds:q334800-C2E799A4-419E-4C6E-B17F-D369A457EA5B .
+
+wds:q334800-C2E799A4-419E-4C6E-B17F-D369A457EA5B a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q334800 p:P112 wds:q334800-FF6DAE6F-31BA-4A1B-80C3-9F8BEED944C5 .
+
+wds:q334800-FF6DAE6F-31BA-4A1B-80C3-9F8BEED944C5 a wikibase:Statement ;
+	ps:P112 wd:Q5294731 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q334800 p:P112 wds:q334800-B2C70535-874C-41AC-AC88-ACD8E4678F38 .
+
+wds:q334800-B2C70535-874C-41AC-AC88-ACD8E4678F38 a wikibase:Statement ;
+	ps:P112 wd:Q3134077 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q334800 p:P361 wds:q334800-177c3865-47fd-87f7-5002-c4ad246c0fc9 .
+
+wds:q334800-177c3865-47fd-87f7-5002-c4ad246c0fc9 a wikibase:Statement ;
+	ps:P361 wd:Q242345 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q334800 p:P571 wds:q334800-12174f82-440d-bb16-eed4-a0fcac40343a .
+
+wds:q334800-12174f82-440d-bb16-eed4-a0fcac40343a a wikibase:Statement ;
+	ps:P571 "1965-01-01T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:06986fec91fc8d27b02341c7cbd6fe1d ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q334800 p:P910 wds:Q334800-47E91F9B-A3C3-49FA-8FA3-32E2B5C13EC2 .
+
+wds:Q334800-47E91F9B-A3C3-49FA-8FA3-32E2B5C13EC2 a wikibase:Statement ;
+	ps:P910 wd:Q7336294 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q334800 p:P856 wds:Q334800-82BFB995-2528-4D88-88DC-7DEE27C990AC .
+
+wds:Q334800-82BFB995-2528-4D88-88DC-7DEE27C990AC a wikibase:Statement ;
+	ps:P856 <http://www.pepsico.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q334800 p:P646 wds:Q334800-DA8286F7-0F11-485C-8320-15AE2183781B .
+
+wds:Q334800-DA8286F7-0F11-485C-8320-15AE2183781B a wikibase:Statement ;
+	ps:P646 "/m/04htfd" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q334800 p:P227 wds:Q334800-8F044B1B-3888-4620-B098-41E6D69E2A87 .
+
+wds:Q334800-8F044B1B-3888-4620-B098-41E6D69E2A87 a wikibase:Statement ;
+	ps:P227 "5297815-1" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q334800 p:P355 wds:Q334800-C104668C-F50F-4A78-BEE8-76D0E1805A9A .
+
+wds:Q334800-C104668C-F50F-4A78-BEE8-76D0E1805A9A a wikibase:Statement ;
+	ps:P355 wd:Q1221751 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q334800 p:P355 wds:Q334800-1278BA2A-D650-47BD-91DC-4DF136A58B84 .
+
+wds:Q334800-1278BA2A-D650-47BD-91DC-4DF136A58B84 a wikibase:Statement ;
+	ps:P355 wd:Q304992 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://zh.wikipedia.org/wiki/%E7%99%BE%E4%BA%8B%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "zh" .
+
+<https://pl.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "pl" .
+
+<https://es.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "es" .
+
+<https://hu.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "hu" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%87%E0%A6%AA%E0%A6%B8%E0%A6%BF%E0%A6%95%E0%A7%8B> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "bn" .
+
+<https://nl.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "nl" .
+
+<https://sv.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "sv" .
+
+<https://pt.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "pt" .
+
+<https://ru.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "ru" .
+
+<https://fi.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "fi" .
+
+<https://gu.wikipedia.org/wiki/%E0%AA%AA%E0%AB%87%E0%AA%AA%E0%AB%8D%E0%AA%B8%E0%AB%80%E0%AA%95%E0%AB%8B> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "gu" .
+
+<https://sco.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "sco" .
+
+<https://da.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "da" .
+
+<https://ko.wikipedia.org/wiki/%ED%8E%A9%EC%8B%9C%EC%BD%94> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "ko" .
+
+<https://fr.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "fr" .
+
+<https://he.wikipedia.org/wiki/%D7%A4%D7%A4%D7%A1%D7%99%D7%A7%D7%95> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "he" .
+
+<https://it.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "it" .
+
+<https://de.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%97%E3%82%B7%E3%82%B3> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "ja" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%87%E0%A4%AA%E0%A5%8D%E0%A4%B8%E0%A4%BF%E0%A4%95%E0%A5%8B> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "hi" .
+
+<https://en.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "en" .
+
+<https://kn.wikipedia.org/wiki/%E0%B2%AA%E0%B3%86%E0%B2%AA%E0%B3%8D%E0%B2%B8%E0%B2%BF%E0%B2%95%E0%B3%8B> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "kn" .
+
+<https://ro.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "ro" .
+
+<https://no.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "no" .
+
+<https://fa.wikipedia.org/wiki/%D9%BE%D9%BE%D8%B3%DB%8C%E2%80%8C%DA%A9%D9%88> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "fa" .
+
+<https://bg.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "bg" .
+
+<https://te.wikipedia.org/wiki/%E0%B0%AA%E0%B1%86%E0%B0%AA%E0%B1%8D%E0%B0%B8%E0%B0%BF%E0%B0%95%E0%B1%8B> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "te" .
+
+<https://ka.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "ka" .
+
+<https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%A8%D8%B3%D9%8A%D9%83%D9%88> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "ar" .
+
+<https://is.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "is" .
+
+<https://zh-yue.wikipedia.org/wiki/%E7%99%BE%E4%BA%8B%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "zh-yue" .
+
+<https://uk.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "uk" .
+
+<https://ca.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "ca" .
+
+<https://tr.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "tr" .
+
+<https://zea.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "zea" .
+
+<https://gl.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "gl" .
+
+<https://hy.wikipedia.org/wiki/%D5%8A%D5%A5%D5%BA%D5%BD%D5%AB%D4%BF%D5%B8> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "hy" .
+
+<https://id.wikipedia.org/wiki/PepsiCo> a schema:Article ;
+	schema:about wd:Q334800 ;
+	schema:inLanguage "id" .
+
+wdata:Q334806 schema:version "220603647"^^xsd:integer ;
+	schema:dateModified "2015-05-30T00:04:21Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q334806 .
+

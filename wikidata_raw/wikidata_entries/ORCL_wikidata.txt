@@ -1,0 +1,773 @@
+wd:Q19900 a wikibase:Item ;
+	rdfs:label "Oracle Corporation"@en ;
+	skos:prefLabel "Oracle Corporation"@en ;
+	schema:name "Oracle Corporation"@en ;
+	rdfs:label "Oracle Corporation"@en-ca ;
+	skos:prefLabel "Oracle Corporation"@en-ca ;
+	schema:name "Oracle Corporation"@en-ca ;
+	rdfs:label "Oracle Corporation"@en-gb ;
+	skos:prefLabel "Oracle Corporation"@en-gb ;
+	schema:name "Oracle Corporation"@en-gb ;
+	rdfs:label "Oracle Corporation"@af ;
+	skos:prefLabel "Oracle Corporation"@af ;
+	schema:name "Oracle Corporation"@af ;
+	rdfs:label "أوراكل"@ar ;
+	skos:prefLabel "أوراكل"@ar ;
+	schema:name "أوراكل"@ar ;
+	rdfs:label "Оракъл"@bg ;
+	skos:prefLabel "Оракъл"@bg ;
+	schema:name "Оракъл"@bg ;
+	rdfs:label "Oracle Corporation"@ca ;
+	skos:prefLabel "Oracle Corporation"@ca ;
+	schema:name "Oracle Corporation"@ca ;
+	rdfs:label "ئۆراکڵ"@ckb ;
+	skos:prefLabel "ئۆراکڵ"@ckb ;
+	schema:name "ئۆراکڵ"@ckb ;
+	rdfs:label "Oracle Corporation"@cs ;
+	skos:prefLabel "Oracle Corporation"@cs ;
+	schema:name "Oracle Corporation"@cs ;
+	rdfs:label "Oracle Corporation"@cy ;
+	skos:prefLabel "Oracle Corporation"@cy ;
+	schema:name "Oracle Corporation"@cy ;
+	rdfs:label "Oracle"@da ;
+	skos:prefLabel "Oracle"@da ;
+	schema:name "Oracle"@da ;
+	rdfs:label "Oracle"@de ;
+	skos:prefLabel "Oracle"@de ;
+	schema:name "Oracle"@de ;
+	rdfs:label "Oracle Corporation"@es ;
+	skos:prefLabel "Oracle Corporation"@es ;
+	schema:name "Oracle Corporation"@es ;
+	rdfs:label "اوراکل"@fa ;
+	skos:prefLabel "اوراکل"@fa ;
+	schema:name "اوراکل"@fa ;
+	rdfs:label "Oracle Corporation"@fi ;
+	skos:prefLabel "Oracle Corporation"@fi ;
+	schema:name "Oracle Corporation"@fi ;
+	rdfs:label "Oracle Corporation"@fr ;
+	skos:prefLabel "Oracle Corporation"@fr ;
+	schema:name "Oracle Corporation"@fr ;
+	rdfs:label "Oracle Corporation"@gl ;
+	skos:prefLabel "Oracle Corporation"@gl ;
+	schema:name "Oracle Corporation"@gl ;
+	rdfs:label "אורקל"@he ;
+	skos:prefLabel "אורקל"@he ;
+	schema:name "אורקל"@he ;
+	rdfs:label "Oracle Corporation"@id ;
+	skos:prefLabel "Oracle Corporation"@id ;
+	schema:name "Oracle Corporation"@id ;
+	rdfs:label "Oracle Corporation"@it ;
+	skos:prefLabel "Oracle Corporation"@it ;
+	schema:name "Oracle Corporation"@it ;
+	rdfs:label "オラクル"@ja ;
+	skos:prefLabel "オラクル"@ja ;
+	schema:name "オラクル"@ja ;
+	rdfs:label "Oracle Corporation"@kaa ;
+	skos:prefLabel "Oracle Corporation"@kaa ;
+	schema:name "Oracle Corporation"@kaa ;
+	rdfs:label "Oracle Corporation"@kk ;
+	skos:prefLabel "Oracle Corporation"@kk ;
+	schema:name "Oracle Corporation"@kk ;
+	rdfs:label "오라클"@ko ;
+	skos:prefLabel "오라클"@ko ;
+	schema:name "오라클"@ko ;
+	rdfs:label "ഒറാക്കിൾ കോർപ്പറേഷൻ"@ml ;
+	skos:prefLabel "ഒറാക്കിൾ കോർപ്പറേഷൻ"@ml ;
+	schema:name "ഒറാക്കിൾ കോർപ്പറേഷൻ"@ml ;
+	rdfs:label "ऑरॅकल"@mr ;
+	skos:prefLabel "ऑरॅकल"@mr ;
+	schema:name "ऑरॅकल"@mr ;
+	rdfs:label "Oracle Corporation"@nl ;
+	skos:prefLabel "Oracle Corporation"@nl ;
+	schema:name "Oracle Corporation"@nl ;
+	rdfs:label "ଓରାକଲ"@or ;
+	skos:prefLabel "ଓରାକଲ"@or ;
+	schema:name "ଓରାକଲ"@or ;
+	rdfs:label "Oracle Corporation"@pl ;
+	skos:prefLabel "Oracle Corporation"@pl ;
+	schema:name "Oracle Corporation"@pl ;
+	rdfs:label "Oracle Corporation"@pt ;
+	skos:prefLabel "Oracle Corporation"@pt ;
+	schema:name "Oracle Corporation"@pt ;
+	rdfs:label "Oracle Corporation"@ro ;
+	skos:prefLabel "Oracle Corporation"@ro ;
+	schema:name "Oracle Corporation"@ro ;
+	rdfs:label "Oracle"@ru ;
+	skos:prefLabel "Oracle"@ru ;
+	schema:name "Oracle"@ru ;
+	rdfs:label "Oracle Corporation"@sk ;
+	skos:prefLabel "Oracle Corporation"@sk ;
+	schema:name "Oracle Corporation"@sk ;
+	rdfs:label "Oracle Corporation"@sl ;
+	skos:prefLabel "Oracle Corporation"@sl ;
+	schema:name "Oracle Corporation"@sl ;
+	rdfs:label "Oracle"@sv ;
+	skos:prefLabel "Oracle"@sv ;
+	schema:name "Oracle"@sv ;
+	rdfs:label "ఒరాకిల్ సంస్థ"@te ;
+	skos:prefLabel "ఒరాకిల్ సంస్థ"@te ;
+	schema:name "ఒరాకిల్ సంస్థ"@te ;
+	rdfs:label "ออราเคิล คอร์ปอเรชัน"@th ;
+	skos:prefLabel "ออราเคิล คอร์ปอเรชัน"@th ;
+	schema:name "ออราเคิล คอร์ปอเรชัน"@th ;
+	rdfs:label "Oracle"@tr ;
+	skos:prefLabel "Oracle"@tr ;
+	schema:name "Oracle"@tr ;
+	rdfs:label "Oracle Corporation"@uk ;
+	skos:prefLabel "Oracle Corporation"@uk ;
+	schema:name "Oracle Corporation"@uk ;
+	rdfs:label "Oracle"@uz ;
+	skos:prefLabel "Oracle"@uz ;
+	schema:name "Oracle"@uz ;
+	rdfs:label "Oracle"@vi ;
+	skos:prefLabel "Oracle"@vi ;
+	schema:name "Oracle"@vi ;
+	rdfs:label "甲骨文公司"@zh ;
+	skos:prefLabel "甲骨文公司"@zh ;
+	schema:name "甲骨文公司"@zh ;
+	rdfs:label "甲骨文公司"@zh-cn ;
+	skos:prefLabel "甲骨文公司"@zh-cn ;
+	schema:name "甲骨文公司"@zh-cn ;
+	rdfs:label "甲骨文公司"@zh-hans ;
+	skos:prefLabel "甲骨文公司"@zh-hans ;
+	schema:name "甲骨文公司"@zh-hans ;
+	rdfs:label "甲骨文公司"@zh-hant ;
+	skos:prefLabel "甲骨文公司"@zh-hant ;
+	schema:name "甲骨文公司"@zh-hant ;
+	rdfs:label "اوریکل کارپوریشن"@pnb ;
+	skos:prefLabel "اوریکل کارپوریشن"@pnb ;
+	schema:name "اوریکل کارپوریشن"@pnb ;
+	rdfs:label "ওরাকল কর্পোরেশন"@bn ;
+	skos:prefLabel "ওরাকল কর্পোরেশন"@bn ;
+	schema:name "ওরাকল কর্পোরেশন"@bn ;
+	rdfs:label "Oracle Corporation"@oc ;
+	skos:prefLabel "Oracle Corporation"@oc ;
+	schema:name "Oracle Corporation"@oc ;
+	rdfs:label "Oracle Corporation"@hu ;
+	skos:prefLabel "Oracle Corporation"@hu ;
+	schema:name "Oracle Corporation"@hu ;
+	rdfs:label "Oracle Corporation"@ga ;
+	skos:prefLabel "Oracle Corporation"@ga ;
+	schema:name "Oracle Corporation"@ga ;
+	rdfs:label "Oracle"@nb ;
+	skos:prefLabel "Oracle"@nb ;
+	schema:name "Oracle"@nb ;
+	rdfs:label "اوریکل کارپوریشن"@ur ;
+	skos:prefLabel "اوریکل کارپوریشن"@ur ;
+	schema:name "اوریکل کارپوریشن"@ur ;
+	rdfs:label "Oracle"@az ;
+	skos:prefLabel "Oracle"@az ;
+	schema:name "Oracle"@az ;
+	rdfs:label "ओरेकल फाउंडेशन"@hi ;
+	skos:prefLabel "ओरेकल फाउंडेशन"@hi ;
+	schema:name "ओरेकल फाउंडेशन"@hi ;
+	rdfs:label "Oracle Corporation"@lv ;
+	skos:prefLabel "Oracle Corporation"@lv ;
+	schema:name "Oracle Corporation"@lv ;
+	rdfs:label "Oracle Corporation"@sco ;
+	skos:prefLabel "Oracle Corporation"@sco ;
+	schema:name "Oracle Corporation"@sco ;
+	rdfs:label "Oracle"@mk ;
+	skos:prefLabel "Oracle"@mk ;
+	schema:name "Oracle"@mk ;
+	rdfs:label "Oracle Corporation"@scn ;
+	skos:prefLabel "Oracle Corporation"@scn ;
+	schema:name "Oracle Corporation"@scn ;
+	rdfs:label "Oracle"@ky ;
+	skos:prefLabel "Oracle"@ky ;
+	schema:name "Oracle"@ky ;
+	schema:description "multinacional estadounidense de software"@es,
+		"American multinational computer technology corporation"@en,
+		"US-amerikanischer Softwarehersteller"@de,
+		"società di software"@it,
+		"חברת תוכנה"@he,
+		"американская корпорация, разработчик ПО, поставщик серверного оборудования"@ru,
+		"entreprise américaine"@fr,
+		"американско информатичко претпријатие"@mk,
+		"società chi' pruggetta e' vinni calculaturi elittronici, so cumpunenti e' software"@scn,
+		"ASV multinacionāla datortehnoloģiju korporācija"@lv ;
+	skos:altLabel "Oracle Corporation"@en,
+		"Oracle"@en,
+		"Oracle Corporation"@ru,
+		"Oracle"@es ;
+	wdt:P112 wd:Q92759,
+		wd:Q2744012,
+		wd:Q5335240 ;
+	wdt:P31 wd:Q891723 ;
+	wdt:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Oracle%20logo.svg> ;
+	wdt:P169 wd:Q92759 ;
+	wdt:P159 wd:Q1267489,
+		wd:Q172 ;
+	wdt:P373 "Oracle Corporation" ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P856 <http://www.oracle.com> ;
+	wdt:P910 wd:Q6304738 ;
+	wdt:P646 "/m/05njw" ;
+	wdt:P214 "125944013" ;
+	wdt:P409 "36021387" ;
+	wdt:P691 "xx0064795" ;
+	wdt:P349 "00876920" ;
+	wdt:P244 "nr94009943" ;
+	wdt:P269 "120239205" ;
+	wdt:P227 "4430661-1" ;
+	wdt:P571 "1977-06-16T00:00:00Z"^^xsd:dateTime ;
+	wdt:P740 wd:Q159260 ;
+	wdt:P17 wd:Q30 ;
+	wdt:P1128 "+122000"^^xsd:decimal ;
+	wdt:P155 wd:Q1928814,
+		wd:Q2143512,
+		wd:Q2294054,
+		wd:Q2456368,
+		wd:Q2510510,
+		wd:Q5437151,
+		wd:Q7679213,
+		wd:Q7194130 ;
+	wdt:P946 "US68389X1054" ;
+	wdt:P127 wd:Q92759,
+		wd:Q849363,
+		wd:Q505275 ;
+	p:P112 wds:q19900-69B706FB-5C48-4024-9DD4-66F9A760952E .
+
+wds:q19900-69B706FB-5C48-4024-9DD4-66F9A760952E a wikibase:Statement ;
+	ps:P112 wd:Q92759 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P112 wds:q19900-D88F9C6F-6816-4ED4-A513-1FC792DA31EB .
+
+wds:q19900-D88F9C6F-6816-4ED4-A513-1FC792DA31EB a wikibase:Statement ;
+	ps:P112 wd:Q2744012 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P112 wds:q19900-0D266A93-16F3-4534-9422-9EEE6801BDBB .
+
+wds:q19900-0D266A93-16F3-4534-9422-9EEE6801BDBB a wikibase:Statement ;
+	ps:P112 wd:Q5335240 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P31 wds:q19900-60BD2698-9E8A-48B1-B338-963F409834DD .
+
+wds:q19900-60BD2698-9E8A-48B1-B338-963F409834DD a wikibase:Statement ;
+	ps:P31 wd:Q891723 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P154 wds:q19900-B3677FF5-0C11-4070-A113-2251149E94C4 .
+
+wds:q19900-B3677FF5-0C11-4070-A113-2251149E94C4 a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Oracle%20logo.svg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P169 wds:q19900-3AF05290-6564-4D2A-A9AA-6B7D8350F920 .
+
+wds:q19900-3AF05290-6564-4D2A-A9AA-6B7D8350F920 a wikibase:Statement ;
+	ps:P169 wd:Q92759 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P159 wds:q19900-1C746D37-C78B-4F81-B0D0-7929C3FF64CA .
+
+wds:q19900-1C746D37-C78B-4F81-B0D0-7929C3FF64CA a wikibase:Statement ;
+	ps:P159 wd:Q1267489 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(37.529444444444 -122.26611111111)"^^geo:wktLiteral ;
+	pqv:P625 wdv:0fc27fcdfa8d47b15aa48d02f5559e26 .
+
+wd:Q19900 p:P159 wds:Q19900-5BEA3306-6F89-4A25-B54E-23CB0FFE3C0D .
+
+wds:Q19900-5BEA3306-6F89-4A25-B54E-23CB0FFE3C0D a wikibase:Statement ;
+	ps:P159 wd:Q172 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P373 wds:q19900-B91A77C3-16D1-4ADA-93EA-3F2ED5804726 .
+
+wds:q19900-B91A77C3-16D1-4ADA-93EA-3F2ED5804726 a wikibase:Statement ;
+	ps:P373 "Oracle Corporation" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P414 wds:Q19900-782D1530-1B6C-4F9D-816C-F3E863C78390 .
+
+wds:Q19900-782D1530-1B6C-4F9D-816C-F3E863C78390 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "ORCL" ;
+	prov:wasDerivedFrom wdref:1161c561a92b40bb9a26c23ea5e1aa48201588a5 .
+
+wd:Q19900 p:P856 wds:Q19900-479cb8e6-49ca-c72c-38d8-52ed4d1febae .
+
+wds:Q19900-479cb8e6-49ca-c72c-38d8-52ed4d1febae a wikibase:Statement ;
+	ps:P856 <http://www.oracle.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P910 wds:Q19900-C74C77D9-E892-4ABE-8D32-CD00D21C854E .
+
+wds:Q19900-C74C77D9-E892-4ABE-8D32-CD00D21C854E a wikibase:Statement ;
+	ps:P910 wd:Q6304738 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P646 wds:Q19900-202FA2D1-3B8F-47CE-AE53-AC00DF073B6A .
+
+wds:Q19900-202FA2D1-3B8F-47CE-AE53-AC00DF073B6A a wikibase:Statement ;
+	ps:P646 "/m/05njw" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q19900 p:P214 wds:Q19900-FD9CCDD8-948F-4115-9E4D-D6BFBE5E0FD3 .
+
+wds:Q19900-FD9CCDD8-948F-4115-9E4D-D6BFBE5E0FD3 a wikibase:Statement ;
+	ps:P214 "125944013" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P409 wds:Q19900-135D316B-EF20-4DC0-9464-7FD104BEF923 .
+
+wds:Q19900-135D316B-EF20-4DC0-9464-7FD104BEF923 a wikibase:Statement ;
+	ps:P409 "36021387" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P691 wds:Q19900-4F6C497F-E937-4332-B348-82199915F729 .
+
+wds:Q19900-4F6C497F-E937-4332-B348-82199915F729 a wikibase:Statement ;
+	ps:P691 "xx0064795" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P349 wds:Q19900-88785172-4445-4089-8772-0E839063C77C .
+
+wds:Q19900-88785172-4445-4089-8772-0E839063C77C a wikibase:Statement ;
+	ps:P349 "00876920" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P244 wds:Q19900-3D154A48-D824-482E-AF8D-028846BD6D90 .
+
+wds:Q19900-3D154A48-D824-482E-AF8D-028846BD6D90 a wikibase:Statement ;
+	ps:P244 "nr94009943" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P269 wds:Q19900-B9C8CE93-9434-422E-98BE-F8DE8C095551 .
+
+wds:Q19900-B9C8CE93-9434-422E-98BE-F8DE8C095551 a wikibase:Statement ;
+	ps:P269 "120239205" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P227 wds:Q19900-4f7cf56e-480c-e2c4-896d-9a04dcd7ae3f .
+
+wds:Q19900-4f7cf56e-480c-e2c4-896d-9a04dcd7ae3f a wikibase:Statement ;
+	ps:P227 "4430661-1" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P571 wds:Q19900-12c8c6fa-4597-e553-178f-9ae156eeabaf .
+
+wds:Q19900-12c8c6fa-4597-e553-178f-9ae156eeabaf a wikibase:Statement ;
+	ps:P571 "1977-06-16T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:c06190606328391307cda57e25ec0ebd ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P740 wds:Q19900-3163fea9-4496-5ff3-d5e2-c52872471643 .
+
+wds:Q19900-3163fea9-4496-5ff3-d5e2-c52872471643 a wikibase:Statement ;
+	ps:P740 wd:Q159260 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P17 wds:Q19900-f0d9e977-4304-688f-9ebc-d948dc8b2a8d .
+
+wds:Q19900-f0d9e977-4304-688f-9ebc-d948dc8b2a8d a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P1128 wds:Q19900-2510c011-4b20-a3f8-b996-4d9e587d870c .
+
+wds:Q19900-2510c011-4b20-a3f8-b996-4d9e587d870c a wikibase:Statement ;
+	ps:P1128 "+122000"^^xsd:decimal ;
+	psv:P1128 wdv:555fc5bd7ca0cf33f56715f7d53a3af6 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P585 "2014-01-01T00:00:00Z"^^xsd:dateTime ;
+	pqv:P585 wdv:c91277cf69500270615dc91eeba92a40 .
+
+wd:Q19900 p:P155 wds:Q19900-7708344C-4561-4878-B0BB-EB09B878F63B .
+
+wds:Q19900-7708344C-4561-4878-B0BB-EB09B878F63B a wikibase:Statement ;
+	ps:P155 wd:Q1928814 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P155 wds:Q19900-A9CEB096-312D-46F6-A6AB-899675865A3F .
+
+wds:Q19900-A9CEB096-312D-46F6-A6AB-899675865A3F a wikibase:Statement ;
+	ps:P155 wd:Q2143512 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P155 wds:Q19900-F145CB6D-C52F-45FF-B881-FF0E16D5653D .
+
+wds:Q19900-F145CB6D-C52F-45FF-B881-FF0E16D5653D a wikibase:Statement ;
+	ps:P155 wd:Q2294054 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P155 wds:Q19900-39DA640F-29AB-4AA7-962E-7E38DD1D7411 .
+
+wds:Q19900-39DA640F-29AB-4AA7-962E-7E38DD1D7411 a wikibase:Statement ;
+	ps:P155 wd:Q2456368 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P155 wds:Q19900-917BF4CD-CC85-4991-A214-B207F72BAD77 .
+
+wds:Q19900-917BF4CD-CC85-4991-A214-B207F72BAD77 a wikibase:Statement ;
+	ps:P155 wd:Q2510510 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P155 wds:Q19900-591E3586-C789-4084-A49F-4CABE49703E5 .
+
+wds:Q19900-591E3586-C789-4084-A49F-4CABE49703E5 a wikibase:Statement ;
+	ps:P155 wd:Q5437151 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P155 wds:Q19900-B4BA541F-9073-440A-82F5-6D3047DF4AB1 .
+
+wds:Q19900-B4BA541F-9073-440A-82F5-6D3047DF4AB1 a wikibase:Statement ;
+	ps:P155 wd:Q7679213 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P155 wds:Q19900-321EC3DB-EEEB-4D38-BFFD-3E611E0B9347 .
+
+wds:Q19900-321EC3DB-EEEB-4D38-BFFD-3E611E0B9347 a wikibase:Statement ;
+	ps:P155 wd:Q7194130 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q19900 p:P946 wds:Q19900-d2fd23c3-4dcb-6c4f-3079-0b0c91106a24 .
+
+wds:Q19900-d2fd23c3-4dcb-6c4f-3079-0b0c91106a24 a wikibase:Statement ;
+	ps:P946 "US68389X1054" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:4e43b84b853123ecf10eae17cb8cba74f5130a56 .
+
+wd:Q19900 p:P127 wds:Q19900-2a49b80d-4dce-970f-cc19-61d63765f9cd .
+
+wds:Q19900-2a49b80d-4dce-970f-cc19-61d63765f9cd a wikibase:Statement ;
+	ps:P127 wd:Q92759 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P1107 "+0.25"^^xsd:decimal ;
+	pqv:P1107 wdv:f71df4b884963826bbe8378780b541a0 .
+
+wd:Q19900 p:P127 wds:Q19900-d04ae433-453e-9389-9d99-6eb0d7b93ec2 .
+
+wds:Q19900-d04ae433-453e-9389-9d99-6eb0d7b93ec2 a wikibase:Statement ;
+	ps:P127 wd:Q849363 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P1107 "+0.0389"^^xsd:decimal ;
+	pqv:P1107 wdv:c93bca2daf3c4a820392cd701b67b2d9 .
+
+wd:Q19900 p:P127 wds:Q19900-667134c6-4569-c3a6-74f3-c87b042094a7 .
+
+wds:Q19900-667134c6-4569-c3a6-74f3-c87b042094a7 a wikibase:Statement ;
+	ps:P127 wd:Q505275 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P1107 "+0.0306"^^xsd:decimal ;
+	pqv:P1107 wdv:ab2f710996be582535b6251540c4af04 .
+
+<https://en.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "en" .
+
+<https://af.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "af" .
+
+<https://ar.wikipedia.org/wiki/%D8%A3%D9%88%D8%B1%D8%A7%D9%83%D9%84> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "ar" .
+
+<https://bg.wikipedia.org/wiki/%D0%9E%D1%80%D0%B0%D0%BA%D1%8A%D0%BB%20%28%D0%BA%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%86%D0%B8%D1%8F%29> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "bg" .
+
+<https://ca.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "ca" .
+
+<https://ckb.wikipedia.org/wiki/%D8%A6%DB%86%D8%B1%D8%A7%DA%A9%DA%B5> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "ckb" .
+
+<https://cs.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "cs" .
+
+<https://cy.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "cy" .
+
+<https://da.wikipedia.org/wiki/Oracle> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "da" .
+
+<https://de.wikipedia.org/wiki/Oracle> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "de" .
+
+<https://es.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "es" .
+
+<https://fa.wikipedia.org/wiki/%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A7%D9%88%D8%B1%D8%A7%DA%A9%D9%84> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "fa" .
+
+<https://fi.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "fi" .
+
+<https://fr.wikipedia.org/wiki/Oracle%20%28entreprise%29> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "fr" .
+
+<https://gl.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "gl" .
+
+<https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A8%D7%A7%D7%9C%20%28%D7%97%D7%91%D7%A8%D7%94%29> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "he" .
+
+<https://id.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "id" .
+
+<https://it.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "it" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%82%AF%E3%83%AB%20%28%E4%BC%81%E6%A5%AD%29> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "ja" .
+
+<https://kaa.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "kaa" .
+
+<https://kk.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "kk" .
+
+<https://ko.wikipedia.org/wiki/%EC%98%A4%EB%9D%BC%ED%81%B4%20%28%EA%B8%B0%EC%97%85%29> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "ko" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%92%E0%B4%B1%E0%B4%BE%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B5%BE%20%E0%B4%95%E0%B5%8B%E0%B5%BC%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%B1%E0%B5%87%E0%B4%B7%E0%B5%BB> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "ml" .
+
+<https://mr.wikipedia.org/wiki/%E0%A4%91%E0%A4%B0%E0%A5%85%E0%A4%95%E0%A4%B2> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "mr" .
+
+<https://nl.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "nl" .
+
+<https://no.wikipedia.org/wiki/Oracle%20%28selskap%29> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "no" .
+
+<https://or.wikipedia.org/wiki/%E0%AC%93%E0%AC%B0%E0%AC%BE%E0%AC%95%E0%AC%B2%E0%AD%8D%E2%80%8C%20%E0%AC%95%E0%AC%B0%E0%AD%8D%E0%AC%AA%E0%AD%8B%E0%AC%B0%E0%AD%87%E0%AC%B8%E0%AC%A8> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "or" .
+
+<https://pl.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "pl" .
+
+<https://pt.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "pt" .
+
+<https://ru.wikipedia.org/wiki/Oracle> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "ru" .
+
+<https://simple.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "simple" .
+
+<https://sk.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "sk" .
+
+<https://sl.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "sl" .
+
+<https://sv.wikipedia.org/wiki/Oracle> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "sv" .
+
+<https://te.wikipedia.org/wiki/%E0%B0%92%E0%B0%B0%E0%B0%BE%E0%B0%95%E0%B0%BF%E0%B0%B2%E0%B1%8D%20%E0%B0%B8%E0%B0%82%E0%B0%B8%E0%B1%8D%E0%B0%A5> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "te" .
+
+<https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%AD%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%84%E0%B8%B4%E0%B8%A5%20%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9B%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%99> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "th" .
+
+<https://tr.wikipedia.org/wiki/Oracle> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "tr" .
+
+<https://uk.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "uk" .
+
+<https://uz.wikipedia.org/wiki/Oracle> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "uz" .
+
+<https://vi.wikipedia.org/wiki/Oracle> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "vi" .
+
+<https://zh.wikipedia.org/wiki/%E7%94%B2%E9%AA%A8%E6%96%87%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "zh" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%93%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A6%B2%20%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "bn" .
+
+<https://pnb.wikipedia.org/wiki/%D8%A7%D9%88%D8%B1%DB%8C%DA%A9%D9%84%20%DA%A9%D8%A7%D8%B1%D9%BE%D9%88%D8%B1%DB%8C%D8%B4%D9%86> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "pnb" .
+
+<https://ga.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "ga" .
+
+<https://hu.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "hu" .
+
+<https://ur.wikipedia.org/wiki/%D8%A7%D9%88%D8%B1%DB%8C%DA%A9%D9%84%20%DA%A9%D8%A7%D8%B1%D9%BE%D9%88%D8%B1%DB%8C%D8%B4%D9%86> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "ur" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%93%E0%A4%B0%E0%A5%87%E0%A4%95%E0%A4%B2%20%E0%A4%AB%E0%A4%BE%E0%A4%89%E0%A4%82%E0%A4%A1%E0%A5%87%E0%A4%B6%E0%A4%A8> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "hi" .
+
+<https://az.wikipedia.org/wiki/Oracle> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "az" .
+
+<https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3AOracle> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "ru" .
+
+<https://sco.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "sco" .
+
+<https://az.wikibooks.org/wiki/Oracle> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "az" .
+
+<https://de.wikibooks.org/wiki/Oracle> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "de" .
+
+<https://lv.wikipedia.org/wiki/Oracle%20Corporation> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "lv" .
+
+<https://ro.wikipedia.org/wiki/Oracle> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "ro" .
+
+<https://ky.wikipedia.org/wiki/Oracle%20%28%D0%B8%D1%88%D0%BA%D0%B0%D0%BD%D0%B0%29> a schema:Article ;
+	schema:about wd:Q19900 ;
+	schema:inLanguage "ky" .
+
+wdv:0fc27fcdfa8d47b15aa48d02f5559e26 a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "37.529444444444"^^xsd:decimal ;
+	wikibase:geoLongitude "-122.26611111111"^^xsd:decimal ;
+	wikibase:geoPrecision "0.00027777777777778"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdv:c06190606328391307cda57e25ec0ebd a wikibase:Value,
+		wikibase:TimeValue ;
+	wikibase:timeValue "1977-06-16T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+wdv:555fc5bd7ca0cf33f56715f7d53a3af6 a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+122000"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+123000"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+121000"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdv:f71df4b884963826bbe8378780b541a0 a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+0.25"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+0.26"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+0.24"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdv:c93bca2daf3c4a820392cd701b67b2d9 a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+0.0389"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+0.0390"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+0.0388"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdv:ab2f710996be582535b6251540c4af04 a wikibase:Value,
+		wikibase:QuantityValue ;
+	wikibase:quantityAmount "+0.0306"^^xsd:decimal ;
+	wikibase:quantityUpperBound "+0.0307"^^xsd:decimal ;
+	wikibase:quantityLowerBound "+0.0305"^^xsd:decimal ;
+	wikibase:quantityUnit "1" .
+
+wdref:1161c561a92b40bb9a26c23ea5e1aa48201588a5 a wikibase:Reference ;
+	pr:P854 <https://www.nyse.com/quote/XNYS:ORCL> ;
+	pr:P813 "2014-12-01T00:00:00Z"^^xsd:dateTime ;
+	prv:P813 wdv:7892956a8c8e8fbb8b843ad18e14a8da .
+
+wdref:4e43b84b853123ecf10eae17cb8cba74f5130a56 a wikibase:Reference ;
+	pr:P854 <http://www.advfn.com/exchanges/NYSE/ORCL/stock-price> ;
+	pr:P813 "2014-12-01T00:00:00Z"^^xsd:dateTime ;
+	prv:P813 wdv:7892956a8c8e8fbb8b843ad18e14a8da .
+
+wdata:Q19912 schema:version "230647468"^^xsd:integer ;
+	schema:dateModified "2015-07-14T17:06:16Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q19912 .
+

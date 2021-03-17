@@ -1,0 +1,280 @@
+wd:Q741618 a wikibase:Item ;
+	rdfs:label "China Mobile"@pt ;
+	skos:prefLabel "China Mobile"@pt ;
+	schema:name "China Mobile"@pt ;
+	rdfs:label "中国移动"@zh-hans ;
+	skos:prefLabel "中国移动"@zh-hans ;
+	schema:name "中国移动"@zh-hans ;
+	rdfs:label "中國移動"@zh-hant ;
+	skos:prefLabel "中國移動"@zh-hant ;
+	schema:name "中國移動"@zh-hant ;
+	rdfs:label "中國移動"@zh-hk ;
+	skos:prefLabel "中國移動"@zh-hk ;
+	schema:name "中國移動"@zh-hk ;
+	rdfs:label "China Mobile"@eu ;
+	skos:prefLabel "China Mobile"@eu ;
+	schema:name "China Mobile"@eu ;
+	rdfs:label "China Mobile"@pl ;
+	skos:prefLabel "China Mobile"@pl ;
+	schema:name "China Mobile"@pl ;
+	rdfs:label "China Mobile"@fr ;
+	skos:prefLabel "China Mobile"@fr ;
+	schema:name "China Mobile"@fr ;
+	rdfs:label "China Mobile"@ru ;
+	skos:prefLabel "China Mobile"@ru ;
+	schema:name "China Mobile"@ru ;
+	rdfs:label "중국이동통신"@ko ;
+	skos:prefLabel "중국이동통신"@ko ;
+	schema:name "중국이동통신"@ko ;
+	rdfs:label "China Mobile"@en ;
+	skos:prefLabel "China Mobile"@en ;
+	schema:name "China Mobile"@en ;
+	rdfs:label "China Mobile"@es ;
+	skos:prefLabel "China Mobile"@es ;
+	schema:name "China Mobile"@es ;
+	rdfs:label "China Mobile"@tr ;
+	skos:prefLabel "China Mobile"@tr ;
+	schema:name "China Mobile"@tr ;
+	rdfs:label "China Mobile"@ro ;
+	skos:prefLabel "China Mobile"@ro ;
+	schema:name "China Mobile"@ro ;
+	rdfs:label "China Mobile"@hu ;
+	skos:prefLabel "China Mobile"@hu ;
+	schema:name "China Mobile"@hu ;
+	rdfs:label "China Mobile"@it ;
+	skos:prefLabel "China Mobile"@it ;
+	schema:name "China Mobile"@it ;
+	rdfs:label "China Mobile"@id ;
+	skos:prefLabel "China Mobile"@id ;
+	schema:name "China Mobile"@id ;
+	rdfs:label "China Mobile"@de ;
+	skos:prefLabel "China Mobile"@de ;
+	schema:name "China Mobile"@de ;
+	rdfs:label "中国移動通信"@ja ;
+	skos:prefLabel "中国移動通信"@ja ;
+	schema:name "中国移動通信"@ja ;
+	rdfs:label "China Mobile"@sah ;
+	skos:prefLabel "China Mobile"@sah ;
+	schema:name "China Mobile"@sah ;
+	rdfs:label "China mobile"@cs ;
+	skos:prefLabel "China mobile"@cs ;
+	schema:name "China mobile"@cs ;
+	rdfs:label "چاینا موبایل"@fa ;
+	skos:prefLabel "چاینا موبایل"@fa ;
+	schema:name "چاینا موبایل"@fa ;
+	rdfs:label "China Mobile"@sv ;
+	skos:prefLabel "China Mobile"@sv ;
+	schema:name "China Mobile"@sv ;
+	rdfs:label "China Mobile"@da ;
+	skos:prefLabel "China Mobile"@da ;
+	schema:name "China Mobile"@da ;
+	rdfs:label "中国移动"@zh ;
+	skos:prefLabel "中国移动"@zh ;
+	schema:name "中国移动"@zh ;
+	rdfs:label "China Mobile"@nl ;
+	skos:prefLabel "China Mobile"@nl ;
+	schema:name "China Mobile"@nl ;
+	rdfs:label "China Mobile"@nb ;
+	skos:prefLabel "China Mobile"@nb ;
+	schema:name "China Mobile"@nb ;
+	rdfs:label "China Mobile"@vi ;
+	skos:prefLabel "China Mobile"@vi ;
+	schema:name "China Mobile"@vi ;
+	rdfs:label "צ'יינה מובייל"@he ;
+	skos:prefLabel "צ'יינה מובייל"@he ;
+	schema:name "צ'יינה מובייל"@he ;
+	rdfs:label "China Mobile"@ca ;
+	skos:prefLabel "China Mobile"@ca ;
+	schema:name "China Mobile"@ca ;
+	rdfs:label "China Mobile"@kaa ;
+	skos:prefLabel "China Mobile"@kaa ;
+	schema:name "China Mobile"@kaa ;
+	rdfs:label "تشاينا موبايل"@ar ;
+	skos:prefLabel "تشاينا موبايل"@ar ;
+	schema:name "تشاينا موبايل"@ar ;
+	schema:description "Welgrößter Mobilfunkanbieter"@de,
+		"Chinese telecommunication company"@en ;
+	skos:altLabel "China Mobile Communications Corporation"@pt,
+		"CMCC"@pt,
+		"中国移动公司"@zh,
+		"China Mobile"@zh,
+		"上海移动"@zh,
+		"中移動"@zh,
+		"中國移動(香港)有限公司"@zh,
+		"中国移动通信"@zh,
+		"浙江移动"@zh,
+		"中國移動通信"@zh,
+		"中國移動"@zh,
+		"中国移动通讯集团公司"@zh,
+		"中国移动有限公司"@zh,
+		"中国移动通信集团公司"@zh,
+		"中國電訊"@zh,
+		"CMCC"@zh,
+		"中国移动通信公司"@zh,
+		"江苏移动"@zh,
+		"차이나모바일"@ko,
+		"중국 이동 통신"@ko,
+		"차이나 모바일"@ko,
+		"China Mobile Communications Corporation"@it,
+		"CMCC"@it,
+		"中国移动通信集团公司"@ja,
+		"中国移動通信集団公司"@ja,
+		"チャイナ・モバイル"@ja,
+		"チャイナモバイル"@ja,
+		"中国移動"@ja ;
+	wdt:P373 "China Mobile" ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P910 wd:Q7010553 ;
+	wdt:P646 "/m/020zhv" ;
+	p:P373 wds:q741618-F4438683-8493-4D68-BC57-96A1671DA846 .
+
+wds:q741618-F4438683-8493-4D68-BC57-96A1671DA846 a wikibase:Statement ;
+	ps:P373 "China Mobile" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q741618 p:P414 wds:q741618-CBD87C71-684C-47FB-A555-32FBBCB6FA67 .
+
+wds:q741618-CBD87C71-684C-47FB-A555-32FBBCB6FA67 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q741618 p:P31 wds:q741618-80FF20C5-494C-4FEA-BD1C-4BC4DEAA5493 .
+
+wds:q741618-80FF20C5-494C-4FEA-BD1C-4BC4DEAA5493 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q741618 p:P910 wds:Q741618-74AB0677-DA06-41C8-B77D-E05F3121B648 .
+
+wds:Q741618-74AB0677-DA06-41C8-B77D-E05F3121B648 a wikibase:Statement ;
+	ps:P910 wd:Q7010553 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q741618 p:P646 wds:Q741618-4F1FF301-2952-4A06-87D2-B66D890020C0 .
+
+wds:Q741618-4F1FF301-2952-4A06-87D2-B66D890020C0 a wikibase:Statement ;
+	ps:P646 "/m/020zhv" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+<https://pt.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "pt" .
+
+<https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "zh" .
+
+<https://eu.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "eu" .
+
+<https://pl.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "pl" .
+
+<https://fr.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "fr" .
+
+<https://ru.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "ru" .
+
+<https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AD%EC%9D%B4%EB%8F%99%ED%86%B5%EC%8B%A0> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "ko" .
+
+<https://en.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "en" .
+
+<https://es.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "es" .
+
+<https://tr.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "tr" .
+
+<https://no.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "no" .
+
+<https://ro.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "ro" .
+
+<https://hu.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "hu" .
+
+<https://it.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "it" .
+
+<https://id.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "id" .
+
+<https://de.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8B%95%E9%80%9A%E4%BF%A1> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "ja" .
+
+<https://sah.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "sah" .
+
+<https://cs.wikipedia.org/wiki/China%20mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "cs" .
+
+<https://fa.wikipedia.org/wiki/%DA%86%D8%A7%DB%8C%D9%86%D8%A7%20%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "fa" .
+
+<https://sv.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "sv" .
+
+<https://da.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "da" .
+
+<https://vi.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "vi" .
+
+<https://he.wikipedia.org/wiki/%D7%A6%27%D7%99%D7%99%D7%A0%D7%94%20%D7%9E%D7%95%D7%91%D7%99%D7%99%D7%9C> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "he" .
+
+<https://ca.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "ca" .
+
+<https://kaa.wikipedia.org/wiki/China%20Mobile> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "kaa" .
+
+<https://ar.wikipedia.org/wiki/%D8%AA%D8%B4%D8%A7%D9%8A%D9%86%D8%A7%20%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84> a schema:Article ;
+	schema:about wd:Q741618 ;
+	schema:inLanguage "ar" .
+
+wdata:Q741623 schema:version "192539469"^^xsd:integer ;
+	schema:dateModified "2015-02-01T01:08:06Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q741623 .
+

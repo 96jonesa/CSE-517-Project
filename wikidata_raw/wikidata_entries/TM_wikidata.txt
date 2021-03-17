@@ -1,0 +1,855 @@
+wd:Q53268 a wikibase:Item ;
+	rdfs:label "トヨタ自動車"@ja ;
+	skos:prefLabel "トヨタ自動車"@ja ;
+	schema:name "トヨタ自動車"@ja ;
+	rdfs:label "Toyota"@en ;
+	skos:prefLabel "Toyota"@en ;
+	schema:name "Toyota"@en ;
+	rdfs:label "Toyota"@en-ca ;
+	skos:prefLabel "Toyota"@en-ca ;
+	schema:name "Toyota"@en-ca ;
+	rdfs:label "Toyota"@en-gb ;
+	skos:prefLabel "Toyota"@en-gb ;
+	schema:name "Toyota"@en-gb ;
+	rdfs:label "تويوتا"@ar ;
+	skos:prefLabel "تويوتا"@ar ;
+	schema:name "تويوتا"@ar ;
+	rdfs:label "Toyota"@ast ;
+	skos:prefLabel "Toyota"@ast ;
+	schema:name "Toyota"@ast ;
+	rdfs:label "Toyota"@az ;
+	skos:prefLabel "Toyota"@az ;
+	schema:name "Toyota"@az ;
+	rdfs:label "Toyota Motor Corporation"@be ;
+	skos:prefLabel "Toyota Motor Corporation"@be ;
+	schema:name "Toyota Motor Corporation"@be ;
+	rdfs:label "Тойота"@bg ;
+	skos:prefLabel "Тойота"@bg ;
+	schema:name "Тойота"@bg ;
+	rdfs:label "তয়োতা"@bn ;
+	skos:prefLabel "তয়োতা"@bn ;
+	schema:name "তয়োতা"@bn ;
+	rdfs:label "Toyota"@bs ;
+	skos:prefLabel "Toyota"@bs ;
+	schema:name "Toyota"@bs ;
+	rdfs:label "Toyota Motor Corporation"@ca ;
+	skos:prefLabel "Toyota Motor Corporation"@ca ;
+	schema:name "Toyota Motor Corporation"@ca ;
+	rdfs:label "تۆیۆتا"@ckb ;
+	skos:prefLabel "تۆیۆتا"@ckb ;
+	schema:name "تۆیۆتا"@ckb ;
+	rdfs:label "Toyota"@cs ;
+	skos:prefLabel "Toyota"@cs ;
+	schema:name "Toyota"@cs ;
+	rdfs:label "Toyota Motor"@da ;
+	skos:prefLabel "Toyota Motor"@da ;
+	schema:name "Toyota Motor"@da ;
+	rdfs:label "Toyota"@de ;
+	skos:prefLabel "Toyota"@de ;
+	schema:name "Toyota"@de ;
+	rdfs:label "Toyota"@de-ch ;
+	skos:prefLabel "Toyota"@de-ch ;
+	schema:name "Toyota"@de-ch ;
+	rdfs:label "Toyota"@diq ;
+	skos:prefLabel "Toyota"@diq ;
+	schema:name "Toyota"@diq ;
+	rdfs:label "Toyota"@eo ;
+	skos:prefLabel "Toyota"@eo ;
+	schema:name "Toyota"@eo ;
+	rdfs:label "Toyota"@es ;
+	skos:prefLabel "Toyota"@es ;
+	schema:name "Toyota"@es ;
+	rdfs:label "Toyota Motor Corporation"@et ;
+	skos:prefLabel "Toyota Motor Corporation"@et ;
+	schema:name "Toyota Motor Corporation"@et ;
+	rdfs:label "Toyota"@eu ;
+	skos:prefLabel "Toyota"@eu ;
+	schema:name "Toyota"@eu ;
+	rdfs:label "تویوتا"@fa ;
+	skos:prefLabel "تویوتا"@fa ;
+	schema:name "تویوتا"@fa ;
+	rdfs:label "Toyota"@fi ;
+	skos:prefLabel "Toyota"@fi ;
+	schema:name "Toyota"@fi ;
+	rdfs:label "Toyota"@fr ;
+	skos:prefLabel "Toyota"@fr ;
+	schema:name "Toyota"@fr ;
+	rdfs:label "Toyota"@gl ;
+	skos:prefLabel "Toyota"@gl ;
+	schema:name "Toyota"@gl ;
+	rdfs:label "טויוטה"@he ;
+	skos:prefLabel "טויוטה"@he ;
+	schema:name "טויוטה"@he ;
+	rdfs:label "Toyota"@hr ;
+	skos:prefLabel "Toyota"@hr ;
+	schema:name "Toyota"@hr ;
+	rdfs:label "Toyota"@hu ;
+	skos:prefLabel "Toyota"@hu ;
+	schema:name "Toyota"@hu ;
+	rdfs:label "Toyota"@id ;
+	skos:prefLabel "Toyota"@id ;
+	schema:name "Toyota"@id ;
+	rdfs:label "Toyota"@is ;
+	skos:prefLabel "Toyota"@is ;
+	schema:name "Toyota"@is ;
+	rdfs:label "Toyota"@it ;
+	skos:prefLabel "Toyota"@it ;
+	schema:name "Toyota"@it ;
+	rdfs:label "toiotas"@jbo ;
+	skos:prefLabel "toiotas"@jbo ;
+	schema:name "toiotas"@jbo ;
+	rdfs:label "Toyota"@jv ;
+	skos:prefLabel "Toyota"@jv ;
+	schema:name "Toyota"@jv ;
+	rdfs:label "Toyota"@ki ;
+	skos:prefLabel "Toyota"@ki ;
+	schema:name "Toyota"@ki ;
+	rdfs:label "Toyota"@kk ;
+	skos:prefLabel "Toyota"@kk ;
+	schema:name "Toyota"@kk ;
+	rdfs:label "토요타 자동차"@ko ;
+	skos:prefLabel "토요타 자동차"@ko ;
+	schema:name "토요타 자동차"@ko ;
+	rdfs:label "Toyota"@ku ;
+	skos:prefLabel "Toyota"@ku ;
+	schema:name "Toyota"@ku ;
+	rdfs:label "Toyota"@la ;
+	skos:prefLabel "Toyota"@la ;
+	schema:name "Toyota"@la ;
+	rdfs:label "Toyota Motor Corporation"@lt ;
+	skos:prefLabel "Toyota Motor Corporation"@lt ;
+	schema:name "Toyota Motor Corporation"@lt ;
+	rdfs:label "Toyota Motor Corporation"@lv ;
+	skos:prefLabel "Toyota Motor Corporation"@lv ;
+	schema:name "Toyota Motor Corporation"@lv ;
+	rdfs:label "ടൊയോട്ട"@ml ;
+	skos:prefLabel "ടൊയോട്ട"@ml ;
+	schema:name "ടൊയോട്ട"@ml ;
+	rdfs:label "Тоёота"@mn ;
+	skos:prefLabel "Тоёота"@mn ;
+	schema:name "Тоёота"@mn ;
+	rdfs:label "टोयोटा मोटर कंपनी"@mr ;
+	skos:prefLabel "टोयोटा मोटर कंपनी"@mr ;
+	schema:name "टोयोटा मोटर कंपनी"@mr ;
+	rdfs:label "Toyota"@ms ;
+	skos:prefLabel "Toyota"@ms ;
+	schema:name "Toyota"@ms ;
+	rdfs:label "တိုယိုတာ"@my ;
+	skos:prefLabel "တိုယိုတာ"@my ;
+	schema:name "တိုယိုတာ"@my ;
+	rdfs:label "Toyota"@nah ;
+	skos:prefLabel "Toyota"@nah ;
+	schema:name "Toyota"@nah ;
+	rdfs:label "Toyota"@nl ;
+	skos:prefLabel "Toyota"@nl ;
+	schema:name "Toyota"@nl ;
+	rdfs:label "Toyota Motor Corporation"@nn ;
+	skos:prefLabel "Toyota Motor Corporation"@nn ;
+	schema:name "Toyota Motor Corporation"@nn ;
+	rdfs:label "Toyota"@pl ;
+	skos:prefLabel "Toyota"@pl ;
+	schema:name "Toyota"@pl ;
+	rdfs:label "Toyota"@pms ;
+	skos:prefLabel "Toyota"@pms ;
+	schema:name "Toyota"@pms ;
+	rdfs:label "ٹویوٹا"@pnb ;
+	skos:prefLabel "ٹویوٹا"@pnb ;
+	schema:name "ٹویوٹا"@pnb ;
+	rdfs:label "Toyota Motor"@pt ;
+	skos:prefLabel "Toyota Motor"@pt ;
+	schema:name "Toyota Motor"@pt ;
+	rdfs:label "Toyota Motor"@pt-br ;
+	skos:prefLabel "Toyota Motor"@pt-br ;
+	schema:name "Toyota Motor"@pt-br ;
+	rdfs:label "Toyota"@ro ;
+	skos:prefLabel "Toyota"@ro ;
+	schema:name "Toyota"@ro ;
+	rdfs:label "Toyota"@ru ;
+	skos:prefLabel "Toyota"@ru ;
+	schema:name "Toyota"@ru ;
+	rdfs:label "Toyota"@sah ;
+	skos:prefLabel "Toyota"@sah ;
+	schema:name "Toyota"@sah ;
+	rdfs:label "Toyota"@sco ;
+	skos:prefLabel "Toyota"@sco ;
+	schema:name "Toyota"@sco ;
+	rdfs:label "Tojota džidóša"@sk ;
+	skos:prefLabel "Tojota džidóša"@sk ;
+	schema:name "Tojota džidóša"@sk ;
+	rdfs:label "Toyota"@sl ;
+	skos:prefLabel "Toyota"@sl ;
+	schema:name "Toyota"@sl ;
+	rdfs:label "Toyota"@so ;
+	skos:prefLabel "Toyota"@so ;
+	schema:name "Toyota"@so ;
+	rdfs:label "Toyota"@sq ;
+	skos:prefLabel "Toyota"@sq ;
+	schema:name "Toyota"@sq ;
+	rdfs:label "Тојота"@sr ;
+	skos:prefLabel "Тојота"@sr ;
+	schema:name "Тојота"@sr ;
+	rdfs:label "Toyota"@sv ;
+	skos:prefLabel "Toyota"@sv ;
+	schema:name "Toyota"@sv ;
+	rdfs:label "டொயோட்டா"@ta ;
+	skos:prefLabel "டொயோட்டா"@ta ;
+	schema:name "டொயோட்டா"@ta ;
+	rdfs:label "โตโยต้า"@th ;
+	skos:prefLabel "โตโยต้า"@th ;
+	schema:name "โตโยต้า"@th ;
+	rdfs:label "Toyota"@tr ;
+	skos:prefLabel "Toyota"@tr ;
+	schema:name "Toyota"@tr ;
+	rdfs:label "Toyota"@uk ;
+	skos:prefLabel "Toyota"@uk ;
+	schema:name "Toyota"@uk ;
+	rdfs:label "ٹویوٹا"@ur ;
+	skos:prefLabel "ٹویوٹا"@ur ;
+	schema:name "ٹویوٹا"@ur ;
+	rdfs:label "Toyota"@uz ;
+	skos:prefLabel "Toyota"@uz ;
+	schema:name "Toyota"@uz ;
+	rdfs:label "Toyota"@vi ;
+	skos:prefLabel "Toyota"@vi ;
+	schema:name "Toyota"@vi ;
+	rdfs:label "丰田汽车"@wuu ;
+	skos:prefLabel "丰田汽车"@wuu ;
+	schema:name "丰田汽车"@wuu ;
+	rdfs:label "Toyota"@yo ;
+	skos:prefLabel "Toyota"@yo ;
+	schema:name "Toyota"@yo ;
+	rdfs:label "丰田汽车"@zh ;
+	skos:prefLabel "丰田汽车"@zh ;
+	schema:name "丰田汽车"@zh ;
+	rdfs:label "豐田汽車公司"@yue ;
+	skos:prefLabel "豐田汽車公司"@yue ;
+	schema:name "豐田汽車公司"@yue ;
+	rdfs:label "Toyota"@sh ;
+	skos:prefLabel "Toyota"@sh ;
+	schema:name "Toyota"@sh ;
+	rdfs:label "Toyota"@el ;
+	skos:prefLabel "Toyota"@el ;
+	schema:name "Toyota"@el ;
+	rdfs:label "Toyota"@oc ;
+	skos:prefLabel "Toyota"@oc ;
+	schema:name "Toyota"@oc ;
+	rdfs:label "Toyota"@zea ;
+	skos:prefLabel "Toyota"@zea ;
+	schema:name "Toyota"@zea ;
+	rdfs:label "Toyota"@nb ;
+	skos:prefLabel "Toyota"@nb ;
+	schema:name "Toyota"@nb ;
+	rdfs:label "टोयोटा"@hi ;
+	skos:prefLabel "टोयोटा"@hi ;
+	schema:name "टोयोटा"@hi ;
+	rdfs:label "Toyota"@be-tarask ;
+	skos:prefLabel "Toyota"@be-tarask ;
+	schema:name "Toyota"@be-tarask ;
+	rdfs:label "豐田汽車"@zh-hk ;
+	skos:prefLabel "豐田汽車"@zh-hk ;
+	schema:name "豐田汽車"@zh-hk ;
+	rdfs:label "豐田汽車"@zh-tw ;
+	skos:prefLabel "豐田汽車"@zh-tw ;
+	schema:name "豐田汽車"@zh-tw ;
+	rdfs:label "豐田汽車"@zh-hant ;
+	skos:prefLabel "豐田汽車"@zh-hant ;
+	schema:name "豐田汽車"@zh-hant ;
+	rdfs:label "丰田汽车"@zh-cn ;
+	skos:prefLabel "丰田汽车"@zh-cn ;
+	schema:name "丰田汽车"@zh-cn ;
+	rdfs:label "丰田汽车"@zh-hans ;
+	skos:prefLabel "丰田汽车"@zh-hans ;
+	schema:name "丰田汽车"@zh-hans ;
+	rdfs:label "Toyota"@af ;
+	skos:prefLabel "Toyota"@af ;
+	schema:name "Toyota"@af ;
+	rdfs:label "ਟੋਇਓਟਾ"@pa ;
+	skos:prefLabel "ਟੋਇਓਟਾ"@pa ;
+	schema:name "ਟੋਇਓਟਾ"@pa ;
+	rdfs:label "Toyota"@kaa ;
+	skos:prefLabel "Toyota"@kaa ;
+	schema:name "Toyota"@kaa ;
+	schema:description "日本の自動車メーカー。"@ja,
+		"empresa automovilística japonesa"@es,
+		"automotive brand manufacturer"@en,
+		"japanisches multinationales Unternehmen in der Fahrzeugherstellung"@de,
+		"constructeur automobile originaire du Japon"@fr,
+		"日本跨國汽車製造商"@zh-hk,
+		"日本跨國汽車製造商"@zh-tw,
+		"日本跨國汽車製造商"@zh-hant,
+		"日本跨国汽车制造商"@zh-hans,
+		"日本跨国汽车制造商"@zh-cn,
+		"日本跨国汽车制造商"@zh,
+		"מסי"@he ;
+	skos:altLabel "Toyota Motor Corporation"@en,
+		"Toyota Motor Corporation"@fr,
+		"豐田汽車公司"@zh-hk ;
+	wdt:P31 wd:Q1480166 ;
+	wdt:P169 wd:Q418622 ;
+	wdt:P112 wd:Q358556 ;
+	wdt:P159 wd:Q201117 ;
+	wdt:P373 "Toyota" ;
+	wdt:P414 wd:Q217475,
+		wd:Q171240,
+		wd:Q13677 ;
+	wdt:P199 wd:Q35919 ;
+	wdt:P355 wd:Q867667,
+		wd:Q27511,
+		wd:Q7830837,
+		wd:Q1476105,
+		wd:Q1129062,
+		wd:Q176508,
+		wd:Q7830808,
+		wd:Q7830764,
+		wd:Q7830838,
+		wd:Q7830825,
+		wd:Q2447054 ;
+	wdt:P571 "1937-01-01T00:00:00Z"^^xsd:dateTime ;
+	wdt:P910 wd:Q7215323 ;
+	wdt:P349 "00262927" ;
+	wdt:P646 "/m/07mb6" ;
+	wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Toyota%20Headquarter%20Toyota%20City.jpg> ;
+	wdt:P138 wd:Q358556 ;
+	wdt:P155 wd:Q5254691 ;
+	wdt:P17 wd:Q17 ;
+	p:P31 wds:q53268-11E6B2A6-CE6E-49FC-89E2-D367AF478865 .
+
+wds:q53268-11E6B2A6-CE6E-49FC-89E2-D367AF478865 a wikibase:Statement ;
+	ps:P31 wd:Q1480166 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P169 wds:q53268-39987A1A-5343-4BF2-8A84-8E91489B3731 .
+
+wds:q53268-39987A1A-5343-4BF2-8A84-8E91489B3731 a wikibase:Statement ;
+	ps:P169 wd:Q418622 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P112 wds:q53268-4FAA030B-2304-4C95-94F1-551F97B27B41 .
+
+wds:q53268-4FAA030B-2304-4C95-94F1-551F97B27B41 a wikibase:Statement ;
+	ps:P112 wd:Q358556 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P159 wds:q53268-5A15466A-6FB0-4077-85D4-434E2B603B32 .
+
+wds:q53268-5A15466A-6FB0-4077-85D4-434E2B603B32 a wikibase:Statement ;
+	ps:P159 wd:Q201117 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P373 wds:q53268-A0FC4913-131D-4F5E-BFC7-87CB78990F28 .
+
+wds:q53268-A0FC4913-131D-4F5E-BFC7-87CB78990F28 a wikibase:Statement ;
+	ps:P373 "Toyota" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q53268 p:P414 wds:q53268-ff7b688e-4149-d23b-efc5-e1b491578eec .
+
+wds:q53268-ff7b688e-4149-d23b-efc5-e1b491578eec a wikibase:Statement ;
+	ps:P414 wd:Q217475 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "7203" .
+
+wd:Q53268 p:P414 wds:q53268-1cfce53e-49a8-3637-1cbb-61eb416937e6 .
+
+wds:q53268-1cfce53e-49a8-3637-1cbb-61eb416937e6 a wikibase:Statement ;
+	ps:P414 wd:Q171240 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "TYT" .
+
+wd:Q53268 p:P414 wds:q53268-7baae9de-4d21-21e6-d1f9-da123e68b847 .
+
+wds:q53268-7baae9de-4d21-21e6-d1f9-da123e68b847 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P249 "TM" .
+
+wd:Q53268 p:P199 wds:q53268-3f0ca82e-4821-437b-555c-6fb84fd46587 .
+
+wds:q53268-3f0ca82e-4821-437b-555c-6fb84fd46587 a wikibase:Statement ;
+	ps:P199 wd:Q35919 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P355 wds:q53268-d6db2121-4e22-641d-a16c-e6207e99dadf .
+
+wds:q53268-d6db2121-4e22-641d-a16c-e6207e99dadf a wikibase:Statement ;
+	ps:P355 wd:Q867667 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P355 wds:q53268-d2276858-413f-3643-7586-a84761282ccd .
+
+wds:q53268-d2276858-413f-3643-7586-a84761282ccd a wikibase:Statement ;
+	ps:P355 wd:Q27511 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P355 wds:q53268-11b9fbef-43b6-a9a2-f7b0-9dbfe08340a7 .
+
+wds:q53268-11b9fbef-43b6-a9a2-f7b0-9dbfe08340a7 a wikibase:Statement ;
+	ps:P355 wd:Q7830837 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P355 wds:q53268-8ea3eda3-4b9d-51a8-bd27-27589b447543 .
+
+wds:q53268-8ea3eda3-4b9d-51a8-bd27-27589b447543 a wikibase:Statement ;
+	ps:P355 wd:Q1476105 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P355 wds:q53268-2a0ada48-451f-ab91-4e9f-e0a64b8b09bc .
+
+wds:q53268-2a0ada48-451f-ab91-4e9f-e0a64b8b09bc a wikibase:Statement ;
+	ps:P355 wd:Q1129062 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P355 wds:q53268-3b1cec8f-4393-5113-7d38-0350d4ecef3c .
+
+wds:q53268-3b1cec8f-4393-5113-7d38-0350d4ecef3c a wikibase:Statement ;
+	ps:P355 wd:Q176508 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P355 wds:q53268-d03e682d-45b6-6493-1d25-893edf4af2e5 .
+
+wds:q53268-d03e682d-45b6-6493-1d25-893edf4af2e5 a wikibase:Statement ;
+	ps:P355 wd:Q7830808 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P355 wds:q53268-d8757a47-4563-c3fc-fb0a-6a9223a96ccb .
+
+wds:q53268-d8757a47-4563-c3fc-fb0a-6a9223a96ccb a wikibase:Statement ;
+	ps:P355 wd:Q7830764 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P355 wds:q53268-a9f44c3c-4f05-cf1c-2109-947acff6e104 .
+
+wds:q53268-a9f44c3c-4f05-cf1c-2109-947acff6e104 a wikibase:Statement ;
+	ps:P355 wd:Q7830838 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P355 wds:q53268-9aeb95c0-4133-cea0-c08d-75d7a6bb3fc4 .
+
+wds:q53268-9aeb95c0-4133-cea0-c08d-75d7a6bb3fc4 a wikibase:Statement ;
+	ps:P355 wd:Q7830825 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P355 wds:q53268-a1852b49-48a3-48a1-55b9-3eb2bfd0b199 .
+
+wds:q53268-a1852b49-48a3-48a1-55b9-3eb2bfd0b199 a wikibase:Statement ;
+	ps:P355 wd:Q2447054 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P571 wds:q53268-5dfdcc66-499f-793e-9080-d077d7a122b1 .
+
+wds:q53268-5dfdcc66-499f-793e-9080-d077d7a122b1 a wikibase:Statement ;
+	ps:P571 "1937-01-01T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 wdv:6cbea0aacc4158570cb03f476e52de85 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P910 wds:Q53268-E5BF338E-7412-48CB-BE81-2CF2085635E9 .
+
+wds:Q53268-E5BF338E-7412-48CB-BE81-2CF2085635E9 a wikibase:Statement ;
+	ps:P910 wd:Q7215323 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P349 wds:Q53268-7cfb385b-4c0b-249d-c639-7e3c14597a27 .
+
+wds:Q53268-7cfb385b-4c0b-249d-c639-7e3c14597a27 a wikibase:Statement ;
+	ps:P349 "00262927" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P646 wds:Q53268-67B8D2AD-E09A-4DFC-BE82-071F0E36666E .
+
+wds:Q53268-67B8D2AD-E09A-4DFC-BE82-071F0E36666E a wikibase:Statement ;
+	ps:P646 "/m/07mb6" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q53268 p:P18 wds:Q53268-DF1A11FD-214D-4AEE-BE07-75801D1C036F .
+
+wds:Q53268-DF1A11FD-214D-4AEE-BE07-75801D1C036F a wikibase:Statement ;
+	ps:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Toyota%20Headquarter%20Toyota%20City.jpg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P138 wds:Q53268-313e7615-42cd-62ca-2cc8-f238815ee061 .
+
+wds:Q53268-313e7615-42cd-62ca-2cc8-f238815ee061 a wikibase:Statement ;
+	ps:P138 wd:Q358556 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P155 wds:Q53268-13215619-162D-4C3F-AC0C-3D36DE08D6E2 .
+
+wds:Q53268-13215619-162D-4C3F-AC0C-3D36DE08D6E2 a wikibase:Statement ;
+	ps:P155 wd:Q5254691 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q53268 p:P17 wds:Q53268-B17547B8-BD61-4117-BF1E-D0CAF90D0C1A .
+
+wds:Q53268-B17547B8-BD61-4117-BF1E-D0CAF90D0C1A a wikibase:Statement ;
+	ps:P17 wd:Q17 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://en.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "en" .
+
+<https://ast.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "ast" .
+
+<https://az.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "az" .
+
+<https://be.wikipedia.org/wiki/Toyota%20Motor%20Corporation> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "be" .
+
+<https://bg.wikipedia.org/wiki/%D0%A2%D0%BE%D0%B9%D0%BE%D1%82%D0%B0> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "bg" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%9F%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%9F%E0%A6%BE> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "bn" .
+
+<https://bs.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "bs" .
+
+<https://ca.wikipedia.org/wiki/Toyota%20Motor%20Corporation> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "ca" .
+
+<https://ckb.wikipedia.org/wiki/%D8%AA%DB%86%DB%8C%DB%86%D8%AA%D8%A7> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "ckb" .
+
+<https://cs.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "cs" .
+
+<https://da.wikipedia.org/wiki/Toyota%20Motor> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "da" .
+
+<https://de.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "de" .
+
+<https://diq.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "diq" .
+
+<https://eo.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "eo" .
+
+<https://es.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "es" .
+
+<https://et.wikipedia.org/wiki/Toyota%20Motor%20Corporation> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "et" .
+
+<https://eu.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "eu" .
+
+<https://fa.wikipedia.org/wiki/%D8%AA%D9%88%DB%8C%D9%88%D8%AA%D8%A7> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "fa" .
+
+<https://fi.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "fi" .
+
+<https://fr.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "fr" .
+
+<https://gl.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "gl" .
+
+<https://he.wikipedia.org/wiki/%D7%98%D7%95%D7%99%D7%95%D7%98%D7%94> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "he" .
+
+<https://hr.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "hr" .
+
+<https://hu.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "hu" .
+
+<https://id.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "id" .
+
+<https://is.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "is" .
+
+<https://it.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "it" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E8%87%AA%E5%8B%95%E8%BB%8A> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "ja" .
+
+<https://jbo.wikipedia.org/wiki/toiotas> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "jbo" .
+
+<https://jv.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "jv" .
+
+<https://ki.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "ki" .
+
+<https://ko.wikipedia.org/wiki/%ED%86%A0%EC%9A%94%ED%83%80%20%EC%9E%90%EB%8F%99%EC%B0%A8> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "ko" .
+
+<https://ku.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "ku" .
+
+<https://la.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "la" .
+
+<https://lt.wikipedia.org/wiki/Toyota%20Motor%20Corporation> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "lt" .
+
+<https://lv.wikipedia.org/wiki/Toyota%20Motor%20Corporation> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "lv" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%9F%E0%B5%8A%E0%B4%AF%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "ml" .
+
+<https://mn.wikipedia.org/wiki/%D0%A2%D0%BE%D1%91%D0%BE%D1%82%D0%B0> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "mn" .
+
+<https://mr.wikipedia.org/wiki/%E0%A4%9F%E0%A5%8B%E0%A4%AF%E0%A5%8B%E0%A4%9F%E0%A4%BE> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "mr" .
+
+<https://ms.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "ms" .
+
+<https://my.wikipedia.org/wiki/%E1%80%90%E1%80%AD%E1%80%AF%E1%80%9A%E1%80%AD%E1%80%AF%E1%80%90%E1%80%AC> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "my" .
+
+<https://nah.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "nah" .
+
+<https://nl.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "nl" .
+
+<https://nn.wikipedia.org/wiki/Toyota%20Motor%20Corporation> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "nn" .
+
+<https://no.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "no" .
+
+<https://pl.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "pl" .
+
+<https://pms.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "pms" .
+
+<https://pnb.wikipedia.org/wiki/%D9%B9%D9%88%DB%8C%D9%88%D9%B9%D8%A7> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "pnb" .
+
+<https://pt.wikipedia.org/wiki/Toyota%20Motor> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "pt" .
+
+<https://ro.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "ro" .
+
+<https://ru.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "ru" .
+
+<https://sah.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "sah" .
+
+<https://sco.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "sco" .
+
+<https://simple.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "simple" .
+
+<https://sl.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "sl" .
+
+<https://so.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "so" .
+
+<https://sq.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "sq" .
+
+<https://sr.wikipedia.org/wiki/%D0%A2%D0%BE%D1%98%D0%BE%D1%82%D0%B0> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "sr" .
+
+<https://sv.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "sv" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%9F%E0%AF%8A%E0%AE%AF%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BE> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "ta" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%95%E0%B9%82%E0%B8%A2%E0%B8%95%E0%B9%89%E0%B8%B2> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "th" .
+
+<https://tr.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "tr" .
+
+<https://uk.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "uk" .
+
+<https://ur.wikipedia.org/wiki/%D9%B9%D9%88%DB%8C%D9%88%D9%B9%D8%A7> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "ur" .
+
+<https://uz.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "uz" .
+
+<https://vi.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "vi" .
+
+<https://wuu.wikipedia.org/wiki/%E4%B8%B0%E7%94%B0%E6%B1%BD%E8%BD%A6> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "wuu" .
+
+<https://yo.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "yo" .
+
+<https://zh.wikipedia.org/wiki/%E4%B8%B0%E7%94%B0%E6%B1%BD%E8%BD%A6> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "zh" .
+
+<https://zh-yue.wikipedia.org/wiki/%E8%B1%90%E7%94%B0%E6%B1%BD%E8%BB%8A%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "zh-yue" .
+
+<https://sh.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "sh" .
+
+<https://be-x-old.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "be-x-old" .
+
+<https://zea.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "zea" .
+
+<https://el.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "el" .
+
+<https://commons.wikimedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "en" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A5%8B%E0%A4%AF%E0%A5%8B%E0%A4%9F%E0%A4%BE> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "hi" .
+
+<https://af.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "af" .
+
+<https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "ar" ;
+	wikibase:badge wd:Q17437796 .
+
+<https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3AToyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "ru" .
+
+<https://kk.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "kk" ;
+	wikibase:badge wd:Q17437796 .
+
+<https://sk.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "sk" .
+
+<https://pa.wikipedia.org/wiki/%E0%A8%9F%E0%A9%8B%E0%A8%87%E0%A8%93%E0%A8%9F%E0%A8%BE> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "pa" .
+
+<https://kaa.wikipedia.org/wiki/Toyota> a schema:Article ;
+	schema:about wd:Q53268 ;
+	schema:inLanguage "kaa" .
+
+wdata:Q53269 schema:version "223828807"^^xsd:integer ;
+	schema:dateModified "2015-06-25T13:05:17Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q53269 .
+

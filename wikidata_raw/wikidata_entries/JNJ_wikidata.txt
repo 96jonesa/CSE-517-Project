@@ -1,0 +1,422 @@
+wd:Q333718 a wikibase:Item ;
+	rdfs:label "强生公司"@zh-hans ;
+	skos:prefLabel "强生公司"@zh-hans ;
+	schema:name "强生公司"@zh-hans ;
+	rdfs:label "嬌生公司"@zh-hant ;
+	skos:prefLabel "嬌生公司"@zh-hant ;
+	schema:name "嬌生公司"@zh-hant ;
+	rdfs:label "強生公司"@zh-hk ;
+	skos:prefLabel "強生公司"@zh-hk ;
+	schema:name "強生公司"@zh-hk ;
+	rdfs:label "强生公司"@zh-cn ;
+	skos:prefLabel "强生公司"@zh-cn ;
+	schema:name "强生公司"@zh-cn ;
+	rdfs:label "强生公司"@zh-sg ;
+	skos:prefLabel "强生公司"@zh-sg ;
+	schema:name "强生公司"@zh-sg ;
+	rdfs:label "嬌生公司"@zh-tw ;
+	skos:prefLabel "嬌生公司"@zh-tw ;
+	schema:name "嬌生公司"@zh-tw ;
+	rdfs:label "Johnson & Johnson"@pl ;
+	skos:prefLabel "Johnson & Johnson"@pl ;
+	schema:name "Johnson & Johnson"@pl ;
+	rdfs:label "Johnson & Johnson"@fr ;
+	skos:prefLabel "Johnson & Johnson"@fr ;
+	schema:name "Johnson & Johnson"@fr ;
+	rdfs:label "ג'ונסון אנד ג'ונסון"@he ;
+	skos:prefLabel "ג'ונסון אנד ג'ונסון"@he ;
+	schema:name "ג'ונסון אנד ג'ונסון"@he ;
+	rdfs:label "Johnson & Johnson"@be ;
+	skos:prefLabel "Johnson & Johnson"@be ;
+	schema:name "Johnson & Johnson"@be ;
+	rdfs:label "존슨앤드존슨"@ko ;
+	skos:prefLabel "존슨앤드존슨"@ko ;
+	schema:name "존슨앤드존슨"@ko ;
+	rdfs:label "Johnson & Johnson"@es ;
+	skos:prefLabel "Johnson & Johnson"@es ;
+	schema:name "Johnson & Johnson"@es ;
+	rdfs:label "ஜான்சன் அண்ட் ஜான்சன்"@ta ;
+	skos:prefLabel "ஜான்சன் அண்ட் ஜான்சன்"@ta ;
+	schema:name "ஜான்சன் அண்ட் ஜான்சன்"@ta ;
+	rdfs:label "Johnson & Johnson"@hu ;
+	skos:prefLabel "Johnson & Johnson"@hu ;
+	schema:name "Johnson & Johnson"@hu ;
+	rdfs:label "Johnson & Johnson"@it ;
+	skos:prefLabel "Johnson & Johnson"@it ;
+	schema:name "Johnson & Johnson"@it ;
+	rdfs:label "Johnson & Johnson"@id ;
+	skos:prefLabel "Johnson & Johnson"@id ;
+	schema:name "Johnson & Johnson"@id ;
+	rdfs:label "Johnson & Johnson"@de ;
+	skos:prefLabel "Johnson & Johnson"@de ;
+	schema:name "Johnson & Johnson"@de ;
+	rdfs:label "ジョンソン・エンド・ジョンソン"@ja ;
+	skos:prefLabel "ジョンソン・エンド・ジョンソン"@ja ;
+	schema:name "ジョンソン・エンド・ジョンソン"@ja ;
+	rdfs:label "Johnson & Johnson"@vi ;
+	skos:prefLabel "Johnson & Johnson"@vi ;
+	schema:name "Johnson & Johnson"@vi ;
+	rdfs:label "Johnson & Johnson"@nl ;
+	skos:prefLabel "Johnson & Johnson"@nl ;
+	schema:name "Johnson & Johnson"@nl ;
+	rdfs:label "Johnson & Johnson"@sv ;
+	skos:prefLabel "Johnson & Johnson"@sv ;
+	schema:name "Johnson & Johnson"@sv ;
+	rdfs:label "Johnson & Johnson"@pt ;
+	skos:prefLabel "Johnson & Johnson"@pt ;
+	schema:name "Johnson & Johnson"@pt ;
+	rdfs:label "זשאנסאן & זשאנסאן"@yi ;
+	skos:prefLabel "זשאנסאן & זשאנסאן"@yi ;
+	schema:name "זשאנסאן & זשאנסאן"@yi ;
+	rdfs:label "Johnson & Johnson"@ru ;
+	skos:prefLabel "Johnson & Johnson"@ru ;
+	schema:name "Johnson & Johnson"@ru ;
+	rdfs:label "Johnson & Johnson"@en ;
+	skos:prefLabel "Johnson & Johnson"@en ;
+	schema:name "Johnson & Johnson"@en ;
+	rdfs:label "Džonson i Džonson"@sr-el ;
+	skos:prefLabel "Džonson i Džonson"@sr-el ;
+	schema:name "Džonson i Džonson"@sr-el ;
+	rdfs:label "Џонсон и Џонсон"@sr-ec ;
+	skos:prefLabel "Џонсон и Џонсон"@sr-ec ;
+	schema:name "Џонсон и Џонсон"@sr-ec ;
+	rdfs:label "Johnson & Johnson"@ro ;
+	skos:prefLabel "Johnson & Johnson"@ro ;
+	schema:name "Johnson & Johnson"@ro ;
+	rdfs:label "จอห์นสัน แอนด์ จอห์นสัน"@th ;
+	skos:prefLabel "จอห์นสัน แอนด์ จอห์นสัน"@th ;
+	schema:name "จอห์นสัน แอนด์ จอห์นสัน"@th ;
+	rdfs:label "Johnson & Johnson"@fi ;
+	skos:prefLabel "Johnson & Johnson"@fi ;
+	schema:name "Johnson & Johnson"@fi ;
+	rdfs:label "Johnson & Johnson"@uk ;
+	skos:prefLabel "Johnson & Johnson"@uk ;
+	schema:name "Johnson & Johnson"@uk ;
+	rdfs:label "Johnson & Johnson"@cs ;
+	skos:prefLabel "Johnson & Johnson"@cs ;
+	schema:name "Johnson & Johnson"@cs ;
+	rdfs:label "Johnson & Johnson"@lt ;
+	skos:prefLabel "Johnson & Johnson"@lt ;
+	schema:name "Johnson & Johnson"@lt ;
+	rdfs:label "Johnson & Johnson"@da ;
+	skos:prefLabel "Johnson & Johnson"@da ;
+	schema:name "Johnson & Johnson"@da ;
+	rdfs:label "جانسون و جانسون"@fa ;
+	skos:prefLabel "جانسون و جانسون"@fa ;
+	schema:name "جانسون و جانسون"@fa ;
+	rdfs:label "強生公司"@zh ;
+	skos:prefLabel "強生公司"@zh ;
+	schema:name "強生公司"@zh ;
+	rdfs:label "Džonson i Džonson"@sr ;
+	skos:prefLabel "Džonson i Džonson"@sr ;
+	schema:name "Džonson i Džonson"@sr ;
+	rdfs:label "جونسون آند جونسون"@ar ;
+	skos:prefLabel "جونسون آند جونسون"@ar ;
+	schema:name "جونسون آند جونسون"@ar ;
+	rdfs:label "莊生"@yue ;
+	skos:prefLabel "莊生"@yue ;
+	schema:name "莊生"@yue ;
+	rdfs:label "Džonson i Džonson"@sh ;
+	skos:prefLabel "Džonson i Džonson"@sh ;
+	schema:name "Džonson i Džonson"@sh ;
+	schema:description "enterprise"@fr,
+		"U.S multinational medical devices, pharmaceutical and consumer packaged goods manufacturer"@en,
+		"Medizintechnikunternehmen"@de ;
+	skos:altLabel "強生"@zh,
+		"嬌生"@zh,
+		"莊生"@zh,
+		"嬌生公司"@zh,
+		"Johnson and Johnson"@pl,
+		"Johnson & Johnson Corporation"@fr,
+		"Ortho Clinical Diagnostics"@fr,
+		"존슨 앤 존슨"@ko,
+		"존슨&존슨"@ko,
+		"존슨 앤드 존슨"@ko,
+		"존슨앤존슨"@ko,
+		"Johnson & Johnson Corporation"@es,
+		"Johnson & Johnson Services Inc."@es,
+		"Johnson & Johnson Services"@es,
+		"Johnson & Johnson Services Inc"@es,
+		"Johnson e Johnson"@it,
+		"J&J"@de,
+		"Johnson&Johnson"@de,
+		"Listerine"@de,
+		"Robert Wood Johnson I"@de,
+		"Ethicon"@de,
+		"Compeed"@de,
+		"JNJ"@ja,
+		"ジョンソン&ジョンソン"@ja,
+		"ジョンソンエンドジョンソン"@ja,
+		"ジョンソン・アンド・ジョンソン"@ja,
+		"ジョンソンアンドジョンソン"@ja,
+		"Johnson and Johnson"@sv,
+		"Johnson e Johnson"@pt,
+		"Johnson and Johnson"@pt,
+		"זשאנסאן און זשאנסאן"@yi,
+		"דשאנסאן & דזשאנסאן"@yi,
+		"Джонсон & Джонсон"@ru,
+		"Джонсон и Джонсон"@ru,
+		"Johnson & Johnson"@sr,
+		"Džonson & Džonson"@sr,
+		"Džonson end Džonson"@sr,
+		"จอห์นสัน & จอห์นสัน"@th,
+		"Johnson&Johnson"@fi,
+		"McNeil"@fi,
+		"Johnson and Johnson"@uk,
+		"J & J"@da ;
+	wdt:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/JohnsonandJohnsonLogo.svg> ;
+	wdt:P244 "no94000514" ;
+	wdt:P214 "157894482" ;
+	wdt:P227 "272550-2" ;
+	wdt:P213 "0000 0001 2113 0582" ;
+	wdt:P373 "Johnson & Johnson" ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P910 wd:Q8567712 ;
+	wdt:P159 wd:Q1965 ;
+	wdt:P646 "/m/0168nq" ;
+	wdt:P17 wd:Q30 ;
+	wdt:P414 wd:Q13677 ;
+	wdt:P856 <http://www.jnj.com> ;
+	p:P154 wds:Q333718-a65b5a2e-4a8e-520f-697e-81a7950ad698 .
+
+wds:Q333718-a65b5a2e-4a8e-520f-697e-81a7950ad698 a wikibase:Statement ;
+	ps:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/JohnsonandJohnsonLogo.svg> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:473eaef2829a3b999a3002bb35c7f5b896c955bf .
+
+wd:Q333718 p:P244 wds:q333718-D4A79632-F3FC-4EB4-9572-C19631D9B808 .
+
+wds:q333718-D4A79632-F3FC-4EB4-9572-C19631D9B808 a wikibase:Statement ;
+	ps:P244 "no94000514" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q333718 p:P214 wds:q333718-554788E0-E774-4F7C-96C5-73B5619573C5 .
+
+wds:q333718-554788E0-E774-4F7C-96C5-73B5619573C5 a wikibase:Statement ;
+	ps:P214 "157894482" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q333718 p:P227 wds:q333718-3E857D67-44F8-4690-B579-44DF01CE6648 .
+
+wds:q333718-3E857D67-44F8-4690-B579-44DF01CE6648 a wikibase:Statement ;
+	ps:P227 "272550-2" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q333718 p:P213 wds:q333718-FC63B4EA-698F-43DB-8CEB-B2848A1D2B6D .
+
+wds:q333718-FC63B4EA-698F-43DB-8CEB-B2848A1D2B6D a wikibase:Statement ;
+	ps:P213 "0000 0001 2113 0582" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:500bf0768a4645f1e00ad451f904d3a010fa43ae .
+
+wd:Q333718 p:P373 wds:q333718-83D68BB9-B399-4132-95EC-648EFA5739F3 .
+
+wds:q333718-83D68BB9-B399-4132-95EC-648EFA5739F3 a wikibase:Statement ;
+	ps:P373 "Johnson & Johnson" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:004ec6fbee857649acdbdbad4f97b2c8571df97b .
+
+wd:Q333718 p:P31 wds:q333718-E24C5CE9-3FAC-4C69-AEB7-0797C4165527 .
+
+wds:q333718-E24C5CE9-3FAC-4C69-AEB7-0797C4165527 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q333718 p:P910 wds:Q333718-34BC9FDC-741A-4F2F-9BDB-0B63A0E082A5 .
+
+wds:Q333718-34BC9FDC-741A-4F2F-9BDB-0B63A0E082A5 a wikibase:Statement ;
+	ps:P910 wd:Q8567712 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q333718 p:P159 wds:Q333718-BA783856-204D-4402-87FF-2B39AADB31BD .
+
+wds:Q333718-BA783856-204D-4402-87FF-2B39AADB31BD a wikibase:Statement ;
+	ps:P159 wd:Q1965 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	pq:P625 "Point(40.498611111111 -74.443611111111)"^^geo:wktLiteral ;
+	pqv:P625 wdv:4127e4a130e4f9493de0cccda49977e3 ;
+	prov:wasDerivedFrom wdref:2f183743080f8e1970847d13a04fde9a796f1476 .
+
+wd:Q333718 p:P646 wds:Q333718-AE8E9D78-2B9A-4347-9768-891D47EBAC6B .
+
+wds:Q333718-AE8E9D78-2B9A-4347-9768-891D47EBAC6B a wikibase:Statement ;
+	ps:P646 "/m/0168nq" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q333718 p:P17 wds:Q333718-AA381170-27B2-4017-91A6-B24E7E8169F1 .
+
+wds:Q333718-AA381170-27B2-4017-91A6-B24E7E8169F1 a wikibase:Statement ;
+	ps:P17 wd:Q30 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q333718 p:P414 wds:Q333718-21B2902F-BE01-4F27-ABE2-CAA90A3C1CF5 .
+
+wds:Q333718-21B2902F-BE01-4F27-ABE2-CAA90A3C1CF5 a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q333718 p:P856 wds:Q333718-1D521194-85CA-466A-BA4B-5B922509473E .
+
+wds:Q333718-1D521194-85CA-466A-BA4B-5B922509473E a wikibase:Statement ;
+	ps:P856 <http://www.jnj.com> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+<https://zh.wikipedia.org/wiki/%E5%BC%B7%E7%94%9F%E5%85%AC%E5%8F%B8> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "zh" .
+
+<https://pl.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "pl" .
+
+<https://fr.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "fr" .
+
+<https://he.wikipedia.org/wiki/%D7%92%27%D7%95%D7%A0%D7%A1%D7%95%D7%9F%20%D7%90%D7%A0%D7%93%20%D7%92%27%D7%95%D7%A0%D7%A1%D7%95%D7%9F> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "he" .
+
+<https://be.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "be" .
+
+<https://ko.wikipedia.org/wiki/%EC%A1%B4%EC%8A%A8%EC%95%A4%EB%93%9C%EC%A1%B4%EC%8A%A8> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "ko" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%9C%E0%AE%BE%E0%AE%A9%E0%AF%8D%E0%AE%9A%E0%AE%A9%E0%AF%8D%20%E0%AE%85%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AF%8D%20%E0%AE%9C%E0%AE%BE%E0%AE%A9%E0%AF%8D%E0%AE%9A%E0%AE%A9%E0%AF%8D> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "ta" .
+
+<https://hu.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "hu" .
+
+<https://it.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "it" .
+
+<https://id.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "id" .
+
+<https://de.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "ja" .
+
+<https://vi.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "vi" .
+
+<https://nl.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "nl" .
+
+<https://sv.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "sv" .
+
+<https://pt.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "pt" .
+
+<https://yi.wikipedia.org/wiki/%D7%96%D7%A9%D7%90%D7%A0%D7%A1%D7%90%D7%9F%20%26%20%D7%96%D7%A9%D7%90%D7%A0%D7%A1%D7%90%D7%9F> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "yi" .
+
+<https://ru.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "ru" .
+
+<https://en.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "en" .
+
+<https://sr.wikipedia.org/wiki/D%C5%BEonson%20i%20D%C5%BEonson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "sr" .
+
+<https://ro.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "ro" .
+
+<https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%99%20%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C%20%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%99> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "th" .
+
+<https://fi.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "fi" .
+
+<https://uk.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "uk" .
+
+<https://cs.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "cs" .
+
+<https://lt.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "lt" .
+
+<https://da.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "da" .
+
+<https://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D9%86%D8%B3%D9%88%D9%86%20%D9%88%20%D8%AC%D8%A7%D9%86%D8%B3%D9%88%D9%86> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "fa" .
+
+<https://zh-yue.wikipedia.org/wiki/%E8%8E%8A%E7%94%9F> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "zh-yue" .
+
+<https://ar.wikipedia.org/wiki/%D8%AC%D9%88%D9%86%D8%B3%D9%88%D9%86%20%D8%A2%D9%86%D8%AF%20%D8%AC%D9%88%D9%86%D8%B3%D9%88%D9%86> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "ar" .
+
+<https://es.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "es" .
+
+<https://sh.wikipedia.org/wiki/Johnson%20%26%20Johnson> a schema:Article ;
+	schema:about wd:Q333718 ;
+	schema:inLanguage "sh" .
+
+wdv:4127e4a130e4f9493de0cccda49977e3 a wikibase:Value,
+		wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "40.498611111111"^^xsd:decimal ;
+	wikibase:geoLongitude "-74.443611111111"^^xsd:decimal ;
+	wikibase:geoPrecision "0.00027777777777778"^^xsd:decimal ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+wdata:Q333719 schema:version "222684810"^^xsd:integer ;
+	schema:dateModified "2015-06-17T03:54:05Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q333719 .
+

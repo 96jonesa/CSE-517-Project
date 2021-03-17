@@ -1,0 +1,321 @@
+wd:Q898208 a wikibase:Item ;
+	rdfs:label "霍尼韦尔"@zh-hans ;
+	skos:prefLabel "霍尼韦尔"@zh-hans ;
+	schema:name "霍尼韦尔"@zh-hans ;
+	rdfs:label "霍尼韋爾"@zh-hant ;
+	skos:prefLabel "霍尼韋爾"@zh-hant ;
+	schema:name "霍尼韋爾"@zh-hant ;
+	rdfs:label "霍尼韋爾"@zh-hk ;
+	skos:prefLabel "霍尼韋爾"@zh-hk ;
+	schema:name "霍尼韋爾"@zh-hk ;
+	rdfs:label "Honeywell"@pt ;
+	skos:prefLabel "Honeywell"@pt ;
+	schema:name "Honeywell"@pt ;
+	rdfs:label "Honeywell"@pl ;
+	skos:prefLabel "Honeywell"@pl ;
+	schema:name "Honeywell"@pl ;
+	rdfs:label "Honeywell"@sk ;
+	skos:prefLabel "Honeywell"@sk ;
+	schema:name "Honeywell"@sk ;
+	rdfs:label "Honeywell"@ru ;
+	skos:prefLabel "Honeywell"@ru ;
+	schema:name "Honeywell"@ru ;
+	rdfs:label "Honeywell"@fr ;
+	skos:prefLabel "Honeywell"@fr ;
+	schema:name "Honeywell"@fr ;
+	rdfs:label "Honeywell"@en ;
+	skos:prefLabel "Honeywell"@en ;
+	schema:name "Honeywell"@en ;
+	rdfs:label "Honeywell"@es ;
+	skos:prefLabel "Honeywell"@es ;
+	schema:name "Honeywell"@es ;
+	rdfs:label "Honeywell"@ro ;
+	skos:prefLabel "Honeywell"@ro ;
+	schema:name "Honeywell"@ro ;
+	rdfs:label "Honeywell"@ca ;
+	skos:prefLabel "Honeywell"@ca ;
+	schema:name "Honeywell"@ca ;
+	rdfs:label "Honeywell"@fi ;
+	skos:prefLabel "Honeywell"@fi ;
+	schema:name "Honeywell"@fi ;
+	rdfs:label "Honeywell"@uk ;
+	skos:prefLabel "Honeywell"@uk ;
+	schema:name "Honeywell"@uk ;
+	rdfs:label "Honeywell"@it ;
+	skos:prefLabel "Honeywell"@it ;
+	schema:name "Honeywell"@it ;
+	rdfs:label "Honeywell"@id ;
+	skos:prefLabel "Honeywell"@id ;
+	schema:name "Honeywell"@id ;
+	rdfs:label "Honeywell International"@de ;
+	skos:prefLabel "Honeywell International"@de ;
+	schema:name "Honeywell International"@de ;
+	rdfs:label "ハネウェル"@ja ;
+	skos:prefLabel "ハネウェル"@ja ;
+	schema:name "ハネウェル"@ja ;
+	rdfs:label "Honeywell"@cs ;
+	skos:prefLabel "Honeywell"@cs ;
+	schema:name "Honeywell"@cs ;
+	rdfs:label "Honeywell"@nl ;
+	skos:prefLabel "Honeywell"@nl ;
+	schema:name "Honeywell"@nl ;
+	rdfs:label "هانيويل"@ar ;
+	skos:prefLabel "هانيويل"@ar ;
+	schema:name "هانيويل"@ar ;
+	rdfs:label "Honeywell"@sv ;
+	skos:prefLabel "Honeywell"@sv ;
+	schema:name "Honeywell"@sv ;
+	rdfs:label "هانی‌ول"@fa ;
+	skos:prefLabel "هانی‌ول"@fa ;
+	schema:name "هانی‌ول"@fa ;
+	rdfs:label "霍尼韦尔"@zh ;
+	skos:prefLabel "霍尼韦尔"@zh ;
+	schema:name "霍尼韦尔"@zh ;
+	rdfs:label "Honeywell"@nb ;
+	skos:prefLabel "Honeywell"@nb ;
+	schema:name "Honeywell"@nb ;
+	rdfs:label "హనీవెల్"@te ;
+	skos:prefLabel "హనీవెల్"@te ;
+	schema:name "హనీవెల్"@te ;
+	rdfs:label "Honeywell"@tr ;
+	skos:prefLabel "Honeywell"@tr ;
+	schema:name "Honeywell"@tr ;
+	rdfs:label "Honeywell"@sl ;
+	skos:prefLabel "Honeywell"@sl ;
+	schema:name "Honeywell"@sl ;
+	schema:description "multinational conglomerate"@en ;
+	skos:altLabel "Honeywell"@zh,
+		"Honeywell International"@sk,
+		"Honeywell International"@ru,
+		"Honeywell International"@fr,
+		"Honeywell Intl."@fr,
+		"Honeywell International Incorporated"@fr,
+		"Honeywell International Inc"@fr,
+		"Allied Chemical & Dye Company"@es,
+		"Ханівел"@uk,
+		"Honeywell Aerospace"@de,
+		"Honeywell International Inc."@de,
+		"Honeywell"@de,
+		"ハニウェル"@ja,
+		"Honeywell"@ja,
+		"هونيوال"@ar,
+		"هونيويل"@ar,
+		"Honeywell International, Inc."@en,
+		"Minneapolis Heat Regulator Company"@en,
+		"Minneapolis-Honeywell Regulator Company"@en ;
+	wdt:P373 "Honeywell" ;
+	wdt:P31 wd:Q783794 ;
+	wdt:P155 wd:Q2255004,
+		wd:Q2838293,
+		wd:Q4887137,
+		wd:Q6804218 ;
+	wdt:P112 wd:Q118156,
+		wd:Q6766952 ;
+	wdt:P856 <http://honeywell.com/> ;
+	wdt:P910 wd:Q7426725 ;
+	wdt:P646 "/m/01gx66" ;
+	wdt:P1482 <http://stackoverflow.com/tags/honeywell> ;
+	wdt:P414 wd:Q13677 ;
+	p:P373 wds:q898208-98716751-78B6-480A-856C-C9AA900FA689 .
+
+wds:q898208-98716751-78B6-480A-856C-C9AA900FA689 a wikibase:Statement ;
+	ps:P373 "Honeywell" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q898208 p:P31 wds:q898208-5B304008-50DD-40B4-B83C-68AECE7DAAD7 .
+
+wds:q898208-5B304008-50DD-40B4-B83C-68AECE7DAAD7 a wikibase:Statement ;
+	ps:P31 wd:Q783794 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q898208 p:P155 wds:q898208-6BCEE1C0-46A8-47E8-82D5-50663019D62B .
+
+wds:q898208-6BCEE1C0-46A8-47E8-82D5-50663019D62B a wikibase:Statement ;
+	ps:P155 wd:Q2255004 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q898208 p:P155 wds:Q898208-8894621D-24FA-4B81-B73F-EA8603174A9D .
+
+wds:Q898208-8894621D-24FA-4B81-B73F-EA8603174A9D a wikibase:Statement ;
+	ps:P155 wd:Q2838293 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q898208 p:P155 wds:Q898208-7A321329-4BD3-4AC7-87D1-CE1C84274D54 .
+
+wds:Q898208-7A321329-4BD3-4AC7-87D1-CE1C84274D54 a wikibase:Statement ;
+	ps:P155 wd:Q4887137 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q898208 p:P155 wds:Q898208-B3D9C901-3A2E-449C-9684-00C80AACBD5C .
+
+wds:Q898208-B3D9C901-3A2E-449C-9684-00C80AACBD5C a wikibase:Statement ;
+	ps:P155 wd:Q6804218 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q898208 p:P112 wds:q898208-282A3C84-A859-43EF-81DB-37A29C2D98AF .
+
+wds:q898208-282A3C84-A859-43EF-81DB-37A29C2D98AF a wikibase:Statement ;
+	ps:P112 wd:Q118156 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q898208 p:P112 wds:q898208-6F7D21D6-EF52-4507-83A7-C8B92AC56D5F .
+
+wds:q898208-6F7D21D6-EF52-4507-83A7-C8B92AC56D5F a wikibase:Statement ;
+	ps:P112 wd:Q6766952 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q898208 p:P856 wds:Q898208-C347BF4C-AAFA-4AAE-B62D-BBEB5127ECCF .
+
+wds:Q898208-C347BF4C-AAFA-4AAE-B62D-BBEB5127ECCF a wikibase:Statement ;
+	ps:P856 <http://honeywell.com/> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0 .
+
+wd:Q898208 p:P910 wds:Q898208-2F757F7C-FD9D-4E06-9CE7-563CAEB3A6F5 .
+
+wds:Q898208-2F757F7C-FD9D-4E06-9CE7-563CAEB3A6F5 a wikibase:Statement ;
+	ps:P910 wd:Q7426725 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q898208 p:P646 wds:Q898208-3979476A-650F-42D3-B356-5C053A1D8FA1 .
+
+wds:Q898208-3979476A-650F-42D3-B356-5C053A1D8FA1 a wikibase:Statement ;
+	ps:P646 "/m/01gx66" ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank ;
+	prov:wasDerivedFrom wdref:af38848ab5d9d9325cffd93a5ec656cc6ca889ed .
+
+wd:Q898208 p:P1482 wds:Q898208-0380DEB1-7A4C-4B0C-A9BA-7A91BC9A7040 .
+
+wds:Q898208-0380DEB1-7A4C-4B0C-A9BA-7A91BC9A7040 a wikibase:Statement ;
+	ps:P1482 <http://stackoverflow.com/tags/honeywell> ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+wd:Q898208 p:P414 wds:Q898208-2D8223B7-08F6-4A29-BDC9-1524194C638F .
+
+wds:Q898208-2D8223B7-08F6-4A29-BDC9-1524194C638F a wikibase:Statement ;
+	ps:P414 wd:Q13677 ;
+	wikibase:rank wikibase:NormalRank,
+		wikibase:BestRank .
+
+<https://zh.wikipedia.org/wiki/%E9%9C%8D%E5%B0%BC%E9%9F%A6%E5%B0%94> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "zh" .
+
+<https://pt.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "pt" .
+
+<https://pl.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "pl" .
+
+<https://sk.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "sk" .
+
+<https://ru.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "ru" .
+
+<https://fr.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "fr" .
+
+<https://en.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "en" .
+
+<https://es.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "es" .
+
+<https://ro.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "ro" .
+
+<https://no.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "no" .
+
+<https://ca.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "ca" .
+
+<https://fi.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "fi" .
+
+<https://uk.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "uk" .
+
+<https://it.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "it" .
+
+<https://id.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "id" .
+
+<https://de.wikipedia.org/wiki/Honeywell%20International> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "de" .
+
+<https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8D%E3%82%A6%E3%82%A7%E3%83%AB> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "ja" .
+
+<https://cs.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "cs" .
+
+<https://nl.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "nl" .
+
+<https://ar.wikipedia.org/wiki/%D9%87%D8%A7%D9%86%D9%8A%D9%88%D9%8A%D9%84> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "ar" .
+
+<https://sv.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "sv" .
+
+<https://fa.wikipedia.org/wiki/%D9%87%D8%A7%D9%86%DB%8C%E2%80%8C%D9%88%D9%84> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "fa" .
+
+<https://te.wikipedia.org/wiki/%E0%B0%B9%E0%B0%A8%E0%B1%80%E0%B0%B5%E0%B1%86%E0%B0%B2%E0%B1%8D> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "te" .
+
+<https://tr.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "tr" .
+
+<https://sl.wikipedia.org/wiki/Honeywell> a schema:Article ;
+	schema:about wd:Q898208 ;
+	schema:inLanguage "sl" .
+
+wdata:Q898211 schema:version "151977368"^^xsd:integer ;
+	schema:dateModified "2014-08-20T14:25:01Z"^^xsd:dateTime ;
+	a schema:Dataset ;
+	schema:about wd:Q898211 .
+
