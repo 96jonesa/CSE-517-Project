@@ -1,2 +1,11 @@
 # CSE-517-Project
-Private repository for our CSE 517 project.
+
+##TODO
+
+ -Dependencies
+-Data download instruction
+-Preprocessing code + command
+-Training code + command
+-Evaluation code + command
+-Pretrained model (if applicable)
+-Table of results
