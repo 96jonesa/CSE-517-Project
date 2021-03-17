@@ -40,12 +40,12 @@ python main.py --preprocess_in ../wikidata_raw --preprocess_out <your processed 
 
 4. Train and save an instance of MAN-SF
 ```
-python main.py --train <your processed data folder> --model <folder to save model in >
+python main.py --train <your processed data folder> --model <folder to save model in>
 ```
 
 5. Evaluate the saved MAN-SF model
 ```
-python main.py --train <your processed data folder> --model <path to the saved model>
+python main.py --evaluate <your processed data folder> --model <path to the saved model>
 ```
 
 ### TODO
