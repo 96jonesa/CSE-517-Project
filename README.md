@@ -14,6 +14,9 @@
 - 'stockdataset.py' contains the implementation of the StockDataset class
 - 'train.py' contains functions and code for training a model
 
+'wikidata_raw' contains a folder called 'wikidata_entries' with Wikidata entries for each stock entity 
+along with a file called 'links.csv' mapping stock ticker symbols to their Wikidata URL (which contains their Wikidata entity number).
+
 ### Dependencies
 
 
