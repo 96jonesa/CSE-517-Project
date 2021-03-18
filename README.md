@@ -2,7 +2,7 @@
 
 ### What is this?
 
-
+This is the code repository for our (Andy Jones, Brandon Ko, Kyle Xiao) CSE 517 reproducibility project. This repo contains our code used in attempting to reproduce the model and findings of Sawhney et al.'s "Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations" (https://www.aclweb.org/anthology/2020.emnlp-main.676.pdf). Contains model implementation as well as scripts for training and evaluating models, and for pre-processing the StockNet dataset (https://github.com/yumoxu/stocknet-dataset)
 
 ### Contents
 
@@ -13,13 +13,24 @@
 - 'data_processing.py' contains functions and code for pre-processing data
 - 'stockdataset.py' contains the implementation of the StockDataset class
 - 'train.py' contains functions and code for training a model
+- 'evaluate.py' contains functions and code for evaluating a model
+- 'main.py' is the primary interface from which various scripts can be run
 
-'wikidata_raw' contains a folder called 'wikidata_entries' with Wikidata entries for each stock entity 
-along with a file called 'links.csv' mapping stock ticker symbols to their Wikidata URL (which contains their Wikidata entity number).
+'wikidata_raw' contains a folder named 'wikidata_entries' with Wikidata entries for each stock entity along with a file named 'links.csv' mapping stock ticker symbols to their Wikidata URL (which contains their Wikidata entity number).
 
 ### Dependencies
 
+Requiring installation of the following:
 
+- torch
+- tensorflow
+- tensorflow_hub
+- matplotlib
+- numpy
+- pandas
+- seaborn
+- pandas_market_calendars
+- tqdm
 
 ### Running the code
 
