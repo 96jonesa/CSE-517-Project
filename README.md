@@ -1,4 +1,4 @@
-# CSE-517-Project
+# CSE 517 Project
 
 ### What is this?
 
