@@ -1,4 +1,4 @@
-# CSE-517-Project
+# CSE 517 Project
 
 ### What is this?
 
@@ -23,7 +23,7 @@ This is the code repository for our (Andy Jones, Brandon Ko, Kyle Xiao) CSE 517 
 
 ### Dependencies
 
-Requiring installation of the following:
+Requires installation of the following:
 
 - torch
 - tensorflow
@@ -67,13 +67,3 @@ python main.py --train <your processed data folder (i.e. ../tmp)> --model <folde
 ```
 python main.py --evaluate <your processed data folder (i.e. ../tmp)> --model <path to the saved model (i.e. ../tmp/model.pkl)>
 ```
-
-### TODO
-
-- Dependencies (Done) (added a requirements.txt in model_python)
-- Data download instruction (Done) (StockNet is downloaded through CLI, Wikidata is included in our repo)
-- Preprocessing code + command (Done)
-- Training code + command (Need to finalize training method)
-- Evaluation code + command
-- Pretrained model (if applicable)
-- Table of results
