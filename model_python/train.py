@@ -71,7 +71,8 @@ def train_model(mansf, train_dataloader, val_dataloader, num_epochs, LEARNING_RA
 
             neighborhoods = torch.eye(87, 87)
             neighborhoods = neighborhoods.to(device)
-            neighborhoods = neighborhoods[usable_stocks, usable_stocks]
+            neighborhoods = neighborhoods[usable_stocks,:]
+            neighborhoods = neighborhoods[:,usable_stocks]
 
             if price.shape[0] != 0:
                 y = mansf(price, smi, m_mask, neighborhoods, device)
@@ -114,7 +115,8 @@ def train_model(mansf, train_dataloader, val_dataloader, num_epochs, LEARNING_RA
 
             neighborhoods = torch.eye(87, 87)
             neighborhoods = neighborhoods.to(device)
-            neighborhoods = neighborhoods[usable_stocks, usable_stocks]
+            neighborhoods = neighborhoods[usable_stocks,:]
+            neighborhoods = neighborhoods[:,usable_stocks]
 
             if price.shape[0] != 0:
                 y = mansf(price, smi, m_mask, neighborhoods, device)
