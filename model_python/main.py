@@ -175,10 +175,11 @@ def evaluate(model_filepath, data_filepath):
 
     man_sf_model.eval()
 
-    test_acc, sharpe_ratio = evaluate_model(man_sf_model, test_dataloader, T, test_company_to_tweets, test_date_universe, data_filepath)
+    test_acc, sharpe_ratio, f1 = evaluate_model(man_sf_model, test_dataloader, T, test_company_to_tweets, test_date_universe, data_filepath)
 
     print('test accuracy:', test_acc)
     print('sharpe ratio:', sharpe_ratio[0])
+    print('f1:', f1)
 
 if __name__ == '__main__':
     main()

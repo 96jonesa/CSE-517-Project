@@ -8,3 +8,4 @@ seaborn
 pandas
 pandas_market_calendars
 tqdm
+sklearn

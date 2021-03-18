@@ -19,10 +19,12 @@ import pandas_market_calendars as mcal
 import datetime
 from torch.utils.data import Dataset, DataLoader
 from tqdm import tqdm
+from sklearn.metrics import f1_score
 
 from model import MANSF
 from stockdataset import StockDataset
 from data_processing import prep_dataset
+
 
 # path = '../stocknet-dataset-master/price/raw'
 def get_data(symbols, dates, path):
@@ -118,6 +120,8 @@ def evaluate_model(mansf, test_dataloader, T, company_to_tweets, date_universe, 
     mansf.eval()
     correct = 0.0
     total = 0.0
+    y_pred_all = []
+    y_actual_all = []
     for idx, (price, smi, n_tweets, usable_stocks, labels, m_mask) in enumerate(tqdm(test_dataloader)):
         price = price.type(torch.FloatTensor)
         smi = smi.type(torch.FloatTensor)
@@ -167,9 +171,14 @@ def evaluate_model(mansf, test_dataloader, T, company_to_tweets, date_universe, 
 
             correct += torch.sum((y > 0.5).view(-1) == labels.view(-1)).item()
             total += len(y)
+
+            y_pred_all += (y > 0.5).view(-1).tolist()
+            y_actual_all += labels.view(-1).tolist()
             
     df_orders = df_orders.fillna(0)
     portvals = compute_portvals(df_orders, data_filepath)
     sharpe_metric = sharpe(portvals)
 
-    return correct / total, sharpe_metric
+    f1 = f1_score(y_pred_all, y_actual_all, average='macro')
+
+    return correct / total, sharpe_metric, f1
