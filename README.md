@@ -34,6 +34,12 @@ Requiring installation of the following:
 - pandas_market_calendars
 - tqdm
 
+
+
+### Obtaining the data
+
+The StockNet dataset is automatically downloaded when the preprocessing script is run. The WikiData relations data is available in this repo.
+
 ### Running the code
 
 1. Navigate to the python directory
