@@ -24,11 +24,12 @@ from model import MANSF
 from stockdataset import StockDataset
 from data_processing import prep_dataset
 
-path = '../stocknet-dataset-master/price/raw'
-def get_data(symbols, dates):
+# path = '../stocknet-dataset-master/price/raw'
+def get_data(symbols, dates, path):
     """Read stock data (adjusted close) for given symbols from CSV files."""
     df = pd.DataFrame(index=dates)
     
+    path = os.path.join(path, 'stocknet-dataset-master', 'price', 'raw')
     """Iterate over each symbol"""
     for symbol in symbols:
         """Import new data"""
@@ -57,7 +58,7 @@ def next_trading_day(start_day=None, SAFE_DELTA = 5):
     return next_day
 
 # Calculate value change of portfolio assuming the order file and equal cash allocation
-def compute_portvals(df_orders, start_val = 100, commission=0, impact=0):
+def compute_portvals(df_orders, data_filepath, start_val = 100, commission=0, impact=0):
     # prep variables and date range
     df_orders.sort_index(inplace=True)
     start_date = df_orders.index[0]
@@ -65,7 +66,7 @@ def compute_portvals(df_orders, start_val = 100, commission=0, impact=0):
     symbols = list(set(df_orders.columns.values))
     
     # get price data
-    df_prices = get_data(symbols, pd.date_range(start_date, end_date, freq='D')).dropna()
+    df_prices = get_data(symbols, pd.date_range(start_date, end_date, freq='D'), data_filepath).dropna()
     df_prices = df_prices[symbols]
     df_price_change = df_prices.pct_change()
     df_price_change.iloc[0] = 0
@@ -76,14 +77,18 @@ def compute_portvals(df_orders, start_val = 100, commission=0, impact=0):
     df_holdings.update(df_orders)
     df_holdings = df_holdings.ffill()
     df_port_change = pd.DataFrame(columns=['portfolio'], index=df_price_change.index)
+    df_holdings = df_orders
     for index, row in df_holdings.iterrows():
         vals = []
         for col in df_holdings.columns.values:
             if row[col] == 1:
                 vals.append(df_price_change.loc[index, col])
-            
+            elif row[col] == -1:
+                vals.append(-df_price_change.loc[index, col])
+
         if len(vals) == 0:
             vals.append(0)
+
         df_port_change.loc[index] = sum(vals)/len(vals) + 1
     df_values = df_port_change.cumprod() * start_val
     
@@ -97,7 +102,7 @@ def sharpe(portvals, risk_free_rate=0):
     return (np.sqrt(252) * avg_return - risk_free_rate) / risk
 
 
-def evaluate_model(mansf, test_dataloader, T, company_to_tweets, date_universe):
+def evaluate_model(mansf, test_dataloader, T, company_to_tweets, date_universe, data_filepath):
     # set device to GPU if available
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     
@@ -105,7 +110,7 @@ def evaluate_model(mansf, test_dataloader, T, company_to_tweets, date_universe):
     index_to_company = {i:c for i,c in enumerate(sorted(list(company_to_tweets.keys())))}
     index_to_date = index_to_date = {i-5:d for i,d in enumerate(date_universe)}
     
-    df_orders = pd.DataFrame(columns=sorted(list(index_to_company.values())))
+    df_orders = pd.DataFrame(columns=sorted(list(index_to_company.values())), index=sorted(list(date_universe)))
 
     # move model to device
     mansf = mansf.to(device)
@@ -113,7 +118,7 @@ def evaluate_model(mansf, test_dataloader, T, company_to_tweets, date_universe):
     mansf.eval()
     correct = 0.0
     total = 0.0
-    for index, (price, smi, n_tweets, usable_stocks, labels, m_mask) in enumerate(tqdm(test_dataloader)):
+    for idx, (price, smi, n_tweets, usable_stocks, labels, m_mask) in enumerate(tqdm(test_dataloader)):
         price = price.type(torch.FloatTensor)
         smi = smi.type(torch.FloatTensor)
 
@@ -125,8 +130,9 @@ def evaluate_model(mansf, test_dataloader, T, company_to_tweets, date_universe):
         m_mask = m_mask.to(device)
         
         stocks = []
-        for i, val in enumerate(usable_stocks):
-            if val == 1:
+
+        for i, val in enumerate(usable_stocks.tolist()[0]):
+            if val:
                 stocks.append(index_to_company[i])
 
         price = price.view(price.shape[1], price.shape[2], price.shape[3])
@@ -149,19 +155,21 @@ def evaluate_model(mansf, test_dataloader, T, company_to_tweets, date_universe):
         if price.shape[0] != 0:
             y = mansf(price, smi, m_mask, neighborhoods, device)
             orders = {}
+
             for i, stock in enumerate(stocks):
-                if y[i] == 1:
+                if y[i] > 0.5:
                     orders[stock] = 1
-                elif y[i] == 0:
+                else:
                     orders[stock] = -1
-            df_orders[index_to_date[idx]] = orders
+
+            for symbol, order in orders.items():
+                df_orders.loc[index_to_date[idx], symbol] = order
+
             correct += torch.sum((y > 0.5).view(-1) == labels.view(-1)).item()
             total += len(y)
             
     df_orders = df_orders.fillna(0)
-    
-    portvals = compute_portvals(df_orders)
-    
+    portvals = compute_portvals(df_orders, data_filepath)
     sharpe_metric = sharpe(portvals)
 
     return correct / total, sharpe_metric

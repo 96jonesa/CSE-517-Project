@@ -70,7 +70,7 @@ def train_model(mansf, train_dataloader, val_dataloader, num_epochs, LEARNING_RA
             neighborhoods = neighborhoods[:,usable_stocks]
 
             if price.shape[0] != 0:
-                y = mansf(price, smi, m_mask, neighborhoods)
+                y = mansf(price, smi, m_mask, neighborhoods, device)
                 loss = loss_fn(y.view(-1), labels.view(-1))
                 loss.backward()
                 optimizer.step()
@@ -106,7 +106,7 @@ def train_model(mansf, train_dataloader, val_dataloader, num_epochs, LEARNING_RA
             neighborhoods = neighborhoods[:, usable_stocks]
 
             if price.shape[0] != 0:
-                y = mansf(price, smi, m_mask, neighborhoods)
+                y = mansf(price, smi, m_mask, neighborhoods, device)
                 correct += torch.sum((y > 0.5).view(-1) == labels.view(-1)).item()
                 total += len(y)
 
