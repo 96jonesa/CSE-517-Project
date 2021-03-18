@@ -23,7 +23,7 @@ This is the code repository for our (Andy Jones, Brandon Ko, Kyle Xiao) CSE 517 
 
 ### Dependencies
 
-Requiring installation of the following:
+Requires installation of the following:
 
 - torch
 - tensorflow
