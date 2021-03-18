@@ -24,7 +24,7 @@ LEAKYRELU_SLOPE = 0.01
 ELU_ALPHA = 1.0
 U = 8
 LEARNING_RATE = 5e-4
-NUM_EPOCHS = 1
+NUM_EPOCHS = 25
 
 """
 Valid executions:
