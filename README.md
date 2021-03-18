@@ -55,17 +55,17 @@ pip install -r requirements.txt
 
 3. Download and preprocess the data
 ```
-python main.py --preprocess_in ../wikidata_raw --preprocess_out <your processed data folder>
+python main.py --preprocess_in ../wikidata_raw --preprocess_out <your processed data folder (i.e. ../tmp)>
 ```
 
 4. Train and save an instance of MAN-SF
 ```
-python main.py --train <your processed data folder> --model <folder to save model in>
+python main.py --train <your processed data folder (i.e. ../tmp)> --model <folder to save model in (i.e. ../tmp/model.pkl)>
 ```
 
 5. Evaluate the saved MAN-SF model
 ```
-python main.py --evaluate <your processed data folder> --model <path to the saved model>
+python main.py --evaluate <your processed data folder (i.e. ../tmp)> --model <path to the saved model (i.e. ../tmp/model.pkl)>
 ```
 
 ### TODO
