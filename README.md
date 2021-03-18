@@ -2,7 +2,7 @@
 
 ### What is this?
 
-This is the code repository for our (Andy Jones, Brandon Ko, Kyle Xiao) CSE 517 reproducibility project. This repo contains our code used in attempting to reproduce the model and findings of Sawhney et al.'s "Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations" (https://www.aclweb.org/anthology/2020.emnlp-main.676.pdf). Contains model implementation as well as scripts for training and evaluating models, and for pre-processing the StockNet dataset (https://github.com/yumoxu/stocknet-dataset)
+This is the code repository for our (Andy Jones, Brandon Ko, Kyle Xiao) CSE 517 reproducibility project. This repo contains our code used in attempting to reproduce the model and findings of Sawhney et al.'s "Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations" (https://www.aclweb.org/anthology/2020.emnlp-main.676.pdf). Contains model implementation as well as scripts for training and evaluating models, and for pre-processing the StockNet dataset (https://github.com/yumoxu/stocknet-dataset) and WikiData relations data.
 
 ### Contents
 
