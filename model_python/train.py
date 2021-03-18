@@ -50,31 +50,27 @@ def train_model(mansf, train_dataloader, val_dataloader, num_epochs, LEARNING_RA
             price = price.type(torch.FloatTensor)
             smi = smi.type(torch.FloatTensor)
 
-            price = price.to(device)
-            smi = smi.to(device)
-            n_tweets = n_tweets.to(device)
-            usable_stocks = usable_stocks.to(device)
+            price = price.to(device).squeeze(axis=0)
+            smi = smi.to(device).squeeze(axis=0).permute(1, 0, 2, 3)
+            n_tweets = n_tweets.to(device).squeeze(axis=0)
+            usable_stocks = usable_stocks.to(device).squeeze(axis=0)
             labels = labels.to(device)
-            m_mask = m_mask.to(device)
+            m_mask = m_mask.to(device).squeeze(axis=0)
 
-            price = price.view(price.shape[1], price.shape[2], price.shape[3])
-            smi = smi.view(smi.shape[1], smi.shape[2], smi.shape[3], smi.shape[4])
-            n_tweets = n_tweets.view(n_tweets.shape[1], n_tweets.shape[2])
-            usable_stocks = usable_stocks.view(usable_stocks.shape[1])
-            m_mask = m_mask.view(m_mask.shape[1], m_mask.shape[2], m_mask.shape[3], m_mask.shape[4])
-
-            smi = smi.permute(1, 0, 2, 3)
+            #print(smi.shape, m_mask.shape)
+            #print(smi[:, :, :, :1])
 
             m = []
-            for t in range(T):
+            for t in range(6):
                 m.append(smi[t])
 
             neighborhoods = torch.eye(87, 87)
             neighborhoods = neighborhoods.to(device)
-            neighborhoods = neighborhoods[usable_stocks, usable_stocks]
+            neighborhoods = neighborhoods[usable_stocks, :]
+            neighborhoods = neighborhoods[:, usable_stocks]
 
             if price.shape[0] != 0:
-                y = mansf(price, smi, m_mask, neighborhoods, device)
+                y = mansf(price, smi, m_mask, neighborhoods)
                 loss = loss_fn(y.view(-1), labels.view(-1))
                 loss.backward()
                 optimizer.step()
@@ -93,31 +89,24 @@ def train_model(mansf, train_dataloader, val_dataloader, num_epochs, LEARNING_RA
             price = price.type(torch.FloatTensor)
             smi = smi.type(torch.FloatTensor)
 
-            price = price.to(device)
-            smi = smi.to(device)
-            n_tweets = n_tweets.to(device)
-            usable_stocks = usable_stocks.to(device)
+            price = price.to(device).squeeze(axis=0)
+            smi = smi.to(device).squeeze(axis=0).permute(1, 0, 2, 3)
+            n_tweets = n_tweets.to(device).squeeze(axis=0)
+            usable_stocks = usable_stocks.to(device).squeeze(axis=0)
             labels = labels.to(device)
-            m_mask = m_mask.to(device)
-
-            price = price.view(price.shape[1], price.shape[2], price.shape[3])
-            smi = smi.view(smi.shape[1], smi.shape[2], smi.shape[3], smi.shape[4])
-            n_tweets = n_tweets.view(n_tweets.shape[1], n_tweets.shape[2])
-            usable_stocks = usable_stocks.view(usable_stocks.shape[1])
-            m_mask = m_mask.view(m_mask.shape[1], m_mask.shape[2], m_mask.shape[3], m_mask.shape[4])
-
-            smi = smi.permute(1, 0, 2, 3)
+            m_mask = m_mask.to(device).squeeze(axis=0)
 
             m = []
-            for t in range(T):
+            for t in range(6):
                 m.append(smi[t])
 
             neighborhoods = torch.eye(87, 87)
             neighborhoods = neighborhoods.to(device)
-            neighborhoods = neighborhoods[usable_stocks, usable_stocks]
+            neighborhoods = neighborhoods[usable_stocks, :]
+            neighborhoods = neighborhoods[:, usable_stocks]
 
             if price.shape[0] != 0:
-                y = mansf(price, smi, m_mask, neighborhoods, device)
+                y = mansf(price, smi, m_mask, neighborhoods)
                 correct += torch.sum((y > 0.5).view(-1) == labels.view(-1)).item()
                 total += len(y)
 

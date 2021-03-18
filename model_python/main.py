@@ -175,7 +175,7 @@ def evaluate(model_filepath, data_filepath):
 
     man_sf_model.eval()
 
-    test_acc = evaluate_model(man_sf_model, test_dataloader, T)
+    test_acc = evaluate_model(man_sf_model, test_dataloader, T, test_company_to_tweets, test_date_universe)
 
     print('test accuracy:', test_acc)
 

@@ -22,6 +22,8 @@ class StockDataset(Dataset):
         self.n_stocks = n_stocks
         self.n_days = n_days
         self.max_tweets = max_tweets
+        self.window = 6
+        window = self.window
 
         # Build maps
         self.company_to_index = {c:i for i,c in enumerate(sorted(list(company_to_tweets.keys())))}
@@ -31,6 +33,56 @@ class StockDataset(Dataset):
         # Store data
         self.company_to_price_df = company_to_price_df
         self.company_to_tweets = company_to_tweets
+        
+        # Get price data tensor: n_stocks, n_days, 3
+        self.price_data = np.zeros((n_stocks, n_days, 3))
+        for company in company_to_price_df.keys():
+            df = company_to_price_df[company]
+            df.reset_index(inplace=True, drop=True)
+            # Look up specific rows in DF
+            for index, row in df.iterrows():
+                # Grab row with particular date
+                if index != 0:
+                    d_index = self.date_to_index[row['date']]
+                    c_index = self.company_to_index[company]
+                    self.price_data[c_index, d_index, 0] = row['high'] / prev_close
+                    self.price_data[c_index, d_index, 1] = row['low'] / prev_close
+                    self.price_data[c_index, d_index, 2] = row['close'] / prev_close
+                prev_close = row['close']
+                
+        # Which stocks are usable for these dates, shape n_days n_stocks
+        self.usable_stocks = torch.ones((self.n_days-7, self.n_stocks))
+    
+        # Labels of shape n_days, n_stocks
+        self.labels = torch.zeros((self.n_days-7, self.n_stocks))
+        
+
+        # Get labels
+        for i in range(self.n_days-7):
+            # Day after (for label)
+            day_after = self.index_to_date[i + window + 1]
+            # Current day
+            current_day = self.index_to_date[i + window]
+            for company in self.company_to_price_df.keys():
+                df = self.company_to_price_df[company]
+
+                # Grab row with particular date
+                post_row = df.loc[df['date'] == day_after]
+                row = df.loc[df['date'] == current_day]
+                c_index = self.company_to_index[company]
+
+                if (len(post_row['close']) > 0) and (len(row['close']) > 0):
+                    close = np.zeros((1))
+                    close[0] = post_row['close']
+                    close[0] /= row['close']
+                    if close >= 1.0055:
+                        self.labels[i, c_index] = 1
+                    elif close <= 0.995:
+                        self.labels[i, c_index] = 0
+                    else:
+                        self.usable_stocks[i, c_index] = 0
+                else:
+                    self.usable_stocks[i, c_index] = 0
 
     def __len__(self):
         return self.n_days-7
@@ -40,11 +92,17 @@ class StockDataset(Dataset):
         gets a price tensor of shape (n_stocks, 6, 3)
         gets a smi tensor of shape (n_stocks, 6, K, 512)
         """
-        # Size of sliding window
-        window = 6
-
         if torch.is_tensor(idx):
             idx = idx.tolist()
+        
+        # Size of sliding window
+        window = self.window
+        
+        # Current day's usable stocks from price filter
+        usable_stocks = self.usable_stocks[idx]
+        
+        # Labels from price day
+        labels = self.labels[idx]
 
         # Dates that we need to look up
         dates_range = [self.index_to_date[i] for i in range(idx + 1, idx + window + 1)]
@@ -55,60 +113,8 @@ class StockDataset(Dataset):
         # Current day
         current_day = self.index_to_date[idx + window]
 
-        # Which stocks are usable for these dates
-        usable_stocks = torch.ones(self.n_stocks)
-
-        # Labels
-        labels = torch.zeros(self.n_stocks)
-
-        # Get labels
-        for company in self.company_to_price_df.keys():
-            df = self.company_to_price_df[company]
-
-            # Grab row with particular date
-            post_row = df.loc[df['date'] == day_after]
-            row = df.loc[df['date'] == current_day]
-            c_index = self.company_to_index[company]
-
-            if (len(post_row['adjust_close']) > 0) and (len(row['adjust_close']) > 0):
-                close = np.zeros((1))
-                close[0] = post_row['adjust_close']
-                close[0] /= row['adjust_close']
-                if close >= 1.0055:
-                    labels[c_index] = 1
-                elif close <= 0.995:
-                    labels[c_index] = 0
-                else:
-                    usable_stocks[c_index] = 0
-            else:
-                usable_stocks[c_index] = 0
-
         # Get price data tensor: n_stocks, window, 3
-        price_data = np.zeros((self.n_stocks, window, 3))
-        for company in self.company_to_price_df.keys():
-            df = self.company_to_price_df[company]
-
-            prev_day = self.index_to_date[idx]
-            prev_row = df.loc[df['date'] == prev_day]
-            # Look up specific rows in DF
-            for date_idx, date in enumerate(dates_range):
-
-                # Grab row with particular date
-                row = df.loc[df['date'] == date]
-                c_index = self.company_to_index[company]
-
-                if (len(row['high']) > 0) and (len(row['low']) > 0) and (len(row['adjust_close']) > 0) and (len(prev_row['adjust_close']) > 0):
-                    price_data[c_index, date_idx, 0] = row['high']
-                    price_data[c_index, date_idx, 1] = row['low']
-                    price_data[c_index, date_idx, 2] = row['adjust_close']
-
-                    price_data[c_index, date_idx, 0] /= prev_row['adjust_close']
-                    price_data[c_index, date_idx, 1] /= prev_row['adjust_close']
-                    price_data[c_index, date_idx, 2] /= prev_row['adjust_close']
-                else:
-                    usable_stocks[c_index] = 0
-
-                prev_row = row
+        price_data = self.price_data[:, idx+1:idx+window+1, :]
 
         # Extract tweets for specific window
         smi_data = np.zeros((self.n_stocks, window, self.max_tweets, 512))
@@ -128,7 +134,7 @@ class StockDataset(Dataset):
                 tweet_counts[c_index, date_idx] = n_tweets
                 if n_tweets == 0:
                     usable_stocks[c_index] = 0
-                for i,embedding in enumerate(tweets):
+                for i,embedding in enumerate(tweets): 
                     #stocks, day, lags, tweet, embedding
                     smi_data[c_index, date_idx, i, :] = embedding[:]
 
@@ -137,15 +143,13 @@ class StockDataset(Dataset):
         m_mask = torch.zeros(6, self.n_stocks, self.max_tweets, 1)
         for t in range(6):
             for i in range(self.n_stocks):
-                for k in range(self.max_tweets):
-                    if k < tweet_counts[i][t]:
-                        m_mask[t][i][k][0] = 1
+                m_mask[t, i, 0:int(round(tweet_counts[i][t])), 0] = 1
 
         price_output = price_data[usable_stocks,:,:]
         smi_output = smi_data[usable_stocks,:,:,:]
         tweet_count = tweet_counts[usable_stocks,:]
         m_mask = m_mask[:,usable_stocks,:,:]
         labels = labels[usable_stocks]
-
+        
         # construct output
         return price_output, smi_output, tweet_count, usable_stocks, labels, m_mask
