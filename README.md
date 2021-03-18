@@ -16,6 +16,8 @@ This is the code repository for our (Andy Jones, Brandon Ko, Kyle Xiao) CSE 517 
 - 'evaluate.py' contains functions and code for evaluating a model
 - 'main.py' is the primary interface from which various scripts can be run
 
+'model_notebooks' contains various .ipynb notebooks, primarily used for scratch work and sandbox testing of the code present in 'model_python'
+
 'wikidata_raw' contains a folder named 'wikidata_entries' with Wikidata entries for each stock entity along with a file named 'links.csv' mapping stock ticker symbols to their Wikidata URL (which contains their Wikidata entity number).
 
 ### Dependencies
