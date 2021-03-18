@@ -1,11 +1,13 @@
 import os
 import pickle
 import argparse
+import torch
 from torch.utils.data import Dataset, DataLoader
 from data_processing import prep_dataset, build_second_order_wikidata_graphs
 from stockdataset import StockDataset
 from model import MANSF
 from train import train_model
+from evaluate import evaluate_model
 
 STOCKNET_REPO_NAME = 'stocknet-dataset-master'
 PROCESSED_STOCKNET_DATA_FOLDER = 'processed_stocknet_data'
@@ -139,7 +141,7 @@ def train(model_filepath, data_filepath):
     ELU_ALPHA = 1.0
     U = 8
     LEARNING_RATE = 5e-4
-    NUM_EPOCHS = 25
+    NUM_EPOCHS = 1
 
     man_sf_model = MANSF(T=T,
                          gru_hidden_size=GRU_HIDDEN_SIZE,
@@ -173,7 +175,8 @@ def evaluate(model_filepath, data_filepath):
 
     man_sf_model.eval()
 
-    test_acc = evaluate_model(man_sf_model, test_dataloader)
+    T = 6
+    test_acc = evaluate_model(man_sf_model, test_dataloader, T)
 
     print('test accuracy:', test_acc)
 

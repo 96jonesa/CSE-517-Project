@@ -25,7 +25,7 @@ from stockdataset import StockDataset
 from data_processing import prep_dataset
 
 
-evaluate_model(mansf, test_dataloader):
+def evaluate_model(mansf, test_dataloader, T):
     # set device to GPU if available
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
@@ -63,7 +63,7 @@ evaluate_model(mansf, test_dataloader):
         neighborhoods = neighborhoods[usable_stocks, usable_stocks]
 
         if price.shape[0] != 0:
-            y = mansf(price, smi, m_mask, neighborhoods)
+            y = mansf(price, smi, m_mask, neighborhoods, device)
             correct += torch.sum((y > 0.5).view(-1) == labels.view(-1)).item()
             total += len(y)
 
