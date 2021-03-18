@@ -67,4 +67,4 @@ def evaluate_model(mansf, test_dataloader, T):
             correct += torch.sum((y > 0.5).view(-1) == labels.view(-1)).item()
             total += len(y)
 
-    return test_acc
+    return correct / total

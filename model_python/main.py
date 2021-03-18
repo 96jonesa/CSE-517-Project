@@ -12,6 +12,20 @@ from evaluate import evaluate_model
 STOCKNET_REPO_NAME = 'stocknet-dataset-master'
 PROCESSED_STOCKNET_DATA_FOLDER = 'processed_stocknet_data'
 
+# Hyperparameters
+T = 6
+GRU_HIDDEN_SIZE = 64
+ATTN_INTER_SIZE = 32
+USE_EMBED_SIZE = 512
+BLEND_SIZE = 32
+GAT_1_INTER_SIZE = 32
+GAT_2_INTER_SIZE = 32
+LEAKYRELU_SLOPE = 0.01
+ELU_ALPHA = 1.0
+U = 8
+LEARNING_RATE = 5e-4
+NUM_EPOCHS = 1
+
 """
 Valid executions:
 main.py --preprocess_in     <filepath>  --preprocess_out    <filepath>
@@ -129,20 +143,6 @@ def train(model_filepath, data_filepath):
     val_dataloader = DataLoader(val_dataset, batch_size=1,
                             shuffle=False, num_workers=0)
 
-    # specify hyperparameter values
-    T = 6
-    GRU_HIDDEN_SIZE = 64
-    ATTN_INTER_SIZE = 32
-    USE_EMBED_SIZE = 512
-    BLEND_SIZE = 32
-    GAT_1_INTER_SIZE = 32
-    GAT_2_INTER_SIZE = 32
-    LEAKYRELU_SLOPE = 0.01
-    ELU_ALPHA = 1.0
-    U = 8
-    LEARNING_RATE = 5e-4
-    NUM_EPOCHS = 1
-
     man_sf_model = MANSF(T=T,
                          gru_hidden_size=GRU_HIDDEN_SIZE,
                          attn_inter_size=ATTN_INTER_SIZE,
@@ -175,7 +175,6 @@ def evaluate(model_filepath, data_filepath):
 
     man_sf_model.eval()
 
-    T = 6
     test_acc = evaluate_model(man_sf_model, test_dataloader, T)
 
     print('test accuracy:', test_acc)
