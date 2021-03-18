@@ -15,6 +15,7 @@ This is the code repository for our (Andy Jones, Brandon Ko, Kyle Xiao) CSE 517 
 - 'train.py' contains functions and code for training a model
 - 'evaluate.py' contains functions and code for evaluating a model
 - 'main.py' is the primary interface from which various scripts can be run
+- 'requirements.txt' lists the dependencies need to run the scripts in this repo
 
 'model_notebooks' contains various .ipynb notebooks, primarily used for scratch work and sandbox testing of the code present in 'model_python'
 
