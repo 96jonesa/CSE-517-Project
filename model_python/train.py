@@ -25,7 +25,7 @@ from stockdataset import StockDataset
 from data_processing import prep_dataset
 
 
-train_model(mansf, train_dataloader, val_dataloader, num_epochs):
+def train_model(mansf, train_dataloader, val_dataloader, num_epochs, LEARNING_RATE, T):
     # set device to GPU if available
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
@@ -74,7 +74,7 @@ train_model(mansf, train_dataloader, val_dataloader, num_epochs):
             neighborhoods = neighborhoods[usable_stocks, usable_stocks]
 
             if price.shape[0] != 0:
-                y = mansf(price, smi, m_mask, neighborhoods)
+                y = mansf(price, smi, m_mask, neighborhoods, device)
                 loss = loss_fn(y.view(-1), labels.view(-1))
                 loss.backward()
                 optimizer.step()
@@ -117,7 +117,7 @@ train_model(mansf, train_dataloader, val_dataloader, num_epochs):
             neighborhoods = neighborhoods[usable_stocks, usable_stocks]
 
             if price.shape[0] != 0:
-                y = mansf(price, smi, m_mask, neighborhoods)
+                y = mansf(price, smi, m_mask, neighborhoods, device)
                 correct += torch.sum((y > 0.5).view(-1) == labels.view(-1)).item()
                 total += len(y)
 

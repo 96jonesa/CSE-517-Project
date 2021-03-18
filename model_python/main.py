@@ -1,9 +1,11 @@
 import os
 import pickle
 import argparse
+from torch.utils.data import Dataset, DataLoader
 from data_processing import prep_dataset, build_second_order_wikidata_graphs
 from stockdataset import StockDataset
 from model import MANSF
+from train import train_model
 
 STOCKNET_REPO_NAME = 'stocknet-dataset-master'
 PROCESSED_STOCKNET_DATA_FOLDER = 'processed_stocknet_data'
@@ -150,7 +152,7 @@ def train(model_filepath, data_filepath):
                          elu_alpha=ELU_ALPHA,
                          U=U)
 
-    train_acc_list, val_acc_list = train_model(man_sf_model, train_dataloader, val_dataloader, NUM_EPOCHS)
+    train_acc_list, val_acc_list = train_model(man_sf_model, train_dataloader, val_dataloader, NUM_EPOCHS, LEARNING_RATE, T)
 
     # Output StockNet to file
     torch.save(man_sf_model, model_filepath)

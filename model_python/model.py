@@ -40,7 +40,7 @@ class MANSF(nn.Module):
     #       mask out the elements of the smi data tensor that correspond to non-existent tweets
     # neighorhoods is an adjacency tensor for the relations graph, where each stock is
     #       indexed with the same indices they have in p and m
-    def forward(self, p, m, m_mask, neighborhoods):
+    def forward(self, p, m, m_mask, neighborhoods, device):
         ## price encoding
         h_p, _ = self.gru_p(p)
         q = self.attn_p(h_p)
