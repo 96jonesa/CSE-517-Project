@@ -57,11 +57,11 @@ def train_model(mansf, train_dataloader, val_dataloader, num_epochs, LEARNING_RA
             labels = labels.to(device)
             m_mask = m_mask.to(device)
 
-            price = price.squeeze()
-            smi = smi.squeeze()
-            n_tweets = n_tweets.squeeze()
-            usable_stocks = usable_stocks.squeeze()
-            m_mask = m_mask.squeeze()
+            price = price.view(price.shape[1], price.shape[2], price.shape[3])
+            smi = smi.view(smi.shape[1], smi.shape[2], smi.shape[3], smi.shape[4])
+            n_tweets = n_tweets.view(n_tweets.shape[1], n_tweets.shape[2])
+            usable_stocks = usable_stocks.view(usable_stocks.shape[1])
+            m_mask = m_mask.view(m_mask.shape[1], m_mask.shape[2], m_mask.shape[3], m_mask.shape[4])
 
             smi = smi.permute(1, 0, 2, 3)
 
